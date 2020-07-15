@@ -1,5 +1,5 @@
 DefaultContentLanguage = "es"
-baseURL = "https://quizzical-bassi-04ccd2.netlify.app"
+baseURL = "https://capsus.mx"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
