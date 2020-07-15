@@ -71,7 +71,7 @@ weight = 10
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
-google_analytics_id = ""
+google_analytics_id = "UA-97734727-1"
 logo_footer = "images/Footer-Logo-Capsus.png"
 logo_footer_eng = "images/LOGO-ENG.png"
 logo_nav = "images/Menu-Logo-Capsus.png"
