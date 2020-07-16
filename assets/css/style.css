@@ -2579,10 +2579,10 @@ figcaption {
 
 #testimonials .slick-dots li button::before {
 	color: gray;
-	opacity: 0.4 !important;
+	opacity: 0.4;
 }
 
-.slick-dots li.slick-active button:before
+#testimonials .slick-dots li.slick-active button:before
 {
     opacity: .75;
     color: #28c5b9;
