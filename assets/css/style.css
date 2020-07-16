@@ -2578,8 +2578,14 @@ figcaption {
 }
 
 #testimonials .slick-dots li button::before {
-	color: gray !important;
+	color: gray;
 	opacity: 0.4 !important;
+}
+
+.slick-dots li.slick-active button:before
+{
+    opacity: .75;
+    color: #28c5b9;
 }
 
 .simple-icon {
