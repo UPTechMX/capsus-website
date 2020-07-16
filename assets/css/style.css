@@ -2577,6 +2577,11 @@ figcaption {
   font-weight: bold;
 }
 
+#testimonials .slick-dots li button::before {
+	color: gray !important;
+	opacity: 0.4 !important;
+}
+
 .simple-icon {
   color: #6c7b8a;
   padding: 10px;
