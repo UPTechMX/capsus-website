@@ -30,14 +30,14 @@ jobs:
           info3:
             - info3_title: "¿Cumples con los requisitos?\n\nEscríbenos:"
               info3_content: |
-                Enviar por correo electrónico a: ideas@capsus.mx tu CV, una carta de motivos en español sobre porqué te interesa trabajar en CAPSUS y qué te motiva a perseguir una carrera profesional en el área de sustentabilidad y una carta en inglés donde nos cuentes: 
+                Enviar por correo electrónico a: ideas@capsus.mx tu CV, una carta de motivos en español sobre porqué te interesa trabajar en CAPSUS y qué te motiva a perseguir una carrera profesional en el área de sustentabilidad y una carta en inglés donde nos cuentes:
                 - ¿Quién eres?
                 - ¿Qué te apasiona?
                 - ¿Qué es lo que más te gusta hacer?
                 - ¿Cuáles son tus objetivos profesionales actuales y futuros?
                 - Alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o).
 
-                Tras analizar tú documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tu y nosotros.
+                Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tú y nosotros.
           info4:
             - info4_title: Vacantes
               info4_item:
@@ -154,14 +154,14 @@ jobs:
           info3:
             - info3_title: "¿Cumples con los requisitos? \n\nEscríbenos:"
               info3_content: |
-                Enviar por correo electrónico a: ideas@capsus.mx tu CV, una carta de motivos en español sobre porqué te interesa trabajar en CAPSUS y qué te motiva a perseguir una carrera profesional en el área de sustentabilidad y una carta en inglés donde nos cuentes: 
+                Enviar por correo electrónico a: ideas@capsus.mx tu CV, una carta de motivos en español sobre porqué te interesa trabajar en CAPSUS y qué te motiva a perseguir una carrera profesional en el área de sustentabilidad y una carta en inglés donde nos cuentes:
                 - ¿Quién eres?
                 - ¿Qué te apasiona?
                 - ¿Qué es lo que más te gusta hacer?
                 - ¿Cuáles son tus objetivos profesionales actuales y futuros?
                 - Alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o).
-                
-                Tras analizar tú documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tu y nosotros.
+
+                Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tú y nosotros.
           info4:
             - info4_title: ¿Qué ofrecemos?
               info4_image: images/careers/Foto-para-becarios.jpg
