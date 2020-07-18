@@ -1,5 +1,5 @@
 ---
-title: "Join our Team"
+title: "Join our team"
 jobs: 
     image_webp: images/blog/meghna.webp
     image: images/blog/meghna.jpg
@@ -32,7 +32,7 @@ jobs:
 
               After analyzing your documentation, we will contact you for an interview where we can clarify the doubts that you and we have."
           info4:
-            - info4_title: Vacantes
+            - info4_title: Careers
               info4_item:
               - info4_image: images/careers/Vacante-1.png
                 info4_image_webp: images/careers/Vacante-1.png
@@ -128,7 +128,7 @@ jobs:
               #    info4_id: vac-3
               #    info4_item_name: Vacante 3
         - name: Internships
-          title: Programa de Becarios
+          title: Internships
           job_id: internships
           job_image: images/careers/Becarios-icon-1.png
           job_image_webp: images/careers/Becarios-icon-1.png

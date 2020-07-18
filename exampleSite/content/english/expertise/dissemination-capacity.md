@@ -2,10 +2,10 @@
 title: "Dissemination and Capacity Development on Sustainability"
 expertise: 
     enable : true
-    main_title: "Dissemination and Capacity Development on "
-    color_title: "Sustainability"
+    main_title: "Dissemination and capacity development on "
+    color_title: "sustainability"
     case_studies1: Some of
-    case_studies2: Our Projects
+    case_studies2: our projects
     main_bg_image_webp: images/expertise/diffusion-development/Difusion-y-desarrollo-banner.jpg
     main_bg_image: images/expertise/diffusion-development/Difusion-y-desarrollo-banner.jpg
     image_webp: images/expertise/diffusion-development/Difusion-y-desarrollo-icono-1.png
@@ -17,7 +17,7 @@ expertise:
     description : "This is meta description"
     subtitle: "Creative and effective workshops to build capacities on sustainable development"
     text: "We help our clients build capacities and create experiences of knowledge exchange through the implementation of integral workshops focused on urban sustainability and climate change while creating visually attractive materials."
-    key_message: "We have conducted more than 20 capacity building, trainings and participatory processes in 7 countries"
+    key_message: "We have conducted more than 20 capacity building, trainings and participatory processes in 7 countries."
     icon: ""
     casestudy_item:
       # casestudy item loop

@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Nuestro Equipo
+  title: Nuestro equipo
   profile: Semblanza
   portfolio_item:
   - name: Guillermo Velasco
@@ -63,23 +63,14 @@ team:
     title: Coordinadora
     content: Educación y Procesos Participativos
     link: "#"
-    member_profile: Daniela realizó su licenciatura en Historia del Arte, donde aprendió
-      la importancia del discurso y la narrativa para la transformación de nuestro
-      entorno.Tiene una maestría en innovación pedagógica y se ha especializado en
-      el diseño, implementación y evaluación de programas y materiales educativos.
-      Daniela ha diseñado diversos procesos de participación social e intercambio
-      de conocimiento sobre cambio climático, planeación urbana e infraestructura
-      de datos geoespaciales para la toma de decisiones informadas. Tiene amplia experiencia
-      en el diseño y coordinación de talleres y cursos de capacitación en diferentes
-      países, tales como México, Jordania, Côte d’Ivoire, Indonesia, Paraguay, y Estados
-      Unidos.
+    member_profile: Realizó su licenciatura en Historia del Arte, donde aprendió la importancia del discurso y la narrativa para la transformación de nuestro entorno.Tiene una maestría en innovación pedagógica y se ha especializado en el diseño, implementación y evaluación de programas y materiales educativos. Daniela ha diseñado diversos procesos de participación social e intercambio de conocimiento sobre cambio climático, planeación urbana e infraestructura de datos geoespaciales para la toma de decisiones informadas. Tiene amplia experiencia en el diseño y coordinación de talleres y cursos de capacitación en diferentes países, tales como México, Jordania, Côte d’Ivoire, Indonesia, Paraguay, y Estados Unidos.
   - name: Leticia Galindo
     member_title: Contadora Pública
     image: images/team/LG.jpg
     image_webp: images/team/LG.jpg
     categories:
     - coordinators
-    title: Coordinador
+    title: Coordinadora
     content: Administración y Finanzas
     link: "#"
     member_profile: "Cuenta con más de 20 años de experiencia en el sector privado
@@ -93,7 +84,7 @@ team:
     image_webp: images/team/TG.jpg
     categories:
     - coordinators
-    title: Coordinador
+    title: Coordinadora
     content: Desarrollo Urbano y Vivienda
     link: "#"
     member_profile: Tiene una Maestría en Ciencias en Arquitectura, Urbanismo y Construcción
@@ -240,14 +231,7 @@ team:
     title: Consultor
     content: Desarrollo Sustentable
     link: "#"
-    member_profile: "Egresado de la Universidad Autónoma de Querétaro. Tiene diversas
-      capacitaciones en materia de elaboración y análisis de inventarios de emisiones,
-      cuenta con experiencia en el análisis e implementación de política pública ambiental,
-      y es especialista en calidad del aire dentro de CAPSUS. \n\nHa colaborado en
-      el Programa para Mejorar la Calidad del Aire del Estado de México (2018- 2030),
-      donde colaboró en el diagnóstico de la calidad del aire, el inventario de emisiones,
-      el análisis de la relación salud y calidad del aire, y las estrategias para
-      reducir la emisión de contaminantes atmosféricos locales."
+    member_profile: "Egresado de la Universidad Autónoma de Querétaro. Tiene diversas capacitaciones en materia de elaboración y análisis de inventarios de emisiones, cuenta con experiencia en el análisis e implementación de políticas públicas ambientales, y es especialista en calidad del aire dentro de CAPSUS.\n\nHa colaborado en la elaboración de Programas de Gestión para Mejorar la Calidad del Aire en el Estado de México (2018-2030) y la Ciudad de México (2021-2030). Destaca su experiencia asesorando a gobiernos locales y ciudades mexicanas en el desarrollo de planes de acción climática, integración de inventarios de emisiones de gases de efecto invernadero, análisis de riesgos y vulnerabilidades climáticas, y diseño de acciones de mitigación y adaptación al cambio climático."
   - name: Socorro Román
     member_title: Urbanista
     image: images/team/SM.jpg

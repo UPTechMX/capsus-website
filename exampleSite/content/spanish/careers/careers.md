@@ -1,5 +1,5 @@
 ---
-title: "Únete a nuestro Equipo"
+title: "Únete a nuestro equipo"
 jobs: 
     image_webp: images/blog/meghna.webp
     image: images/blog/meghna.jpg
@@ -29,9 +29,14 @@ jobs:
                 - info2_content: Que su misión en la vida sea promover el desarrollo sustentable.
           info3:
             - info3_title: "¿Cumples con los requisitos?\n\nEscríbenos:"
-              info3_content: "Enviar por correo electrónico a: ideas@capsus.mx tu CV, una carta de motivos en español sobre porqué te interesa trabajar en CAPSUS y qué te motiva a perseguir una carrera profesional en el área de sustentabilidad y una carta en inglés donde nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o). \n\n
-
-              Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tu y nosotros."
+              info3_content: |
+                Enviar por correo electrónico a: ideas@capsus.mx tu CV, una carta de motivos en español sobre porqué te interesa trabajar en CAPSUS y qué te motiva a perseguir una carrera profesional en el área de sustentabilidad y una carta en inglés donde nos cuentes: 
+                > ¿Quién eres?
+                > ¿Qué te apasiona?
+                > ¿Qué es lo que más te gusta hacer?
+                > ¿Cuáles son tus objetivos profesionales actuales y futuros?
+                > Alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o). \n\n
+                Tras analizar tú documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tu y nosotros.
           info4:
             - info4_title: Vacantes
               info4_item:
@@ -94,12 +99,12 @@ jobs:
                   Enviar por correo electrónico a: ideas@capsus.mx tu **CV, una carta de motivos en español** que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos qué publicamos. Además, te pedimos **una carta en inglés** donde nos cuentes: ¿qué te motiva a perseguir una carrera profesional en el área de sustentabilidad?, ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o). 
                   
                   El proceso de selección normalmente toma entre 1 y 3 meses en concluir dependiendo del volumen de propuestas (revisamos todas las aplicaciones) y las propuestas recibidas.
-                  1. Recepción de aplicaciones y CV por correo electrónico (2 ~ 6 semanas)
-                  2. Aviso de CV elegidos para la siguiente etapa y no seleccionados
-                  3. Comunicación sobre prueba de análisis y escritura.
-                  4. Entrevistas
-                  5. Selección
-                  6. Comunicación de resultados a los participantes
+                  > Recepción de aplicaciones y CV por correo electrónico (2 ~ 6 semanas)
+                  > Aviso de CV elegidos para la siguiente etapa y no seleccionados
+                  > Comunicación sobre prueba de análisis y escritura.
+                  > Entrevistas
+                  > Selección
+                  > Comunicación de resultados a los participantes
                   
                   \* Dado que nuestra principal fortaleza son las personas que forman nuestro equipo, el proceso de búsqueda tiene una amplia duración, por lo que te pedimos tu paciencia.
                 info4_id: vac-1
@@ -147,9 +152,14 @@ jobs:
                 - info2_content: Que tengas un compromiso con nosotros de cuando menos 2 meses de tiempo completo. Si sigues estudiando y tu carga académica es muy baja, podríamos acordar un horario reducido y un periodo de tiempo más largo.
           info3:
             - info3_title: "¿Cumples con los requisitos? \n\nEscríbenos:"
-              info3_content: "Enviar por correo electrónico a: ideas@capsus.mx tu CV, una carta de motivos en español sobre porqué te interesa trabajar en CAPSUS y qué te motiva a perseguir una carrera profesional en el área de sustentabilidad y una carta en inglés donde nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o).\n\n
-              
-              Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tu y nosotros."
+              info3_content: |
+                Enviar por correo electrónico a: ideas@capsus.mx tu CV, una carta de motivos en español sobre porqué te interesa trabajar en CAPSUS y qué te motiva a perseguir una carrera profesional en el área de sustentabilidad y una carta en inglés donde nos cuentes: 
+                > ¿Quién eres?
+                > ¿Qué te apasiona?
+                > ¿Qué es lo que más te gusta hacer?
+                > ¿Cuáles son tus objetivos profesionales actuales y futuros?
+                > Alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o).\n\n
+                Tras analizar tú documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tu y nosotros.
           info4:
             - info4_title: ¿Qué ofrecemos?
               info4_image: images/careers/Foto-para-becarios.jpg

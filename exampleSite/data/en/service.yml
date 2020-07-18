@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : Our services
   service_item :
     # service item loop
     - name : INTERNATIONAL EXPERIENCE
@@ -39,7 +39,7 @@ service:
       image_webp : images/services/Que-ofrecemos-5.png
       
     # service item loop
-    - name : WORK CULTURE
+    - name : "WORK \n\nCULTURE"
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
       content : We commit to our client's goals through multidisciplinar, collaborative, creative and innovative work.
       image : images/services/Que-ofrecemos-6.png

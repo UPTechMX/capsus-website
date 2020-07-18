@@ -1,7 +1,7 @@
 ############################# About ###################################
 expertise:
   enable : true
-  title : Nuestras Especialidades
+  title : Nuestras especialidades
   expertise :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : PLANIFICACIÓN URBANA Y EDIFICACIÓN SUSTENTABLE

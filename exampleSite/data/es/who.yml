@@ -3,7 +3,7 @@ who:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : ¿Quiénes Somos?
+  title : ¿Quiénes somos?
   button_item:
     - enable: true
       label: Descargar brochure

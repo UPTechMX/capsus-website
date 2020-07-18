@@ -3,7 +3,7 @@ who:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : About Us
+  title : About us
   button_item:
     - enable: true
       label: Download brochure

@@ -5,7 +5,7 @@ expertise:
     main_title: "Diseño y Evaluación de "
     color_title: "Políticas Públicas"
     case_studies1: Algunos de
-    case_studies2: Nuestros Proyectos
+    case_studies2: nuestros proyectos
     main_bg_image_webp: images/expertise/public-policies/Politicas-publicas-banner.jpg
     main_bg_image: images/expertise/public-policies/Politicas-publicas-banner.jpg
     image_webp: images/expertise/public-policies/Politicas-publicas-icono-1.png
@@ -16,9 +16,9 @@ expertise:
     bg_image_webp : "images/backgrounds/Background-blanco-2.jpg"
     description : "This is meta description"
     subtitle: "Soluciones estratégicas que promueven la sustentabilidad urbana"
-    text: "Participamos en la evaluación y diseño de políticas públicas en materia de sustentabilidad urbana, abarcando los temas de cambio climático, calidad del aire, energía, gestión de residuos,medio ambiente, planeación, resiliencia, salud, suelos y agua entre otros."
+    text: "Participamos en la evaluación y diseño de políticas públicas en materia de sustentabilidad urbana, abarcando los temas de cambio climático, calidad del aire, energía, gestión de residuos,medio ambiente, planeación, resiliencia, salud, suelos y agua, entre otros."
     icon: ""
-    key_message: Más de 30 proyectos instrumentados internacionalmente 
+    key_message: Más de 30 proyectos instrumentados internacionalmente. 
     casestudy_item:
       # casestudy item loop
       - name: "Programa de Gestión de la Calidad del Aire del Estado de México (ProAire Edomex) 2018-2030"
