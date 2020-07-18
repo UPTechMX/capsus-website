@@ -8,12 +8,12 @@ feature:
   \nWe strive to improve and foster informed decision-making. We develop tools that encourage economic development, social inclusion and environmental wellness."
   feature_item : 
       # feature item loop
-    - title : Cities and Governments
+    - title : Cities and governments
       icon : fas fa-flag-checkered # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
       # feature item loop
-    - title : Companies and Industries
+    - title : Companies and industries
       icon : fas fa-building # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
