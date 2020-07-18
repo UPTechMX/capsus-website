@@ -1,5 +1,5 @@
 ---
-title: "Únete a nuestro equipo"
+title: "Únete a Nuestro Equipo"
 jobs: 
     image_webp: images/blog/meghna.webp
     image: images/blog/meghna.jpg
@@ -31,11 +31,11 @@ jobs:
             - info3_title: "¿Cumples con los requisitos?\n\nEscríbenos:"
               info3_content: |
                 Enviar por correo electrónico a: ideas@capsus.mx tu CV, una carta de motivos en español sobre porqué te interesa trabajar en CAPSUS y qué te motiva a perseguir una carrera profesional en el área de sustentabilidad y una carta en inglés donde nos cuentes: 
-                > ¿Quién eres?
-                > ¿Qué te apasiona?
-                > ¿Qué es lo que más te gusta hacer?
-                > ¿Cuáles son tus objetivos profesionales actuales y futuros?
-                > Alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o). \n\n
+                - ¿Quién eres?
+                - ¿Qué te apasiona?
+                - ¿Qué es lo que más te gusta hacer?
+                - ¿Cuáles son tus objetivos profesionales actuales y futuros?
+                - Alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o). \n\n
                 Tras analizar tú documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tu y nosotros.
           info4:
             - info4_title: Vacantes
@@ -154,11 +154,11 @@ jobs:
             - info3_title: "¿Cumples con los requisitos? \n\nEscríbenos:"
               info3_content: |
                 Enviar por correo electrónico a: ideas@capsus.mx tu CV, una carta de motivos en español sobre porqué te interesa trabajar en CAPSUS y qué te motiva a perseguir una carrera profesional en el área de sustentabilidad y una carta en inglés donde nos cuentes: 
-                > ¿Quién eres?
-                > ¿Qué te apasiona?
-                > ¿Qué es lo que más te gusta hacer?
-                > ¿Cuáles son tus objetivos profesionales actuales y futuros?
-                > Alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o).\n\n
+                - ¿Quién eres?
+                - ¿Qué te apasiona?
+                - ¿Qué es lo que más te gusta hacer?
+                - ¿Cuáles son tus objetivos profesionales actuales y futuros?
+                - Alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o).\n\n
                 Tras analizar tú documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tu y nosotros.
           info4:
             - info4_title: ¿Qué ofrecemos?
