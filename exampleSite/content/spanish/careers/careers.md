@@ -35,7 +35,8 @@ jobs:
                 - ¿Qué te apasiona?
                 - ¿Qué es lo que más te gusta hacer?
                 - ¿Cuáles son tus objetivos profesionales actuales y futuros?
-                - Alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o). \n\n
+                - Alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o).
+
                 Tras analizar tú documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tu y nosotros.
           info4:
             - info4_title: Vacantes
@@ -158,7 +159,8 @@ jobs:
                 - ¿Qué te apasiona?
                 - ¿Qué es lo que más te gusta hacer?
                 - ¿Cuáles son tus objetivos profesionales actuales y futuros?
-                - Alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o).\n\n
+                - Alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o).
+                
                 Tras analizar tú documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tu y nosotros.
           info4:
             - info4_title: ¿Qué ofrecemos?

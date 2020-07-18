@@ -35,6 +35,7 @@ jobs:
                 - What are your hobbies?
                 - What are your current and future professional objectives?
                 - Some of your achievements or previous projects that you are proud of.
+
                 After analyzing your documentation, we will contact you for an interview where we can clarify the doubts that you and we have.
           info4:
             - info4_title: Careers
@@ -156,6 +157,7 @@ jobs:
                 - What are your hobbies?
                 - What are your current and future professional objectives?
                 - Some of your achievements or previous projects that you are proud of.
+                
                 After analyzing your documentation, we will contact you for an interview where we can clarify the doubts that you and we have.
           info4:
             - info4_title: What do we offer?

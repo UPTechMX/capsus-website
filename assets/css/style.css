@@ -344,7 +344,6 @@ a:hover {
 }
 
 .title h2 {
-  text-transform: capitalize;
   font-weight: 700;
 }
 
@@ -557,7 +556,14 @@ h3.key-message {
   position: absolute;
   background-color: #00495a;
   color: white;
+  min-width: 420px !important;
   border: none !important;
+}
+
+@media (max-width: 768px) {
+  .dropdown-menu {
+    min-width: 300px !important;
+  }
 }
 
 .dropdown:hover .dropdown-menu {
