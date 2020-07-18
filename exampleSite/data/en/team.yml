@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Nuestro Equipo
+  title: Our team
   profile: Profile
   portfolio_item:
   - name: Guillermo Velasco
@@ -63,15 +63,7 @@ team:
     title: Coordinator
     content: EDUCATION AND SOCIA PROCESSES
     link: "#"
-    member_profile: Daniela has a minor in Art History where she understood the power
-      of discourses and narratives to understand and transform our living environment.
-      She has a master’s degree in pedagogic innovation, and she has specialized in
-      the design, implementation and assessment of educational programs and materials.
-      Daniela has designed several knowledge exchange and social participatory processes
-      on climate change, urban planning and spatial data infrastructure for decision
-      making. She has vast experience in the design and coordination of workshops
-      and training courses around the world, including countries as Jordan, Côte d’Ivoire,
-      Indonesia, Paraguay, United States, and Mexico.
+    member_profile: She holds a Bachelor in Art History from the Universidad de las Américas Puebla, and a Master’s degree in innovative education from the Universidad Autónoma de Yucatán. For the last 10 years, she has designed, implemented, and evaluated several workshops, training courses and knowledge exchange experiences. She designed and developed educational programmes and materials on climate change and on urban planning tools. She has collaborated in writing guides, including the Guide for the Elaboration of Climate Action Plans in Mexico, during her collaboration with the Centro Mario Molina. Her most recent work has included design and implementation of workshops with local stakeholders to gather information and/or to transfer specific contents.
   - name: Leticia Galindo
     member_title: Public Accountant
     image: images/team/LG.jpg

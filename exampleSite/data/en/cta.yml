@@ -6,15 +6,15 @@ cta:
   title : "NUESTRO EQUIPO ES TRANSDISCIPLINARIO"
   content : "We are "
   career_item : 
-    - career_title : Engineers
-    - career_title : Architects
-    - career_title : Designers
-    - career_title : Urban planners
-    - career_title : Software developers
-    - career_title : Analysts
-    - career_title : Sociologists
-    - career_title : Educators
-    - career_title : Environmentalists
+    - career_title : engineers
+    - career_title : architects
+    - career_title : designers
+    - career_title : urban planners
+    - career_title : software developers
+    - career_title : analysts
+    - career_title : sociologists
+    - career_title : educators
+    - career_title : environmentalists
   button:
     enable : true
     label : "Start a project with us"

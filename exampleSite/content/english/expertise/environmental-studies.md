@@ -3,9 +3,9 @@ title: "Environmental Studies and Assessments"
 expertise: 
     enable : true
     main_title: "Environmental "
-    color_title: "Studies and Assessments"
+    color_title: "studies and assessments"
     case_studies1: Some of
-    case_studies2: Our Projects
+    case_studies2: our projects
     main_bg_image_webp: images/expertise/evaluations-studies/Evaluaciones-y-estudios-banner.jpg
     main_bg_image: images/expertise/evaluations-studies/Evaluaciones-y-estudios-banner.jpg
     image_webp: images/expertise/evaluations-studies/Evaluaciones-y-estudios-icono-1.png
@@ -18,7 +18,7 @@ expertise:
     subtitle: "Innovative solutions, supported by solid technical information"
     text: "We carry out cabinet and field studies to evaluate and ensure the successful implementation of energy and urban infrastructure projects."
     icon: ""
-    key_message: We have developed diverse environmental studies benefiting nearly 1000 MW of installed capacity of clean energy plants
+    key_message: We have developed diverse environmental studies benefiting nearly 1000 MW of installed capacity of clean energy plants.
     casestudy_item:
       # casestudy item loop
       - name: "Feasibility of a Waste to Energy Plant in Mexico"

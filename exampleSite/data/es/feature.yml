@@ -4,24 +4,24 @@ feature:
   image : images/backgrounds/FOTOGRAFIA-2.jpg
   image_webp : images/backgrounds/FOTOGRAFIA-2.jpg
   title : Enfocados al sector público, nacional e internacional
-  content : "Asesoramos a entes públicos y privados internacionales, analizamos datos espaciales, generamos indicadores de desempeño y desarrollamos herramientas para facilitar la toma de decisiones informadas que incentiven el desarrollo económico, la inclusión social y la conservación del medio ambiente."
+  content : "Asesoramos a entes públicos y privados internacionales, analizamos datos espaciales, generamos indicadores de desempeño y desarrollamos herramientas para facilitar la toma de decisiones informadas que incentiven el desarrollo económico, la inclusión social y la conservación del medio ambiente. De manera frecuente trabajamos con:"
   feature_item : 
       # feature item loop
-    - title : Ciudades y Gobiernos
+    - title : Ciudades y gobiernos
       icon : fas fa-flag-checkered # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
       # feature item loop
-    - title : Empresas e Industrias
+    - title : Empresas e industrias
       icon : fas fa-building # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
       # feature item loop
-    - title : Servicios Ambientales 
+    - title : Servicios ambientales 
       icon : fas fa-leaf # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
       # feature item loop
-    - title : Servicios Urbanos y Territoriales
+    - title : Servicios urbanos y territoriales
       icon : fas fa-globe-americas # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

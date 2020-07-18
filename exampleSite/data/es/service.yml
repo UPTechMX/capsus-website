@@ -6,14 +6,14 @@ service:
     # service item loop
     - name : EXPERIENCIA INTERNACIONAL
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Siempre que un proyecto involucra una nueva ubicación, aprendemos de su contrato y enriquecemos nuestro trabajo.
+      content : Siempre que un proyecto involucra una nueva ubicación, aprendemos de su contexto y enriquecemos nuestro trabajo.
       image : images/services/Que-ofrecemos-1.png
       image_webp : images/services/Que-ofrecemos-1.png
       
     # service item loop
     - name : EXPERIENCIA Y ESPECIALIZACIÓN
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Nuestro equipo se capacita constantemente para estar a la vanguardia en los temas de sustentabilidad.
+      content : Nuestro equipo se capacita constantemente para estar a la vanguardia en temas de sustentabilidad.
       image : images/services/Que-ofrecemos-2.png
       image_webp : images/services/Que-ofrecemos-2.png
       
@@ -34,7 +34,7 @@ service:
     # service item loop
     - name : INVESTIGACIÓN DE CALIDAD
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Utilizamos tecnología de punta y prácticas vanguardistas para desarrollar aplicaciones y soluciones prácticas.
+      content : Utilizamos tecnología de punta y enfoques vanguardistas para desarrollar aplicaciones y soluciones prácticas.
       image : images/services/Que-ofrecemos-5.png
       image_webp : images/services/Que-ofrecemos-5.png
       

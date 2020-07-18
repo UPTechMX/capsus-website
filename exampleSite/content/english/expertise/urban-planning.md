@@ -2,10 +2,10 @@
 title: "Urban Planning and Sustainable Building Design"
 expertise: 
     enable : true
-    main_title: "Urban Planning and "
-    color_title: "Sustainable Building Design"
+    main_title: "Urban planning and "
+    color_title: "sustainable building design"
     case_studies1: Some of
-    case_studies2: Our Projects
+    case_studies2: our projects
     main_bg_image_webp: images/expertise/planning-building/Planificacion-urbana-banner.jpg
     main_bg_image: images/expertise/planning-building/Planificacion-urbana-banner.jpg
     image_webp: images/expertise/planning-building/Planificacion-urbana-icono-1.png
@@ -18,7 +18,7 @@ expertise:
     subtitle: "An alternative for cities and buildings"
     text: "We develop solutions for cities and buildings which reduce investment and maintenance costs, improve its inhabitants quality of life and have better environmental and energy performance."
     icon: ""
-    key_message: More than 50 cities benefited with our work
+    key_message: More than 50 cities benefited with our work.
     casestudy_item:
       # casestudy item loop
       - name: "Urban Growth Scenarios to evaluate the benefits of urban densification strategies."

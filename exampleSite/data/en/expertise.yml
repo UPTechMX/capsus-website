@@ -1,7 +1,7 @@
 ############################# About ###################################
 expertise:
   enable : true
-  title : Our Expertise
+  title : Our expertise
   expertise :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : SUSTAINABLE URBAN PLANNING
