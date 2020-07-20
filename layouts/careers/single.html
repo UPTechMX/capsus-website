@@ -80,7 +80,7 @@
                             {{ .info2_title | markdownify }}
                           {{ end }}
                         </h2>
-                        <ol>
+                        <ul style="padding-inline-start: 20px;">
                           {{ range .info2 }}
                             {{ range .info2_item }}
                               <li>
@@ -88,7 +88,7 @@
                               </li>
                             {{ end }}
                           {{ end }}
-                        </ol>
+                        </ul>
                         <br>
                         <h2 class="recruitment">
                           {{ range .info3 }}
@@ -125,7 +125,7 @@
                         {{ .info2_title | markdownify }}
                       {{ end }}
                     </h2>
-                    <ol>
+                    <ul style="padding-inline-start: 20px;">
                       {{ range .info2 }}
                         {{ range .info2_item }}
                           <li>
@@ -133,7 +133,7 @@
                           </li>
                         {{ end }}
                       {{ end }}
-                    </ol>
+                    </ul>
                     </div>
                     <div class="col-lg-1"></div>
                     <div class="col-lg-5">
