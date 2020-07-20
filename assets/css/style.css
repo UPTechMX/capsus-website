@@ -1874,7 +1874,7 @@ input#e-mail,
 }
 
 #vacants-section ul,
-#pills-jobsContent ul {
+#pills-jobsContent :not(.social-icon) ul {
   padding-inline-start: 20px;
 }
 
