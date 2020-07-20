@@ -11,7 +11,7 @@ jobs:
     job_intro_image : images/careers/Mapa-mundo.png
     job_item:
         - name: Bolsa de trabajo
-          title: ¿Quiéres trabajar
+          title: ¿Quieres trabajar
           subtitle: con nosotros?
           job_id: jobs
           job_image: images/expertise/placeholder1.jpg
