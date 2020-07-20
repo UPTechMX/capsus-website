@@ -1873,7 +1873,8 @@ input#e-mail,
   color: #28c5b9
 }
 
-#vacants-section ul {
+#vacants-section ul,
+#pills-jobsContent ul {
   padding-inline-start: 20px;
 }
 
