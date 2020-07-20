@@ -3,7 +3,7 @@ title: "Evaluaciones y Estudios sustentables"
 expertise: 
     enable : true
     main_title: "Evaluaciones y "
-    color_title: "Estudios Sustentables"
+    color_title: "estudios sustentables"
     case_studies1: Algunos de
     case_studies2: nuestros proyectos
     main_bg_image_webp: images/expertise/evaluations-studies/Evaluaciones-y-estudios-banner.jpg
@@ -11,7 +11,7 @@ expertise:
     image_webp: images/expertise/evaluations-studies/Evaluaciones-y-estudios-icono-1.png
     image: images/expertise/evaluations-studies/Evaluaciones-y-estudios-icono-1.png
     extra_title : Aportamos la evidencia 
-    extra_content : para sustentar los proyectos de inversión y las políticas públicas.
+    extra_content : para sustentar proyectos de inversión y políticas públicas. 
     bg_image : "images/backgrounds/Background-blanco-2.jpg"
     bg_image_webp : "images/backgrounds/Background-blanco-2.jpg"
     description : "This is meta description"

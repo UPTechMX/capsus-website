@@ -2,8 +2,8 @@
 title: "Planificación Urbana y Edificación Sustentable"
 expertise: 
     enable : true
-    main_title: "Planificación Urbana y "
-    color_title: "Edificación Sustentable"
+    main_title: "Planificación urbana y "
+    color_title: "edificación sustentable"
     case_studies1: Algunos de
     case_studies2: nuestros proyectos
     main_bg_image_webp: images/expertise/planning-building/Planificacion-urbana-banner.jpg

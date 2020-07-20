@@ -1868,8 +1868,13 @@ input#e-mail,
 }
 
 #privacy-link a,
-#vacants-section a {
+#vacants-section a,
+#pills-jobsContent a {
   color: #28c5b9
+}
+
+#vacants-section ul {
+  padding-inline-start: 20px;
 }
 
 #scrollUp {

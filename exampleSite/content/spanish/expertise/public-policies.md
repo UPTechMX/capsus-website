@@ -2,8 +2,8 @@
 title: "Diseño y Evaluación de políticas públicas"
 expertise: 
     enable : true
-    main_title: "Diseño y Evaluación de "
-    color_title: "Políticas Públicas"
+    main_title: "Diseño y evaluación de "
+    color_title: "políticas públicas"
     case_studies1: Algunos de
     case_studies2: nuestros proyectos
     main_bg_image_webp: images/expertise/public-policies/Politicas-publicas-banner.jpg

@@ -2,7 +2,7 @@
 title: "Difusión y Desarrollo de capacidades sobre sustentabilidad"
 expertise: 
     enable : true
-    main_title: "Difusión y Desarrollo de capacidades sobre "
+    main_title: "Difusión y desarrollo de capacidades sobre "
     color_title: "sustentabilidad"
     case_studies1: Algunos de
     case_studies2: nuestros proyectos

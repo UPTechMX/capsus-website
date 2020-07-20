@@ -99,12 +99,12 @@ jobs:
                   Enviar por correo electrónico a: ideas@capsus.mx tu **CV, una carta de motivos en español** que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos qué publicamos. Además, te pedimos **una carta en inglés** donde nos cuentes: ¿qué te motiva a perseguir una carrera profesional en el área de sustentabilidad?, ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos anteriores de los cuales estés orgullosa(o). 
                   
                   El proceso de selección normalmente toma entre 1 y 3 meses en concluir dependiendo del volumen de propuestas (revisamos todas las aplicaciones) y las propuestas recibidas.
-                  1. Recepción de aplicaciones y CV por correo electrónico (2 ~ 6 semanas)
-                  2. Aviso de CV elegidos para la siguiente etapa y no seleccionados
-                  3. Comunicación sobre prueba de análisis y escritura.
-                  4. Entrevistas
-                  5. Selección
-                  6. Comunicación de resultados a los participantes
+                  - Recepción de aplicaciones y CV por correo electrónico (2 ~ 6 semanas)
+                  - Aviso de CV elegidos para la siguiente etapa y no seleccionados
+                  - Comunicación sobre prueba de análisis y escritura.
+                  - Entrevistas
+                  - Selección
+                  - Comunicación de resultados a los participantes
                   
                   \* Dado que nuestra principal fortaleza son las personas que forman nuestro equipo, el proceso de búsqueda tiene una amplia duración, por lo que te pedimos tu paciencia.
                 info4_id: vac-1
@@ -140,7 +140,7 @@ jobs:
           job_image_webp: images/careers/Becarios-icon-1.png
           info1:
             - info1_content: "Therefore, we have an internship program that helps young professionals get embedded in professional work in the sustainability sector. Through this program we help build promoters of sustainable development and we also identify future members of our team."
-              info1_title: We believe that the first professional experience of a person is transformational and can set out a path towards working in sustainability.
+              info1_title: We believe that the first professional experience of a person is transformational and can set out a path towards working in sustainability
           info2: 
             - info2_title: What do we ask for?
               info2_item: 
