@@ -17,7 +17,7 @@ jobs:
           job_image: images/expertise/placeholder1.jpg
           job_image_webp: images/expertise/placeholder1.webp
           info1:
-            - info1_content: "Somos un equipo multidisciplinario de profesionistas que incluye ingenieros, arquitectos, desarrolladores de software, diseñadores, educadores, politólogos, sociólogos y urbanistas.  Cuando estamos en búsqueda de ampliar nuestro equipo, publicamos la convocatoria en nuestras redes sociales
+            - info1_content: "Somos un equipo multidisciplinario de profesionistas que incluye ingenieros, arquitectos, desarrolladores de software, diseñadores, educadores, politólogos, sociólogos y urbanistas.  Cuando estamos en búsqueda de ampliar nuestro equipo, publicamos la convocatoria en nuestras redes sociales.
  \n\n
 
             Te invitamos a que sigas visitando nuestra página web para que nos conozcas."
