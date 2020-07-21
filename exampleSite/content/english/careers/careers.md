@@ -4,8 +4,8 @@ jobs:
     image_webp: images/blog/meghna.webp
     image: images/blog/meghna.jpg
     description : "This is meta description"
-    main_bg_image_webp: images/careers/Banner-unete.jpg
-    main_bg_image: images/careers/Banner-unete.jpg
+    main_bg_image_webp: images/careers/Banner-unete.png
+    main_bg_image: images/careers/Banner-unete.png
     job_intro_title : TRANSDISCIPLINARY TEAMWORK
     job_intro_content : We overcome challenges in different contexts thanks to our multidisciplinary team, our experience and deep understanding of our client's needs.
     job_intro_image : images/careers/Mapa-mundo.png
@@ -60,14 +60,14 @@ jobs:
                   #### HABILIDADES
                   - Excelente redacción profesional
                   - Proactiva(o) y creativa(o). No ser alguien que "sólo hace lo que se le pide"
-                  - Buscar soluciones a problemas no pretextos
+                  - Buscar soluciones a problemas, no pretextos
                   - Con una actitud de superación y crecimiento continuo 
                   - Buena conducta profesional y personal
-                  - Colaborar en equipo eficientemente con otros colegas de diferentes ramas del conocimiento
+                  - Trabajo en equipo
                   - Autodidacta y con ganas de seguir aprendiendo
                   - Ser puntual con los compromisos
                   - Excelente organización y administración de tiempo
-                  - Capacidad de dar y aceptar retroalimentación de su trabajo y de los demás
+                  - Capacidad de dar y aceptar retroalimentación
                   - Atenta(o) a los detalles
                   
                   #### IDIOMAS
@@ -90,7 +90,6 @@ jobs:
                   - Apoyo (económico y de tiempo) para capacitación.
                   - Días personales y vacacionales adicionales a los de ley.
                   - Excelente ambiente de trabajo.
-                  - Compañeros de trabajo inteligentes y capaces.
                   - Proyectos de gran impacto.
                   - Crecimiento profesional.
                   - Trabajo nacional e internacional.
