@@ -43,7 +43,7 @@ jobs:
               - info4_image: images/careers/Vacante-1.png
                 info4_image_webp: images/careers/Vacante-1.png
                 info4_item_fulltitle: Ingeniería, Economía o Política Pública enfocado al desarrollo sustentable
-                info4_item_title1: ¿Quiéres dejar tu marca en el mundo?
+                info4_item_title1: ¿Quieres dejar tu marca en el mundo?
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                 info4_status: Proceso de selección
                 info4_item_content: |
