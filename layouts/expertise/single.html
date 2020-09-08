@@ -47,30 +47,30 @@
                   </div>
                 </div>
               </div>
-              {{"<!-- testimonial wrapper -->" | safeHTML}}
-              <div id="projects" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
-                <ul class="nav nav-pills row justify-content-center mb-5 case-studies" id="pills-specialties" role="tablist">
-                    {{ range .casestudy_item }}
-                    <li class="nav-item col-lg-4 col-md-6 col-sm-12 col-12">
-                      <a id="pills-{{ .case_id }}" data-toggle="pill" href="#{{ .case_id }}" role="tab" aria-controls="{{ .case_id }}" aria-selected="false">
-                        <div class="team-member" onmouseover="changeCase($(this));" onmouseout="changeCase($(this));">
-                          <div class="member-photo section-bg text-center">
-                            {{"<!-- member photo -->" | safeHTML}}
-                            <img class="img-fluid" data-src="{{ .tab_image_webp | absURL }}" src="{{ .tab_image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .tab_image | absURL }}'" alt="{{ .name }}">
-                          </div>
-                  
-                          {{"<!-- member name & designation -->" | safeHTML}}
-                          <div class="text-left text-justify pt-2">
-                            <h5 class="case-years color font-weight-bold">{{ .case_years | markdownify }}</h5>
-                            <!--<hr class="box-hr">-->
-                            <h5 class="color-2">{{ .name }}</h5>
-                          </div>
+              <ul class="nav nav-pills row justify-content-center mb-5 case-studies" id="pills-specialties" role="tablist">
+                {{"<!-- testimonial wrapper -->" | safeHTML}}
+                <div id="projects" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
+                  {{ range .casestudy_item }}
+                  <li class="nav-item col-lg-4 col-md-6 col-sm-12 col-12">
+                    <a id="pills-{{ .case_id }}" data-toggle="pill" href="#{{ .case_id }}" role="tab" aria-controls="{{ .case_id }}" aria-selected="false">
+                      <div class="team-member" onmouseover="changeCase($(this));" onmouseout="changeCase($(this));">
+                        <div class="member-photo section-bg text-center">
+                          {{"<!-- member photo -->" | safeHTML}}
+                          <img class="img-fluid no-slick-slide" data-src="{{ .tab_image_webp | absURL }}" src="{{ .tab_image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .tab_image | absURL }}'" alt="{{ .name }}">
                         </div>
-                      </a>
-                    </li>
-                  {{ end }}
-                </ul>
-              </div>
+                
+                        {{"<!-- member name & designation -->" | safeHTML}}
+                        <div class="text-left text-justify pt-2">
+                          <h5 class="case-years color font-weight-bold">{{ .case_years | markdownify }}</h5>
+                          <!--<hr class="box-hr">-->
+                          <h5 class="color-2">{{ .name }}</h5>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                {{ end }}
+                </div>
+              </ul>
             </div>
           </div>
         </div>

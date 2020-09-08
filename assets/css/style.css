@@ -2734,6 +2734,10 @@ figcaption {
   width: 80%;
 }
 
+.no-slick-slide {
+  display: initial !important;
+}
+
 .case-studies a.active .team-member .member-photo {
   border: #28c5b9 5px solid !important;
 }
