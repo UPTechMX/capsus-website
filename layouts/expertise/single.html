@@ -48,9 +48,7 @@
                 </div>
               </div>
               <ul class="nav nav-pills row justify-content-center mb-5 case-studies" id="pills-specialties" role="tablist">
-                {{"<!-- testimonial wrapper -->" | safeHTML}}
-                <div id="projects" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
-                  {{ range .casestudy_item }}
+                {{ range .casestudy_item }}
                   <li class="nav-item col-lg-4 col-md-6 col-sm-12 col-12">
                     <a id="pills-{{ .case_id }}" data-toggle="pill" href="#{{ .case_id }}" role="tab" aria-controls="{{ .case_id }}" aria-selected="false">
                       <div class="team-member" onmouseover="changeCase($(this));" onmouseout="changeCase($(this));">
@@ -69,7 +67,6 @@
                     </a>
                   </li>
                 {{ end }}
-                </div>
               </ul>
             </div>
           </div>
