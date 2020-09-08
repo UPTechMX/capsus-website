@@ -118,8 +118,6 @@ jQuery(function ($) {
 		autoplay: false,
 		slidesToShow: 3,
 		slidesToScroll: 1,
-		centerMode: true,
-		centerPadding: '1px',
 		variableWidth: true
 	});
 
