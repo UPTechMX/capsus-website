@@ -56,7 +56,7 @@
                       <div class="team-member" onmouseover="changeCase($(this));" onmouseout="changeCase($(this));">
                         <div class="member-photo section-bg text-center">
                           {{"<!-- member photo -->" | safeHTML}}
-                          <img class="img-fluid no-slick-slide" data-src="{{ .tab_image_webp | absURL }}" src="{{ .tab_image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .tab_image | absURL }}'" alt="{{ .name }}">
+                          <img class="img-fluid" data-src="{{ .tab_image_webp | absURL }}" src="{{ .tab_image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .tab_image | absURL }}'" alt="{{ .name }}">
                         </div>
                 
                         {{"<!-- member name & designation -->" | safeHTML}}
