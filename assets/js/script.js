@@ -119,7 +119,7 @@ jQuery(function ($) {
 		slidesToShow: 3,
 		slidesToScroll: 1,
 		centerMode: true,
-		centerPadding: '25px',
+		centerPadding: '1px',
 		variableWidth: true
 	});
 
