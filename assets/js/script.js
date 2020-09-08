@@ -118,7 +118,8 @@ jQuery(function ($) {
 		autoplay: false,
 		slidesToShow: 3,
 		slidesToScroll: 1,
-		centerMode: true
+		centerMode: true,
+		centerPadding: '60px'
 	});
 
 	/* ========================================================================= */
