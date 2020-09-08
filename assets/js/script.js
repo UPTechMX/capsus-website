@@ -112,7 +112,7 @@ jQuery(function ($) {
 	/* =========================================================================  */
 
 	$("#projects").slick({
-		infinite: true,
+		infinite: false,
 		dots: true,
 		arrows: true,
 		autoplay: false,
