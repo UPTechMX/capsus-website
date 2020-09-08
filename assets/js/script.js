@@ -117,7 +117,8 @@ jQuery(function ($) {
 		arrows: true,
 		autoplay: false,
 		slidesToShow: 3,
-		slidesToScroll: 1
+		slidesToScroll: 1,
+		centerMode: true
 	});
 
 	/* ========================================================================= */
