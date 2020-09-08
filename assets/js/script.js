@@ -115,10 +115,7 @@ jQuery(function ($) {
 		infinite: true,
 		dots: true,
 		arrows: true,
-		autoplay: false,
-		slidesToShow: 3,
-		slidesToScroll: 1,
-		variableWidth: true
+		autoplay: false
 	});
 
 	/* ========================================================================= */
