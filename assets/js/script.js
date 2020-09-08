@@ -112,14 +112,14 @@ jQuery(function ($) {
 	/* =========================================================================  */
 
 	$("#projects").slick({
-		infinite: false,
+		infinite: true,
 		dots: true,
 		arrows: true,
 		autoplay: false,
 		slidesToShow: 3,
 		slidesToScroll: 1,
 		centerMode: true,
-		centerPadding: '60px'
+		centerPadding: '25px'
 	});
 
 	/* ========================================================================= */
