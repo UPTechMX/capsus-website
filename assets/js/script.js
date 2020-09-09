@@ -113,7 +113,7 @@ jQuery(function ($) {
 
 	$("#projects").slick({
 		infinite: true,
-		dots: true,
+		dots: false,
 		arrows: true,
 		autoplay: false,
 		slidesToShow: 5,
