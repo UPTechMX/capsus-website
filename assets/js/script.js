@@ -115,7 +115,9 @@ jQuery(function ($) {
 		infinite: true,
 		dots: true,
 		arrows: true,
-		autoplay: false
+		autoplay: false,
+		slidesToShow: 5,
+		slidesToScroll: 1
 	});
 
 	/* ========================================================================= */
