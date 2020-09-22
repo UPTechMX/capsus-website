@@ -194,6 +194,26 @@ team:
       de emisiones, análisis de riesgos y vulnerabilidades climáticas y desarrollo
       de acciones climáticas. Además, ha realizado investigación sobre el aprovechamiento
       del sargazo, los eco-materiales y las ecotecnologías."
+    - name: Renata Nieto
+    member_title: Ingeniera Química
+    image: images/team/RN.jpg
+    image_webp: images/team/RN.jpg
+    categories:
+    - associate
+    title: Asociada
+    content: Practicante de Desarrollo Sustentable
+    link: "#"
+    member_profile: "Actualmente cursa su último año de Ingeniería Química en la Universidad Iberoamericana. A lo largo de su tiempo como estudiante, se ha centrado y desarrollado en el área de la sustentabilidad. Cuenta con experiencia en  inversión de impacto, principalmente en capital de riesgo enfocado en empresas sustentables que atienden a la base de la pirámide en Latino América. En CAPSUS trabaja en proyectos de corte social y ambiental."
+  - name: Renata Rocha
+    member_title: Ingeniera Química
+    image: images/team/RR.jpg
+    image_webp: images/team/RR.jpg
+    categories:
+    - consultants
+    title: Consultora
+    content: Desarrollo Sustentable
+    link: "#"
+    member_profile: "Egresada de la Licenciatura en Ingeniería Química por la Universidad Iberoamericana. Cuenta con experiencia en el sector de energía, donde ha asesorado a empresas privadas en el desarrollo de su estrategia de gestión de energía eléctrica, impulsando la implementación de energía renovable y la eficiencia energética. También, ha participado en investigaciones académicas referentes al aprovechamiento del sargazo y a la adopción de ecotecnologías para el manejo sustentable del agua. Actualmente trabaja en las Áreas de Calidad del Aire, Cambio Climático y Financiamiento Ambiental."
   - name: Ricardo García
     member_title: Ingeniero Ambiental
     image: images/team/RG.jpg
