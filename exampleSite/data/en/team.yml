@@ -200,6 +200,26 @@ team:
       of risks and climate vulnerabilities and development of climate action plans.
       \n\nIn addition, she has carried out research on the use of organic residues,
       eco-materials and ecotechnologies."
+  - name: Renata Nieto
+    member_title: Chemical Engineer
+    image: images/team/RN.jpg
+    image_webp: images/team/RN.jpg
+    categories:
+    - associate
+    title: Associate
+    content: Sustainable Development Intern
+    link: "#"
+    member_profile: "She is currently studying her last year of Chemical Engineering at the Universidad Iberoamericana. Throughout her time as a student, she has been primarily focused and interested in developing a career in the area of sustainability. She has experience in impact investing, mainly in venture capital focused on sustainable and base of the pyramid companies in Latin America. In CAPSUS she works in social and environmental projects."
+  - name: Renata Rocha
+    member_title: Chemical Engineer
+    image: images/team/RR.jpg
+    image_webp: images/team/RR.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Sustainable Development
+    link: "#"
+    member_profile: "Chemical Engineer from the Universidad Iberoamericana. She has experience in the power sector, advising private companies in the development of their electric management strategy, promoting the use of renewable energy and energy efficiency. She has also participated in academic research regarding the sustainable use of sargassum and the implementation of ecotechnologies for sustainable water usage. She is currently working on Climate Change, Ar Quality and Green Financing."
   - name: Ricardo García
     member_title: Environmental Engineer
     image: images/team/RG.jpg
