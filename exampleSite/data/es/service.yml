@@ -27,7 +27,7 @@ service:
     # service item loop
     - name : DESARROLLO DE SOFTWARE
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Integramos innovaciones tecnológicas en nuestros proyectos y desarrollamos herramientas para simplificar el análisis de datos en la planifiación urbana.
+      content : Integramos innovaciones tecnológicas en nuestros proyectos y desarrollamos herramientas para simplificar el análisis de datos en la planificación urbana.
       image : images/services/Que-ofrecemos-4.png
       image_webp : images/services/Que-ofrecemos-4.png
       

@@ -119,23 +119,6 @@ team:
       with various brands on aspects related to reputation and public relations. In
       addition, she has worked in editorial design, digital design, animation, corporate
       identity, Infographic design, among others."
-  - name: Gerardo Escalona
-    member_title: Analyst and Socio-environmental Psychologist
-    image: images/team/GE.jpg
-    image_webp: images/team/GE.jpg
-    categories:
-    - consultants
-    title: Consultant
-    content: ANALYST AND SOCIO-ENVIRONMENTAL PSYCHOLOGIST
-    link: "#"
-    member_profile: "He has 6 years of experience in the sustainable urban transport
-      sector, designing and implementing survey strategies and interviews with key
-      actors. He has collaborated with Non-Governmental Organizations, Private Initiative,
-      Multilateral Organizations (IDB), Local, State and Federal Governments (Secretariat
-      of Agrarian, Territorial and Urban Development, SEDATU) in the promotion, development
-      and implementation of street design for sustainable transport and institutional
-      communication tools. \n\nHe has experience in creating dissemination materials
-      and promoting sustainable transportation in Mexico."
   - name: Dante Zayas
     member_title: Engineer in Sustainable Development
     image: images/team/DZ.jpg
@@ -151,6 +134,16 @@ team:
       department, in research centers in Japan and Canada on water and energy issues
       and with the Ministry for Sustainable Development of the State of Morelos, Mexico.
       His work there focused on the rescue of urban ravines.
+  - name: Dinorah León
+    member_title: Engineer in Sustainable Development
+    image: images/team/DL.jpg
+    image_webp: images/team/DL.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Social Analysis
+    link: "#"
+    member_profile: "Engineer in Sustainable Development by the Tecnológico de Monterrey. She has experience in both fieldwork and desk-base data collection, as well as in the development of Social and Environmental Impact Assessments, based on quantitative and qualitative methodologies. Dinorah is experienced in sustainable development funding, social impact investment, stakeholder engagement strategies and effective communication. She has worked for both Mexican and Asian clients."
   - name: Juan Manuel Gómez
     member_title: Applied Mathematics
     image: images/team/JMG copia.jpg
@@ -158,7 +151,7 @@ team:
     categories:
     - associates
     title: Associate
-    content: MATHEMATICS AND SOFTWARE DEVELOPMENT
+    content: SOFTWARE DEVELOPMENT
     link: "#"
     member_profile: "He studied applied mathematics at the National Autonomous University
       of Mexico. Juan Manuel has been working on the design and development of systems
