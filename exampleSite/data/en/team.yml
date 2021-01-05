@@ -177,22 +177,6 @@ team:
     member_profile: He has worked in the private sector as a GIS Analyst in the real
       estate sector, as well as collaborating in the development of the Territorial
       Strategy of the National Crime Prevention Program.
-  - name: María Blanco
-    member_title: Chemical Engineer
-    image: images/team/MB.jpg
-    image_webp: images/team/MB.jpg
-    categories:
-    - consultants
-    title: Consultant
-    content: SUSTAINABLE DEVELOPMENT
-    link: "#"
-    member_profile: "Chemical Engineer from the Universidad Iberoamericana. She has
-      worked professionally in Mexico and has experience in the academic and private
-      sector specifically in the environmental area. Among its projects stands out
-      the advice to cities for the development of their emissions inventories, analysis
-      of risks and climate vulnerabilities and development of climate action plans.
-      \n\nIn addition, she has carried out research on the use of organic residues,
-      eco-materials and ecotechnologies."
   - name: Renata Rocha
     member_title: Chemical Engineer
     image: images/team/RR.jpg
