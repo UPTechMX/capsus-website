@@ -177,6 +177,17 @@ team:
     member_profile: He has worked in the private sector as a GIS Analyst in the real
       estate sector, as well as collaborating in the development of the Territorial
       Strategy of the National Crime Prevention Program.
+  - name: Lili Hernández
+    member_title: Engineer in Sustainable Development
+    image: images/team/LH.jpg
+    image_webp: images/team/LH.jpg
+    categories:
+    - associates
+    title: Associate
+    content: Sustainable Development
+    link: "#"
+    member_profile: She studies Sustainable Development by the Tecnológico de Monterrey. She has international experience at Canadá and Singapore.
+      Prior to CAPSUS she worked and the Renewable Energies Institute from the UNAM at the Fluids Mechanic department in optical issues and she worked at Victoria's University inside the marine ecology laboratory analyzing bacterial samples in water and monitoring corals at "Christmas Island".
   - name: Renata Rocha
     member_title: Chemical Engineer
     image: images/team/RR.jpg
