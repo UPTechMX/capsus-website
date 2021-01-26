@@ -177,6 +177,17 @@ team:
       inmobiliario, así mismo colaboró con la Secretaria de Gobernación en el desarrollo
       de la Estrategia Territorial del Programa Nacional de Prevención del Delito
       como Jefe de Analistas SIG.
+  - name: Lili Hernández
+    member_title: Ingeniero en Desarrollo Sustentable
+    image: images/team/LH.jpg
+    image_webp: images/team/LH.jpg
+    categories:
+    - associates
+    title: Asociada
+    content: Desarrollo Sustentable
+    link: "#"
+    member_profile: Estudiante de la Ingeniería en Desarrollo Sustentable en el Tecnológico de Monterrey y con experiencia internacional en Canadá y Singapur.
+      Previo a CAPSUS trabajó en el Instituto de Energías Renovables de la UNAM en el departamento de Mecánica de Fluidos en cuestiones ópticas y en el laboratorio de ecología marina de la Universidad de Victoria analizando muestras bacterianas en agua y realizando monitoreos de corales de la Isla de Navidad.
   - name: Renata Rocha
     member_title: Ingeniera Química
     image: images/team/RR.jpg
