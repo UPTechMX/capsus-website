@@ -191,7 +191,7 @@ team:
   - name: Pedro Lagar
     member_title: Ingeniero Químico
     image: images/team/PL_0.jpg
-    image_webp: images/team/LH.jpg
+    image_webp: images/team/PL_0.jpg
     categories:
     - consultants
     title: Consultor

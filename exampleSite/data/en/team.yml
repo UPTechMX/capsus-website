@@ -191,7 +191,7 @@ team:
   - name: Pedro Lagar
     member_title: Chemical Engineer
     image: images/team/PL_0.jpg
-    image_webp: images/team/LH.jpg
+    image_webp: images/team/PL_0.jpg
     categories:
     - consultants
     title: Consultant
