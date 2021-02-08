@@ -188,6 +188,16 @@ team:
     link: "#"
     member_profile: Estudiante de la Ingeniería en Desarrollo Sustentable en el Tecnológico de Monterrey y con experiencia internacional en Canadá y Singapur.
       Previo a CAPSUS trabajó en el Instituto de Energías Renovables de la UNAM en el departamento de Mecánica de Fluidos en cuestiones ópticas y en el laboratorio de ecología marina de la Universidad de Victoria analizando muestras bacterianas en agua y realizando monitoreos de corales de la Isla de Navidad.
+  - name: Pedro Lagar
+    member_title: Ingeniero Químico
+    image: images/team/PL_0.jpg
+    image_webp: images/team/LH.jpg
+    categories:
+    - consultants
+    title: Consultor
+    content: Desarrollo Sustentable
+    link: "#"
+    member_profile: Egresado de Ingeniería química por parte de la UNAM. Ha colaborado en diversos  proyectos de cooperación y de políticas públicas en temas relacionados con sustentabilidad, eficiencia energética y mercados de carbono en organismos multilaterales como el Banco Mundial y el Banco Interamericano de Desarrollo, específicamente para su implementación en países de América Latina. 
   - name: Renata Rocha
     member_title: Ingeniera Química
     image: images/team/RR.jpg
