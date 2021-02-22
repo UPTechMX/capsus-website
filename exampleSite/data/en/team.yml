@@ -144,6 +144,16 @@ team:
     content: Social Analysis
     link: "#"
     member_profile: "Engineer in Sustainable Development by the Tecnológico de Monterrey. She has experience in both fieldwork and desk-base data collection, as well as in the development of Social and Environmental Impact Assessments, based on quantitative and qualitative methodologies. Dinorah is experienced in sustainable development funding, social impact investment, stakeholder engagement strategies and effective communication. She has worked for both Mexican and Asian clients."
+  - name: Fernando Rementería
+    member_title: Environmental engineer
+    image: images/team/FR.jpg
+    image_webp: images/team/FR.jpg
+    categories:
+    - associates
+    title: Associate
+    content: Sustainable Development
+    link: "#"
+    member_profile: "Environmental Engineer with a Master in Urban Management, Sustainability, and Climate Change, graduated from Erasmus University Rotterdam. Fernando has specialized in topics related to Nature-Based Solutions, green infrastructure, and climate change adaptation in urban environments. He has experience in projects related to socio-environmental and sustainable urban planning and management. He collaborated with the GIZ on urban biodiversity projects, the protection of natural areas in urban settlements, and in capacity development in the agroecological sector."  
   - name: Juan Manuel Gómez
     member_title: Applied Mathematics
     image: images/team/JMG copia.jpg
