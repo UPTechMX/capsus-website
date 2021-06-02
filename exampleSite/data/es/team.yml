@@ -188,6 +188,16 @@ team:
     link: "#"
     member_profile: Estudiante de la Ingeniería en Desarrollo Sustentable en el Tecnológico de Monterrey y con experiencia internacional en Canadá y Singapur.
       Previo a CAPSUS trabajó en el Instituto de Energías Renovables de la UNAM en el departamento de Mecánica de Fluidos en cuestiones ópticas y en el laboratorio de ecología marina de la Universidad de Victoria analizando muestras bacterianas en agua y realizando monitoreos de corales de la Isla de Navidad.
+  - name: Mariana Elizondo
+    member_title: Internacionalista y Maestra en Administración Pública
+    image: images/team/ME.jpg
+    image_webp: images/team/ME.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Relaciones Internacionales y Administración Pública
+    link: "#"
+    member_profile: "Licenciada en Relaciones Internacionales, con Maestría en Administración Pública. Se ha especializado en el intercambio educativo y profesional entre México y los países de las Américas. Mariana tiene experiencia en el sector público y privado en México, Estados Unidos de América y Francia. En el sector público Mariana ha trabajado en la OCDE, la Secretaría de Relaciones Exteriores y la Secretaría de Desarrollo Social. Durante su desarrollo profesional Mariana ha implementado programas de intercambio académico y profesional entre México y otros países del mundo, así como proyectos de cooperación internacional relacionados a desarrollo económico, asociaciones público privadas y desarrollo social."  
   - name: Renata Rocha
     member_title: Ingeniera Química
     image: images/team/RR.jpg
