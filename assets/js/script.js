@@ -195,6 +195,22 @@ jQuery(function ($) {
 	  });
 
 	/* ========================================================================= */
+	/*	Modal Vacancies
+	/* ========================================================================= */
+	$('#modalVacancies').on('show.bs.modal', function (event) {
+		var button = $(event.relatedTarget); // Button that triggered the modal
+		var fullTitle = button.data('fullTitle'); // Extract info from data-* attribute
+		var intro = button.data('intro'); // Extract info from data-* attributes
+		var content = button.data('content'); // Extract info from data-* attributess
+		// If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
+		// Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
+		var modal = $(this);
+		modal.find('.modal-body #vacancy-fullTitle').text(fullTitle);
+		modal.find('.modal-body #vacancy-intro').text(intro);
+		modal.find('.modal-body #vacancy-content').html(decodeURIComponent(content));
+	  });
+
+	/* ========================================================================= */
 	/*	Scrolling text
 	/* ========================================================================= */
 	$(function(){
