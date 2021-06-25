@@ -43,6 +43,7 @@ jobs:
             - info4_title: Vacantes
               info4_item:
                 - info4_item_name: Ingeniería, Economía o Política Pública enfocado al desarrollo sustentable
+                  info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                   info4_item_fulltitle: Licenciado/a en Comunicación, Educación, Sociología o áreas afines
                   info4_item_content: |
                     #### PERFIL
@@ -104,10 +105,12 @@ jobs:
                     - Comunicación de resultados a los participantes
                   info4_id: vac-1
                 - info4_item_name: Ingeniería, Economía o Política Pública enfocado al desarrollo sustentable
+                  info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                   info4_item_fulltitle: Licenciado/a en Comunicación, Educación, Sociología o áreas afines
                   info4_item_content: Descripción general de la vacante.
                   info4_id: vac-2
                 - info4_item_name: Ingeniería, Economía o Política Pública enfocado al desarrollo sustentable
+                  info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                   info4_item_fulltitle: Licenciado/a en Comunicación, Educación, Sociología o áreas afines
                   info4_item_content: Descripción general de la vacante.
                   info4_id: vac-3
