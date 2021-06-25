@@ -3,7 +3,7 @@
 - id: readMore
   translation: Read more
 - id: viewAllPost
-  translation: View All Post
+  translation: View All Posts
 - id: share
   translation: Share
 - id: aboutAuthor
@@ -84,3 +84,5 @@
   translation: Sorry!
 - id: error_content
   translation: There was an error while sending your communication! If the issue persists, please contact us through other means.
+- id: viewMore
+  translation: Read more...
