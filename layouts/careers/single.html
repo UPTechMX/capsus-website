@@ -168,18 +168,27 @@
                   <ul class="nav nav-pills row justify-content-center mb-5 case-studies" id="pills-vacancies" role="tablist">
                       {{ range .info4_item }}
                       <li class="nav-item col-lg-4 col-md-6 col-sm-12 col-12">
-                        <a id="pills-{{ .info4_id }}" data-toggle="pill" href="#{{ .info4_id }}" role="tab" aria-controls="{{ .info4_id }}" aria-selected="false">
+                        <a aria-controls="{{ .info4_id }}" aria-selected="false" data-target="#modalVacancies"
+                    data-effect="mfp-with-zoom"
+                    data-fullTitle="{{ .info4_item_fulltitle }}"
+                    data-intro="{{ .info4_item_title2 }}"
+                    data-content="{{ .info4_content }}">
                           <div class="team-member" onmouseover="changeCase($(this));" onmouseout="changeCase($(this));">
                             <div class="member-photo section-bg text-center">
                               {{"<!-- member photo -->" | safeHTML}}
-                              <img class="img-fluid" data-src="{{ .info4_image_webp | absURL }}" src="{{ .info4_image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .tab_image | absURL }}'" alt="{{ .info4_item_name }}">
+                              <div class="text-left text-justify pt-2 text-uppercase">
+                                <hr class="col-lg-11 pb-4" style="border-top: 2px solid #28c5b9;">
+                                <h4 class="case-years color-3 font-weight-bold">{{ .info4_item_fulltitle | markdownify }}</h4>
+                                <h5 class="color">{{ i18n "viewMore" | markdownify }}</h5>
+                              </div>
+                              <!--<img class="img-fluid" data-src="{{ .info4_image_webp | absURL }}" src="{{ .info4_image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .tab_image | absURL }}'" alt="{{ .info4_item_name }}">-->
                             </div>
                     
                             {{"<!-- member name & designation -->" | safeHTML}}
-                            <div class="text-left text-justify pt-2">
+                            <!--<div class="text-left text-justify pt-2">
                               <h5 class="case-years color font-weight-bold">{{ .info4_status | markdownify }}</h5>
                               <h5 class="color-2">{{ .info4_item_fulltitle | markdownify }}</h5>
-                            </div>
+                            </div>-->
                           </div>
                         </a>
                       </li>
@@ -197,36 +206,7 @@
                 </div>
               </section>
               <div class="row bg-two">
-                <div class="container px-5">
-                  <div class="row" id="vacants-section">
-                    <div class="col-lg-12">
-                      <div class="tab-content" id="pills-specContent">
-                        {{ range .info4_item }}
-                        <div class="tab-pane fade content-fluid" id="{{ .info4_id }}" role="tabpanel" aria-labelledby="{{ .info4_id }}-tab">
-                            <div class="row color-2">
-                              <div class="col-lg-12">
-                                <div class="justify-content-center text-center">
-                                  <i class="fas fa-chevron-up color-2" onclick="hideCSTab();" style="cursor: pointer;" aria-hidden="true"></i>
-                                </div>
-                                <div class="justify-content-center text-center p-4">
-                                  <h3 class="color-2 font-weight-bold">{{ .info4_item_title1 | markdownify }}</h3>
-                                  <h4 class="color-2 font-weight-bolder">{{ .info4_item_title2 | markdownify }}</h4>
-                                </div>
-                              </div>
-                            </div>
-                            <div class="justify-content-center row color-2 px-4 pb-5">
-                              <div class="col-lg-12">
-                                <div class="text-left color-2">
-                                  {{ .info4_item_content | markdownify }}
-                                </div>
-                              </div>
-                            </div>
-                        </div>
-                        {{ end }}
-                      </div>
-                    </div>
-                  </div>
-                </div>
+                
               </div>
               {{ end }}
               {{ end }}
@@ -264,6 +244,56 @@
       </div>
     </div>
   </div>
+  <div
+      class="modal fade"
+      id="modalVacancies"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="modalVacancyLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-label="Close"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <div class="container-fluid">
+              <div class="container px-5">
+                  <div class="row" >
+                    <div class="col-lg-12">
+                      <div>
+                            <div class="row color-2">
+                              <div class="col-lg-12">
+                                <div class="justify-content-center text-center p-4">
+                                  <h3 class="color-2 font-weight-bold" id="vacancy-FullTitle"></h3>
+                                  <h4 class="color-2 font-weight-bolder" id="vacancy-intro"></h4>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="justify-content-center row color-2 px-4 pb-5">
+                              <div class="col-lg-12">
+                                <div class="text-left color-2" id="vacancy-content">
+                                </div>
+                              </div>
+                            </div>
+                        
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 </section>
 <script>
   function changeCase(x) {
