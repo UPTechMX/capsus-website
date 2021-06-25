@@ -45,7 +45,7 @@ jobs:
                 - info4_item_name: Ingeniería, Economía o Política Pública enfocado al desarrollo sustentable
                   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                   info4_item_fulltitle: Licenciado/a en Comunicación, Educación, Sociología o áreas afines
-                  info4_item_content: |
+                  info4_item_content: |-
                     #### PERFIL
                     Buscamos una persona convencida y comprometida con el desarrollo sustentable, idealmente que tenga entrenamiento académico y experiencia profesional en áreas de **ingeniería, economía o política pública** relacionadas al **desarrollo sustentable**, el medio ambiente, y/o la estructura urbana. Debes ser una persona totalmente **bilingüe en español e inglés**, con **excelente redacción**, dinámica, motivada, creativa, multidisciplinaria y muy buena con los números. Buscamos alguien que resuelva problemas y busque formas de lograr sus objetivos, no que encuentre razones por las cuales no se pueden alcanzar. 
 
