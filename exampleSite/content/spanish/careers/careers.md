@@ -102,6 +102,14 @@ jobs:
                     - Comunicación de resultados a los participantes
                 info4_id: vac-1
                 info4_item_name: Ingeniería, Economía o Política Pública enfocado al desarrollo sustentable
+                info4_image: images/expertise/placeholder2.jpg
+                info4_image_webp: images/expertise/placeholder2.webp
+                info4_item_fulltitle: Licenciado/a en Comunicación, Educación, Sociología o áreas afines
+                info4_item_title1: Licenciado/a en
+                info4_item_title2: Comunicación, Educación, Sociología o áreas afines
+                info4_status: Proceso de selección
+                info4_item_content2: Aptitudes de la vacante.
+                info4_item_content3: Habilidades de la vacante.
               info4_item:
                 info4_image: images/expertise/placeholder2.jpg
                 info4_image_webp: images/expertise/placeholder2.webp
