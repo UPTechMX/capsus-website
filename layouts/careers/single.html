@@ -165,7 +165,7 @@
                     </div>
                   </div>
                   {{ if .info4_id }}
-                  <ul class="nav nav-pills row justify-content-center mb-5 case-studies" id="pills-vacancies" role="tablist">
+                  <ul class="row justify-content-center mb-5 case-studies" role="tablist">
                       {{ range .info4_item }}
                       <li class="nav-item col-lg-4 col-md-6 col-sm-12 col-12">
                         <a aria-controls="{{ .info4_id }}" aria-selected="false" data-target="#modalVacancies"
@@ -205,7 +205,6 @@
                   {{ end }}
                 </div>
               </section>
-              {{ end }}
               {{ end }}
               {{ if eq .job_id "internships" }}
               {{ range .info4 }}
