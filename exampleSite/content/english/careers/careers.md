@@ -29,12 +29,7 @@ jobs:
           info3:
             - info3_title: "Are you interested? \n\nContact us:"
               info3_content: |
-                Send an email to ideas@capsus.mx with your CV, a cover letter in spanish about why you are interested in working at CAPSUS and what motivates you to pursue a professional career in the sustainability area, and a letter in English where you can tell us: 
-                - Who are you?
-                - What are your passions in life?
-                - What are your hobbies?
-                - What are your current and future professional objectives?
-                - Some of your achievements or previous projects that you are proud of.
+                Send an email to ideas@capsus.mx with your CV, a cover letter in spanish about why you are interested in working at CAPSUS and what motivates you to pursue a professional career in the sustainability area.
 
                 After analyzing your documentation, we will contact you for an interview where we can clarify the doubts that you and we have.
           info4:
@@ -136,7 +131,7 @@ jobs:
                   - Análisis numérico.
                   - Organización y proactividad
                   - Alta aceptación del control.
-                  - Actitud Positiva hacia la gente.
+                  - Actitud positiva hacia la gente.
                   - Una persona lógica y estructurada.
                   - Responsabilidad, transparencia y honestidad.
                   - Confidencialidad.  
@@ -196,7 +191,7 @@ jobs:
                   - Sociable.
                   - Proactividad.
                   - Una persona respetuosa, reflexiva y estructurada.
-                  - Orientación al detalle y estructura.
+                  - Orientación al detalle.
                   - Aceptación del control.
                   - Multi tareas.
 
@@ -232,7 +227,7 @@ jobs:
                   
                   #### ACTIVIDADES GENERALES DEL PUESTO
                   - Recopilación y análisis de información técnica.
-                  - Integración de expedientes para licitación pública
+                  - Integración de expedientes para licitación pública.
                   - Participación en procedimientos de contratación y seguimiento a contratos hasta su conclusión.
                   - Buscar y analizar información técnica.
                   - Participación en la evaluación de propuestas.
@@ -294,7 +289,7 @@ jobs:
                   - Colaborar en el seguimiento de los contratos de comodato.
                   - Elaborar los proyectos de los informes de avances para el FONADIN.
                   - Integrar información y expedientes para la donación de los bienes.
-                  - Integrar los expedientes físicos y digitalizarlos de: avances del Programa reportados por las entidades federativas y el INECC, de informes para el MSPPI; de la aplicación de las garantías extendidas; de los requerimientos de información del FONADIN; del seguimiento a los contratos de comodato y de la donación de bienes.
+                  - Integrar los expedientes físicos y digitalizarlos de: avances del Programa reportados por las entidades federativas y el INECC, de informes para el MSPPI, de la aplicación de las garantías extendidas, de los requerimientos de información del FONADIN, del seguimiento a los contratos de comodato y de la donación de bienes.
                   - Interactuar con el personal técnico de las entidades federativas y del INECC.
                   - Elaborar y entregar oficios e informes de avances.
                   - Elaborar presentaciones en power point.
@@ -351,11 +346,11 @@ jobs:
                     * Desarrollo urbano orientado al transporte público.
                     * Modos de transporte público de calidad.
                     * Integración del transporte público.
-                    * Sistemas de mobility as a service
+                    * Sistemas de mobility as a service.
                     * Sistemas de vehículos compartidos, especialmente bicicletas y motocicletas eléctricas.
-                    * Infraestructura ciclista y peatonal
+                    * Infraestructura ciclista y peatonal.
                     * Tecnologías de control de emisiones en vehículos.
-                    * Tecnologías de vehículos híbridos
+                    * Tecnologías de vehículos híbridos.
                     * Tecnologías de vehículos eléctricos, especialmente en el transporte público.
 
               
@@ -538,7 +533,7 @@ jobs:
                   - Orientación al detalle y estructura.
                   - Organización y persistencia.
                   - Proactividad.
-                  - Respeto
+                  - Respeto.
                   - Multi tareas.
                   - Responsabilidad, transparencia y honestidad.
                   - Confidencialidad e integridad.
