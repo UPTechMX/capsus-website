@@ -129,7 +129,7 @@ jobs:
                   - Excelente comunicación interpersonal.
                   - Capacidad de adaptación.
                   - Análisis numérico.
-                  - Organización y proactividad
+                  - Organización y proactividad.
                   - Alta aceptación del control.
                   - Actitud positiva hacia la gente.
                   - Una persona lógica y estructurada.
