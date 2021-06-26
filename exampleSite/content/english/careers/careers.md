@@ -35,14 +35,14 @@ jobs:
           info4:
             - info4_title: Careers
               info4_item:
-              - info4_item_fulltitle: Economía administrativa / Ingeniería
+              - info4_item_fulltitle: Ingeniería ambiental
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                 info4_item_content: |
                   #### PERFIL
                   Buscamos una persona comprometida con el medio ambiente, idealmente con experiencia en economía administrativa. Disponibilidad de horario de tiempo completo.
                   
                   #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
-                  - Licenciatura, Económica, Administrativa o Ingeniería (titulada(o)).
+                  - Licenciatura Económica Administrativa o Ingeniería (titulada(o)).
                   - 3 años de experiencia.
                   - Manejo de Microsoft Office.
                   - Inglés 100%.
@@ -91,15 +91,15 @@ jobs:
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
                 info4_id: vac-1
-              - info4_item_fulltitle: Economía administrativa / Ingeniería
+              - info4_item_fulltitle: Economía ambiental
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                 info4_item_content: |
                   #### PERFIL
                   Buscamos una persona comprometida con el medio ambiente, idealmente con experiencia en economía administrativa. Disponibilidad de horario de tiempo completo.
                   
                   #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
-                  - Licenciatura, Económica Administrativa o Ingeniería (titulada(o)).
-                  - 3 años de experiencia
+                  - Licenciatura Económica Administrativa o Ingeniería (titulada(o)).
+                  - 3 años de experiencia.
                   - Manejo de Microsoft Office.
                   - Inglés 100%.
 
