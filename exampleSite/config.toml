@@ -104,6 +104,8 @@ link = "plugins/jquery/jquery.min.js"
 [[params.plugins.js]]
 link = "plugins/jquery/jQuery.scrollText.js"
 [[params.plugins.js]]
+link = "https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.3/jquery.scrollTo.min.js"
+[[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
@@ -121,8 +123,6 @@ link = "https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"
 link = "https://kit.fontawesome.com/c3acc1648f.js"
 [[params.plugins.js]]
 link = "plugins/materialize/js/materialize.min.js"
-[[params.plugins.js]]
-link = "https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.3/jquery.scrollTo.min.js"
 [params.preloader]
 enable = true
 preloader = "images/Menu-Logo-Capsus.png"
