@@ -90,7 +90,7 @@ jobs:
                   - 18,000 a 25,000 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
               
                   #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
                   - Currículum
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
@@ -146,7 +146,7 @@ jobs:
                   - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
               
                   #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
                   - Currículum
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
@@ -204,7 +204,7 @@ jobs:
                   - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
               
                   #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
                   - Currículum
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
@@ -262,7 +262,7 @@ jobs:
                   - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
               
                   #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
                   - Currículum
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
@@ -321,7 +321,7 @@ jobs:
                   - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
               
                   #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
                   - Currículum
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
@@ -374,7 +374,7 @@ jobs:
                   - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
               
                   #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
                   - Currículum
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
@@ -432,7 +432,7 @@ jobs:
                   - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
               
                   #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
                   - Currículum
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
@@ -484,7 +484,7 @@ jobs:
                   - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
               
                   #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
                   - Currículum
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
@@ -546,7 +546,7 @@ jobs:
                   - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
               
                   #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
                   - Currículum
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
@@ -604,7 +604,7 @@ jobs:
                   - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
               
                   #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
                   - Currículum
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
@@ -667,7 +667,7 @@ jobs:
                   - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
               
                   #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
                   - Currículum
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
@@ -722,7 +722,7 @@ jobs:
                   - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
               
                   #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
                   - Currículum
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
