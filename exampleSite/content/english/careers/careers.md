@@ -47,7 +47,6 @@ jobs:
                   - Edad: Mayor de 30 años.
                   - 4 años de experiencia en tareas similares.
                   - Manejo de Microsoft Office.
-                  - Inglés 100%.
                   - El tercer idioma es un plus.
                   - Conocimientos sobre tecnologías de control de emisiones a la atmósfera.
                   - Conocimientos sobre modelación de la calidad del aire y meteorología.
@@ -105,7 +104,6 @@ jobs:
                   - Licenciatura Económica Administrativa o Ingeniería (titulada(o)).
                   - 3 años de experiencia.
                   - Manejo de Microsoft Office.
-                  - Inglés 100%.
  
                   
                   #### ACTIVIDADES GENERALES DEL PUESTO
@@ -162,7 +160,6 @@ jobs:
                   - Licenciatura Económica Administrativa o Ingeniería (titulada(o)).
                   - 3 años de experiencia.
                   - Manejo de Microsoft Office.
-                  - Inglés 100%.
 
  
                   
@@ -281,7 +278,6 @@ jobs:
                   - Experiencia en administración pública.
                   - Conocimientos prácticos en adquisiciones.
                   - Manejo de Microsoft Office.
-                  - Inglés 100%.
 
 
 
@@ -341,7 +337,6 @@ jobs:
                   - Experiencia en administración pública.
                   - Conocimientos prácticos en administración de proyectos.
                   - Manejo de Microsoft Office.
-                  - Inglés 100%. 
 
  
                   
@@ -396,8 +391,6 @@ jobs:
                   - Buena comunicación.
                   - Habilidades de planeación y organización de actividades/proyectos.
                   - Manejo de Microsoft Office.
-                  - Inglés 100%.
-                  - El tercer idioma es un plus.
 
  
                   
@@ -456,8 +449,6 @@ jobs:
                   - Buena comunicación.
                   - Habilidades de planeación y organización de actividades/proyectos.
                   - Manejo de Microsoft Office.
-                  - Inglés 100%. 
-                  - El tercer idioma es un plus.
 
 
  
@@ -570,7 +561,6 @@ jobs:
                   - Maestría o especialización de preferencia.
                   - 4 años de experiencia en tareas similares.
                   - Manejo de Microsoft Office.
-                  - Inglés 100%.
                   - Conocimientos sobre tecnologías de control de emisiones a la atmósfera.
                   - Conocimientos sobre modelación de la calidad del aire y meteorología.
                   - Conocimiento general de otros temas ambientales.
