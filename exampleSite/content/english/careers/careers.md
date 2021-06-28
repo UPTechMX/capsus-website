@@ -47,7 +47,6 @@ jobs:
                   - Edad: Mayor de 30 años.
                   - 4 años de experiencia en tareas similares.
                   - Manejo de Microsoft Office.
-                  - El tercer idioma es un plus.
                   - Conocimientos sobre tecnologías de control de emisiones a la atmósfera.
                   - Conocimientos sobre modelación de la calidad del aire y meteorología.
                   - Conocimiento general de otros temas ambientales.
