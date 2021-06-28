@@ -37,6 +37,66 @@ jobs:
           info4:
             - info4_title: Vacantes
               info4_item:
+              - info4_item_fulltitle: Analista en Calidad del Aire
+                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en Toluca
+                info4_item_content: |
+                  #### PERFIL
+                  Buscamos una persona comprometida con su trabajo, organizada y proactiva para dar soporte en materia de gestión de calidad del aire. Disponibilidad de horario de tiempo completo. 
+                  
+                  #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
+                  - Licenciatura o ingeniería química, ambiental, ciencias de la tierra o similares (titulada(o)).
+                  - Maestría o especialización de preferencia.
+                  - Edad: Mayor de 30 años.
+                  - 4 años de experiencia en tareas similares.
+                  - Manejo de Microsoft Office.
+                  - Inglés 100%.
+                  - El tercer idioma es un plus.
+                  - Conocimientos sobre tecnologías de control de emisiones a la atmósfera.
+                  - Conocimientos sobre modelación de la calidad del aire y meteorología.
+                  - Conocimiento general de otros temas ambientales.
+                  - Habilidades de planeación y seguimiento de tareas.
+ 
+                  
+                  #### ACTIVIDADES GENERALES DEL PUESTO
+                  - Análisis de información de calidad del aire, emisiones a la atmósfera y sus fuentes.
+                  - Análisis en relación a calidad del aire e impactos en la salud.
+                  - Análisis de datos y generación de gráficos e imágenes para presentaciones.
+                  - Elaboración de documentos y presentaciones para informar de los análisis realizados y sus resultados.
+                  - Apoyo al seguimiento de acciones y recomendaciones de gestión de calidad del aire.
+                  - Apoyo al seguimiento de proyectos, programas y acciones ambientales.
+                  - Informar sobre el seguimiento de acciones y recomendaciones de gestión de calidad del aire.
+
+              
+                  #### COMPETENCIAS Y HABILIDADES
+                  - Excelente administración del tiempo.
+                  - Orientación a resultados y a la colaboración en equipo.
+                  - Disponibilidad de horario.
+                  - Seguimiento de acuerdos.
+                  - Trabajo bajo presión y manejo de crisis.
+                  - Tolerancia a la crítica y a la frustración.
+                  - Sociable.
+                  - Iniciativa y capacidad de reflexión.
+                  - Orientación al detalle y estructura.
+                  - Organización y persistencia.
+                  - Proactividad.
+                  - Respeto.
+                  - Multi tareas.
+                  - Responsabilidad, transparencia y honestidad.
+                  - Confidencialidad e integridad.
+                  - Calidad.
+
+
+                  #### OFERTA
+                  - Prestaciones de Ley.
+                  - 18,000 a 25,000 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
+              
+                  #### PROCESO
+                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  - Currículum
+                  - Título o cédula profesional.
+                  - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
+                info4_id: vac-0
+                info4_item_location: Toluca
               - info4_item_fulltitle: Ingeniería ambiental
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                 info4_item_content: |
@@ -93,6 +153,7 @@ jobs:
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
                 info4_id: vac-1
+                info4_item_location: CDMX
               - info4_item_fulltitle: Economía ambiental
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                 info4_item_content: |
@@ -131,7 +192,7 @@ jobs:
                   - Excelente comunicación interpersonal.
                   - Capacidad de adaptación.
                   - Análisis numérico.
-                  - Organización y .
+                  - Organización y proactividad.
                   - Alta aceptación del control.
                   - Actitud positiva hacia la gente.
                   - Una persona lógica y estructurada.
@@ -151,6 +212,7 @@ jobs:
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
                 info4_id: vac-2
+                info4_item_location: CDMX
               - info4_item_fulltitle: Licenciada(o) en derecho
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                 info4_item_content: |
@@ -209,6 +271,7 @@ jobs:
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
                 info4_id: vac-3
+                info4_item_location: CDMX
               - info4_item_fulltitle: Administración pública y adquisiciones
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                 info4_item_content: |
@@ -268,6 +331,7 @@ jobs:
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
                 info4_id: vac-4
+                info4_item_location: CDMX
               - info4_item_fulltitle: Administración pública y administración de proyectos
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                 info4_item_content: |
@@ -321,6 +385,7 @@ jobs:
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
                 info4_id: vac-5
+                info4_item_location: CDMX
               - info4_item_fulltitle: Ingeniería en Transporte o afines
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                 info4_item_content: |
@@ -380,6 +445,7 @@ jobs:
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
                 info4_id: vac-6
+                info4_item_location: CDMX
               - info4_item_fulltitle: Administración pública, política pública o afines
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                 info4_item_content: |
@@ -433,6 +499,7 @@ jobs:
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
                 info4_id: vac-7
+                info4_item_location: CDMX
               - info4_item_fulltitle: Analista en Calidad del Aire
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                 info4_item_content: |
@@ -445,7 +512,6 @@ jobs:
                   - Edad: Mayor de 30 años.
                   - 4 años de experiencia en tareas similares.
                   - Manejo de Microsoft Office.
-                  - Inglés 100%.
                   - El tercer idioma es un plus.
                   - Conocimientos sobre tecnologías de control de emisiones a la atmósfera.
                   - Conocimientos sobre modelación de la calidad del aire y meteorología.
@@ -495,6 +561,7 @@ jobs:
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
                 info4_id: vac-8
+                info4_item_location: CDMX
               - info4_item_fulltitle: Supervisión de proyectos, programas y acciones ambientales
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                 info4_item_content: |
@@ -553,6 +620,7 @@ jobs:
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
                 info4_id: vac-9
+                info4_item_location: CDMX
               - info4_item_fulltitle: Soporte técnico en verificación vehicular y manejo de datos
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                 info4_item_content: |
@@ -568,8 +636,6 @@ jobs:
                   - Habilidades de planeación.
                   - Conocimientos sobre tecnologías de control de emisiones a la atmósfera.
                   - Manejo de Microsoft Office.
-                  - Inglés 100%
-
  
                   
                   #### ACTIVIDADES GENERALES DEL PUESTO
@@ -617,6 +683,7 @@ jobs:
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
                 info4_id: vac-10
+                info4_item_location: CDMX
               - info4_item_fulltitle: Comunicóloga(o)
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                 info4_item_content: |
@@ -628,7 +695,6 @@ jobs:
                   - 4 años de experiencia en tareas similares.
                   - Excelente redacción y ortografía.
                   - Manejo de Microsoft Office.
-                  - Inglés 100%.
                   - Conocimiento general en la problemática ambiental.
                   - Habilidades de planeación y seguimiento de tareas.
                   - Excelente administración del tiempo.
@@ -672,6 +738,7 @@ jobs:
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
                 info4_id: vac-11
+                info4_item_location: CDMX
         - name: Programa de Becarios
           title: Programa de Becarios
           job_id: internships
