@@ -84,7 +84,7 @@ jobs:
 
                   #### OFERTA
                   - Prestaciones de Ley.
-                  - 18,000 a 25,000 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
+                  - 18,000 a 25,000 mxn bruto de acuerdo a competencias y habilidades.
               
                   #### PROCESO
                   Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
@@ -140,7 +140,7 @@ jobs:
 
                   #### OFERTA
                   - Prestaciones de Ley.
-                  - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
+                  - 21,500 a 24,500 mxn bruto de acuerdo a competencias y habilidades.
               
                   #### PROCESO
                   Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
@@ -198,7 +198,7 @@ jobs:
               
                   #### OFERTA
                   - Prestaciones de Ley.
-                  - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
+                  - 21,500 a 24,500 mxn bruto de acuerdo a competencias y habilidades.
               
                   #### PROCESO
                   Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
@@ -256,7 +256,7 @@ jobs:
               
                   #### OFERTA
                   - Prestaciones de Ley.
-                  - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
+                  - 21,500 a 24,500 mxn bruto de acuerdo a competencias y habilidades.
               
                   #### PROCESO
                   Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
@@ -315,7 +315,7 @@ jobs:
               
                   #### OFERTA
                   - Prestaciones de Ley.
-                  - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
+                  - 21,500 a 24,500 mxn bruto de acuerdo a competencias y habilidades.
               
                   #### PROCESO
                   Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
@@ -368,7 +368,7 @@ jobs:
               
                   #### OFERTA
                   - Prestaciones de Ley.
-                  - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
+                  - 21,500 a 24,500 mxn bruto de acuerdo a competencias y habilidades.
               
                   #### PROCESO
                   Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
@@ -426,7 +426,7 @@ jobs:
               
                   #### OFERTA
                   - Prestaciones de Ley.
-                  - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
+                  - 21,500 a 24,500 mxn bruto de acuerdo a competencias y habilidades.
               
                   #### PROCESO
                   Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
@@ -478,7 +478,7 @@ jobs:
               
                   #### OFERTA
                   - Prestaciones de Ley.
-                  - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
+                  - 21,500 a 24,500 mxn bruto de acuerdo a competencias y habilidades.
               
                   #### PROCESO
                   Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
@@ -540,7 +540,7 @@ jobs:
               
                   #### OFERTA
                   - Prestaciones de Ley.
-                  - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
+                  - 21,500 a 24,500 mxn bruto de acuerdo a competencias y habilidades.
               
                   #### PROCESO
                   Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
@@ -598,7 +598,7 @@ jobs:
               
                   #### OFERTA
                   - Prestaciones de Ley.
-                  - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
+                  - 21,500 a 24,500 mxn bruto de acuerdo a competencias y habilidades.
               
                   #### PROCESO
                   Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
@@ -661,7 +661,7 @@ jobs:
               
                   #### OFERTA
                   - Prestaciones de Ley.
-                  - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
+                  - 21,500 a 24,500 mxn bruto de acuerdo a competencias y habilidades.
               
                   #### PROCESO
                   Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
@@ -716,7 +716,7 @@ jobs:
               
                   #### OFERTA
                   - Prestaciones de Ley.
-                  - 21,500 a 24,500 mxn bruto de acuerdo a de acuerdo a competencias y habilidades.
+                  - 21,500 a 24,500 mxn bruto de acuerdo a competencias y habilidades.
               
                   #### PROCESO
                   Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
