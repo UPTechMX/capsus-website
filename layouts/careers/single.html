@@ -170,10 +170,11 @@
                       <li class="nav-item col-lg-3 col-md-6 col-sm-12 col-12">
                         <a id="pills-{{ .info4_id }}" data-toggle="pill" href="#{{ .info4_id }}" onclick="setTimeout(function(){ $('body').scrollTo('#vacants-section', 800, {offset: -65});}, 100);" role="tab" aria-controls="{{ .info4_id }}" aria-selected="false">
                           <div class="team-member">
-                            <div class="member-photo section-bg text-left text-justify p-2">
+                            <div class="member-photo section-bg text-left text-justify p-2" style="min-height: 175px;">
                               {{"<!-- member photo -->" | safeHTML}}
+                              <h5 class="color">{{ .info4_item_location | markdownify }}</h5>
                               <hr class="col-lg-11 pb-4" style="border-top: 2px solid #28c5b9">
-                              <h5 class="case-years color-3 font-weight-bold">{{ .info4_item_fulltitle | markdownify }}</h5>
+                              <h4 class="case-years color-3 font-weight-bold">{{ .info4_item_fulltitle | markdownify }}</h4>
                               <h5 class="color">{{ i18n "viewMore" | markdownify }}</h5>
                             </div>
                           </div>
