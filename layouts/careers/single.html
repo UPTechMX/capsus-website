@@ -168,7 +168,7 @@
                   <ul class="nav nav-pills row justify-content-center mb-5 case-studies" id="pills-vacancies" role="tablist">
                       {{ range .info4_item }}
                       <li class="nav-item col-lg-3 col-md-6 col-sm-12 col-12">
-                        <a id="pills-{{ .info4_id }}" data-toggle="pill" href="#{{ .info4_id }}" onclick="setTimeout(function(){ $('body').scrollTo('#vacants-section', 800, {offset: -65});}, 100);" role="tab" aria-controls="{{ .info4_id }}" aria-selected="false">
+                        <a id="pills-{{ .info4_id }}" data-toggle="pill" href="#{{ .info4_id }}" onclick="setTimeout(function(){ hideCSTab(); $('body').scrollTo('#vacants-section', 800, {offset: -65});}, 100);" role="tab" aria-controls="{{ .info4_id }}" aria-selected="false">
                           <div class="team-member">
                             <div class="member-photo section-bg text-left text-justify p-2">
                               {{"<!-- member photo -->" | safeHTML}}
