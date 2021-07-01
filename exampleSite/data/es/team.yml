@@ -163,31 +163,6 @@ team:
       Egresado de la Universidad Nacional Autónoma de México. Juan Manuel trabaja en el diseño y desarrollo de sistemas desde 2007, ha colaborado en el desarrollo de plataformas de información para la Universidad Nacional Autónoma de México en el proyecto “Voto Informado” y “Diagnóstico Nacional con perspectiva de género sobre todas las formas de violencia contra las mujeres y las niñas y anteproyecto del programa integral para prevenir, atener, sancionar y erradicar la violencia contra las mujeres”, participó en el equipo de desarrollo del Sistema de Información de la Agenda de Transversalidad del Programa especial de cambio climático (SIAT-PECC), colaboró en la programación del Sistema de Seguimiento del Programa de Acción Climática de la Ciudad de México (SS-PACCM) y en el Sistema de Seguimiento del PROAIRE de la Ciudad de México (SS-PROAIRE), también colaboró en el desarrollo del Sistema Nacional de Información de la Calidad del Aire (SINAICA) para el INECC.
 
        Es cofundador de NotLand, empresa establecida en 2013 especializada en el desarrollo de sistemas de recopilación y manejo de información, con NotLand ha colaborado en el desarrollo de proyectos con la GIZ, BID y entidades gubernamentales. Con la iniciativa privada ha participado en la coordinación y desarrollo de aplicaciones web y móviles para el levantamiento en línea de encuestas con la empresa Shoppers Consulting y en el sistema de seguimiento de instalaciones para Isla Urbana. Apoyó en el desarrollo visual de la herramienta Perfil Metropolitano y coordinó la adaptación de mapas de entrada y salida del módulo LULCC para lenguaje R.
-  - name: Judá García
-    member_title: Urbanismo
-    image: images/team/JG.jpg
-    image_webp: images/team/JG.jpg
-    categories:
-    - consultants
-    title: Consultor
-    content: Desarrollo Urbano y Sistemas de Información Geográfica
-    link: "#"
-    member_profile: Estudió Urbanismo por parte de la Universidad Nacional Autónoma
-      de México. Ha trabajado en el sector privado como Analista SIG en el sector
-      inmobiliario, así mismo colaboró con la Secretaria de Gobernación en el desarrollo
-      de la Estrategia Territorial del Programa Nacional de Prevención del Delito
-      como Jefe de Analistas SIG.
-  - name: Lili Hernández
-    member_title: Ingeniero en Desarrollo Sustentable
-    image: images/team/LH.jpg
-    image_webp: images/team/LH.jpg
-    categories:
-    - associates
-    title: Asociada
-    content: Desarrollo Sustentable
-    link: "#"
-    member_profile: Estudiante de la Ingeniería en Desarrollo Sustentable en el Tecnológico de Monterrey y con experiencia internacional en Canadá y Singapur.
-      Previo a CAPSUS trabajó en el Instituto de Energías Renovables de la UNAM en el departamento de Mecánica de Fluidos en cuestiones ópticas y en el laboratorio de ecología marina de la Universidad de Victoria analizando muestras bacterianas en agua y realizando monitoreos de corales de la Isla de Navidad.
   - name: Mariana Elizondo
     member_title: Internacionalista y Maestra en Administración Pública
     image: images/team/ME.jpg
