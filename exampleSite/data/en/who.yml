@@ -8,6 +8,7 @@ who:
     - enable: true
       label: Download brochure
       link: "documents/Brochure2021-ENG.pdf"
+  button_item2:
     - enable: true
       label: Download One-pager
       link: "documents/One-pager CAPSUS.pdf"
