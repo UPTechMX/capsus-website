@@ -94,7 +94,7 @@ jobs:
                   - Título o cédula profesional.
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
                 info4_id: vac-0
-              #  info4_item_location: Toluca
+                info4_item_location: Toluca
               #- info4_item_fulltitle: Ingeniería ambiental
               #  info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
               #  info4_item_content: |
