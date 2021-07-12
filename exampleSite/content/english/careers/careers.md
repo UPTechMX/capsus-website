@@ -34,65 +34,7 @@ jobs:
                 After analyzing your documentation, we will contact you for an interview where we can clarify the doubts that you and we have.
           info4:
             - info4_title: Careers
-              info4_item:
-              - info4_item_fulltitle: Analista en Calidad del Aire
-                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en Toluca
-                info4_item_content: |
-                  #### PERFIL
-                  Buscamos una persona comprometida con su trabajo, organizada y proactiva para dar soporte en materia de gestión de calidad del aire. Disponibilidad de horario de tiempo completo. 
-                  
-                  #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
-                  - Licenciatura o ingeniería química, ambiental, ciencias de la tierra o similares (titulada(o)).
-                  - Maestría o especialización de preferencia.
-                  - Edad: Mayor de 30 años.
-                  - 4 años de experiencia en tareas similares.
-                  - Manejo de Microsoft Office.
-                  - Conocimientos sobre tecnologías de control de emisiones a la atmósfera.
-                  - Conocimientos sobre modelación de la calidad del aire y meteorología.
-                  - Conocimiento general de otros temas ambientales.
-                  - Habilidades de planeación y seguimiento de tareas.
- 
-                  
-                  #### ACTIVIDADES GENERALES DEL PUESTO
-                  - Análisis de información de calidad del aire, emisiones a la atmósfera y sus fuentes.
-                  - Análisis en relación a calidad del aire e impactos en la salud.
-                  - Análisis de datos y generación de gráficos e imágenes para presentaciones.
-                  - Elaboración de documentos y presentaciones para informar de los análisis realizados y sus resultados.
-                  - Apoyo al seguimiento de acciones y recomendaciones de gestión de calidad del aire.
-                  - Apoyo al seguimiento de proyectos, programas y acciones ambientales.
-                  - Informar sobre el seguimiento de acciones y recomendaciones de gestión de calidad del aire.
-
-              
-                  #### COMPETENCIAS Y HABILIDADES
-                  - Excelente administración del tiempo.
-                  - Orientación a resultados y a la colaboración en equipo.
-                  - Disponibilidad de horario.
-                  - Seguimiento de acuerdos.
-                  - Trabajo bajo presión y manejo de crisis.
-                  - Tolerancia a la crítica y a la frustración.
-                  - Sociable.
-                  - Iniciativa y capacidad de reflexión.
-                  - Orientación al detalle y estructura.
-                  - Organización y persistencia.
-                  - Proactividad.
-                  - Respeto.
-                  - Multi tareas.
-                  - Responsabilidad, transparencia y honestidad.
-                  - Confidencialidad e integridad.
-                  - Calidad.
-
-
-                  #### OFERTA
-                  - Prestaciones de Ley.
-                  - 18,000 a 25,000 mxn bruto de acuerdo a competencias y habilidades.
-              
-                  #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
-                  - Currículum
-                  - Título o cédula profesional.
-                  - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
-                info4_id: vac-0
-                info4_item_location: Toluca
+              #info4_item:
               #- info4_item_fulltitle: Ingeniería ambiental
               #  info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
               #  info4_item_content: |
