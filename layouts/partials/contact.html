@@ -60,6 +60,25 @@
 					</div>
 				</form>
 			</div>
+			
+			{{"<!-- Contact Details US -->" | safeHTML}}
+			<div class="contact-info col-lg-6 wow fadeInUp" data-wow-duration="500ms">
+				<h3>{{ .main_title | markdownify }}</h3>
+				<br>
+				<div class="contact-details">
+					{{ range .contact_details_us }}
+					<div class="con-info clearfix">
+						{{ if eq .icon "fas fa-map-marker-alt" }}
+						<h5 class="color"><i class="{{ .icon }} color"></i>{{ $subtitle_us | markdownify }}</h5>
+						<span>{{ .info | markdownify }}</span>
+						{{ else }}
+						<i class="{{ .icon }} color"></i>
+						<span>{{ .info | markdownify }}</span>
+						{{ end }}
+					</div>
+					{{ end }}
+				</div>
+			</div>
 		</div>
 	</div>
 </section>
