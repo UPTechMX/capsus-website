@@ -22,18 +22,39 @@
 			<div class="contact-info col-lg-6 wow fadeInUp" data-wow-duration="500ms">
 				<h3>{{ .main_title | markdownify }}</h3>
 				<br>
-				<div class="contact-details">
-					{{ range .contact_details }}
-					<div class="con-info clearfix">
-						{{ if eq .icon "fas fa-map-marker-alt" }}
-						<h5 class="color"><i class="{{ .icon }} color"></i>{{ $subtitle | markdownify }}</h5>
-						<span>{{ .info | markdownify }}</span>
-						{{ else }}
-						<i class="{{ .icon }} color"></i>
-						<span>{{ .info | markdownify }}</span>
-						{{ end }}
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="contact-details">
+						{{ range .contact_details }}
+							<div class="con-info clearfix">
+								{{ if eq .icon "fas fa-map-marker-alt" }}
+								<h5 class="color"><i class="{{ .icon }} color"></i>{{ $subtitle | markdownify }}</h5>
+								<span>{{ .info | markdownify }}</span>
+								{{ else }}
+								<i class="{{ .icon }} color"></i>
+								<span>{{ .info | markdownify }}</span>
+								{{ end }}
+							</div>
+							{{ end }}
+						</div>
 					</div>
-					{{ end }}
+				</div>
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="contact-details">
+							{{ range .contact_details_us }}
+							<div class="con-info clearfix">
+								{{ if eq .icon "fas fa-map-marker-alt" }}
+								<h5 class="color"><i class="{{ .icon }} color"></i>{{ $subtitle_us | markdownify }}</h5>
+								<span>{{ .info | markdownify }}</span>
+								{{ else }}
+								<i class="{{ .icon }} color"></i>
+								<span>{{ .info | markdownify }}</span>
+								{{ end }}
+							</div>
+							{{ end }}
+						</div>
+					</div>
 				</div>
 			</div>
 
@@ -43,7 +64,7 @@
 					<p class="d-none">
 						<label>Don’t fill this out if you're human: <input name="capsussec" /></label>
 					</p>
-					<input name="e-mail" type="text" id="e-mail" autocomplete="off">
+					<input name="e-zmail" type="text" id="e-mail" autocomplete="off">
 					<div class="form-group">
 						<input type="text" placeholder="{{ i18n "name" }}" class="form-control" name="name" id="name">
 					</div>
@@ -60,23 +81,6 @@
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block" value="Submit">{{ i18n "submit" }}</button>
 					</div>
 				</form>
-			</div>
-			
-			{{"<!-- Contact Details US -->" | safeHTML}}
-			<div class="contact-info col-lg-6 wow fadeInUp" data-wow-duration="500ms">
-				<div class="contact-details">
-					{{ range .contact_details_us }}
-					<div class="con-info clearfix">
-						{{ if eq .icon "fas fa-map-marker-alt" }}
-						<h5 class="color"><i class="{{ .icon }} color"></i>{{ $subtitle_us | markdownify }}</h5>
-						<span>{{ .info | markdownify }}</span>
-						{{ else }}
-						<i class="{{ .icon }} color"></i>
-						<span>{{ .info | markdownify }}</span>
-						{{ end }}
-					</div>
-					{{ end }}
-				</div>
 			</div>
 		</div>
 	</div>
