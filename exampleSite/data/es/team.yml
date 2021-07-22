@@ -276,19 +276,6 @@ team:
     content: Desarrollo urbano sustentable
     link: "#"
     member_profile: Egresado de la Facultad de Estudios Superiores Acatlán de la Universidad Nacional Autónoma de México. Cuenta con dos años de experiencia en el sector público en proyectos de obra pública y desarrollo sustentable.
-  - name: Araceli Hernández
-    member_title: Urbanista
-    image: images/team/CAMe/Araceli.jpg
-    image_webp: images/team/CAMe/Araceli.jpg
-    categories:
-    - consultants
-    title: Consultora
-    content: Desarrollo urbano sustentable
-    link: "#"
-    member_profile: |-
-      Araceli cuenta con una licenciatura en Diseño de Asentamientos Humanos por la Universidad Autónoma Metropolitana, campus Xochimilco, con una especialización en gestión y análisis de la política ambiental por el Instituto Nacional de Administración Pública, con un diplomado en control de la Contaminación Ambiental y una Maestría en Desarrollo Urbano por la Universidad Autónoma de México.
-      
-      Araceli cuenta con una amplia experiencia profesional, ha sido docente a nivel universitario en el área de desarrollo urbano, trabajó en el sector privado en firmas de arquitectura y construcción, y en el sector público ha laborado a nivel local y federal en secretarías relacionados a medio ambiente, desarrollo urbano y desarrollo social.
   - name: Elizabeth Méndez
     member_title: Ingeniera civil
     image: images/team/CAMe/ElizabethMendez.jpg
@@ -319,21 +306,6 @@ team:
     content: Calidad del Aire y Cambio Climático
     link: "#"
     member_profile: Ingeniera Química por la Universidad Nacional Autónoma de México, Maestra en Ciencias por el Centro de Ciencias de la Atmósfera, se ha desempeñado en proyectos enfocados a la modelación de contaminantes atmosféricos, al diseño y ejecución de campañas de monitoreo,  identificación de impactos de diferentes fuentes de emisión de contaminantes y en el uso de modelos meteorológicos y de química atmosférica.
-  - name: Mónica Palomero
-    member_title: Ingeniera ambiental
-    image: images/team/CAMe/MonicaPalomero.jpg
-    image_webp: images/team/CAMe/MonicaPalomero.jpg
-    categories:
-    - consultants
-    title: Consultora
-    content: Desarrollo sustentable
-    link: "#"
-    member_profile: |-
-      Ingeniera Ambiental, con estudios de especialización en Tratamiento y Eliminación de Residuos Industriales Peligrosos en la Carl Duisberg Gesellschaf, Alemania; así como de Control y Abastecimiento de Agua Potable en Japón. 
-
-      En el sector público ha trabajado en la Secretaría de Medio Ambiente del Distrito Federal, en la Procuraduría Federal de Protección al Ambiente, en la Comisión Nacional del Agua, en la Comisión Nacional de Áreas Naturales Protegidas y en la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente. Mónica ha implementado programas de supervisión, inspección y vigilancia a nivel nacional en materia patrimonial, ambiental y de seguridad.
-
-      Adicional a ello, Mónica fue miembro activo del Comité de Playas Limpias de México, coadyuvando en el saneamiento, prevención y corrección de la contaminación de las playas mexicanas.
   - name: Joaquín Ayora
     member_title: Ingeniero civil-ambiental
     image: images/team/CAMe/JoaquinAyora.jpg
@@ -357,4 +329,31 @@ team:
       Yeni es licenciada en Comunicación Social de la Universidad Autónoma Metropolitana unidad Xochimilco y maestrante en Periodismo Político de la Escuela de Periodismo Carlos Septién García, cuenta con más de 10 años de experiencia en el sector público en el área de comunicación.
  
       Previo a Capsus trabajó en la Secretaría de Medio Ambiente y Recursos Naturales (Semarnat) durante más de 6 años en el área de medios de comunicación, creación de contenidos para redes sociales y gestión de entrevistas. 
+  - name: Araceli Hernández
+    member_title: Urbanista
+    image: images/team/CAMe/Araceli.jpg
+    image_webp: images/team/CAMe/Araceli.jpg
+    categories:
+    - consultants
+    title: Consultora
+    content: Desarrollo urbano sustentable
+    link: "#"
+    member_profile: |-
+      Araceli cuenta con una licenciatura en Diseño de Asentamientos Humanos por la Universidad Autónoma Metropolitana, campus Xochimilco, con una especialización en gestión y análisis de la política ambiental por el Instituto Nacional de Administración Pública, con un diplomado en control de la Contaminación Ambiental y una Maestría en Desarrollo Urbano por la Universidad Autónoma de México.
+      
+      Araceli cuenta con una amplia experiencia profesional, ha sido docente a nivel universitario en el área de desarrollo urbano, trabajó en el sector privado en firmas de arquitectura y construcción, y en el sector público ha laborado a nivel local y federal en secretarías relacionados a medio ambiente, desarrollo urbano y desarrollo social.
+  - name: Mónica Palomero
+    member_title: Ingeniera ambiental
+    image: images/team/CAMe/MonicaPalomero.jpg
+    image_webp: images/team/CAMe/MonicaPalomero.jpg
+    categories:
+    - consultants
+    title: Consultora
+    content: Desarrollo sustentable
+    link: "#"
+    member_profile: |-
+      Ingeniera Ambiental, con estudios de especialización en Tratamiento y Eliminación de Residuos Industriales Peligrosos en la Carl Duisberg Gesellschaf, Alemania; así como de Control y Abastecimiento de Agua Potable en Japón. 
 
+      En el sector público ha trabajado en la Secretaría de Medio Ambiente del Distrito Federal, en la Procuraduría Federal de Protección al Ambiente, en la Comisión Nacional del Agua, en la Comisión Nacional de Áreas Naturales Protegidas y en la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente. Mónica ha implementado programas de supervisión, inspección y vigilancia a nivel nacional en materia patrimonial, ambiental y de seguridad.
+
+      Adicional a ello, Mónica fue miembro activo del Comité de Playas Limpias de México, coadyuvando en el saneamiento, prevención y corrección de la contaminación de las playas mexicanas.
