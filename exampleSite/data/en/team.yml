@@ -235,3 +235,118 @@ team:
 
 
       During his master's degree he specialized in the relationship city-climate change. Before arriving at CAPSUS he worked for a year at the United Nations on affordable housing projects and energy efficiency.
+  - name: Israel Huipio
+    member_title: PUBLIC ACCOUNTANT
+    image: images/team/CAMe/IsraelHuipio.jpg
+    image_webp: images/team/CAMe/IsraelHuipio.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Administration and Finances
+    link: "#"
+    member_profile: Graduated from the Mexican University, he has a specialty in Management and a Bachelor's Degree in Public Accounting. Israel has more than 15 years of experience in the field and in the management of real estate projects.
+  - name: Julia Jiménez
+    member_title: PUBLIC ACCOUNTANT
+    image: images/team/CAMe/JuliaJimenez.jpg
+    image_webp: images/team/CAMe/JuliaJimenez.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Finances
+    link: "#"
+    member_profile: Graduated from the Faculty of Accounting and Administration of the Universidad Nacional Autónoma de México (UNAM), Julia has more than 20 years of experience in the Financial Sector.
+  - name: César Augusto Flores
+    member_title: Environmental lawyer
+    image: images/team/CAMe/CesarFlores.jpg
+    image_webp: images/team/CAMe/CesarFlores.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Environmental law
+    link: "#"
+    member_profile: Degree in Law from the Universidad Autónoma Metropolitana. Cesar has three years of professional experience in the field of environmental and administrative law. He has served as an environmental lawyer in both the public and private sectors. In the public sector, he worked in the Legal Affairs Unit of the Mexican Secretary of Environment and Natural Resources. In the private sector, he worked in a law firm dedicated to environmental and administrative matters. Throughout his professional career in environmental and administrative law, he has participated in the evaluation and design of laws and their regulations, including guidelines, norms,  standards, conventions, and international treaties.
+  - name: Luis Enrique Juárez
+    member_title: Architect
+    image: images/team/CAMe/LuisEnriqueJuarez.jpg
+    image_webp: images/team/CAMe/LuisEnriqueJuarez.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Sustainable Urban Development
+    link: "#"
+    member_profile: Graduated from Facultad de Estudios Superiores Acatlán of the Universidad Nacional Autónoma de México. He has two years of experience in public works and sustainable development projects.
+  - name: Araceli Hernández
+    member_title: Urban Planner
+    image: images/team/CAMe/Araceli.jpg
+    image_webp: images/team/CAMe/Araceli.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Sustainable Urban Development
+    link: "#"
+    member_profile: Araceli holds a bachelor in Design of Human Settlements from the Mexcan Universidad Autónoma Metropolitana, and a Master’s degree in Urban Planning form the National Autonomous University of Mexico. She also has post graduate studies in environmental policy and pollution control. She has extensive professional experience in the academic, private and public sectors. In academia, Araceli has given undergraduate level courses in the urban development subjects. In the private sector she worked in architectural and construction companies, and in the public sector she has worked both in the local and national governments of Mexico, in the ministries of environment, urban development and social development.   
+  - name: Elizabeth Méndez
+    member_title: Civil engineer
+    image: images/team/CAMe/ElizabethMendez.jpg
+    image_webp: images/team/CAMe/ElizabethMendez.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Territorial planning and urban mobility
+    link: "#"
+    member_profile: Elizabeth has a Master's Degree in Civil Engineering in the Area of Territorial Planning by the Engineering and Architecture School of the Instituto Politécnico Nacional in Mexico, she is currently a PhD candidate for Civil Engineering from the same Institution. For the past 8 years, she has participated in various academic and research activities in the area of urban mobility.
+  - name: Carolina Guizado
+    member_title: Territorial planning
+    image: images/team/CAMe/CarolinaGuizado.jpg
+    image_webp: images/team/CAMe/CarolinaGuizado.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Sustainable Urban Development
+    link: "#"
+    member_profile: Graduated in Territorial Planning from the Universidad Autónoma Metropolitana with a Master's degree in Urban Planning in the area of ​​Urban Management and Public Policy from the Universidad Nacional Autónoma de México. She has worked in the public sector at the local level, collaborating in the management and monitoring of projects on sustainable urban development.
+  - name: Sandra García
+    member_title: Chemical engineer
+    image: images/team/CAMe/SandraGarcia.jpg
+    image_webp: images/team/CAMe/SandraGarcia.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Air Quality and Climate Change
+    link: "#"
+    member_profile: Chemical Engineer from the National Autonomous University of Mexico (UNAM), she holds a Master of Science from the Center for Atmospheric Sciences at UNAM. She has worked in several projects about air quality modeling of atmospheric pollutants and the design and execution of monitoring campaigns. Sandra has extensive experience in the analysis of atmospheric pollutants generated by several emissions sources, through the use of meteorological chemistry models.
+  - name: Mónica Palomero
+    member_title: Environmental engineer
+    image: images/team/CAMe/MonicaPalomero.jpg
+    image_webp: images/team/CAMe/MonicaPalomero.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Sustainable development
+    link: "#"
+    member_profile: |-
+      Environmental Engineer, with specialization studies in Treatment and Elimination of Hazardous Industrial Waste at Carl Duisberg Gesellschaf, Germany; as well as Control and Supply of Drinking Water in Japan. 
+
+      Mónica has worked in Mexico City´s Environment Ministry, in the General Attorney's Office for Environmental Protection, in the National Water Commission, in the National Commission for Protected Natural Areas and in the National Agency for Environmental Protection, Industrial Safety and Security, all of them in Mexico. Mónica implemented supervision, inspection and surveillance programs at the national level in environmental and industrial safety matters.
+
+      Monica was an active member of the Clean Beaches Committee of Mexico, assisting in the sanitation, prevention and restoration of contaminated Mexican beaches.
+  - name: Joaquín Ayora
+    member_title: Civil engineer
+    image: images/team/CAMe/JoaquinAyora.jpg
+    image_webp: images/team/CAMe/JoaquinAyora.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Sustainable development
+    link: "#"
+    member_profile: Joaquin is a Civil Engineer from the Instituto Politécnico Nacional and holds a master degree in Environmental engineering from the same institution. He has more than 20 years of experience in the environmental public sector.
+  - name: Yeni Solis
+    member_title: Communicologist
+    image: images/team/CAMe/Yeni.jpg
+    image_webp: images/team/CAMe/Yeni.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Communication
+    link: "#"
+    member_profile: She has a degree in Social Communication from the Universidad Autónoma Metropolitana at Xochimilco and postgraduate studies in Political Journalism from the Carlos Septién García School of Journalism. She has more than 10 years of experience in the public sector in the communication area. Prior to Capsus, Yeni worked at the Ministry of the Environment and Natural Resources (Semarnat) for more than 6 years in the social communication area.
