@@ -245,26 +245,6 @@ team:
     content: Administration and Finances
     link: "#"
     member_profile: Graduated from the Mexican University, he has a specialty in Management and a Bachelor's Degree in Public Accounting. Israel has more than 15 years of experience in the field and in the management of real estate projects.
-  - name: Julia Jiménez
-    member_title: PUBLIC ACCOUNTANT
-    image: images/team/CAMe/JuliaJimenez.jpg
-    image_webp: images/team/CAMe/JuliaJimenez.jpg
-    categories:
-    - consultants
-    title: Consultant
-    content: Finance
-    link: "#"
-    member_profile: Graduated from the Faculty of Accounting and Administration of the Universidad Nacional Autónoma de México (UNAM), Julia has more than 20 years of experience in the financial sector.
-  - name: César Augusto Flores
-    member_title: Environmental lawyer
-    image: images/team/CAMe/CesarFlores.jpg
-    image_webp: images/team/CAMe/CesarFlores.jpg
-    categories:
-    - consultants
-    title: Consultant
-    content: Environmental law
-    link: "#"
-    member_profile: Degree in Law from the Universidad Autónoma Metropolitana. Cesar has three years of professional experience in the field of environmental and administrative law. He has served as an environmental lawyer in both the public and private sectors. In the public sector, he worked in the Legal Affairs Unit of the Mexican Secretary of Environment and Natural Resources. In the private sector, he worked in a law firm dedicated to environmental and administrative matters. Throughout his professional career in environmental and administrative law, he has participated in the evaluation and design of laws and their regulations, including guidelines, norms,  standards, conventions, and international treaties.
   - name: Luis Enrique Juárez
     member_title: Architect
     image: images/team/CAMe/LuisEnriqueJuarez.jpg
@@ -325,6 +305,26 @@ team:
     content: Communication
     link: "#"
     member_profile: She has a degree in Social Communication from the Universidad Autónoma Metropolitana at Xochimilco and postgraduate studies in Political Journalism from the Carlos Septién García School of Journalism. She has more than 10 years of experience in the public sector in the communication area. Prior to Capsus, Yeni worked at the Ministry of the Environment and Natural Resources (Semarnat) for more than 6 years in the social communication area.
+  - name: Julia Jiménez
+    member_title: PUBLIC ACCOUNTANT
+    image: images/team/CAMe/JuliaJimenez.jpg
+    image_webp: images/team/CAMe/JuliaJimenez.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Finance
+    link: "#"
+    member_profile: Graduated from the Faculty of Accounting and Administration of the Universidad Nacional Autónoma de México (UNAM), Julia has more than 20 years of experience in the financial sector.
+  - name: César Augusto Flores
+    member_title: Environmental lawyer
+    image: images/team/CAMe/CesarFlores.jpg
+    image_webp: images/team/CAMe/CesarFlores.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Environmental law
+    link: "#"
+    member_profile: Degree in Law from the Universidad Autónoma Metropolitana. Cesar has three years of professional experience in the field of environmental and administrative law. He has served as an environmental lawyer in both the public and private sectors. In the public sector, he worked in the Legal Affairs Unit of the Mexican Secretary of Environment and Natural Resources. In the private sector, he worked in a law firm dedicated to environmental and administrative matters. Throughout his professional career in environmental and administrative law, he has participated in the evaluation and design of laws and their regulations, including guidelines, norms,  standards, conventions, and international treaties.
   - name: Araceli Hernández
     member_title: Urban Planner
     image: images/team/CAMe/Araceli.jpg
