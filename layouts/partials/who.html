@@ -66,7 +66,9 @@
 							<h2>
 								{{ .who_title | markdownify}}
 							</h2>
-							<span>{{ .who_content | markdownify }}</span>
+							<p>
+								<span>{{ .who_content | markdownify }}</span>
+							</p>
 							<button class="btn btn-transparent mt-4">
 								<a href="{{ .download_link | relURL }}" download>
 									<h5 class="my-auto">
