@@ -49,3 +49,12 @@ who:
         - list_content : Crecimiento
         - list_content : Creatividad
         - list_content : Credibilidad
+        
+    - who_title : Impulsamos nuestra innovación y creatividad a través de un ambiente diverso e inclusivo
+      who_id: "mission"
+      who_content : "We value human development as part of our contribution to build a sustainable, more equitable, and fair society. For that reason, we act under the premise of non-violence, gender equality, and respect for sexual diversity to protect the rights, identity and individuality of the LGBT+ community, women and minority groups in our workplace."
+      image : images/who/diversidad-img-08.png
+      image_webp : images/who/diversidad-img-08.png
+      button: Download GDI policy
+      list_item : 
+        - list_content : Creemos y trabajamos para la construcción de una sociedad más justa, equitativa y segura. A través de nuestra política de género, diversidad e inclusión, enfocamos nuestras acciones en 3 pilares que promueven la equidad de género, el respeto a la comunidad LGBT+ y la prevención de situaciones de acoso, violencia y discriminación en nuestro ambiente empresarial.
