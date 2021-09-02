@@ -266,16 +266,16 @@ team:
     content: Planeación territorial y movilidad urbana
     link: "#"
     member_profile: Cuenta con una Maestría en Ingeniería Civil en el Área de Planeación Territorial por la Escuela Superior de Ingeniería y Arquitectura del Instituto Politécnico Nacional, actualmente es candidata a Doctora en Ingeniería por la misma Institución. En los últimos 8 años ha participado en diversas actividades académicas y de investigación en el área de movilidad urbana.
-  - name: Carolina Guizado
-    member_title: Licenciada en planeación territorial
-    image: images/team/CAMe/CarolinaGuizado.jpg
-    image_webp: images/team/CAMe/CarolinaGuizado.jpg
+  - name: Valeria Navarro
+    member_title: Licenciada en relaciones internacionales
+    image: images/team/CAMe/ValeriaNavarro.jpg
+    image_webp: images/team/CAMe/ValeriaNavarro.jpg
     categories:
     - consultants
     title: Consultora
-    content: Desarrollo Urbano Sustentable
+    content: Sustentabilidad y Salud
     link: "#"
-    member_profile: Licenciada en Planeación Territorial por la Universidad Autónoma Metropolitana Unidad Xochimilco, con estudios de Maestría en Urbanismo en el área de Gestión Urbana y Políticas Públicas por la Universidad Nacional Autónoma de México. Se ha desempeñado en el sector público a nivel local colaborando en la gestión y seguimiento de proyectos en temas ambientales y desarrollo urbano.
+    member_profile: Egresada de la Licenciatura en Relaciones Internacionales por la Universidad Iberoamericana y de la Maestría en Salud por la Universidad College Cork de la República de Irlanda. Cuenta con experiencia en el sector privado y en organizaciones no gubernamentales, tanto a nivel nacional como internacional.
   - name: Sandra García
     member_title: Ingeniera química
     image: images/team/CAMe/SandraGarcia.jpg
@@ -321,8 +321,8 @@ team:
     member_profile: Egresada de la Facultad de Contaduría y Administración de la Universidad Nacional Autónoma de México, con más de 20 años de experiencia en el sector financiero, específicamente en el área fiduciaria, participando en la administración, operación, atención a Órganos Colegiados y auditoría de diversos fideicomisos tanto públicos como privados.
   - name: César Augusto Flores
     member_title: Abogado ambiental
-    image: images/team/CAMe/CesarFlores.jpg
-    image_webp: images/team/CAMe/CesarFlores.jpg
+    image: images/team/CAMe/Cesar.jpg
+    image_webp: images/team/CAMe/Cesar.jpg
     categories:
     - consultants
     title: Consultor
@@ -344,8 +344,8 @@ team:
       Araceli cuenta con una amplia experiencia profesional, ha sido docente a nivel universitario en el área de desarrollo urbano, trabajó en el sector privado en firmas de arquitectura y construcción, y en el sector público ha laborado a nivel local y federal en secretarías relacionados a medio ambiente, desarrollo urbano y desarrollo social.
   - name: Mónica Palomero
     member_title: Ingeniera ambiental
-    image: images/team/CAMe/MonicaPalomero.jpg
-    image_webp: images/team/CAMe/MonicaPalomero.jpg
+    image: images/team/CAMe/Monica.jpg
+    image_webp: images/team/CAMe/Monica.jpg
     categories:
     - consultants
     title: Consultora
