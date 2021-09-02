@@ -183,30 +183,6 @@ team:
     content: Desarrollo Sustentable
     link: "#"
     member_profile: "Egresada de la Licenciatura en Ingeniería Química por la Universidad Iberoamericana. Cuenta con experiencia en el sector de energía, donde ha asesorado a empresas privadas en el desarrollo de su estrategia de gestión de energía eléctrica, impulsando la implementación de energía renovable y la eficiencia energética. \n\nTambién, ha participado en investigaciones académicas referentes al aprovechamiento del sargazo y a la adopción de ecotecnologías para el manejo sustentable del agua. Actualmente trabaja en las Áreas de Calidad del Aire, Cambio Climático y Financiamiento Ambiental."
-  - name: Ricardo García
-    member_title: Ingeniero Ambiental
-    image: images/team/RG.jpg
-    image_webp: images/team/RG.jpg
-    categories:
-    - consultants
-    title: Consultor
-    content: Desarrollo Sustentable
-    link: "#"
-    member_profile: "Tiene experiencia en temas de desarrollo sustentable, cambio
-      climático y eficiencia energética. Ricardo ha trabajado en proyectos para el
-      sector privado, sector público y organizaciones no gubernamentales. \n\nEntre
-      sus proyectos destaca la evaluación de tecnologías eficientes que signifiquen
-      una mejora en temas energéticos y ambientales."
-  - name: Sebastián Reyes
-    member_title: Ingeniero Químico Ambiental
-    image: images/team/SR.jpg
-    image_webp: images/team/SR.jpg
-    categories:
-    - consultants
-    title: Consultor
-    content: Desarrollo Sustentable
-    link: "#"
-    member_profile: "Egresado de la Universidad Autónoma de Querétaro. Tiene diversas capacitaciones en materia de elaboración y análisis de inventarios de emisiones, cuenta con experiencia en el análisis e implementación de políticas públicas ambientales, y es especialista en calidad del aire dentro de CAPSUS.\n\nHa colaborado en la elaboración de Programas de Gestión para Mejorar la Calidad del Aire en el Estado de México (2018-2030) y la Ciudad de México (2021-2030). Destaca su experiencia asesorando a gobiernos locales y ciudades mexicanas en el desarrollo de planes de acción climática, integración de inventarios de emisiones de gases de efecto invernadero, análisis de riesgos y vulnerabilidades climáticas, y diseño de acciones de mitigación y adaptación al cambio climático."
   - name: Socorro Román
     member_title: Urbanista
     image: images/team/SM.jpg
