@@ -37,7 +37,7 @@ jobs:
           info4:
             - info4_title: Vacantes
               info4_item:
-              - info4_item_fulltitle: Analista en Desarrollo Sustentable y Cambio Climático
+              - info4_item_fulltitle: Analista en desarrollo sustentable y cambio climático
                 info4_item_subtitle: Áreas relacionadas con ingeniería, economía o política pública
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
                 info4_item_content: |
