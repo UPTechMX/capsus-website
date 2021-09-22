@@ -168,6 +168,8 @@ jobs:
 
 
                   Si tu CV es seleccionado, nos comunicaremos contigo para los siguientes pasos.
+                info4_id: vac-2
+                info4_item_location: CDMX
               #- info4_item_fulltitle: Licenciada(o) en derecho
               #  info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
               #  info4_item_content: |
