@@ -98,7 +98,7 @@ jobs:
                   Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
                   - Currículum
                   - Título o cédula profesional
-                  - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos.
+                  - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos
                   - Una carta en inglés donde nos cuentes sobre ti: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué te lleva a perseguir una carrera profesional en el área de sustentabilidad?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?
 
 
@@ -122,7 +122,7 @@ jobs:
                   Actualmente trabajamos de manera virtual en esta nueva normalidad, pero tu residencia fiscal debe estar en México.
                   
                   #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
-                  - Maestría en áreas relacionadas con el desarrollo urbano y el medio ambiente.
+                  - Maestría en áreas relacionadas con el desarrollo urbano y el medio ambiente
                   - Más de 4 años de experiencia laboral
                   - Manejo de Microsoft Office
                   - Impecable expresión al escrito y al oral en español e inglés en un ambiente profesional
