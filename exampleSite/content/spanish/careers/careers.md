@@ -45,7 +45,10 @@ jobs:
                   Buscamos una persona comprometida con el desarrollo sustentable y el cambio climático con entrenamiento académico y experiencia profesional en áreas de ingeniería, economía o política pública relacionadas al desarrollo sustentable, el cambio climático, el medio ambiente, o el urbanismo.
                   
                   
-                  Buscamos alguien perseverante, con capacidades en resolución de problemas para el alcance de objetivos. Disponibilidad de horario de tiempo completo.
+                  Buscamos alguien perseverante, con capacidades en resolución de problemas para el alcance de objetivos. 
+                  
+                  
+                  Disponibilidad de horario de tiempo completo.
                   
                   
                   Actualmente trabajamos de manera virtual en esta nueva normalidad, pero tu residencia fiscal debe estar en México.
@@ -54,7 +57,7 @@ jobs:
                   - Licenciatura o ingeniería enfocado en áreas de economía, política pública o temas relacionados con el medio ambiente (titulada(o))
                   - 2 años de experiencia laboral
                   - Manejo de Microsoft Office
-                  - Excelente expresión al escrito y al oral en español e inglés en un ambiente profesional.
+                  - Excelente expresión al escrito y al oral en español e inglés en un ambiente profesional
                   - Un tercer idioma es un plus
                   - Buenas habilidades matemáticas y trabajo con números
                   - Excelente redacción profesional
@@ -94,7 +97,7 @@ jobs:
                   #### PROCESO
                   Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
                   - Currículum
-                  - Título o cédula profesional.
+                  - Título o cédula profesional
                   - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos.
                   - Una carta en inglés donde nos cuentes sobre ti: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué te lleva a perseguir una carrera profesional en el área de sustentabilidad?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?
 
@@ -110,7 +113,10 @@ jobs:
                   Buscamos una persona comprometida con el desarrollo sustentable que tenga un título de maestría en áreas relacionadas al desarrollo urbano y el medio ambiente. Debes ser una persona dinámica, motivada, creativa, multidisciplinaria, con una mente analítica y con buenas bases matemáticas.
                   
                   
-                  Buscamos alguien perseverante, con capacidades en resolución de problemas para el alcance de objetivos. Excelente expresión por escrito tanto en español como en inglés. Disponibilidad de horario de tiempo completo.
+                  Buscamos alguien perseverante, con capacidades en resolución de problemas para el alcance de objetivos. Excelente expresión por escrito tanto en español como en inglés. 
+                  
+                  
+                  Disponibilidad de horario de tiempo completo.
                   
                   
                   Actualmente trabajamos de manera virtual en esta nueva normalidad, pero tu residencia fiscal debe estar en México.
@@ -119,7 +125,7 @@ jobs:
                   - Maestría en áreas relacionadas con el desarrollo urbano y el medio ambiente.
                   - Más de 4 años de experiencia laboral
                   - Manejo de Microsoft Office
-                  - Impecable expresión al escrito y al oral en español e inglés en un ambiente profesional.
+                  - Impecable expresión al escrito y al oral en español e inglés en un ambiente profesional
                   - Un tercer idioma es un plus
                   - Liderazgo motivacional y orientado a resultados
                   - Trabajo eficiente en equipo
@@ -160,7 +166,7 @@ jobs:
                   - Carta de exposición de motivos en inglés
                   - Una semblanza de tu trayectoria profesional en español e inglés
                   - Currículum en español
-                  - Copia de títulos profesionales.
+                  - Copia de títulos profesionales
 
 
                   Si tu CV es seleccionado, nos comunicaremos contigo para los siguientes pasos.
