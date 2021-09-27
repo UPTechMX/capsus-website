@@ -151,6 +151,7 @@ jobs:
                   #### OFERTA
                   - Sueldo bruto mensual: $25,000.00 - $45,000.00 dependiendo de experiencia  y competencias
                   - Prestaciones de ley
+                  - Seguro de gastos médicos mayores
                   - Vacaciones adicionales a las de ley
                   - Excelente ambiente de trabajo
                   - Proyectos de gran impacto
