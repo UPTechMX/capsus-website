@@ -167,22 +167,7 @@ team:
     content: Urban Planning
     link: "#"
     member_profile: |- 
-      "Graduated from the Universidad Nacional Autónoma de México. Prior to CAPSUS, he collaborated in the urban impact area at the “Secretaría de Desarrollo Urbano y Vivienda”. He participated in collecting and analyzing data form the “Population and Housing Census”."
-
-  - name: Lili Hernández
-    member_title: Engineer in Sustainable Development
-    image: images/team/LH.jpg
-    image_webp: images/team/LH.jpg
-    categories:
-    - consultants
-    title: Consultant
-    content: Sustainable Development
-    link: "#"
-    member_profile: |- 
-      "Sustainable Development Engineer by the Tecnológico de Monterrey. She has international experience at Canadá and Singapore.
-
-      Prior to CAPSUS she worked and the Renewable Energies Institute from the UNAM at the Fluids Mechanic department in optical issues and she worked at Victoria's University inside the marine ecology laboratory analyzing bacterial samples in water and monitoring corals at "Christmas Island"."
-  
+      Graduated from the Universidad Nacional Autónoma de México. Prior to CAPSUS, he collaborated in the urban impact area at the “Secretaría de Desarrollo Urbano y Vivienda”. He participated in collecting and analyzing data form the “Population and Housing Census”.
   - name: Juan Manuel Gómez
     member_title: Applied Mathematics
     image: images/team/JMG copia.jpg
@@ -204,6 +189,19 @@ team:
       System of the Climate Action Program of Mexico City (SS-PACCM) and in the Monitoring
       System of PROAIRE of Mexico City (SS-PROAIRE). He also assisted the development
       of the National Air Quality Information System (SINAICA) for THE INECC."
+  - name: Lili Hernández
+    member_title: Engineer in Sustainable Development
+    image: images/team/LH.jpg
+    image_webp: images/team/LH.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Sustainable Development
+    link: "#"
+    member_profile: |- 
+      Sustainable Development Engineer by the Tecnológico de Monterrey. She has international experience at Canadá and Singapore.
+
+      Prior to CAPSUS she worked and the Renewable Energies Institute from the UNAM at the Fluids Mechanic department in optical issues and she worked at Victoria's University inside the marine ecology laboratory analyzing bacterial samples in water and monitoring corals at "Christmas Island".
   - name: Mariana Elizondo
     member_title: International Relations and Master in Public Administration
     image: images/team/ME.jpg
@@ -214,17 +212,6 @@ team:
     content: Foreign Affairs and Public Administration
     link: "#"
     member_profile: "Mariana holds a bachelor degree on International Relations and a Master degree on Public Administration. She has specialized in academic and professional foreign exchanges between México and the countries of the Americas. Mariana has professional experience in the public and private sectors in Mexico, the United States of America and France. She has worked at the OECD, in the Mexican State Department and in the Mexican Ministry of Social Development. She has implemented academic and professional exchange programs in Mexico and abroad, and she has also worked on projects related to economic development, public-private partnerships and social development."
-  - name: Paula Hernández
-    member_title: ARCHITECT
-    image: images/team/PH.jpg
-    image_webp: images/team/PH.jpg
-    categories:
-    - associates
-    title: Associate
-    content: Urban Planning
-    link: "#"
-    member_profile: |- 
-      "Currently studying the last year of architecture at Tecnológico de Monterrey. She has participated in social impact projects through participatory design, and in the design and planning of mixed-use urban development projects using the BIM Methodology."
   - name: Paula Arellano
     member_title: Biologist
     image: images/team/PA.jpg
@@ -235,8 +222,19 @@ team:
     content: Sustainable Development
     link: "#"
     member_profile: |- 
-      "She is a Biologist from the UNAM, and is currently studying a Master in Sustainability Sciences from the same University. She has experience in issues related to environmental management, sustainable development, and interactions between environmental and society. Paula also has experience in sustainable urban transport projects, and natural protected areas."
+      She is a Biologist from the UNAM, and is currently studying a Master in Sustainability Sciences from the same University. She has experience in issues related to environmental management, sustainable development, and interactions between environmental and society. Paula also has experience in sustainable urban transport projects, and natural protected areas.
 
+  - name: Paula Hernández
+    member_title: ARCHITECT
+    image: images/team/PH.jpg
+    image_webp: images/team/PH.jpg
+    categories:
+    - associates
+    title: Associate
+    content: Urban Planning
+    link: "#"
+    member_profile: |- 
+      Currently studying the last year of architecture at Tecnológico de Monterrey. She has participated in social impact projects through participatory design, and in the design and planning of mixed-use urban development projects using the BIM Methodology.
   - name: Renata Rocha
     member_title: Chemical Engineer
     image: images/team/RR.jpg
