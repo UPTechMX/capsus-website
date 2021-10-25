@@ -105,6 +105,19 @@ team:
       web utilizando JavaScript/jQuery, CSS, Java y manejo del framework Angular.
       Ha utilizado las bibliotecas de Bootstrap y Primefaces (versión Angular) para
       desarrollar interfaces de usuario.
+  #- name: Ariadna Mercado
+  #  member_title: Ciencias de la Tierra
+  #  image: images/team/AM.jpg
+  #  image_webp: images/team/AM.jpg
+  #  categories:
+  #  - associates
+  #  title: Asociada
+  #  content: Desarrollo Sustentable
+  #  link: "#"
+  #  member_profile: |-
+  #    "Estudiante de la carrera de Ciencias de la Tierra con especialidad en ciencias atmosféricas. Realizó su servicio social en el centro de ciencias de la Atmósfera de la UNAM, en el grupo de Física de nubes donde se realizaron investigaciones para estimar el desempeño de los disdrómetros óptico instalados en los diferentes puntos de la Red Universitaria de Observatorios Atmosféricos (RUOA-UNAM) y se validaron los datos de visibilidad estimados a partir de los datos de un sensor PWS100.
+#
+  #    Actualmente se encuentra realizando su tesis, en el proyecto “Estudio de la visibilidad atmosférica en México mediante el análisis de datos de Rango Óptico Meteorológico obtenidos de la RUOA”, en el cual estudia los efectos de la precipitación en la visibilidad y su relación con los parámetros microfísicos de la precipitación."
   - name: Antares Velázquez
     member_title: Diseñadora de la Comunicación Gráfica
     image: images/team/AV.jpg
@@ -150,6 +163,32 @@ team:
     link: "#"
     member_profile: |-
       Egresada del Tecnológico de Monterrey. Ha colaborado en el desarrollo de Evaluaciones de Impacto Social y Ambiental para proyectos energéticos en México y en Asia, a partir de metodologías cuantitativas y cualitativas. En su experiencia profesional en México ha desarrollado estudios de campo y análisis de datos para el desarrollo de proyectos sustentables, así como de estrategias de comunicación e inversión social. 
+  - name: Jorge Márquez
+    member_title: Geógrafo
+    image: images/team/JM.jpg
+    image_webp: images/team/JM.jpg
+    categories:
+    - associates
+    title: Asociado
+    content: Planeación Urbana
+    link: "#"
+    member_profile: |- 
+      "Egresado de la Universidad Nacional Autónoma de México. Previo a CAPSUS, colaboró en el manejo de problemáticas de desarrollo sustentable a través del área de Impacto Urbano adscrita a la Secretaría de Desarrollo Urbano y Vivienda, así como en la recopilación y análisis de datos en el Censo Población y Vivienda 2020 del Instituto Nacional de Estadística y Geografía."
+
+  - name: Lili Hernández
+    member_title: Ingeniera en Desarrollo Sustentable
+    image: images/team/LH.jpg
+    image_webp: images/team/LH.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Desarrollo Sustentable
+    link: "#"
+    member_profile: |- 
+      "Ingeniera en Desarrollo Sustentable por el Tecnológico de Monterrey y con experiencia internacional en Canadá y Singapur.
+
+      Previo a CAPSUS trabajó en el Instituto de Energías Renovables de la UNAM en el departamento de Mecánica de Fluidos en cuestiones ópticas y en el laboratorio de ecología marina de la Universidad de Victoria analizando muestras bacterianas en agua y realizando monitoreos de corales de la Isla de Navidad."
+  
   - name: Juan Manuel Gómez
     member_title: Matemáticas Aplicadas
     image: images/team/JMG copia.jpg
@@ -173,6 +212,31 @@ team:
     content: Relaciones Internacionales y Administración Pública
     link: "#"
     member_profile: "Licenciada en Relaciones Internacionales, con Maestría en Administración Pública. Se ha especializado en el intercambio educativo y profesional entre México y los países de las Américas. Mariana tiene experiencia en el sector público y privado en México, Estados Unidos de América y Francia. En el sector público Mariana ha trabajado en la OCDE, la Secretaría de Relaciones Exteriores y la Secretaría de Desarrollo Social. Durante su desarrollo profesional Mariana ha implementado programas de intercambio académico y profesional entre México y otros países del mundo, así como proyectos de cooperación internacional relacionados a desarrollo económico, asociaciones público privadas y desarrollo social."  
+  - name: Paula Hernández
+    member_title: Arquitecta
+    image: images/team/PH.jpg
+    image_webp: images/team/PH.jpg
+    categories:
+    - associates
+    title: Asociada
+    content: Planeación Urbana
+    link: "#"
+    member_profile: |- 
+      "Estudiante del último año de la carrera de arquitectura en el Tecnológico de Monterrey. Ha participado en proyectos de impacto social a través del diseño participativo y en proyectos de uso mixto a nivel ejecutivo con desarrollo de estructura e instalaciones con la metodología BIM."
+  - name: Paula Arellano
+    member_title: Bióloga
+    image: images/team/PA.jpg
+    image_webp: images/team/PA.jpg
+    categories:
+    - associates
+    title: Asociada
+    content: Desarrollo Sustentable
+    link: "#"
+    member_profile: |- 
+      "Egresada de la Licenciatura en Biología por la Facultad de Ciencias de la UNAM. Actualmente cursa la Maestría en Ciencias de la Sostenibilidad en la misma Universidad. Cuenta con experiencia en temas relacionados con gestión ambiental, desarrollo sustentable e interacciones entre ciencia-ambiente-sociedad.
+
+      Así mismo, en el ámbito académico ha participado en proyectos de evaluación de transporte urbano sustentable como Ecobici, evaluación del proyecto de instauración de ANP en coordinación con el Posgrado en Ciencias Sustentables y el Municipio de Morelia, y cuestiones de divulgación científica como expositora y editora de guión del podcast “Charlas Sostenible”, por la UNAM."
+
   - name: Renata Rocha
     member_title: Ingeniera Química
     image: images/team/RR.jpg

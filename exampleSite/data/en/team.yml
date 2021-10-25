@@ -101,6 +101,19 @@ team:
       tools to Mexico City´s portals. He has experience in web development using JavaScript/jQuery,
       CSS, Java and Angular framework management. He has used the Bootstrap and Primefaces
       (Angular version) libraries to develop user interfaces.
+  #- name: Ariadna Mercado
+  #  member_title: Ciencias de la Tierra
+  #  image: images/team/AM.jpg
+  #  image_webp: images/team/AM.jpg
+  #  categories:
+  #  - associates
+  #  title: Asociada
+  #  content: Desarrollo Sustentable
+  #  link: "#"
+  #  member_profile: |-
+  #    "Estudiante de la carrera de Ciencias de la Tierra con especialidad en ciencias atmosféricas. Realizó su servicio social en el centro de ciencias de la Atmósfera de la UNAM, en el grupo de Física de nubes donde se realizaron investigaciones para estimar el desempeño de los disdrómetros óptico instalados en los diferentes puntos de la Red Universitaria de Observatorios Atmosféricos (RUOA-UNAM) y se validaron los datos de visibilidad estimados a partir de los datos de un sensor PWS100.
+#
+  #    Actualmente se encuentra realizando su tesis, en el proyecto “Estudio de la visibilidad atmosférica en México mediante el análisis de datos de Rango Óptico Meteorológico obtenidos de la RUOA”, en el cual estudia los efectos de la precipitación en la visibilidad y su relación con los parámetros microfísicos de la precipitación."
   - name: Antares Velázquez
     member_title: Graphic Communication Designer
     image: images/team/AV.jpg
@@ -144,6 +157,32 @@ team:
     content: Social Analysis
     link: "#"
     member_profile: "Engineer in Sustainable Development by the Tecnológico de Monterrey. She has experience in both fieldwork and desk-base data collection, as well as in the development of Social and Environmental Impact Assessments, based on quantitative and qualitative methodologies. Dinorah is experienced in sustainable development funding, social impact investment, stakeholder engagement strategies and effective communication. She has worked for both Mexican and Asian clients."
+  - name: Jorge Márquez
+    member_title: Geographer
+    image: images/team/JM.jpg
+    image_webp: images/team/JM.jpg
+    categories:
+    - associates
+    title: Associate
+    content: Urban Planning
+    link: "#"
+    member_profile: |- 
+      "Graduated from the Universidad Nacional Autónoma de México. Prior to CAPSUS, he collaborated in the urban impact area at the “Secretaría de Desarrollo Urbano y Vivienda”. He participated in collecting and analyzing data form the “Population and Housing Census”."
+
+  - name: Lili Hernández
+    member_title: Engineer in Sustainable Development
+    image: images/team/LH.jpg
+    image_webp: images/team/LH.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Sustainable Development
+    link: "#"
+    member_profile: |- 
+      "Sustainable Development Engineer by the Tecnológico de Monterrey. She has international experience at Canadá and Singapore.
+
+      Prior to CAPSUS she worked and the Renewable Energies Institute from the UNAM at the Fluids Mechanic department in optical issues and she worked at Victoria's University inside the marine ecology laboratory analyzing bacterial samples in water and monitoring corals at "Christmas Island"."
+  
   - name: Juan Manuel Gómez
     member_title: Applied Mathematics
     image: images/team/JMG copia.jpg
@@ -175,6 +214,29 @@ team:
     content: Foreign Affairs and Public Administration
     link: "#"
     member_profile: "Mariana holds a bachelor degree on International Relations and a Master degree on Public Administration. She has specialized in academic and professional foreign exchanges between México and the countries of the Americas. Mariana has professional experience in the public and private sectors in Mexico, the United States of America and France. She has worked at the OECD, in the Mexican State Department and in the Mexican Ministry of Social Development. She has implemented academic and professional exchange programs in Mexico and abroad, and she has also worked on projects related to economic development, public-private partnerships and social development."
+  - name: Paula Hernández
+    member_title: ARCHITECT
+    image: images/team/PH.jpg
+    image_webp: images/team/PH.jpg
+    categories:
+    - associates
+    title: Associate
+    content: Urban Planning
+    link: "#"
+    member_profile: |- 
+      "Currently studying the last year of architecture at Tecnológico de Monterrey. She has participated in social impact projects through participatory design, and in the design and planning of mixed-use urban development projects using the BIM Methodology."
+  - name: Paula Arellano
+    member_title: Biologist
+    image: images/team/PA.jpg
+    image_webp: images/team/PA.jpg
+    categories:
+    - associates
+    title: Associate
+    content: Sustainable Development
+    link: "#"
+    member_profile: |- 
+      "She is a Biologist from the UNAM, and is currently studying a Master in Sustainability Sciences from the same University. She has experience in issues related to environmental management, sustainable development, and interactions between environmental and society. Paula also has experience in sustainable urban transport projects, and natural protected areas."
+
   - name: Renata Rocha
     member_title: Chemical Engineer
     image: images/team/RR.jpg
