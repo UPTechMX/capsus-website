@@ -101,19 +101,6 @@ team:
       tools to Mexico City´s portals. He has experience in web development using JavaScript/jQuery,
       CSS, Java and Angular framework management. He has used the Bootstrap and Primefaces
       (Angular version) libraries to develop user interfaces.
-  #- name: Ariadna Mercado
-  #  member_title: Ciencias de la Tierra
-  #  image: images/team/AM.jpg
-  #  image_webp: images/team/AM.jpg
-  #  categories:
-  #  - associates
-  #  title: Asociada
-  #  content: Desarrollo Sustentable
-  #  link: "#"
-  #  member_profile: |-
-  #    "Estudiante de la carrera de Ciencias de la Tierra con especialidad en ciencias atmosféricas. Realizó su servicio social en el centro de ciencias de la Atmósfera de la UNAM, en el grupo de Física de nubes donde se realizaron investigaciones para estimar el desempeño de los disdrómetros óptico instalados en los diferentes puntos de la Red Universitaria de Observatorios Atmosféricos (RUOA-UNAM) y se validaron los datos de visibilidad estimados a partir de los datos de un sensor PWS100.
-#
-  #    Actualmente se encuentra realizando su tesis, en el proyecto “Estudio de la visibilidad atmosférica en México mediante el análisis de datos de Rango Óptico Meteorológico obtenidos de la RUOA”, en el cual estudia los efectos de la precipitación en la visibilidad y su relación con los parámetros microfísicos de la precipitación."
   - name: Antares Velázquez
     member_title: Graphic Communication Designer
     image: images/team/AV.jpg
@@ -132,6 +119,17 @@ team:
       with various brands on aspects related to reputation and public relations. In
       addition, she has worked in editorial design, digital design, animation, corporate
       identity, Infographic design, among others."
+  - name: Ariadna Mercado
+    member_title: Earth Sciences
+    image: images/team/AM.jpg
+    image_webp: images/team/AM.jpg
+    categories:
+    - associates
+    title: Associate
+    content: Sustainable Development
+    link: "#"
+    member_profile: |-
+      Ariadna is a current student of Earth Sciences with a specialty in atmospheric sciences. She did her social service at the National University´s Atmospheric Sciences Center, conducting research on climatology. She is currently doing her thesis on atmospheric visibility in Mexico using Meteorological Optical Range Analysis.
   - name: Dante Zayas
     member_title: Engineer in Sustainable Development
     image: images/team/DZ.jpg
