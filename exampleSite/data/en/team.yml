@@ -101,6 +101,17 @@ team:
       tools to Mexico City´s portals. He has experience in web development using JavaScript/jQuery,
       CSS, Java and Angular framework management. He has used the Bootstrap and Primefaces
       (Angular version) libraries to develop user interfaces.
+  - name: Andrea González
+    member_title: Sustainable Development Engineer and Master in Environmental Management
+    image: images/team/AN.jpg
+    image_webp: images/team/AN.jpg
+    categories:
+    - consultants
+    title: Consultant
+    content: Sustainable Development
+    link: "#"
+    member_profile: |-
+      She completed her Masters in Environmental Resource Management at Duke University’s Nicholas School of the Environment where she specialized in ecosystem science and conservation. She has studied energy, environmental, and sustainability issues such as community resource management, landscape sciences, geospatial analysis, energy efficiency, and generation and social responsibility. Andrea has worked in the Mexican energy sector, analyzing energy forecast reports and market dynamics as well as designing end-to-end energy efficiency projects. Her experience also includes research where she employed a comparative case study design to provide insights into the dynamics of risks, costs, and potential rewards of REDD+ carbon offsetting for biodiversity conservation in Peru.
   - name: Antares Velázquez
     member_title: Graphic Communication Designer
     image: images/team/AV.jpg

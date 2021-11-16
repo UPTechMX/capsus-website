@@ -105,6 +105,19 @@ team:
       web utilizando JavaScript/jQuery, CSS, Java y manejo del framework Angular.
       Ha utilizado las bibliotecas de Bootstrap y Primefaces (versión Angular) para
       desarrollar interfaces de usuario.
+  - name: Andrea González
+    member_title: Ingeniera en Desarrollo Sustentable y Maestra en Gestión Ambiental
+    image: images/team/AN.jpg
+    image_webp: images/team/AN.jpg
+    categories:
+    - consultants
+    title: Consultora
+    content: Desarrollo Sustentable
+    link: "#"
+    member_profile: |-
+      Completó su Maestría en Gestión de Recursos Ambientales en la Universidad de Duke, donde se especializó en ciencias ecosistémicas y conservación. Ha estudiado temas energéticos, ambientales y de sustentabilidad tales como manejo de recursos comunitarios, ciencias del paisaje, análisis geoespacial, eficiencia energética y responsabilidad social.
+
+      Andrea ha trabajado en el sector energético mexicano, analizando informes de pronóstico de energía y dinámicas de mercado, así como diseñando proyectos de eficiencia energética llave en mano. Además, su experiencia incluye el análisis de los riesgos, costos y las posibles recompensas de la compensación de carbono en proyectos REDD + para la conservación de la biodiversidad en Perú.
   - name: Antares Velázquez
     member_title: Diseñadora de la Comunicación Gráfica
     image: images/team/AV.jpg
