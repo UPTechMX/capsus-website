@@ -88,6 +88,16 @@ team:
       and Construction from Delft University of Technology, and a PhD candidate in
       Human Geography from University College London. Tania has worked as an architect
       and urban planner in Mexico and the Netherlands.
+  - name: Adolfo Carranza
+    member_title: International Relations and Master's in Economics
+    image: images/team/AC.jpg
+    image_webp: images/team/AC.jpg
+    categories:
+    - associates
+    title: Associate
+    content: Environmental economics
+    link: "#"
+    member_profile: He studied International Relations with an especialization in Environmental Economy and holds a Master in Environmental Economy. Adolfo has designed and implemented projects in environmental education, wildlife conservation and water security.
   - name: Amílcar González
     member_title: Engineer in Computer Systems
     image: images/team/AG.jpg
@@ -211,6 +221,16 @@ team:
       Sustainable Development Engineer by the Tecnológico de Monterrey. She has international experience at Canadá and Singapore.
 
       Prior to CAPSUS she worked and the Renewable Energies Institute from the UNAM at the Fluids Mechanic department in optical issues and she worked at Victoria's University inside the marine ecology laboratory analyzing bacterial samples in water and monitoring corals at "Christmas Island".
+  - name: Maria Fernanda Nájera
+    member_title: Chemical engineer
+    image: images/team/Mafer.jpg
+    image_webp: images/team/Mafer.jpg
+    categories:
+    - associates
+    title: Associate
+    content: Sustainable development
+    link: "#"
+    member_profile: Graduated with a degree in Chemical Engineering. She has participated in the development of technology for the generation of energy by salinity gradients, and in the private sector, where she contributed to the implementation and adoption of sustainable practices.
   - name: Mariana Elizondo
     member_title: International Relations and Master in Public Administration
     image: images/team/ME.jpg

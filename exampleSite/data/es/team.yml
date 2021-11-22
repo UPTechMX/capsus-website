@@ -91,6 +91,16 @@ team:
       de la Universidad de Tecnología de Delft, actualmente es candidata a doctora
       en Geografía Humana del University College London. Tania ha trabajado como arquitecta
       y urbanista en México y en los Países Bajos.
+  - name: Adolfo Carranza
+    member_title: Relaciones Internacionales y Maestro en Economía
+    image: images/team/AC.jpg
+    image_webp: images/team/AC.jpg
+    categories:
+    - associates
+    title: Asociado
+    content: Economía Ambiental
+    link: "#"
+    member_profile: Realizó sus estudios de licenciatura en Relaciones Internacionales, tiene una especialidad en Economía Ambiental por la UNAM y una Maestría en Economía Ambiental por el CIDE, en donde escribió su tesis haciendo un análisis econométrico de los componentes del derecho humano al agua. Adolfo ha diseñado e implementado proyectos de educación ambiental, conservación de vida silvestre y seguridad hídrica.
   - name: Amílcar González
     member_title: Ingeniero en Sistemas Computacionales
     image: images/team/AG.jpg
@@ -212,6 +222,16 @@ team:
 
       Previo a CAPSUS trabajó en el Instituto de Energías Renovables de la UNAM en el departamento de Mecánica de Fluidos en cuestiones ópticas y en el laboratorio de ecología marina de la Universidad de Victoria analizando muestras bacterianas en agua y realizando monitoreos de corales de la Isla de Navidad.
 
+  - name: Maria Fernanda Nájera
+    member_title: Ingeniera química
+    image: images/team/Mafer.jpg
+    image_webp: images/team/Mafer.jpg
+    categories:
+    - associates
+    title: Asociada
+    content: Desarrollo sustentable
+    link: "#"
+    member_profile: Egresada de la Licenciatura en Ingeniería Química por la Universidad Nacional Autónoma de México. Ha participado en el desarrollo de proyectos de investigación académica, donde colaboró en el desarrollo de tecnología para la generación de energía por gradientes de salinidad, y en el sector privado, donde contribuyó a la implementación y adopción de prácticas sustentables.
   - name: Mariana Elizondo
     member_title: Internacionalista y Maestra en Administración Pública
     image: images/team/ME.jpg
