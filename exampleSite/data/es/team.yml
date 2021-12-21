@@ -147,17 +147,6 @@ team:
       y relaciones públicas. Además, ha trabajado en el mundo del diseño editorial,
       diseño digital para eventos, animación, identidad corporativa, diseño UX, entre
       otros."
-  - name: Ariadna Mercado
-    member_title: Ciencias de la Tierra
-    image: images/team/AM.jpg
-    image_webp: images/team/AM.jpg
-    categories:
-    - associates
-    title: Asociada
-    content: Desarrollo Sustentable
-    link: "#"
-    member_profile: |-
-      Estudiante de la carrera de Ciencias de la Tierra con especialidad en ciencias atmosféricas. Realizó su servicio social en el centro de ciencias de la Atmósfera de la UNAM, realizando investigaciones sobre climatología. Actualmente se encuentra realizando su tesis, en el proyecto “Estudio de la visibilidad atmosférica en México mediante el análisis de datos de Rango Óptico Meteorológico obtenidos de la RUOA”, en el cual estudia los efectos de la precipitación en la visibilidad.
   - name: Dante Zayas
     member_title: Ingeniero en Desarrollo Sustentable
     image: images/team/DZ.jpg
