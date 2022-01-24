@@ -119,8 +119,8 @@ team:
     image: images/team/AG.jpg
     image_webp: images/team/AG.jpg
     categories:
-    - consultants
-    title: Consultor
+    - associates
+    title: Asociado
     content: Tecnologías de la Información
     link: "#"
     member_profile: Ha trabajado en el sector público para adaptar herramientas de
@@ -279,7 +279,8 @@ team:
     member_title: Maestra en Planeación Urbana, Ambiental y de la Energía
     image: images/team/PO.jpg
     image_webp: images/team/PO.jpg
-    categories: ''
+    categories: 
+      - consultants
     title: Consultora
     content: Desarrollo Urbano Sustentable
     link: "#"

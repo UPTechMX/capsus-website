@@ -4,19 +4,6 @@ team:
   title: Our team
   profile: Profile
   portfolio_item:
-  - name: Paulina Ocampo
-    member_title: Master in Urban, Environmental and Energy Planning
-    image: images/team/PO.jpg
-    image_webp: images/team/PO.jpg
-    categories: ''
-    title: Consultant
-    content: Sustainable urban development
-    link: "#"
-    member_profile: |-
-      Environmental engineer with a Master’s Degree in Urban, Environmental and Energy Planning – Cities and Sustainability from Aalborg University, Denmark. Paulina has specialized in the field of urban and environmental planning, with special focus on sustainability.
-
-
-      In the public sector, she worked with the Metropolitan Planning Institute of Guadalajara, participating in metropolitan planning and urban management activities. Paulina also worked for the German Cooperation for Sustainable Development in Mexico (GIZ), where she participated in cities and climate change programs and projects with the aim of strengthening the capacities of the Mexican government.
   - name: Guillermo Velasco
     member_title: Engineer in Physics
     image: images/team/GV.jpg
@@ -128,8 +115,8 @@ team:
     image: images/team/AG.jpg
     image_webp: images/team/AG.jpg
     categories:
-    - consultants
-    title: Consultant
+    - associates
+    title: Associate
     content: SOFTWARE DEVELOPMENT
     link: "#"
     member_profile: He has worked in the public sector to adapt web accessibility
@@ -308,6 +295,21 @@ team:
       de Monterrey. She has participated in social impact projects through participatory
       design, and in the design and planning of mixed-use urban development projects
       using the BIM Methodology.
+  - name: Paulina Ocampo
+    member_title: Master in Urban, Environmental and Energy Planning
+    image: images/team/PO.jpg
+    image_webp: images/team/PO.jpg
+    categories: 
+      - consultants
+    title: Consultant
+    content: Sustainable urban development
+    link: "#"
+    member_profile: |-
+      Environmental engineer with a Master’s Degree in Urban, Environmental and Energy Planning – Cities and Sustainability from Aalborg University, Denmark. Paulina has specialized in the field of urban and environmental planning, with special focus on sustainability.
+
+
+      In the public sector, she worked with the Metropolitan Planning Institute of Guadalajara, participating in metropolitan planning and urban management activities. Paulina also worked for the German Cooperation for Sustainable Development in Mexico (GIZ), where she participated in cities and climate change programs and projects with the aim of strengthening the capacities of the Mexican government.
+  
   - name: Renata Rocha
     member_title: Chemical Engineer
     image: images/team/RR.jpg
