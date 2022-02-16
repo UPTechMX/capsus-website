@@ -81,21 +81,6 @@ team:
       de la Universidad de Tecnología de Delft, actualmente es candidata a doctora
       en Geografía Humana del University College London. Tania ha trabajado como arquitecta
       y urbanista en México y en los Países Bajos.
-  - name: Adolfo Carranza
-    member_title: Relaciones Internacionales y Maestro en Economía
-    image: images/team/AC.jpg
-    image_webp: images/team/AC.jpg
-    categories:
-    - associates
-    title: Asociado
-    content: Economía Ambiental
-    link: "#"
-    member_profile: Realizó sus estudios de licenciatura en Relaciones Internacionales,
-      tiene una especialidad en Economía Ambiental por la UNAM y una Maestría en Economía
-      Ambiental por el CIDE, en donde escribió su tesis haciendo un análisis econométrico
-      de los componentes del derecho humano al agua. Adolfo ha diseñado e implementado
-      proyectos de educación ambiental, conservación de vida silvestre y seguridad
-      hídrica.
   - name: Amílcar González
     member_title: Ingeniero en Sistemas Computacionales
     image: images/team/AG.jpg
