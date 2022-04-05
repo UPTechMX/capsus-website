@@ -308,6 +308,16 @@ team:
     member_profile: Urban planner from the Benemérita Universidad de Puebla. She has
       worked in the private sector in urban planning projects and has experience in
       urban design and territorial studies.
+  - name: Verónica Arredondo
+    member_title: Earth Sciences
+    image: images/team/VA.jpg
+    image_webp: images/team/VA.jpg
+    categories:
+    - associates
+    title: Associate
+    content: Sustainable development
+    link: "#"
+    member_profile: Veronica is currently studying Earth Sciences at the Faculty of Sciences of the National Autonomous University of Mexico. She has experience in topics related to sustainability and the interactions of the different aspects of the Earth-Environment-Society system. She has participated in educational programs to support teaching and academic advice to students at the National Autonomous University of Mexico, where she developed didactic materials and research of strategies for an enriched virtual teaching model.
   - name: Israel Huipio
     member_title: PUBLIC ACCOUNTANT
     image: images/team/CAMe/IsraelHuipio.jpg
