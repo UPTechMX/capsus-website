@@ -8,7 +8,7 @@ funfacts:
     - title : "PROJECTS IN"
       subtitle : "COUNTRIES"
       icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "14"
+      count : "18"
       color : '#bad332'
     
     # counter item loop

@@ -7,7 +7,7 @@ who:
   button_item:
     - enable: true
       label: Download brochure
-      link: "documents/Brochure2021-ENG.pdf"
+      link: "documents/Brochure2022-ENG.pdf"
   button_item2:
     - enable: true
       label: Download One-pager
