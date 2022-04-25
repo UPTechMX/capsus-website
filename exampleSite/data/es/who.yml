@@ -8,6 +8,10 @@ who:
     - enable: true
       label: Descargar brochure
       link: "documents/Brochure2022-ESP.pdf"
+  button_item2:
+    - enable: true
+      label: Descargar one-pager
+      link: "documents/ESP-One Pager capsus.pdf"
   content : "Asesoramos a entes públicos y privados internacionales, analizamos datos espaciales, generamos indicadores de desempeño y desarrollamos herramientas para facilitar la toma de decisiones informadas que incentiven el desarrollo económico, la inclusión social y la conversación del medio ambiente."
   who_item : 
       # feature item loop

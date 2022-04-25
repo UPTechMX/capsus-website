@@ -11,7 +11,7 @@ who:
   button_item2:
     - enable: true
       label: Download One-pager
-      link: "documents/One-pager CAPSUS.pdf"
+      link: "documents/ENG-One Pager capsus.pdf"
   content : "Asesoramos a entes públicos y privados internacionales, analizamos datos espaciales, generamos indicadores de desempeño y desarrollamos herramientas para facilitar la toma de decisiones informadas que incentiven el desarrollo económico, la inclusión social y la conversación del medio ambiente."
   who_item : 
       # feature item loop
