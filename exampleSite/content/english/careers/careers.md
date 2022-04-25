@@ -34,143 +34,171 @@ jobs:
                 After analyzing your documentation, we will contact you for an interview where we can clarify the doubts that you and we have.
           info4:
             - info4_title: Careers
-              #info4_item:
-              #- info4_item_fulltitle: Analista en desarrollo sustentable y cambio climático
-              #  info4_item_subtitle: Áreas relacionadas con ingeniería, economía o política pública
-              #  info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
-              #  info4_item_content: |
-              #    #### PERFIL
-              #    Buscamos una persona comprometida con el desarrollo sustentable y el cambio climático con entrenamiento académico y experiencia profesional en áreas de ingeniería, #economía o política pública relacionadas al desarrollo sustentable, el cambio climático, el medio ambiente, o el urbanismo.
-              #    
-              #    
-              #    Buscamos alguien perseverante, con capacidades en resolución de problemas para el alcance de objetivos. 
-              #    
-              #    
-              #    Disponibilidad de horario de tiempo completo.
-              #    
-              #    
-              #    Actualmente trabajamos de manera virtual en esta nueva normalidad, pero tu residencia fiscal debe estar en México.
-              #    
-              #    #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
-              #    - Licenciatura o ingeniería enfocado en áreas de economía, política pública o temas relacionados con el medio ambiente (titulada(o))
-              #    - 2 años de experiencia laboral
-              #    - Manejo de Microsoft Office
-              #    - Excelente expresión al escrito y al oral en español e inglés en un ambiente profesional
-              #    - Un tercer idioma es un plus
-              #    - Buenas habilidades matemáticas y trabajo con números
-              #    - Excelente redacción profesional
-              #    - Proactiva(o) y creativa(o)
-              #    - Pensamiento crítico, que busque soluciones innovadoras
-              #    - Con una personalidad de superación y crecimiento constante
-              #    - Interés en aportar a la constante construcción de un ambiente de trabajo de colaboración y respeto
-              #    - Colaboración eficiente en un equipo multidisciplinario
-              #    - Autodidacta y con ganas de seguir aprendiendo
-              #    - Puntual con los compromisos
-              #    - Excelente organización y administración de tiempo
-              #    - Capacidad de dar y aceptar retroalimentación de su trabajo
-              #    - Atenta(o) a los detalles
-              #    - Investigar fuentes de información y redactar de manera correcta limpia, clara, y bien documentada
-              #    - Capacidad de análisis cuantitativo y cualitativo
-              #    - Realizar pruebas de calidad de su propio trabajo
-              #    - Capaz de trabajar de manera independiente
-#
-              #    
-              #    #### CONOCIMIENTOS TÉCNICOS
-              #    - Experiencia y conocimiento en materia de sustentabilidad, como: energía renovable, gestión de residuos urbanos, tratamiento de agua, aprovechamiento de lluvia, control #de contaminantes, cálculo de emisiones, cambio climático, movilidad sustentable, planeación urbana sustentable, economía ambiental, salud pública o similares
-              #    - Amplio conocimiento de herramientas de cálculo
-#
-#
-              #    #### OFERTA
-              #    - Sueldo bruto mensual: $15,000.00 - $25,000.00 dependiendo de experiencia, credenciales académicas y competencias
-              #    - Prestaciones de ley
-              #    - Seguro de gastos médicos mayores
-              #    - Apoyo (económico y de tiempo) para capacitación
-              #    - Días personales y vacaciones adicionales a los de ley
-              #    - Excelente ambiente de trabajo
-              #    - Proyectos de gran impacto
-              #    - Crecimiento profesional
-              #    - Trabajo nacional e internacional
-              #
-#
-              #    #### PROCESO
-              #    Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
-              #    - Currículum
-              #    - Título o cédula profesional
-              #    - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos
-              #    - Una carta en inglés donde nos cuentes sobre ti: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué te lleva a perseguir una carrera profesional en el área de sustentabilidad?, ¿Qué #es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?
-#
-#
-              #    Si tu CV es seleccionado, nos comunicaremos contigo para los siguientes pasos.
-              #  info4_id: vac-1
-              #  info4_item_location: CDMX
-              #- info4_item_fulltitle: Coordinador de desarrollo urbano y medio ambiente
-              #  info4_item_subtitle: Áreas relacionadas con ingeniería, urbanismo o política pública
-              #  info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
-              #  info4_item_content: |
-              #    #### PERFIL
-              #    Buscamos una persona comprometida con el desarrollo sustentable que tenga un título de maestría en áreas relacionadas al desarrollo urbano y el medio ambiente. Debes ser #una persona dinámica, motivada, creativa, multidisciplinaria, con una mente analítica y con buenas bases matemáticas.
-              #    
-              #    
-              #    Buscamos alguien perseverante, con capacidades en resolución de problemas para el alcance de objetivos. Excelente expresión por escrito tanto en español como en inglés. 
-              #    
-              #    
-              #    Disponibilidad de horario de tiempo completo.
-              #    
-              #    
-              #    Actualmente trabajamos de manera virtual en esta nueva normalidad, pero tu residencia fiscal debe estar en México.
-              #    
-              #    #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
-              #    - Maestría en áreas relacionadas con el desarrollo urbano y el medio ambiente
-              #    - Más de 4 años de experiencia laboral
-              #    - Manejo de Microsoft Office
-              #    - Impecable expresión al escrito y al oral en español e inglés en un ambiente profesional
-              #    - Un tercer idioma es un plus
-              #    - Liderazgo motivacional y orientado a resultados
-              #    - Trabajo eficiente en equipo
-              #    - Gestión y organización de proyectos
-              #    - Prospección de Proyectos y ventas
-              #    - Dirección y guía eficiente a colegas de diferentes ramas del conocimiento
-              #    - Proactiva(o) y creativa(o)
-              #    - Buscar soluciones a problemas y requerimientos de negocio
-              #    - Autodidacta y con ganas de seguir aprendiendo
-              #    - Ser puntual con los compromisos
-              #    - Excelente organización y administración de tiempo
-              #    - Capacidad de dar y aceptar retroalimentación de su trabajo y de los demás
-              #    - Atenta(o) a los detalles
-              #    - Capacidad de análisis cuantitativo y cualitativo
-              #    - Investigar fuentes de información y redactar de manera correcta, limpia, clara, y bien documentada
-              #    - Realizar pruebas de calidad de su propio trabajo
-              #    - Capaz de desarrollar un proyecto de manera independiente
-#
-              #    
-              #    #### CONOCIMIENTOS TÉCNICOS
-              #    - Experiencia y conocimiento en materia de sustentabilidad, como: desarrollo urbano, movilidad, energía renovable, economía ambiental, política pública, gestión de #residuos urbanos, gestión del agua, control de contaminantes, cálculo de emisiones, cambio climático, o similares.
-              #    - Amplio conocimiento de herramientas de cálculo
-#
-#
-              #    #### OFERTA
-              #    - Sueldo bruto mensual: $25,000.00 - $45,000.00 dependiendo de experiencia  y competencias
-              #    - Prestaciones de ley
-              #    - Seguro de gastos médicos mayores
-              #    - Vacaciones adicionales a las de ley
-              #    - Excelente ambiente de trabajo
-              #    - Proyectos de gran impacto
-              #    - Crecimiento profesional
-              #    - Apoyo para capacitación
-              #    - Trabajo nacional e internacional
-              #
-#
-              #    #### PROCESO
-              #    Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
-              #    - Carta de exposición de motivos en inglés
-              #    - Una semblanza de tu trayectoria profesional en español e inglés
-              #    - Currículum en español
-              #    - Copia de títulos profesionales
-#
-#
-              #    Si tu CV es seleccionado, nos comunicaremos contigo para los siguientes pasos.
-              #  info4_id: vac-2
-              #  info4_item_location: CDMX
+              info4_item:
+              - info4_item_fulltitle: Prospección, diseminación y mercadeo
+                info4_item_subtitle: ""
+                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
+                info4_item_content: |
+                  #### PERFIL
+                  Buscamos a una persona con más de 2 años de experiencia laboral en consultoría, que nos ayude a ampliar nuestro alcance y llegar a nuevas ciudades, países y proyectos. Una persona convencida y comprometida con el desarrollo sustentable, que tenga habilidad, conocimiento y experiencia en la consecución de fondos, preparación de propuestas y búsqueda de oportunidades. Buscamos a alguien que resuelva problemas y busque formas de lograr los objetivos de expansión de mercado.
+
+
+                  Disponibilidad de horario (zona horario de la CDMX) de tiempo completo de 9 a 18 horas. Por el momento estamos trabajando en una modalidad totalmente virtual.
+                  
+
+                  #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
+                  - Licenciatura (Contar con título profesional)
+                  - Experiencia en firmas de consultoría
+                  - Bilingüe: Español e inglés con excelente expresión y redacción a nivel profesional en ambos
+                  - Francés u otro idioma es un plus
+                  - 2 años de experiencia profesional
+                  - Investigar fuentes de información y redactar de manera correcta, limpia, entendible, y bien documentada
+                  - Realizar pruebas de calidad de su propio trabajo
+                  - Capacidad de trabajar de manera independiente
+                  - Pensamiento crítico, que busque soluciones innovadoras
+                  - Con una personalidad de superación y crecimiento constante
+                  - Interés en aportar a la constante construcción de un ambiente de trabajo de colaboración y respeto
+                  - Colaboración eficiente en un equipo multidisciplinario
+                  - Autodidacta y con ganas de seguir aprendiendo
+                  - Puntual con los compromisos
+                  - Excelente organización y administración de tiempo
+                  - Capacidad de dar y aceptar retroalimentación de su trabajo
+                  - Atenta(o) a los detalles
+                  - Investigar fuentes de información y redactar de manera correcta limpia, clara, y bien documentada
+                  - Capacidad de análisis cuantitativo y cualitativo
+                  - Realizar pruebas de calidad de su propio trabajo
+                  - Capaz de trabajar de manera independiente
+
+                  
+                  #### COMPETENCIAS Y HABILIDADES
+                  - Excelente redacción a un nivel profesional
+                  - Una persona multidisciplinaria y dinámica
+                  - Proactividad
+                  - Creatividad
+                  - Forma de trabajo sistemática
+                  - Disponibilidad de horario
+                  - Solución de problemas
+                  - Actitud de superación y crecimiento continuo
+                  - Buena conducta profesional y personal
+                  - Autodidacta
+                  - Motivación para el aprendizaje continuo
+                  - Colaboración en equipo eficientemente con otros colegas de diferentes ramas del conocimiento.
+                  - Puntualidad con los compromisos y entregas
+                  - Atención a los detalles
+
+
+                  #### OFERTA
+                  - Prestaciones de Ley
+                  - $15,000 a $30,000 mxn bruto de acuerdo a experiencia, credenciales y competencias 
+                  - Seguro de gastos médicos mayores
+                  - Apoyo (económico y de tiempo) para capacitación
+                  - Días personales y vacaciones adicionales a los de la ley
+                  - Excelente ambiente de trabajo
+                  - Colegas de trabajo inteligentes y capaces
+                  - Proyectos de gran impacto
+                  - Crecimiento profesional
+                  - Trabajo nacional e internacional
+              
+
+                  #### PROCESO
+                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  - Currículum
+                  - Copia de tu título profesional
+                  - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos
+                  - Una carta en inglés donde nos cuentes ¿qué ideas tienes para tu potencial trabajo en CAPSUS?
+
+
+                  El proceso de selección tiene una duración de 1 a 3 meses dependiendo del volumen de propuestas recibidas (revisamos todas las aplicaciones). El proceso se compone de los siguientes pasos:
+                  1. Recepción de aplicaciones y CV por correo electrónico (2-6 meses)
+                  2. Aviso de CV elegidos para la siguiente etapa
+                  3. Prueba de análisis
+                  4. Selección de personas a entrevistar
+                  5. Entrevistas
+                  6. Selección final
+                  7. Comunicación de resultados a todas las personas participantes
+
+                  *Dado que nuestra principal fortaleza son las personas que forman nuestro equipo, el proceso de búsqueda y selección tiene una amplia duración, por lo que te pedimos paciencia.
+                info4_id: vac-1
+                info4_item_location: CDMX
+              - info4_item_fulltitle: Planeación urbana sustentable
+                info4_item_subtitle: ""
+                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
+                info4_item_content: |
+                  #### PERFIL
+                  Buscamos una persona con 4 años de experiencia laboral y con maestría relevante al desarrollo urbano sustentable para que forme parte de nuestro equipo en el área de planeación urbana.
+
+
+                  Una persona convencida y comprometida con el desarrollo urbano sustentable, que tenga entrenamiento académico y experiencia profesional en el área de planeación urbana relacionadas al desarrollo sustentable, el cambio climático, y/o el medio ambiente. Buscamos alguien que sepa identificar y resolver problemas, y que sea autodidacta.
+
+                  
+                  Disponibilidad de horario (zona horaria CDMX) de tiempo completo de 9 a 18 horas. Por el momento estamos trabajando en una modalidad virtual.
+                  
+
+                  #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
+                  - Licenciatura (Contar con título profesional)
+                  - Maestría relevante al desarrollo urbano sustentable
+                  - Bilingüe: Español e inglés con excelente expresión y redacción a nivel profesional 
+                  - Francés, portugués, alemán, árabe u otro idioma es un plus
+                  - 4 años de experiencia profesional
+                  - Experiencia y conocimiento en materia de sustentabilidad y gestión urbana.
+                  - Amplio conocimiento de herramientas espaciales (sistemas de información geográfica), conocimiento the Python o R es un plus.
+                  - Habilidad con los números
+                  - Investigar fuentes de información y redactar de manera correcta, limpia, entendible, y bien documentada
+                  - Realizar pruebas de calidad de su propio trabajo
+                  - Capacidad de trabajar de manera independiente
+
+                  
+                  #### COMPETENCIAS Y HABILIDADES
+                  - Excelente redacción a un nivel profesional
+                  - Una persona multidisciplinaria y dinámica
+                  - Proactividad
+                  - Creatividad
+                  - Solución de problemáticas
+                  - Actitud de superación y crecimiento continuo
+                  - Disponibilidad de horario
+                  - Buena conducta profesional y personal
+                  - Autodidacta
+                  - Motivación para el aprendizaje continuo
+                  - Colaboración en equipo eficientemente con otros colegas de diferentes ramas del conocimiento.
+                  - Puntualidad con los compromisos y entregas
+                  - Excelente organización y administración del tiempo
+                  - Capacidad de dar y aceptar retroalimentación de su trabajo y de los demás
+                  - Atención a los detalles
+
+                  #### OFERTA
+                  - Prestaciones de Ley
+                  - $25,000 a $45,000 mxn bruto de acuerdo a experiencia, credenciales académicas y competencias 
+                  - Seguro de gastos médicos mayores
+                  - Apoyo (económico y de tiempo) para capacitación
+                  - Días personales y vacaciones adicionales a los de la ley
+                  - Excelente ambiente de trabajo
+                  - Colegas de trabajo inteligentes y capaces
+                  - Proyectos de gran impacto
+                  - Crecimiento profesional
+                  - Trabajo nacional e internacional
+              
+
+                  #### PROCESO
+                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  - Currículum
+                  - Copia de tu título profesional
+                  - Copia de tu título de maestría
+                  - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos
+                  - Una carta en inglés donde nos cuentes ¿qué ideas tienes para tu potencial trabajo en CAPSUS?
+
+
+                  El proceso de selección tiene una duración de 1 a 3 meses dependiendo del volumen de propuestas recibidas (revisamos todas las aplicaciones). El proceso se compone de los siguientes pasos:
+                  1. Recepción de aplicaciones y CV por correo electrónico (2-6 meses)
+                  2. Aviso de CV elegidos para la siguiente etapa
+                  3. Prueba de análisis
+                  4. Selección de personas a entrevistar
+                  5. Entrevistas
+                  6. Selección final
+                  7. Comunicación de resultados a todas las personas participantes
+
+                  *Dado que nuestra principal fortaleza son las personas que forman nuestro equipo, el proceso de búsqueda y selección tiene una amplia duración, por lo que te pedimos paciencia.
+                info4_id: vac-2
+                info4_item_location: CDMX
               #- info4_item_fulltitle: Licenciada(o) en derecho
               #  info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
               #  info4_item_content: |
