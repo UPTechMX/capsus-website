@@ -55,19 +55,6 @@ jobs:
                   - Investigar fuentes de información y redactar de manera correcta, limpia, entendible, y bien documentada
                   - Realizar pruebas de calidad de su propio trabajo
                   - Capacidad de trabajar de manera independiente
-                  - Pensamiento crítico, que busque soluciones innovadoras
-                  - Con una personalidad de superación y crecimiento constante
-                  - Interés en aportar a la constante construcción de un ambiente de trabajo de colaboración y respeto
-                  - Colaboración eficiente en un equipo multidisciplinario
-                  - Autodidacta y con ganas de seguir aprendiendo
-                  - Puntual con los compromisos
-                  - Excelente organización y administración de tiempo
-                  - Capacidad de dar y aceptar retroalimentación de su trabajo
-                  - Atenta(o) a los detalles
-                  - Investigar fuentes de información y redactar de manera correcta limpia, clara, y bien documentada
-                  - Capacidad de análisis cuantitativo y cualitativo
-                  - Realizar pruebas de calidad de su propio trabajo
-                  - Capaz de trabajar de manera independiente
 
                   
                   #### COMPETENCIAS Y HABILIDADES
