@@ -37,27 +37,29 @@ jobs:
           info4:
             - info4_title: Vacantes
               info4_item:
-              - info4_item_fulltitle: Prospección, diseminación y mercadeo
+              - info4_item_fulltitle: Relaciones internacionales y sustentabilidad
                 info4_item_subtitle: ""
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
                 info4_item_content: |
                   #### PERFIL
-                  Buscamos a una persona con más de 2 años de experiencia laboral en consultoría, que nos ayude a ampliar nuestro alcance y llegar a nuevas ciudades, países y proyectos. Una persona convencida y comprometida con el desarrollo sustentable, que tenga habilidad, conocimiento y experiencia en la consecución de fondos, preparación de propuestas y búsqueda de oportunidades. Buscamos a alguien que resuelva problemas y busque formas de lograr los objetivos de expansión de mercado.
+                  Buscamos a una persona bilingüe (español/inglés) comprometida con el desarrollo sustentable. Aunque puede ser tu primer trabajo, buscamos idealmente a alguien con experiencia con organismos internacionales, preparación de propuestas, procuración de fondos y búsqueda de oportunidades. Una persona que resuelva problemas y busque formas de lograr sus objetivos.
 
-
+                  
                   Disponibilidad de horario (zona horario de la CDMX) de tiempo completo de 9 a 18 horas. Por el momento estamos trabajando en una modalidad totalmente virtual.
                   
 
                   #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
                   - Licenciatura (Contar con título profesional)
-                  - Experiencia en firmas de consultoría
-                  - Bilingüe: Español e inglés con excelente expresión y redacción a nivel profesional en ambos
+                  - Bilingüe: Español e inglés con excelente expresión y redacción profesional
                   - Francés u otro idioma es un plus
-                  - 2 años de experiencia profesional
-                  - Investigar fuentes de información y redactar de manera correcta, limpia, entendible, y bien documentada
-                  - Realizar pruebas de calidad de su propio trabajo
-                  - Capacidad de trabajar de manera independiente
 
+
+                  #### PRINCIPALES TAREAS DE LA VACANTE
+                  - Investigar fuentes de información y procesos de organismos internacionales
+                  - Asistir al titular del área en desarrollo de negocios internacionales, establecimiento de contactos, investigación sobre procesos y normativas
+                  - Asistir a congresos y eventos de desarrollo de redes tanto virtual como presencial (nacional e internacional)
+                  - Redactar expresiones de interés y propuestas de financiamiento
+                  
                   
                   #### COMPETENCIAS Y HABILIDADES
                   - Excelente redacción a un nivel profesional
@@ -66,25 +68,24 @@ jobs:
                   - Creatividad
                   - Forma de trabajo sistemática
                   - Disponibilidad de horario
-                  - Solución de problemas
+                  - Búsqueda de soluciones a diversas problemáticas
                   - Actitud de superación y crecimiento continuo
                   - Buena conducta profesional y personal
                   - Autodidacta
                   - Motivación para el aprendizaje continuo
                   - Colaboración en equipo eficientemente con otros colegas de diferentes ramas del conocimiento.
                   - Puntualidad con los compromisos y entregas
+                  - Excelente organización y administración de tiempo
                   - Atención a los detalles
 
 
                   #### OFERTA
                   - Prestaciones de Ley
-                  - $15,000 a $30,000 mxn bruto de acuerdo a experiencia, credenciales y competencias 
+                  - $18,000 a $25,000 mxn bruto de acuerdo a experiencia, credenciales y competencias 
                   - Seguro de gastos médicos mayores
                   - Apoyo (económico y de tiempo) para capacitación
                   - Días personales y vacaciones adicionales a los de la ley
                   - Excelente ambiente de trabajo
-                  - Colegas de trabajo inteligentes y capaces
-                  - Proyectos de gran impacto
                   - Crecimiento profesional
                   - Trabajo nacional e internacional
               
