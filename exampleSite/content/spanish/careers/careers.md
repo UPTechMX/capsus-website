@@ -36,80 +36,80 @@ jobs:
                 Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tú y nosotros.
           info4:
             - info4_title: Vacantes
-              info4_item:
-              - info4_item_fulltitle: Relaciones internacionales y sustentabilidad
-                info4_item_subtitle: ""
-                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
-                info4_item_content: |
-                  #### PERFIL
-                  Buscamos a una persona bilingüe (español/inglés) comprometida con el desarrollo sustentable. Aunque puede ser tu primer trabajo, buscamos idealmente a alguien con experiencia con organismos internacionales, preparación de propuestas, procuración de fondos y búsqueda de oportunidades. Una persona que resuelva problemas y busque formas de lograr sus objetivos.
+              # info4_item:
+              # - info4_item_fulltitle: Relaciones internacionales y sustentabilidad
+              #   info4_item_subtitle: ""
+              #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
+              #   info4_item_content: |
+              #     #### PERFIL
+              #     Buscamos a una persona bilingüe (español/inglés) comprometida con el desarrollo sustentable. Aunque puede ser tu primer trabajo, buscamos idealmente a alguien con experiencia con organismos internacionales, preparación de propuestas, procuración de fondos y búsqueda de oportunidades. Una persona que resuelva problemas y busque formas de lograr sus objetivos.
 
                   
-                  Disponibilidad de horario (zona horario de la CDMX) de tiempo completo de 9 a 18 horas. Por el momento estamos trabajando en una modalidad totalmente virtual.
+              #     Disponibilidad de horario (zona horario de la CDMX) de tiempo completo de 9 a 18 horas. Por el momento estamos trabajando en una modalidad totalmente virtual.
                   
 
-                  #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
-                  - Licenciatura (Contar con título profesional)
-                  - Bilingüe: Español e inglés con excelente expresión y redacción profesional
-                  - Francés u otro idioma es un plus
+              #     #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
+              #     - Licenciatura (Contar con título profesional)
+              #     - Bilingüe: Español e inglés con excelente expresión y redacción profesional
+              #     - Francés u otro idioma es un plus
 
 
-                  #### PRINCIPALES TAREAS DE LA VACANTE
-                  - Investigar fuentes de información y procesos de organismos internacionales
-                  - Asistir al titular del área en desarrollo de negocios internacionales, establecimiento de contactos, investigación sobre procesos y normativas
-                  - Asistir a congresos y eventos de desarrollo de redes tanto virtual como presencial (nacional e internacional)
-                  - Redactar expresiones de interés y propuestas de financiamiento
+              #     #### PRINCIPALES TAREAS DE LA VACANTE
+              #     - Investigar fuentes de información y procesos de organismos internacionales
+              #     - Asistir al titular del área en desarrollo de negocios internacionales, establecimiento de contactos, investigación sobre procesos y normativas
+              #     - Asistir a congresos y eventos de desarrollo de redes tanto virtual como presencial (nacional e internacional)
+              #     - Redactar expresiones de interés y propuestas de financiamiento
                   
                   
-                  #### COMPETENCIAS Y HABILIDADES
-                  - Excelente redacción a un nivel profesional
-                  - Una persona multidisciplinaria y dinámica
-                  - Proactividad
-                  - Creatividad
-                  - Forma de trabajo sistemática
-                  - Disponibilidad de horario
-                  - Búsqueda de soluciones a diversas problemáticas
-                  - Actitud de superación y crecimiento continuo
-                  - Buena conducta profesional y personal
-                  - Autodidacta
-                  - Motivación para el aprendizaje continuo
-                  - Colaboración en equipo eficientemente con otros colegas de diferentes ramas del conocimiento.
-                  - Puntualidad con los compromisos y entregas
-                  - Excelente organización y administración de tiempo
-                  - Atención a los detalles
+              #     #### COMPETENCIAS Y HABILIDADES
+              #     - Excelente redacción a un nivel profesional
+              #     - Una persona multidisciplinaria y dinámica
+              #     - Proactividad
+              #     - Creatividad
+              #     - Forma de trabajo sistemática
+              #     - Disponibilidad de horario
+              #     - Búsqueda de soluciones a diversas problemáticas
+              #     - Actitud de superación y crecimiento continuo
+              #     - Buena conducta profesional y personal
+              #     - Autodidacta
+              #     - Motivación para el aprendizaje continuo
+              #     - Colaboración en equipo eficientemente con otros colegas de diferentes ramas del conocimiento.
+              #     - Puntualidad con los compromisos y entregas
+              #     - Excelente organización y administración de tiempo
+              #     - Atención a los detalles
 
 
-                  #### OFERTA
-                  - Prestaciones de Ley
-                  - $18,000 a $25,000 mxn bruto de acuerdo a experiencia, credenciales y competencias 
-                  - Seguro de gastos médicos mayores
-                  - Apoyo (económico y de tiempo) para capacitación
-                  - Días personales y vacaciones adicionales a los de la ley
-                  - Excelente ambiente de trabajo
-                  - Crecimiento profesional
-                  - Trabajo nacional e internacional
+              #     #### OFERTA
+              #     - Prestaciones de Ley
+              #     - $18,000 a $25,000 mxn bruto de acuerdo a experiencia, credenciales y competencias 
+              #     - Seguro de gastos médicos mayores
+              #     - Apoyo (económico y de tiempo) para capacitación
+              #     - Días personales y vacaciones adicionales a los de la ley
+              #     - Excelente ambiente de trabajo
+              #     - Crecimiento profesional
+              #     - Trabajo nacional e internacional
               
 
-                  #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
-                  - Currículum
-                  - Copia de tu título profesional
-                  - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos
-                  - Una carta en inglés donde nos cuentes ¿qué ideas tienes para tu potencial trabajo en CAPSUS?
+              #     #### PROCESO
+              #     Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+              #     - Currículum
+              #     - Copia de tu título profesional
+              #     - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos
+              #     - Una carta en inglés donde nos cuentes ¿qué ideas tienes para tu potencial trabajo en CAPSUS?
 
 
-                  El proceso de selección tiene una duración de 1 a 3 meses dependiendo del volumen de propuestas recibidas (revisamos todas las aplicaciones). El proceso se compone de los siguientes pasos:
-                  1. Recepción de aplicaciones y CV por correo electrónico (2-6 meses)
-                  2. Aviso de CV elegidos para la siguiente etapa
-                  3. Prueba de análisis
-                  4. Selección de personas a entrevistar
-                  5. Entrevistas
-                  6. Selección final
-                  7. Comunicación de resultados a todas las personas participantes
+              #     El proceso de selección tiene una duración de 1 a 3 meses dependiendo del volumen de propuestas recibidas (revisamos todas las aplicaciones). El proceso se compone de los siguientes pasos:
+              #     1. Recepción de aplicaciones y CV por correo electrónico (2-6 meses)
+              #     2. Aviso de CV elegidos para la siguiente etapa
+              #     3. Prueba de análisis
+              #     4. Selección de personas a entrevistar
+              #     5. Entrevistas
+              #     6. Selección final
+              #     7. Comunicación de resultados a todas las personas participantes
 
-                  *Dado que nuestra principal fortaleza son las personas que forman nuestro equipo, el proceso de búsqueda y selección tiene una amplia duración, por lo que te pedimos paciencia.
-                info4_id: vac-1
-                info4_item_location: CDMX
+              #     *Dado que nuestra principal fortaleza son las personas que forman nuestro equipo, el proceso de búsqueda y selección tiene una amplia duración, por lo que te pedimos paciencia.
+              #   info4_id: vac-1
+              #   info4_item_location: CDMX
               # - info4_item_fulltitle: Planeación urbana sustentable
               #   info4_item_subtitle: ""
               #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
