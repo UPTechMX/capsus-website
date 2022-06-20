@@ -250,33 +250,6 @@ team:
         ha implementado programas de intercambio académico y profesional entre México
         y otros países del mundo, así como proyectos de cooperación internacional relacionados
         a desarrollo económico, asociaciones público privadas y desarrollo social.
-    - name: Paula Arellano
-      member_title: Bióloga
-      image: images/team/PA.jpg
-      image_webp: images/team/PA.jpg
-      categories:
-        - associates
-      title: Asociada
-      content: Desarrollo Sustentable
-      link: "#"
-      member_profile: |-
-        Egresada de la Licenciatura en Biología por la Facultad de Ciencias de la UNAM. Actualmente cursa la Maestría en Ciencias de la Sostenibilidad en la misma Universidad. Cuenta con experiencia en temas relacionados con gestión ambiental, desarrollo sustentable e interacciones entre ciencia-ambiente-sociedad.
-
-        Así mismo, en el ámbito académico ha participado en proyectos de evaluación de transporte urbano sustentable como Ecobici, evaluación del proyecto de instauración de ANP en coordinación con el Posgrado en Ciencias Sustentables y el Municipio de Morelia, y cuestiones de divulgación científica como expositora y editora de guión del podcast “Charlas Sostenible”, por la UNAM.
-    - name: Paula Hernández
-      member_title: Arquitecta
-      image: images/team/PH.jpg
-      image_webp: images/team/PH.jpg
-      categories:
-        - associates
-      title: Asociada
-      content: Planeación Urbana
-      link: "#"
-      member_profile:
-        Estudiante del último año de la carrera de arquitectura en el
-        Tecnológico de Monterrey. Ha participado en proyectos de impacto social a través
-        del diseño participativo y en proyectos de uso mixto a nivel ejecutivo con desarrollo
-        de estructura e instalaciones con la metodología BIM.
     - name: Renata Rocha
       member_title: Ingeniera Química
       image: images/team/RR.jpg

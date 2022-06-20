@@ -262,35 +262,6 @@ team:
         She has implemented academic and professional exchange programs in Mexico and
         abroad, and she has also worked on projects related to economic development,
         public-private partnerships and social development.
-    - name: Paula Arellano
-      member_title: Biologist
-      image: images/team/PA.jpg
-      image_webp: images/team/PA.jpg
-      categories:
-        - associates
-      title: Associate
-      content: Sustainable Development
-      link: "#"
-      member_profile:
-        She is a Biologist from the UNAM, and is currently studying a
-        Master in Sustainability Sciences from the same University. She has experience
-        in issues related to environmental management, sustainable development, and
-        interactions between environmental and society. Paula also has experience in
-        sustainable urban transport projects, and natural protected areas.
-    - name: Paula Hernández
-      member_title: ARCHITECT
-      image: images/team/PH.jpg
-      image_webp: images/team/PH.jpg
-      categories:
-        - associates
-      title: Associate
-      content: Urban Planning
-      link: "#"
-      member_profile:
-        Currently studying the last year of architecture at Tecnológico
-        de Monterrey. She has participated in social impact projects through participatory
-        design, and in the design and planning of mixed-use urban development projects
-        using the BIM Methodology.
     - name: Renata Rocha
       member_title: Chemical Engineer
       image: images/team/RR.jpg
