@@ -4,7 +4,6 @@ cta:
   bg_image: "images/backgrounds/Background-blanco-2.jpg"
   bg_image_webp: "images/backgrounds/Background-blanco-2.jpg"
   title: "NUESTRO EQUIPO ES TRANSDISCIPLINARIO"
-  content: "Somos "
   career_item:
     - career_title: Urbanismo
     - career_title: Arquitectura
