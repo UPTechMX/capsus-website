@@ -71,20 +71,6 @@ team:
         mayor parte de su experiencia ha sido en el área de manufactura donde ha llevado
         el control de proyectos y establecido mejoras a procesos para incrementar la
         productividad."
-    - name: Tania Guerrero
-      member_title: Arquitecta
-      image: images/team/TG.jpg
-      image_webp: images/team/TG.jpg
-      categories:
-        - coordinators
-      title: Coordinadora
-      content: Desarrollo Urbano y Vivienda
-      link: "#"
-      member_profile:
-        Tiene una Maestría en Ciencias en Arquitectura, Urbanismo y Construcción
-        de la Universidad de Tecnología de Delft, actualmente es candidata a doctora
-        en Geografía Humana del University College London. Tania ha trabajado como arquitecta
-        y urbanista en México y en los Países Bajos.
     - name: Amílcar González
       member_title: Ingeniero en Sistemas Computacionales
       image: images/team/AG.jpg
@@ -281,6 +267,20 @@ team:
         Egresada de la Benemérita Universidad de Puebla. Se ha desempeñado
         en el sector privado en proyectos catastrales y de planeación urbana como analista
         en SIG, además cuenta con experiencia en diseño urbano y estudios territoriales.
+    - name: Tania Guerrero
+      member_title: Arquitecta
+      image: images/team/TG.jpg
+      image_webp: images/team/TG.jpg
+      categories:
+        - associates
+      title: Asociada
+      content: Desarrollo Urbano y Vivienda
+      link: "#"
+      member_profile:
+        Tiene una Maestría en Ciencias en Arquitectura, Urbanismo y Construcción
+        de la Universidad de Tecnología de Delft, actualmente es candidata a doctora
+        en Geografía Humana del University College London. Tania ha trabajado como arquitecta
+        y urbanista en México y en los Países Bajos.
     - name: Verónica Arredondo
       member_title: Licenciada en Ciencias de la Tierra
       image: images/team/VA.jpg

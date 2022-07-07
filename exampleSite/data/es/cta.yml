@@ -1,20 +1,21 @@
 ############################# call to action ##############################
 cta:
-  enable : true
-  bg_image : "images/backgrounds/Background-blanco-2.jpg"
-  bg_image_webp : "images/backgrounds/Background-blanco-2.jpg"
-  title : "NUESTRO EQUIPO ES TRANSDISCIPLINARIO"
-  content : "Somos "
-  career_item : 
-    - career_title : ingenieros
-    - career_title : arquitectos
-    - career_title : diseñadores
-    - career_title : urbanistas
-    - career_title : programadores
-    - career_title : analistas
-    - career_title : sociólogos
-    - career_title : educadores
+  enable: true
+  bg_image: "images/backgrounds/Background-blanco-2.jpg"
+  bg_image_webp: "images/backgrounds/Background-blanco-2.jpg"
+  title: "NUESTRO EQUIPO ES TRANSDISCIPLINARIO"
+  content: "Somos "
+  career_item:
+    - career_title: urbanismo
+    - career_title: arquitectura
+    - career_title: programación
+    - career_title: ingeniería
+    - career_title: diseño
+    - career_title: educación
+    - career_title: sustentabilidad
+    - career_title: análisis espacial
+    - career_title: análisis de datos
   button:
-    enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    enable: true
+    label: "Start a project with us"
+    link: "#contact"

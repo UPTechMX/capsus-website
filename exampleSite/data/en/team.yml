@@ -71,20 +71,6 @@ team:
       member_profile:
         "She has more than 20 years of experience in the private sector
         focused on administrative, finance, human resources and fiscal compliance. "
-    - name: Tania Guerrero
-      member_title: Architect
-      image: images/team/TG.jpg
-      image_webp: images/team/TG.jpg
-      categories:
-        - coordinators
-      title: Coordinator
-      content: URBAN DEVELOPMENT AND HOUSING
-      link: "#"
-      member_profile:
-        Architect with a master's degree in Science in Architecture, Urbanism
-        and Construction from Delft University of Technology, and a PhD candidate in
-        Human Geography from University College London. Tania has worked as an architect
-        and urban planner in Mexico and the Netherlands.
     - name: Amílcar González
       member_title: Engineer in Computer Systems
       image: images/team/AG.jpg
@@ -292,6 +278,20 @@ team:
         Urban planner from the Benemérita Universidad de Puebla. She has
         worked in the private sector in urban planning projects and has experience in
         urban design and territorial studies.
+    - name: Tania Guerrero
+      member_title: Architect
+      image: images/team/TG.jpg
+      image_webp: images/team/TG.jpg
+      categories:
+        - associates
+      title: Associate
+      content: URBAN DEVELOPMENT AND HOUSING
+      link: "#"
+      member_profile:
+        Architect with a master's degree in Science in Architecture, Urbanism
+        and Construction from Delft University of Technology, and a PhD candidate in
+        Human Geography from University College London. Tania has worked as an architect
+        and urban planner in Mexico and the Netherlands.
     - name: Verónica Arredondo
       member_title: Earth Sciences
       image: images/team/VA.jpg
