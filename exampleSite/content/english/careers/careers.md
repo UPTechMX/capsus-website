@@ -49,8 +49,8 @@ jobs:
 
                   #### EXPERIENCIA LABORAL Y ACTIVIDADES A REALIZAR
                   - Contar con experiencia de 5 años en el ramo ambiental
-                  - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de planeación, programación y manejo de redes.
-                  - Programar en los lenguajes principales.
+                  - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de planeación, programación y manejo de redes
+                  - Programar en los lenguajes principales
                   - Manejar sistemas informáticos en línea
                   - Manejar bases de datos en Excel y otras
                   - Elaborar reportes de avance de proyectos
@@ -83,7 +83,7 @@ jobs:
                   
                   
                   #### COMPETENCIAS Y HABILIDADES
-                  - Disponibilidad de horario, tolerancia a la crítica, tolerancia a la frustración, sociabilidad, iniciativa, reflexivo, orientado al detalle, estructurado, aceptación del control, multitareas, proactivo y responsable.
+                  - Disponibilidad de horario, tolerancia a la crítica, tolerancia a la frustración, sociabilidad, iniciativa, reflexivo, orientado al detalle, estructurado, aceptación del control, multitareas, proactivo y responsable
                   - Colaborar eficientemente con personas de diferentes ramas del conocimiento
                   - Excelente ortografía
                   - Manejo de Office al 100%
@@ -93,12 +93,12 @@ jobs:
                   - Ser puntual con los compromisos
                   - Excelente organización y administración de tiempo
                   - Capacidad de aceptar retroalimentación de su trabajo y atenderlo
-                  - Responsabilidad.
-                  - Transparencia.
-                  - Honestidad.
-                  - Confidencialidad.
-                  - Calidad.
-                  - Integridad.
+                  - Responsabilidad
+                  - Transparencia
+                  - Honestidad
+                  - Confidencialidad
+                  - Calidad
+                  - Integridad
 
 
                   #### OFERTA
@@ -132,38 +132,38 @@ jobs:
                   - Licenciatura en Derecho (titulado)
                   - Experiencia profesional: mínimo 2 años
                   - Experiencia en:
-                    - Administrativo.
-                    - Contencioso.
-                    - Legislativo.
-                    - Fiscal.
-                    - Finanzas públicas.
+                    - Administrativo
+                    - Contencioso
+                    - Legislativo
+                    - Fiscal
+                    - Finanzas públicas
                     - Civil
-                  - Es deseable tener experiencia en políticas internas de la administración pública.
-                  - Apoyo en actividades administrativas, consultivas, financieras, fiscales, desarrollo sustentable con enfoque legal y demás que resulten necesarias en la Dirección de Crecimiento Verde.
-                  - Elaborar los proyectos de los diversos instrumentos legales como convenios, contratos, lineamientos y demás actos jurídicos que le entreguen para su atención.
-                  - Formular análisis jurídico de la diferente normatividad que se le requiera para presentarlo a su superior.
+                  - Es deseable tener experiencia en políticas internas de la administración pública
+                  - Apoyo en actividades administrativas, consultivas, financieras, fiscales, desarrollo sustentable con enfoque legal y demás que resulten necesarias en la Dirección de Crecimiento Verde
+                  - Elaborar los proyectos de los diversos instrumentos legales como convenios, contratos, lineamientos y demás actos jurídicos que le entreguen para su atención
+                  - Formular análisis jurídico de la diferente normatividad que se le requiera para presentarlo a su superior
                   - Apoyar en el control de la base de datos del acervo documental que le compete a la Dirección
-                  - Apoyar en la coordinación, atención y seguimiento de las actividades administrativas propias de la Dirección.
-                  - Apoyar a la Dirección en los asuntos que tenga a su cargo, relativos a la coordinación de actividades con las entidades federativas, la Ciudad de México, así como con las unidades administrativas de la SEMARNAT.
-                  - Apoyar en la atención y dar seguimiento a los requerimientos informativos que le sean formulados a la Dirección, incluyendo los que refiere la Ley Federal de Transparencia y Acceso a la Información.
-                  - Realizar las demás que le encomiende su Jefe Inmediato y/o Superior Jerárquico de conformidad a las disposiciones legales y reglamentarias aplicables.
+                  - Apoyar en la coordinación, atención y seguimiento de las actividades administrativas propias de la Dirección
+                  - Apoyar a la Dirección en los asuntos que tenga a su cargo, relativos a la coordinación de actividades con las entidades federativas, la Ciudad de México, así como con las unidades administrativas de la SEMARNAT
+                  - Apoyar en la atención y dar seguimiento a los requerimientos informativos que le sean formulados a la Dirección, incluyendo los que refiere la Ley Federal de Transparencia y Acceso a la Información
+                  - Realizar las demás que le encomiende su Jefe Inmediato y/o Superior Jerárquico de conformidad a las disposiciones legales y reglamentarias aplicables
 
                   
                   #### COMPETENCIAS Y HABILIDADES
-                  - Excelente administración del tiempo, orientación al resultado, toma de decisiones, orientación a la colaboración, capacidad de negociación y resolución de conflictos.
-                  - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de trabajo en equipo.
-                  - Organizado.
-                  - Persistente.
-                  - Tolerancia a la crítica y la frustración.
-                  - Sociable.
-                  - Iniciativa.
-                  - Reflexivo.
-                  - Orientado al detalle.
-                  - Estructurado.
-                  - Aceptación del control.
-                  - Multitareas.
-                  - Proactivo.
-                  - Respetuoso.
+                  - Excelente administración del tiempo, orientación al resultado, toma de decisiones, orientación a la colaboración, capacidad de negociación y resolución de conflictos
+                  - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de trabajo en equipo
+                  - Organizado
+                  - Persistente
+                  - Tolerancia a la crítica y la frustración
+                  - Sociable
+                  - Iniciativa
+                  - Reflexivo
+                  - Orientado al detalle
+                  - Estructurado
+                  - Aceptación del control
+                  - Multitareas
+                  - Proactivo
+                  - Respetuoso
 
 
                   #### APTITUDES
@@ -214,51 +214,51 @@ jobs:
                   #### EXPERIENCIA Y ACTIVIDADES A REALIZAR
                   - Licenciatura, Económica Administrativa o Ingeniería (titulado)
                   - 3 años de experiencia profesional
-                  - Colaborar en el seguimiento de los proyectos integrando y analizando información sobre el cumplimiento de los resultados de los proyectos.
-                  - Reportar al Director de Coordinación y Vinculación Institucional.
-                  - Este puesto interactúa principalmente con funcionarias y funcionarios de la CEVI, la SEMARNAT y de los estados de la CAMe.
+                  - Colaborar en el seguimiento de los proyectos integrando y analizando información sobre el cumplimiento de los resultados de los proyectos
+                  - Reportar al Director de Coordinación y Vinculación Institucional
+                  - Este puesto interactúa principalmente con funcionarias y funcionarios de la CEVI, la SEMARNAT y de los estados de la CAMe
 
                   ##### Funciones prioritarias:
-                  - Dar seguimiento a los proyectos aprobados por el Comité Técnico del Fideicomiso 1490.
-                  - Dar seguimiento al cumplimiento de los Términos de Referencia de los Proyectos.
-                  - Dar seguimiento al cumplimiento de los Convenios de Aportaciones de los proyectos.
+                  - Dar seguimiento a los proyectos aprobados por el Comité Técnico del Fideicomiso 1490
+                  - Dar seguimiento al cumplimiento de los Términos de Referencia de los Proyectos
+                  - Dar seguimiento al cumplimiento de los Convenios de Aportaciones de los proyectos
 
                   ##### Funciones complementarias:
-                  - Realizar seguimiento de avance físico y financiero de los proyectos.
-                  - Participar en la evaluación de propuestas.
-                  - Elaborar presentaciones para el Subcomité y Comité Técnico del Fideicomiso.
-                  - Integrar carpetas para las sesiones del Subcomité y Comité Técnico del Fideicomiso.
-                  - Integrar información relativa al seguimiento de proyectos.
-                  - Interactuar con el personal técnico de las entidades federativas.
-                  - Integrar expedientes físicos y digitalizarlos.
-                  - Elaborar presentaciones.
-                  - Elaborar y entregar oficios y otros documentos.
-                  - Realizar informes de avance.
-                  - Generar minutas.
+                  - Realizar seguimiento de avance físico y financiero de los proyectos
+                  - Participar en la evaluación de propuestas
+                  - Elaborar presentaciones para el Subcomité y Comité Técnico del Fideicomiso
+                  - Integrar carpetas para las sesiones del Subcomité y Comité Técnico del Fideicomiso
+                  - Integrar información relativa al seguimiento de proyectos
+                  - Interactuar con el personal técnico de las entidades federativas
+                  - Integrar expedientes físicos y digitalizarlos
+                  - Elaborar presentaciones
+                  - Elaborar y entregar oficios y otros documentos
+                  - Realizar informes de avance
+                  - Generar minutas
   
 
                   #### COMPETENCIAS Y HABILIDADES
                   - Manejo de Office 100%
                   - Inglés 80%
-                  - Análisis, síntesis y procesamiento de información.
-                  - Toma de decisiones oportuna.
-                  - Trabajo en equipo.
-                  - Excelente comunicación interpersonal.
-                  - Capacidad de adaptación.
-                  - Análisis numérico.
-                  - Organizado.
-                  - Proactivo.
-                  - Alta aceptación del control.
-                  - Actitud positiva hacia la gente.
-                  - Lógico y estructurado.
+                  - Análisis, síntesis y procesamiento de información
+                  - Toma de decisiones oportuna
+                  - Trabajo en equipo
+                  - Excelente comunicación interpersonal
+                  - Capacidad de adaptación
+                  - Análisis numérico
+                  - Organizado
+                  - Proactivo
+                  - Alta aceptación del control
+                  - Actitud positiva hacia la gente
+                  - Lógico y estructurado
 
 
                   #### EXPERIENCIA EN POLÍTICAS INTERNAS
-                  - Responsabilidad.
-                  - Transparencia.
-                  - Honestidad.
-                  - Confidencialidad.
-                  - Calidad.
+                  - Responsabilidad
+                  - Transparencia
+                  - Honestidad
+                  - Confidencialidad
+                  - Calidad
                   - Integridad
 
               
