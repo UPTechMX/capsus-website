@@ -41,9 +41,9 @@ jobs:
                 info4_item_content: |
                   #### PERFIL
                   Licenciatura: Ingenierías en sistemas, computación, mecánica automotriz, ambiental, civil, química, informática o afines.
-
-                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, con licenciatura o maestría en ciencias de la computación o similar. Buscamos a alguien que resuelva problemas y busque formas de lograr sus objetivos. 
-
+                  
+                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, alguien que resuelva problemas y busque formas de lograr sus objetivos. 
+                  
                   Disponibilidad de horario de tiempo completo para laborar de manera presencial en la zona poniente de la Ciudad de México.
                   
 
