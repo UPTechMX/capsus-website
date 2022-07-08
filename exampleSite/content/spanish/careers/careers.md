@@ -36,217 +36,248 @@ jobs:
                 Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tú y nosotros.
           info4:
             - info4_title: Vacantes
-              # info4_item:
-              # - info4_item_fulltitle: Relaciones internacionales y sustentabilidad
-              #   info4_item_subtitle: ""
-              #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
-              #   info4_item_content: |
-              #     #### PERFIL
-              #     Buscamos a una persona bilingüe (español/inglés) comprometida con el desarrollo sustentable. Aunque puede ser tu primer trabajo, buscamos idealmente a alguien con experiencia con organismos internacionales, preparación de propuestas, procuración de fondos y búsqueda de oportunidades. Una persona que resuelva problemas y busque formas de lograr sus objetivos.
+              info4_item:
+              - info4_item_fulltitle: Ingeniero para Soporte técnico
+                info4_item_subtitle: ""
+                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
+                info4_item_content: |
+                  #### PERFIL
+                  Licenciatura: Ingenierías en sistemas, computación, mecánica automotriz, ambiental, civil, química, informática o afines.
 
+                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, con licenciatura o maestría en ciencias de la computación o similar. Buscamos a alguien que resuelva problemas y busque formas de lograr sus objetivos. 
+
+                  Disponibilidad de horario de tiempo completo para laborar de manera presencial en la zona poniente de la Ciudad de México.
                   
-              #     Disponibilidad de horario (zona horario de la CDMX) de tiempo completo de 9 a 18 horas. Por el momento estamos trabajando en una modalidad totalmente virtual.
+
+                  #### EXPERIENCIA LABORAL Y ACTIVIDADES A REALIZAR
+                  - Contar con experiencia de 5 años en el ramo ambiental
+                  - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de planeación, programación y manejo de redes.
+                  - Programar en los lenguajes principales.
+                  - Manejar sistemas informáticos en línea
+                  - Manejar bases de datos en Excel y otras
+                  - Elaborar reportes de avance de proyectos
+                  - Elaborar tablas dinámicas y gráficos
+                  - Revisar indicadores de seguimiento
+                  - Analizar información ambiental técnica
+                  - Trabajar en equipo y bajo presión
+                  - Conocimiento general de mecánica automotriz y emisiones vehiculares
+                  - Revisión e integración de las bases de datos de la verificación vehicular
+                  - Programación para sistemas en línea
+                  - Manejo de redes y comunicación
+                  - Elaboración de tablas dinámicas
+                  - Elaboración de gráficos y reportes
+                  - Apoyo al seguimiento de los programas y acciones en materia de verificación vehicular e inventario de emisiones vehiculares
+                  - Revisión de información técnica y mecánica
+                  - Apoyo logístico en las reuniones de trabajo
+                  - Conocimiento de la normatividad ambiental en la materia
+
+
+
+                  #### CONOCIMIENTOS TÉCNICOS DESEABLES
+                  - Conocimiento en tecnologías web: HTML, CSS y Javascript
+                  - Conocimiento de PHP, Java, Python, R o similares
+                  - Haber trabajado con alguno de los siguientes lenguajes: PHP, Java, C#
+                  - Conocimiento y habilidades con los comandos básicos de Linux
+                  - Conocimiento de servicios IaaS y PaaS
+                  - Experiencia y conocimiento con el uso de un DBMS relacional (Postgres,
+                  - MySQL, etc.)
+                  - Tener dominio sobre los conceptos fundamentales de bases de datos
                   
-
-              #     #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
-              #     - Licenciatura (Contar con título profesional)
-              #     - Bilingüe: Español e inglés con excelente expresión y redacción profesional
-              #     - Francés u otro idioma es un plus
-
-
-              #     #### PRINCIPALES TAREAS DE LA VACANTE
-              #     - Investigar fuentes de información y procesos de organismos internacionales
-              #     - Asistir al titular del área en desarrollo de negocios internacionales, establecimiento de contactos, investigación sobre procesos y normativas
-              #     - Asistir a congresos y eventos de desarrollo de redes tanto virtual como presencial (nacional e internacional)
-              #     - Redactar expresiones de interés y propuestas de financiamiento
                   
-                  
-              #     #### COMPETENCIAS Y HABILIDADES
-              #     - Excelente redacción a un nivel profesional
-              #     - Una persona multidisciplinaria y dinámica
-              #     - Proactividad
-              #     - Creatividad
-              #     - Forma de trabajo sistemática
-              #     - Disponibilidad de horario
-              #     - Búsqueda de soluciones a diversas problemáticas
-              #     - Actitud de superación y crecimiento continuo
-              #     - Buena conducta profesional y personal
-              #     - Autodidacta
-              #     - Motivación para el aprendizaje continuo
-              #     - Colaboración en equipo eficientemente con otros colegas de diferentes ramas del conocimiento.
-              #     - Puntualidad con los compromisos y entregas
-              #     - Excelente organización y administración de tiempo
-              #     - Atención a los detalles
+                  #### COMPETENCIAS Y HABILIDADES
+                  - Disponibilidad de horario, tolerancia a la crítica, tolerancia a la frustración, sociabilidad, iniciativa, reflexivo, orientado al detalle, estructurado, aceptación del control, multitareas, proactivo y responsable.
+                  - Colaborar eficientemente con personas de diferentes ramas del conocimiento
+                  - Excelente ortografía
+                  - Manejo de Office al 100%
+                  - Proactividad y creatividad
+                  - Buscar soluciones a problemas y requerimientos del proyecto
+                  - Autodidacta y con ganas de seguir aprendiendo
+                  - Ser puntual con los compromisos
+                  - Excelente organización y administración de tiempo
+                  - Capacidad de aceptar retroalimentación de su trabajo y atenderlo
+                  - Responsabilidad.
+                  - Transparencia.
+                  - Honestidad.
+                  - Confidencialidad.
+                  - Calidad.
+                  - Integridad.
 
 
-              #     #### OFERTA
-              #     - Prestaciones de Ley
-              #     - $18,000 a $25,000 mxn bruto de acuerdo a experiencia, credenciales y competencias 
-              #     - Seguro de gastos médicos mayores
-              #     - Apoyo (económico y de tiempo) para capacitación
-              #     - Días personales y vacaciones adicionales a los de la ley
-              #     - Excelente ambiente de trabajo
-              #     - Crecimiento profesional
-              #     - Trabajo nacional e internacional
+                  #### OFERTA
+                  - Prestaciones de Ley
+                  - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
+                  - Colegas de trabajo inteligentes y capaces
+                  - Proyectos retadores y de gran impacto
+                  - Crecimiento profesional
               
 
-              #     #### PROCESO
-              #     Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
-              #     - Currículum
-              #     - Copia de tu título profesional
-              #     - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos
-              #     - Una carta en inglés donde nos cuentes ¿qué ideas tienes para tu potencial trabajo en CAPSUS?
+                  #### PROCESO
+                  Envía al correo electrónico ideas@capsus.mx lo siguiente:
 
+                  1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
+                  2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
+                  3. Si tu CV es seleccionado, te enviaremos una prueba.
+                  4. Si la prueba es satisfactoria, te llamamos a entrevista.
+                info4_id: vac-1
+                info4_item_location: CDMX
+              - info4_item_fulltitle: Especialista Legal "B" en la Dirección de Crecimiento Verde
+                info4_item_subtitle: ""
+                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
+                info4_item_content: |
+                  #### PERFIL
+                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, con Licenciatura en Derecho (titulado). Buscamos a alguien que resuelva problemas y busque formas de lograr sus objetivos. 
 
-              #     El proceso de selección tiene una duración de 1 a 3 meses dependiendo del volumen de propuestas recibidas (revisamos todas las aplicaciones). El proceso se compone de los siguientes pasos:
-              #     1. Recepción de aplicaciones y CV por correo electrónico (2-6 meses)
-              #     2. Aviso de CV elegidos para la siguiente etapa
-              #     3. Prueba de análisis
-              #     4. Selección de personas a entrevistar
-              #     5. Entrevistas
-              #     6. Selección final
-              #     7. Comunicación de resultados a todas las personas participantes
-
-              #     *Dado que nuestra principal fortaleza son las personas que forman nuestro equipo, el proceso de búsqueda y selección tiene una amplia duración, por lo que te pedimos paciencia.
-              #   info4_id: vac-1
-              #   info4_item_location: CDMX
-              # - info4_item_fulltitle: Planeación urbana sustentable
-              #   info4_item_subtitle: ""
-              #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
-              #   info4_item_content: |
-              #     #### PERFIL
-              #     Buscamos una persona con 4 años de experiencia laboral y con maestría relevante al desarrollo urbano sustentable para que forme parte de nuestro equipo en el área de planeación urbana.
-
-
-              #     Una persona convencida y comprometida con el desarrollo urbano sustentable, que tenga entrenamiento académico y experiencia profesional en el área de planeación urbana relacionadas al desarrollo sustentable, el cambio climático, y/o el medio ambiente. Buscamos alguien que sepa identificar y resolver problemas, y que sea autodidacta.
-
-                  
-              #     Disponibilidad de horario (zona horaria CDMX) de tiempo completo de 9 a 18 horas. Por el momento estamos trabajando en una modalidad virtual.
+                  Disponibilidad de horario de tiempo completo para laborar 40 horas a la semana de manera presencial en la zona poniente de la Ciudad de México.
                   
 
-              #     #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
-              #     - Licenciatura (Contar con título profesional)
-              #     - Maestría relevante al desarrollo urbano sustentable
-              #     - Bilingüe: Español e inglés con excelente expresión y redacción a nivel profesional 
-              #     - Francés, portugués, alemán, árabe u otro idioma es un plus
-              #     - 4 años de experiencia profesional
-              #     - Experiencia y conocimiento en materia de sustentabilidad y gestión urbana.
-              #     - Amplio conocimiento de herramientas espaciales (sistemas de información geográfica), conocimiento the Python o R es un plus.
-              #     - Habilidad con los números
-              #     - Investigar fuentes de información y redactar de manera correcta, limpia, entendible, y bien documentada
-              #     - Realizar pruebas de calidad de su propio trabajo
-              #     - Capacidad de trabajar de manera independiente
+                  #### EXPERIENCIA LABORAL Y ACTIVIDADES A REALIZAR
+                  - Licenciatura en Derecho (titulado)
+                  - Experiencia profesional: mínimo 2 años
+                  - Experiencia en:
+                    - Administrativo.
+                    - Contencioso.
+                    - Legislativo.
+                    - Fiscal.
+                    - Finanzas públicas.
+                    - Civil
+                  - Es deseable tener experiencia en políticas internas de la administración pública.
+                  - Apoyo en actividades administrativas, consultivas, financieras, fiscales, desarrollo sustentable con enfoque legal y demás que resulten necesarias en la Dirección de Crecimiento Verde.
+                  - Elaborar los proyectos de los diversos instrumentos legales como convenios, contratos, lineamientos y demás actos jurídicos que le entreguen para su atención.
+                  - Formular análisis jurídico de la diferente normatividad que se le requiera para presentarlo a su superior.
+                  - Apoyar en el control de la base de datos del acervo documental que le compete a la Dirección
+                  - Apoyar en la coordinación, atención y seguimiento de las actividades administrativas propias de la Dirección.
+                  - Apoyar a la Dirección en los asuntos que tenga a su cargo, relativos a la coordinación de actividades con las entidades federativas, la Ciudad de México, así como con las unidades administrativas de la SEMARNAT.
+                  - Apoyar en la atención y dar seguimiento a los requerimientos informativos que le sean formulados a la Dirección, incluyendo los que refiere la Ley Federal de Transparencia y Acceso a la Información.
+                  - Realizar las demás que le encomiende su Jefe Inmediato y/o Superior Jerárquico de conformidad a las disposiciones legales y reglamentarias aplicables.
 
                   
-              #     #### COMPETENCIAS Y HABILIDADES
-              #     - Excelente redacción a un nivel profesional
-              #     - Una persona multidisciplinaria y dinámica
-              #     - Proactividad
-              #     - Creatividad
-              #     - Solución de problemáticas
-              #     - Actitud de superación y crecimiento continuo
-              #     - Disponibilidad de horario
-              #     - Buena conducta profesional y personal
-              #     - Autodidacta
-              #     - Motivación para el aprendizaje continuo
-              #     - Colaboración en equipo eficientemente con otros colegas de diferentes ramas del conocimiento.
-              #     - Puntualidad con los compromisos y entregas
-              #     - Excelente organización y administración del tiempo
-              #     - Capacidad de dar y aceptar retroalimentación de su trabajo y de los demás
-              #     - Atención a los detalles
+                  #### COMPETENCIAS Y HABILIDADES
+                  - Excelente administración del tiempo, orientación al resultado, toma de decisiones, orientación a la colaboración, capacidad de negociación y resolución de conflictos.
+                  - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de trabajo en equipo.
+                  - Organizado.
+                  - Persistente.
+                  - Tolerancia a la crítica y la frustración.
+                  - Sociable.
+                  - Iniciativa.
+                  - Reflexivo.
+                  - Orientado al detalle.
+                  - Estructurado.
+                  - Aceptación del control.
+                  - Multitareas.
+                  - Proactivo.
+                  - Respetuoso.
 
-              #     #### OFERTA
-              #     - Prestaciones de Ley
-              #     - $25,000 a $45,000 mxn bruto de acuerdo a experiencia, credenciales académicas y competencias 
-              #     - Seguro de gastos médicos mayores
-              #     - Apoyo (económico y de tiempo) para capacitación
-              #     - Días personales y vacaciones adicionales a los de la ley
-              #     - Excelente ambiente de trabajo
-              #     - Colegas de trabajo inteligentes y capaces
-              #     - Proyectos de gran impacto
-              #     - Crecimiento profesional
-              #     - Trabajo nacional e internacional
+
+                  #### APTITUDES
+                  - Responsabilidad
+                  - Transparencia
+                  - Honestidad
+                  - Confidencialidad
+                  - Calidad
+                  - Integridad
+                  - Organización
+                  - Persistencia
+                  - Tolerancia a la crítica
+                  - Sociable
+                  - Con iniciativa propia
+                  - Detallista
+                  - Con estructura
+                  - Multitareas
+
+
+                  #### OFERTA
+                  - Prestaciones de Ley
+                  - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
               
 
-              #     #### PROCESO
-              #     Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
-              #     - Currículum
-              #     - Copia de tu título profesional
-              #     - Copia de tu título de maestría
-              #     - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos
-              #     - Una carta en inglés donde nos cuentes ¿qué ideas tienes para tu potencial trabajo en CAPSUS?
+                  #### PROCESO
+                  Envía al correo electrónico ideas@capsus.mx lo siguiente:
+ 
+                  1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
+                  2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
+                  3. Si tu CV es seleccionado, te enviaremos una prueba.
+                  4. Si la prueba es satisfactoria, te llamamos a entrevista.
+
+                info4_id: vac-2
+                info4_item_location: CDMX
+              - info4_item_fulltitle: Apoyo en el Seguimiento de Proyectos Financiados por el Fideicomiso 1490
+                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la CDMX
+                info4_item_content: |
+                  #### PERFIL
+                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, para Apoyar en el seguimiento de proyectos financiados por el Fideicomiso 1490 “Para Apoyar los Programas, Proyectos y Acciones Ambientales de la Megalópolis”.
+
+                  Horario 9 a 18 horas. Laborar de manera presencial en la zona poniente de la Ciudad de México.
+
+                  Género: Indistinto
+
+                  Edad: Indistinto
+
+                  
+                  #### EXPERIENCIA Y ACTIVIDADES A REALIZAR
+                  - Licenciatura, Económica Administrativa o Ingeniería (titulado)
+                  - 3 años de experiencia profesional
+                  - Colaborar en el seguimiento de los proyectos integrando y analizando información sobre el cumplimiento de los resultados de los proyectos.
+                  - Reportar al Director de Coordinación y Vinculación Institucional.
+                  - Este puesto interactúa principalmente con funcionarias y funcionarios de la CEVI, la SEMARNAT y de los estados de la CAMe.
+
+                  ##### Funciones prioritarias:
+                  - Dar seguimiento a los proyectos aprobados por el Comité Técnico del Fideicomiso 1490.
+                  - Dar seguimiento al cumplimiento de los Términos de Referencia de los Proyectos.
+                  - Dar seguimiento al cumplimiento de los Convenios de Aportaciones de los proyectos.
+
+                  ##### Funciones complementarias:
+                  - Realizar seguimiento de avance físico y financiero de los proyectos.
+                  - Participar en la evaluación de propuestas.
+                  - Elaborar presentaciones para el Subcomité y Comité Técnico del Fideicomiso.
+                  - Integrar carpetas para las sesiones del Subcomité y Comité Técnico del Fideicomiso.
+                  - Integrar información relativa al seguimiento de proyectos.
+                  - Interactuar con el personal técnico de las entidades federativas.
+                  - Integrar expedientes físicos y digitalizarlos.
+                  - Elaborar presentaciones.
+                  - Elaborar y entregar oficios y otros documentos.
+                  - Realizar informes de avance.
+                  - Generar minutas.
+  
+
+                  #### COMPETENCIAS Y HABILIDADES
+                  - Manejo de Office 100%
+                  - Inglés 80%
+                  - Análisis, síntesis y procesamiento de información.
+                  - Toma de decisiones oportuna.
+                  - Trabajo en equipo.
+                  - Excelente comunicación interpersonal.
+                  - Capacidad de adaptación.
+                  - Análisis numérico.
+                  - Organizado.
+                  - Proactivo.
+                  - Alta aceptación del control.
+                  - Actitud positiva hacia la gente.
+                  - Lógico y estructurado.
 
 
-              #     El proceso de selección tiene una duración de 1 a 3 meses dependiendo del volumen de propuestas recibidas (revisamos todas las aplicaciones). El proceso se compone de los siguientes pasos:
-              #     1. Recepción de aplicaciones y CV por correo electrónico (2-6 meses)
-              #     2. Aviso de CV elegidos para la siguiente etapa
-              #     3. Prueba de análisis
-              #     4. Selección de personas a entrevistar
-              #     5. Entrevistas
-              #     6. Selección final
-              #     7. Comunicación de resultados a todas las personas participantes
+                  #### EXPERIENCIA EN POLÍTICAS INTERNAS
+                  - Responsabilidad.
+                  - Transparencia.
+                  - Honestidad.
+                  - Confidencialidad.
+                  - Calidad.
+                  - Integridad
 
-              #     *Dado que nuestra principal fortaleza son las personas que forman nuestro equipo, el proceso de búsqueda y selección tiene una amplia duración, por lo que te pedimos paciencia.
-              #   info4_id: vac-2
-              #   info4_item_location: CDMX
-              #- info4_item_fulltitle: Licenciada(o) en derecho
-              #  info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
-              #  info4_item_content: |
-              #    #### PERFIL
-              #    Buscamos una persona comprometida con su trabajo, organizada y proactiva. Disponibilidad de horario de tiempo completo.
-              #    
-              #    #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
-              #    - Licenciatura en derecho (titulada(o)).
-              #    - Mínimo 2 años de experiencia.
-              #    - Experiencia en derecho Contencioso, Administrativo, Legislativo y Ambiental.
-              #    - Excelente ortografía.
-              #    - Manejo de Microsoft Office.
-              #    - Redacción básica al 100%. 
-              #    - Comunicación y habilidades de trabajo en equipo.
-#
- #
-              #    
-              #    #### ACTIVIDADES GENERALES DEL PUESTO
-              #    - Elaborar los proyectos de los diversos instrumentos legales como convenios, contratos, lineamientos y demás actos jurídicos que le entreguen para su atención.
-              #    - Proyectar los informes previos y justificados que le sean turnados a la Dirección para su atención, y formular en lo general, las promociones que a dichos juicios se refieren.
-              #    - Formular y llevar el control del acervo documental que le compete a la Dirección.
-              #    - Apoyar en la atención y seguimiento de las actividades administrativas propias de la Dirección.
-              #    - Apoyar a la Dirección en los asuntos que tenga a su cargo, relativos a la coordinación de actividades con las entidades federativas, la Ciudad de México, así como con las unidades administrativas de la SEMARNAT.
-              #    - Apoyar en la atención y dar seguimiento a los requerimientos informativos que le sean formulados a la Dirección, incluyendo los que refiere la Ley Federal de Transparencia y Acceso a la Información. 
-              #    - Realizar las demás que le encomiende su Jefe Inmediato y/o Superior Jerárquico de conformidad a las disposiciones legales y reglamentarias aplicables.
-#
-#
-#
-              #
-              #    #### COMPETENCIAS Y HABILIDADES
-              #    - Excelente administración del tiempo.
-              #    - Orientación al resultado.
-              #    - Toma de decisiones.
-              #    - Orientación a la colaboración.
-              #    - Capacidad de negociación y resolución de conflictos. 
-              #    - Capacidad de análisis y síntesis de información técnica y legal.
-              #    - Organización y persistencia.
-              #    - Tolerancia a la crítica y la frustración.
-              #    - Sociable.
-              #    - Proactividad.
-              #    - Una persona respetuosa, reflexiva y estructurada.
-              #    - Orientación al detalle.
-              #    - Aceptación del control.
-              #    - Multi tareas.
-#
-#
-              #
-              #    #### OFERTA
-              #    - Prestaciones de Ley.
-              #    - 21,500 a 24,500 mxn bruto de acuerdo a competencias y habilidades.
-              #
-              #    #### PROCESO
-              #    Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
-              #    - Currículum
-              #    - Título o cédula profesional.
-              #    - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
-              #  info4_id: vac-3
-              #  info4_item_location: CDMX
+              
+                  #### OFERTA
+                  - Prestaciones de Ley
+                  - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
+
+              
+                  #### PROCESO
+                  Envía al correo electrónico ideas@capsus.mx lo siguiente:
+ 
+                  1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
+                  2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
+                  3. Si tu CV es seleccionado, te enviaremos una prueba.
+                  4. Si la prueba es satisfactoria, te llamamos a entrevista.
+                info4_id: vac-3
+                info4_item_location: CDMX
               #- info4_item_fulltitle: Administración pública y adquisiciones
               #  info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
               #  info4_item_content: |
