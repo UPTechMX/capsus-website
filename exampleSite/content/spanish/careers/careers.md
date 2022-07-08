@@ -79,8 +79,7 @@ jobs:
                   - Haber trabajado con alguno de los siguientes lenguajes: PHP, Java, C#
                   - Conocimiento y habilidades con los comandos básicos de Linux
                   - Conocimiento de servicios IaaS y PaaS
-                  - Experiencia y conocimiento con el uso de un DBMS relacional (Postgres,
-                  - MySQL, etc.)
+                  - Experiencia y conocimiento con el uso de un DBMS relacional (Postgres, MySQL, etc.)
                   - Tener dominio sobre los conceptos fundamentales de bases de datos
                   
                   
