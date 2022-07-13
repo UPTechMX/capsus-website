@@ -275,65 +275,64 @@ jobs:
                   4. Si la prueba es satisfactoria, te llamamos a entrevista.
                 info4_id: vac-3
                 info4_item_location: CDMX
-              #- info4_item_fulltitle: Administración pública y adquisiciones
-              #  info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
-              #  info4_item_content: |
-              #    #### PERFIL
-              #    Buscamos una persona comprometida con su trabajo, organizada y proactiva. Disponibilidad de horario de tiempo completo.
-              #    
-              #    #### EXPERIENCIA LABORAL Y CONOCIMIENTOS
-              #    - Licenciatura, preferentemente en ingeniería (titulada(o)).
-              #    - 2 años de experiencia.
-              #    - Experiencia en administración pública.
-              #    - Conocimientos prácticos en adquisiciones.
-              #    - Manejo de Microsoft Office.
-#
-#
-#
- #
-              #    
-              #    #### ACTIVIDADES GENERALES DEL PUESTO
-              #    - Recopilación y análisis de información técnica.
-              #    - Integración de expedientes para licitación pública.
-              #    - Participación en procedimientos de contratación y seguimiento a contratos hasta su conclusión.
-              #    - Buscar y analizar información técnica.
-              #    - Participación en la evaluación de propuestas.
-              #    - Realizar el seguimiento de avance físico y financiero de los contratos.
-              #    - Participar en la recepción de bienes.
-              #    - Integrar información para los procedimientos de adquisición.
-              #    - Interactuar con el personal técnico de las entidades federativas, del INECC.
-              #    - Integrar expedientes físicos y digitalizarlos.
-              #    - Elaborar y entregar oficio.
-              #    - Realizar informes de avances de los contratos.
-              #    - Generar minutas.
-#
-#
-#
-#
-              #
-              #    #### COMPETENCIAS Y HABILIDADES
-              #    - Análisis y procesamiento de información.
-              #    - Trabajo en equipo.
-              #    - Comunicación eficaz.
-              #    - Capacidad de adaptación.
-              #    - Análisis numérico.
-              #    - Organización y persistencia.
-              #    - Proactividad y respeto.
-              #    - Capacidad de reflexión.
-#
-#
-              #
-              #    #### OFERTA
-              #    - Prestaciones de Ley.
-              #    - 21,500 a 24,500 mxn bruto de acuerdo a competencias y habilidades.
-              #
-              #    #### PROCESO
-              #    Si cumples con los requisitos, envía un correo electrónico a: leticia.galindo@capsus.mx con los siguientes documentos:
-              #    - Currículum
-              #    - Título o cédula profesional.
-              #    - Una carta de exposición de motivos que explique por qué te interesa trabajar en CAPSUS y por qué crees que cumples con los requisitos que publicamos. 
-              #  info4_id: vac-4
-              #  info4_item_location: CDMX
+              - info4_item_fulltitle: Soporte técnico en verificación vehicular y manejo de datos
+                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
+                info4_item_content: |
+                  #### PERFIL
+                  Licenciatura mínimo: Ingenierías ambiental, civil, química, mecánica, computación, informática o afines (titulado).
+
+                  Género y edad indistintos.
+
+                  Buscamos una persona para dar soporte en materia ambiental y de verificación vehicular. 
+
+                  Disponibilidad de horario de 9 a 18 horas para laborar de manera presencial en la zona poniente de la Ciudad de México.
+
+                  
+                  #### EXPERIENCIA LABORAL Y ACTIVIDADES A REALIZAR
+                  - Contar con experiencia de 4 años en el ramo ambiental
+                  - Manejar sistemas informáticos
+                  - Manejar bases de datos
+                  - Elaborar reportes de avance de proyectos
+                  - Elaborar tablas dinámicas y gráficos
+                  - Revisar indicadores de seguimiento
+                  - Analizar información ambiental técnica
+                  - Revisión e integración de las bases de datos de la verificación vehicular y del monitoreo de la calidad del aire
+                  - Elaboración de tablas dinámicas
+                  - Elaboración de gráficos y reportes
+                  - Seguimiento de los programas, proyectos y acciones en materia de calidad del aire y emisiones vehiculares
+                  - Revisión de información técnica
+                  - Apoyo logístico en las reuniones de trabajo
+                  - Reportar a la Directora de Prevención y Control de la Contaminación Urbana en Zonas Metropolitanas
+                  - Interacción con la Dirección General Adjunta de Gestión de Calidad del aire en Zonas Metropolitanas
+
+                  
+                  #### COMPETENCIAS Y HABILIDADES
+                  - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de planeación
+                  - Excelente administración del tiempo, orientación al resultado, seguimiento de acedos, orientación a la colaboración, Trabajar en equipo y bajo presión
+                  - Disponibilidad de horario, tolerancia a la crítica, tolerancia a la frustración, sociabilidad, iniciativa, reflexivo, orientado al detalle, estructurado, aceptación del control multi-tareas, proactivo
+                  - Responsabilidad
+                  - Transparencia
+                  - Honestidad
+                  - Confidencialidad
+                  - Calidad
+                  - Integridad
+ 
+               
+                  #### OFERTA
+                  - Prestaciones de Ley
+                  - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
+                  - Colegas de trabajo inteligentes y capaces
+
+               
+                  #### PROCESO
+                  Envía al correo electrónico ideas@capsus.mx lo siguiente:
+ 
+                  1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
+                  2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
+                  3. Si tu CV es seleccionado, te enviaremos una prueba.
+                  4. Si la prueba es satisfactoria, te llamamos a entrevista.
+                info4_id: vac-4
+                info4_item_location: CDMX
               #- info4_item_fulltitle: Administración pública y administración de proyectos
               #  info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
               #  info4_item_content: |
