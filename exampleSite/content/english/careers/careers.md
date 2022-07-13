@@ -308,7 +308,7 @@ jobs:
                   
                   #### COMPETENCIAS Y HABILIDADES
                   - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de planeación
-                  - Excelente administración del tiempo, orientación al resultado, seguimiento de acedos, orientación a la colaboración, Trabajar en equipo y bajo presión
+                  - Excelente administración del tiempo, orientación al resultado, seguimiento de acedos, orientación a la colaboración, trabajar en equipo y bajo presión
                   - Disponibilidad de horario, tolerancia a la crítica, tolerancia a la frustración, sociabilidad, iniciativa, reflexivo, orientado al detalle, estructurado, aceptación del control multi-tareas, proactivo
                   - Responsabilidad
                   - Transparencia
