@@ -337,76 +337,76 @@ jobs:
               - info4_item_fulltitle: Ingeniero para soporte técnico
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
                 info4_item_content: |
-                #### PERFIL
-                Propósito del puesto: Dar soporte en materia de verificación vehicular, programación, sistemas y manejo de bases de datos
+                  #### PERFIL
+                  Propósito del puesto: Dar soporte en materia de verificación vehicular, programación, sistemas y manejo de bases de datos
 
-                Nivel académico y carrera: Licenciatura: Ingenierías en sistemas, computación, mecánica automotriz, ambiental, civil, química, informática o afines
+                  Nivel académico y carrera: Licenciatura: Ingenierías en sistemas, computación, mecánica automotriz, ambiental, civil, química, informática o afines
 
-                Tiempo completo Horario 9 a 18 h.
+                  Tiempo completo Horario 9 a 18 h.
 
-                Género: Indistinto.
+                  Género: Indistinto.
 
-                Edad: Mayor de 30 años
+                  Edad: Mayor de 30 años
 
-                Experiencia profesional: 5 años en el ramo ambiental
+                  Experiencia profesional: 5 años en el ramo ambiental
+
+                  
+                  #### DESCRIPCIÓN GENERAL DE ACTIVIDADES
+                  - Revisión e integración de las bases de datos de la verificación vehicular
+                  - Programación para sistemas en línea
+                  - Manejo de redes y comunicación
+                  - Elaboración de tablas dinámicas
+                  - Elaboración de gráficos y reportes
+                  - Apoyo al seguimiento de los programas y acciones en materia de verificación vehicular e inventario de emisiones vehiculares
+                  - Revisión de información técnica y mecánica
+                  - Apoyo logístico en las reuniones de trabajo
+                  - Conocimiento de la normatividad ambiental en la materia
+  
+                  
+                  #### PRINCIPALES FUNCIONES A DESARROLLAR
+                  - Programar en los lenguajes principales
+                  - Manejar sistemas informáticos en línea
+                  - Manejar bases de datos en Excel y otras
+                  - Elaborar reportes de avance de proyectos
+                  - Elaborar tablas dinámicas y gráficos
+                  - Revisar indicadores de seguimiento
+                  - Analizar información ambiental técnica
+                  - Trabajar en equipo y bajo presión
+                  - Conocimiento general de mecánica automotriz y emisiones vehiculares
 
                 
-                #### DESCRIPCIÓN GENERAL DE ACTIVIDADES
-                - Revisión e integración de las bases de datos de la verificación vehicular
-                - Programación para sistemas en línea
-                - Manejo de redes y comunicación
-                - Elaboración de tablas dinámicas
-                - Elaboración de gráficos y reportes
-                - Apoyo al seguimiento de los programas y acciones en materia de verificación vehicular e inventario de emisiones vehiculares
-                - Revisión de información técnica y mecánica
-                - Apoyo logístico en las reuniones de trabajo
-                - Conocimiento de la normatividad ambiental en la materia
- 
+                  #### HABILIDADES
+                  - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de planeación, programación y manejo de redes.
                 
-                #### PRINCIPALES FUNCIONES A DESARROLLAR
-                - Programar en los lenguajes principales
-                - Manejar sistemas informáticos en línea
-                - Manejar bases de datos en Excel y otras
-                - Elaborar reportes de avance de proyectos
-                - Elaborar tablas dinámicas y gráficos
-                - Revisar indicadores de seguimiento
-                - Analizar información ambiental técnica
-                - Trabajar en equipo y bajo presión
-                - Conocimiento general de mecánica automotriz y emisiones vehiculares
-
-              
-                #### HABILIDADES
-                - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de planeación, programación y manejo de redes.
-              
-              
-                #### COMPETENCIAS
-                - Excelente administración del tiempo, orientación al resultado, seguimiento de acedos, orientación a la colaboración.
-              
-
-                #### CARACTERÍSTICAS PERSONALES
-                - Disponibilidad de horario, tolerancia a la crítica, tolerancia a la frustración, sociabilidad, iniciativa, reflexivo, orientado al detalle, estructurado, aceptación del control, multitareas, proactivo y responsable.
-
-
-                #### EXPERIENCIA EN POLÍTICAS INTERNASResponsabilidad
-                - Transparencia
-                - Honestidad
-                - Confidencialidad
-                - Calidad
-                - Integridad
-
-
-                #### OFERTA
-                - Prestaciones de Ley
-                - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
-                - Colegas de trabajo inteligentes y capaces
-            
-                #### PROCESO
-                Envía al correo electrónico ideas@capsus.mx lo siguiente:
                 
-                1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
-                2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
-                3. Si tu CV es seleccionado, te enviaremos una prueba.
-                4. Si la prueba es satisfactoria, te llamamos a entrevista.
+                  #### COMPETENCIAS
+                  - Excelente administración del tiempo, orientación al resultado, seguimiento de acedos, orientación a la colaboración.
+                
+
+                  #### CARACTERÍSTICAS PERSONALES
+                  - Disponibilidad de horario, tolerancia a la crítica, tolerancia a la frustración, sociabilidad, iniciativa, reflexivo, orientado al detalle, estructurado, aceptación del control, multitareas, proactivo y responsable.
+
+
+                  #### EXPERIENCIA EN POLÍTICAS INTERNASResponsabilidad
+                  - Transparencia
+                  - Honestidad
+                  - Confidencialidad
+                  - Calidad
+                  - Integridad
+
+
+                  #### OFERTA
+                  - Prestaciones de Ley
+                  - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
+                  - Colegas de trabajo inteligentes y capaces
+              
+                  #### PROCESO
+                  Envía al correo electrónico ideas@capsus.mx lo siguiente:
+                  
+                  1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
+                  2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
+                  3. Si tu CV es seleccionado, te enviaremos una prueba.
+                  4. Si la prueba es satisfactoria, te llamamos a entrevista.
               info4_id: vac-5
               info4_item_location: CDMX
               #- info4_item_fulltitle: Administración pública, política pública o afines
