@@ -376,7 +376,7 @@ jobs:
 
                 
                   #### HABILIDADES
-                  - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de planeación, programación y manejo de redes.
+                  - Excelente ortografía, manejo de Office 100%, redacción, comunicación, habilidades de planeación, programación y manejo de redes.
                 
                 
                   #### COMPETENCIAS
