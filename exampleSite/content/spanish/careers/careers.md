@@ -407,8 +407,8 @@ jobs:
                   2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
                   3. Si tu CV es seleccionado, te enviaremos una prueba.
                   4. Si la prueba es satisfactoria, te llamamos a entrevista.
-              info4_id: vac-5
-              info4_item_location: CDMX
+                info4_id: vac-5
+                info4_item_location: CDMX
               #- info4_item_fulltitle: Administración pública, política pública o afines
               #  info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
               #  info4_item_content: |
