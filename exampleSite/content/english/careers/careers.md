@@ -34,7 +34,7 @@ jobs:
                 After analyzing your documentation, we will contact you for an interview where we can clarify the doubts that you and we have.
           info4:
             - info4_title: Careers
-              # info4_item:
+              info4_item:
               # - info4_item_fulltitle: Ingeniero para Soporte técnico
               #   info4_item_subtitle: ""
               #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
@@ -401,7 +401,7 @@ jobs:
             
                 #### PROCESO
                 Envía al correo electrónico ideas@capsus.mx lo siguiente:
-                
+
                 1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
                 2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
                 3. Si tu CV es seleccionado, te enviaremos una prueba.

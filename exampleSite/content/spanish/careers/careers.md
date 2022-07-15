@@ -36,7 +36,7 @@ jobs:
                 Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tú y nosotros.
           info4:
             - info4_title: Vacantes
-              # info4_item:
+              info4_item:
               # - info4_item_fulltitle: Ingeniero para Soporte técnico
               #   info4_item_subtitle: ""
               #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
