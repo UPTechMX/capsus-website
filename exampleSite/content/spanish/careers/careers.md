@@ -36,305 +36,305 @@ jobs:
                 Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tú y nosotros.
           info4:
             - info4_title: Vacantes
-              info4_item:
-              - info4_item_fulltitle: Ingeniero para Soporte técnico
-                info4_item_subtitle: ""
-                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
-                info4_item_content: |
-                  #### PERFIL
-                  Licenciatura: Ingenierías en sistemas, computación, mecánica automotriz, ambiental, civil, química, informática o afines.
+              # info4_item:
+              # - info4_item_fulltitle: Ingeniero para Soporte técnico
+              #   info4_item_subtitle: ""
+              #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
+              #   info4_item_content: |
+              #     #### PERFIL
+              #     Licenciatura: Ingenierías en sistemas, computación, mecánica automotriz, ambiental, civil, química, informática o afines.
                   
-                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, alguien que resuelva problemas y busque formas de lograr sus objetivos. 
+              #     Buscamos una persona convencida y comprometida con el desarrollo sustentable, alguien que resuelva problemas y busque formas de lograr sus objetivos. 
                   
-                  Disponibilidad de horario de tiempo completo para laborar de manera presencial en la zona poniente de la Ciudad de México.
+              #     Disponibilidad de horario de tiempo completo para laborar de manera presencial en la zona poniente de la Ciudad de México.
                   
 
-                  #### EXPERIENCIA LABORAL Y ACTIVIDADES A REALIZAR
-                  - Contar con experiencia de 5 años en el ramo ambiental
-                  - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de planeación, programación y manejo de redes
-                  - Programar en los lenguajes principales
-                  - Manejar sistemas informáticos en línea
-                  - Manejar bases de datos en Excel y otras
-                  - Elaborar reportes de avance de proyectos
-                  - Elaborar tablas dinámicas y gráficos
-                  - Revisar indicadores de seguimiento
-                  - Analizar información ambiental técnica
-                  - Trabajar en equipo y bajo presión
-                  - Conocimiento general de mecánica automotriz y emisiones vehiculares
-                  - Revisión e integración de las bases de datos de la verificación vehicular
-                  - Programación para sistemas en línea
-                  - Manejo de redes y comunicación
-                  - Elaboración de tablas dinámicas
-                  - Elaboración de gráficos y reportes
-                  - Apoyo al seguimiento de los programas y acciones en materia de verificación vehicular e inventario de emisiones vehiculares
-                  - Revisión de información técnica y mecánica
-                  - Apoyo logístico en las reuniones de trabajo
-                  - Conocimiento de la normatividad ambiental en la materia
+              #     #### EXPERIENCIA LABORAL Y ACTIVIDADES A REALIZAR
+              #     - Contar con experiencia de 5 años en el ramo ambiental
+              #     - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de planeación, programación y manejo de redes
+              #     - Programar en los lenguajes principales
+              #     - Manejar sistemas informáticos en línea
+              #     - Manejar bases de datos en Excel y otras
+              #     - Elaborar reportes de avance de proyectos
+              #     - Elaborar tablas dinámicas y gráficos
+              #     - Revisar indicadores de seguimiento
+              #     - Analizar información ambiental técnica
+              #     - Trabajar en equipo y bajo presión
+              #     - Conocimiento general de mecánica automotriz y emisiones vehiculares
+              #     - Revisión e integración de las bases de datos de la verificación vehicular
+              #     - Programación para sistemas en línea
+              #     - Manejo de redes y comunicación
+              #     - Elaboración de tablas dinámicas
+              #     - Elaboración de gráficos y reportes
+              #     - Apoyo al seguimiento de los programas y acciones en materia de verificación vehicular e inventario de emisiones vehiculares
+              #     - Revisión de información técnica y mecánica
+              #     - Apoyo logístico en las reuniones de trabajo
+              #     - Conocimiento de la normatividad ambiental en la materia
 
 
 
-                  #### CONOCIMIENTOS TÉCNICOS DESEABLES
-                  - Conocimiento en tecnologías web: HTML, CSS y Javascript
-                  - Conocimiento de PHP, Java, Python, R o similares
-                  - Haber trabajado con alguno de los siguientes lenguajes: PHP, Java, C#
-                  - Conocimiento y habilidades con los comandos básicos de Linux
-                  - Conocimiento de servicios IaaS y PaaS
-                  - Experiencia y conocimiento con el uso de un DBMS relacional (Postgres, MySQL, etc.)
-                  - Tener dominio sobre los conceptos fundamentales de bases de datos
+              #     #### CONOCIMIENTOS TÉCNICOS DESEABLES
+              #     - Conocimiento en tecnologías web: HTML, CSS y Javascript
+              #     - Conocimiento de PHP, Java, Python, R o similares
+              #     - Haber trabajado con alguno de los siguientes lenguajes: PHP, Java, C#
+              #     - Conocimiento y habilidades con los comandos básicos de Linux
+              #     - Conocimiento de servicios IaaS y PaaS
+              #     - Experiencia y conocimiento con el uso de un DBMS relacional (Postgres, MySQL, etc.)
+              #     - Tener dominio sobre los conceptos fundamentales de bases de datos
                   
                   
-                  #### COMPETENCIAS Y HABILIDADES
-                  - Disponibilidad de horario, tolerancia a la crítica, tolerancia a la frustración, sociabilidad, iniciativa, reflexivo, orientado al detalle, estructurado, aceptación del control, multitareas, proactivo y responsable
-                  - Colaborar eficientemente con personas de diferentes ramas del conocimiento
-                  - Excelente ortografía
-                  - Manejo de Office al 100%
-                  - Proactividad y creatividad
-                  - Buscar soluciones a problemas y requerimientos del proyecto
-                  - Autodidacta y con ganas de seguir aprendiendo
-                  - Ser puntual con los compromisos
-                  - Excelente organización y administración de tiempo
-                  - Capacidad de aceptar retroalimentación de su trabajo y atenderlo
-                  - Responsabilidad
-                  - Transparencia
-                  - Honestidad
-                  - Confidencialidad
-                  - Calidad
-                  - Integridad
+              #     #### COMPETENCIAS Y HABILIDADES
+              #     - Disponibilidad de horario, tolerancia a la crítica, tolerancia a la frustración, sociabilidad, iniciativa, reflexivo, orientado al detalle, estructurado, aceptación del control, multitareas, proactivo y responsable
+              #     - Colaborar eficientemente con personas de diferentes ramas del conocimiento
+              #     - Excelente ortografía
+              #     - Manejo de Office al 100%
+              #     - Proactividad y creatividad
+              #     - Buscar soluciones a problemas y requerimientos del proyecto
+              #     - Autodidacta y con ganas de seguir aprendiendo
+              #     - Ser puntual con los compromisos
+              #     - Excelente organización y administración de tiempo
+              #     - Capacidad de aceptar retroalimentación de su trabajo y atenderlo
+              #     - Responsabilidad
+              #     - Transparencia
+              #     - Honestidad
+              #     - Confidencialidad
+              #     - Calidad
+              #     - Integridad
 
 
-                  #### OFERTA
-                  - Prestaciones de Ley
-                  - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
-                  - Colegas de trabajo inteligentes y capaces
-                  - Proyectos retadores y de gran impacto
-                  - Crecimiento profesional
+              #     #### OFERTA
+              #     - Prestaciones de Ley
+              #     - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
+              #     - Colegas de trabajo inteligentes y capaces
+              #     - Proyectos retadores y de gran impacto
+              #     - Crecimiento profesional
               
 
-                  #### PROCESO
-                  Envía al correo electrónico ideas@capsus.mx lo siguiente:
+              #     #### PROCESO
+              #     Envía al correo electrónico ideas@capsus.mx lo siguiente:
 
-                  1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
-                  2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
-                  3. Si tu CV es seleccionado, te enviaremos una prueba.
-                  4. Si la prueba es satisfactoria, te llamamos a entrevista.
-                info4_id: vac-1
-                info4_item_location: CDMX
-              - info4_item_fulltitle: Especialista Legal "B" en la Dirección de Crecimiento Verde
-                info4_item_subtitle: ""
-                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
-                info4_item_content: |
-                  #### PERFIL
-                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, con Licenciatura en Derecho (titulado). Buscamos a alguien que resuelva problemas y busque formas de lograr sus objetivos. 
+              #     1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
+              #     2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
+              #     3. Si tu CV es seleccionado, te enviaremos una prueba.
+              #     4. Si la prueba es satisfactoria, te llamamos a entrevista.
+              #   info4_id: vac-1
+              #   info4_item_location: CDMX
+              # - info4_item_fulltitle: Especialista Legal "B" en la Dirección de Crecimiento Verde
+              #   info4_item_subtitle: ""
+              #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
+              #   info4_item_content: |
+              #     #### PERFIL
+              #     Buscamos una persona convencida y comprometida con el desarrollo sustentable, con Licenciatura en Derecho (titulado). Buscamos a alguien que resuelva problemas y busque formas de lograr sus objetivos. 
 
-                  Disponibilidad de horario de tiempo completo para laborar 40 horas a la semana de manera presencial en la zona poniente de la Ciudad de México.
+              #     Disponibilidad de horario de tiempo completo para laborar 40 horas a la semana de manera presencial en la zona poniente de la Ciudad de México.
                   
 
-                  #### EXPERIENCIA LABORAL Y ACTIVIDADES A REALIZAR
-                  - Licenciatura en Derecho (titulado)
-                  - Experiencia profesional: mínimo 2 años
-                  - Experiencia en:
-                    - Administrativo
-                    - Contencioso
-                    - Legislativo
-                    - Fiscal
-                    - Finanzas públicas
-                    - Civil
-                  - Es deseable tener experiencia en políticas internas de la administración pública
-                  - Apoyo en actividades administrativas, consultivas, financieras, fiscales, desarrollo sustentable con enfoque legal y demás que resulten necesarias en la Dirección de Crecimiento Verde
-                  - Elaborar los proyectos de los diversos instrumentos legales como convenios, contratos, lineamientos y demás actos jurídicos que le entreguen para su atención
-                  - Formular análisis jurídico de la diferente normatividad que se le requiera para presentarlo a su superior
-                  - Apoyar en el control de la base de datos del acervo documental que le compete a la Dirección
-                  - Apoyar en la coordinación, atención y seguimiento de las actividades administrativas propias de la Dirección
-                  - Apoyar a la Dirección en los asuntos que tenga a su cargo, relativos a la coordinación de actividades con las entidades federativas, la Ciudad de México, así como con las unidades administrativas de la SEMARNAT
-                  - Apoyar en la atención y dar seguimiento a los requerimientos informativos que le sean formulados a la Dirección, incluyendo los que refiere la Ley Federal de Transparencia y Acceso a la Información
-                  - Realizar las demás que le encomiende su Jefe Inmediato y/o Superior Jerárquico de conformidad a las disposiciones legales y reglamentarias aplicables
+              #     #### EXPERIENCIA LABORAL Y ACTIVIDADES A REALIZAR
+              #     - Licenciatura en Derecho (titulado)
+              #     - Experiencia profesional: mínimo 2 años
+              #     - Experiencia en:
+              #       - Administrativo
+              #       - Contencioso
+              #       - Legislativo
+              #       - Fiscal
+              #       - Finanzas públicas
+              #       - Civil
+              #     - Es deseable tener experiencia en políticas internas de la administración pública
+              #     - Apoyo en actividades administrativas, consultivas, financieras, fiscales, desarrollo sustentable con enfoque legal y demás que resulten necesarias en la Dirección de Crecimiento Verde
+              #     - Elaborar los proyectos de los diversos instrumentos legales como convenios, contratos, lineamientos y demás actos jurídicos que le entreguen para su atención
+              #     - Formular análisis jurídico de la diferente normatividad que se le requiera para presentarlo a su superior
+              #     - Apoyar en el control de la base de datos del acervo documental que le compete a la Dirección
+              #     - Apoyar en la coordinación, atención y seguimiento de las actividades administrativas propias de la Dirección
+              #     - Apoyar a la Dirección en los asuntos que tenga a su cargo, relativos a la coordinación de actividades con las entidades federativas, la Ciudad de México, así como con las unidades administrativas de la SEMARNAT
+              #     - Apoyar en la atención y dar seguimiento a los requerimientos informativos que le sean formulados a la Dirección, incluyendo los que refiere la Ley Federal de Transparencia y Acceso a la Información
+              #     - Realizar las demás que le encomiende su Jefe Inmediato y/o Superior Jerárquico de conformidad a las disposiciones legales y reglamentarias aplicables
 
                   
-                  #### COMPETENCIAS Y HABILIDADES
-                  - Excelente administración del tiempo, orientación al resultado, toma de decisiones, orientación a la colaboración, capacidad de negociación y resolución de conflictos
-                  - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de trabajo en equipo
-                  - Organizado
-                  - Persistente
-                  - Tolerancia a la crítica y la frustración
-                  - Sociable
-                  - Iniciativa
-                  - Reflexivo
-                  - Orientado al detalle
-                  - Estructurado
-                  - Aceptación del control
-                  - Multitareas
-                  - Proactivo
-                  - Respetuoso
+              #     #### COMPETENCIAS Y HABILIDADES
+              #     - Excelente administración del tiempo, orientación al resultado, toma de decisiones, orientación a la colaboración, capacidad de negociación y resolución de conflictos
+              #     - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de trabajo en equipo
+              #     - Organizado
+              #     - Persistente
+              #     - Tolerancia a la crítica y la frustración
+              #     - Sociable
+              #     - Iniciativa
+              #     - Reflexivo
+              #     - Orientado al detalle
+              #     - Estructurado
+              #     - Aceptación del control
+              #     - Multitareas
+              #     - Proactivo
+              #     - Respetuoso
 
 
-                  #### APTITUDES
-                  - Responsabilidad
-                  - Transparencia
-                  - Honestidad
-                  - Confidencialidad
-                  - Calidad
-                  - Integridad
-                  - Organización
-                  - Persistencia
-                  - Tolerancia a la crítica
-                  - Sociable
-                  - Con iniciativa propia
-                  - Detallista
-                  - Con estructura
-                  - Multitareas
+              #     #### APTITUDES
+              #     - Responsabilidad
+              #     - Transparencia
+              #     - Honestidad
+              #     - Confidencialidad
+              #     - Calidad
+              #     - Integridad
+              #     - Organización
+              #     - Persistencia
+              #     - Tolerancia a la crítica
+              #     - Sociable
+              #     - Con iniciativa propia
+              #     - Detallista
+              #     - Con estructura
+              #     - Multitareas
 
 
-                  #### OFERTA
-                  - Prestaciones de Ley
-                  - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
+              #     #### OFERTA
+              #     - Prestaciones de Ley
+              #     - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
               
 
-                  #### PROCESO
-                  Envía al correo electrónico ideas@capsus.mx lo siguiente:
+              #     #### PROCESO
+              #     Envía al correo electrónico ideas@capsus.mx lo siguiente:
  
-                  1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
-                  2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
-                  3. Si tu CV es seleccionado, te enviaremos una prueba.
-                  4. Si la prueba es satisfactoria, te llamamos a entrevista.
+              #     1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
+              #     2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
+              #     3. Si tu CV es seleccionado, te enviaremos una prueba.
+              #     4. Si la prueba es satisfactoria, te llamamos a entrevista.
 
-                info4_id: vac-2
-                info4_item_location: CDMX
-              - info4_item_fulltitle: Apoyo en el Seguimiento de Proyectos Financiados por el Fideicomiso 1490
-                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la CDMX
-                info4_item_content: |
-                  #### PERFIL
-                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, para Apoyar en el seguimiento de proyectos financiados por el Fideicomiso 1490 “Para Apoyar los Programas, Proyectos y Acciones Ambientales de la Megalópolis”.
+              #   info4_id: vac-2
+              #   info4_item_location: CDMX
+              # - info4_item_fulltitle: Apoyo en el Seguimiento de Proyectos Financiados por el Fideicomiso 1490
+              #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la CDMX
+              #   info4_item_content: |
+              #     #### PERFIL
+              #     Buscamos una persona convencida y comprometida con el desarrollo sustentable, para Apoyar en el seguimiento de proyectos financiados por el Fideicomiso 1490 “Para Apoyar los Programas, Proyectos y Acciones Ambientales de la Megalópolis”.
 
-                  Horario 9 a 18 horas. Laborar de manera presencial en la zona poniente de la Ciudad de México.
+              #     Horario 9 a 18 horas. Laborar de manera presencial en la zona poniente de la Ciudad de México.
 
-                  Género: Indistinto
+              #     Género: Indistinto
 
-                  Edad: Indistinto
+              #     Edad: Indistinto
 
                   
-                  #### EXPERIENCIA Y ACTIVIDADES A REALIZAR
-                  - Licenciatura, Económica Administrativa o Ingeniería (titulado)
-                  - 3 años de experiencia profesional
-                  - Colaborar en el seguimiento de los proyectos integrando y analizando información sobre el cumplimiento de los resultados de los proyectos
-                  - Reportar al Director de Coordinación y Vinculación Institucional
-                  - Este puesto interactúa principalmente con funcionarias y funcionarios de la CEVI, la SEMARNAT y de los estados de la CAMe
+              #     #### EXPERIENCIA Y ACTIVIDADES A REALIZAR
+              #     - Licenciatura, Económica Administrativa o Ingeniería (titulado)
+              #     - 3 años de experiencia profesional
+              #     - Colaborar en el seguimiento de los proyectos integrando y analizando información sobre el cumplimiento de los resultados de los proyectos
+              #     - Reportar al Director de Coordinación y Vinculación Institucional
+              #     - Este puesto interactúa principalmente con funcionarias y funcionarios de la CEVI, la SEMARNAT y de los estados de la CAMe
 
-                  ##### Funciones prioritarias:
-                  - Dar seguimiento a los proyectos aprobados por el Comité Técnico del Fideicomiso 1490
-                  - Dar seguimiento al cumplimiento de los Términos de Referencia de los Proyectos
-                  - Dar seguimiento al cumplimiento de los Convenios de Aportaciones de los proyectos
+              #     ##### Funciones prioritarias:
+              #     - Dar seguimiento a los proyectos aprobados por el Comité Técnico del Fideicomiso 1490
+              #     - Dar seguimiento al cumplimiento de los Términos de Referencia de los Proyectos
+              #     - Dar seguimiento al cumplimiento de los Convenios de Aportaciones de los proyectos
 
-                  ##### Funciones complementarias:
-                  - Realizar seguimiento de avance físico y financiero de los proyectos
-                  - Participar en la evaluación de propuestas
-                  - Elaborar presentaciones para el Subcomité y Comité Técnico del Fideicomiso
-                  - Integrar carpetas para las sesiones del Subcomité y Comité Técnico del Fideicomiso
-                  - Integrar información relativa al seguimiento de proyectos
-                  - Interactuar con el personal técnico de las entidades federativas
-                  - Integrar expedientes físicos y digitalizarlos
-                  - Elaborar presentaciones
-                  - Elaborar y entregar oficios y otros documentos
-                  - Realizar informes de avance
-                  - Generar minutas
+              #     ##### Funciones complementarias:
+              #     - Realizar seguimiento de avance físico y financiero de los proyectos
+              #     - Participar en la evaluación de propuestas
+              #     - Elaborar presentaciones para el Subcomité y Comité Técnico del Fideicomiso
+              #     - Integrar carpetas para las sesiones del Subcomité y Comité Técnico del Fideicomiso
+              #     - Integrar información relativa al seguimiento de proyectos
+              #     - Interactuar con el personal técnico de las entidades federativas
+              #     - Integrar expedientes físicos y digitalizarlos
+              #     - Elaborar presentaciones
+              #     - Elaborar y entregar oficios y otros documentos
+              #     - Realizar informes de avance
+              #     - Generar minutas
   
 
-                  #### COMPETENCIAS Y HABILIDADES
-                  - Manejo de Office 100%
-                  - Inglés 80%
-                  - Análisis, síntesis y procesamiento de información
-                  - Toma de decisiones oportuna
-                  - Trabajo en equipo
-                  - Excelente comunicación interpersonal
-                  - Capacidad de adaptación
-                  - Análisis numérico
-                  - Organizado
-                  - Proactivo
-                  - Alta aceptación del control
-                  - Actitud positiva hacia la gente
-                  - Lógico y estructurado
+              #     #### COMPETENCIAS Y HABILIDADES
+              #     - Manejo de Office 100%
+              #     - Inglés 80%
+              #     - Análisis, síntesis y procesamiento de información
+              #     - Toma de decisiones oportuna
+              #     - Trabajo en equipo
+              #     - Excelente comunicación interpersonal
+              #     - Capacidad de adaptación
+              #     - Análisis numérico
+              #     - Organizado
+              #     - Proactivo
+              #     - Alta aceptación del control
+              #     - Actitud positiva hacia la gente
+              #     - Lógico y estructurado
 
 
-                  #### EXPERIENCIA EN POLÍTICAS INTERNAS
-                  - Responsabilidad
-                  - Transparencia
-                  - Honestidad
-                  - Confidencialidad
-                  - Calidad
-                  - Integridad
-
-              
-                  #### OFERTA
-                  - Prestaciones de Ley
-                  - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
+              #     #### EXPERIENCIA EN POLÍTICAS INTERNAS
+              #     - Responsabilidad
+              #     - Transparencia
+              #     - Honestidad
+              #     - Confidencialidad
+              #     - Calidad
+              #     - Integridad
 
               
-                  #### PROCESO
-                  Envía al correo electrónico ideas@capsus.mx lo siguiente:
+              #     #### OFERTA
+              #     - Prestaciones de Ley
+              #     - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
+
+              
+              #     #### PROCESO
+              #     Envía al correo electrónico ideas@capsus.mx lo siguiente:
  
-                  1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
-                  2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
-                  3. Si tu CV es seleccionado, te enviaremos una prueba.
-                  4. Si la prueba es satisfactoria, te llamamos a entrevista.
-                info4_id: vac-3
-                info4_item_location: CDMX
-              - info4_item_fulltitle: Soporte técnico en verificación vehicular y manejo de datos
-                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
-                info4_item_content: |
-                  #### PERFIL
-                  Licenciatura mínimo: Ingenierías ambiental, civil, química, mecánica, computación, informática o afines (titulado).
+              #     1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
+              #     2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
+              #     3. Si tu CV es seleccionado, te enviaremos una prueba.
+              #     4. Si la prueba es satisfactoria, te llamamos a entrevista.
+              #   info4_id: vac-3
+              #   info4_item_location: CDMX
+              # - info4_item_fulltitle: Soporte técnico en verificación vehicular y manejo de datos
+              #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
+              #   info4_item_content: |
+              #     #### PERFIL
+              #     Licenciatura mínimo: Ingenierías ambiental, civil, química, mecánica, computación, informática o afines (titulado).
 
-                  Género y edad indistintos.
+              #     Género y edad indistintos.
 
-                  Buscamos una persona para dar soporte en materia ambiental y de verificación vehicular. 
+              #     Buscamos una persona para dar soporte en materia ambiental y de verificación vehicular. 
 
-                  Disponibilidad de horario de 9 a 18 horas para laborar de manera presencial en la zona poniente de la Ciudad de México.
+              #     Disponibilidad de horario de 9 a 18 horas para laborar de manera presencial en la zona poniente de la Ciudad de México.
 
                   
-                  #### EXPERIENCIA LABORAL Y ACTIVIDADES A REALIZAR
-                  - Contar con experiencia de 4 años en el ramo ambiental
-                  - Manejar sistemas informáticos
-                  - Manejar bases de datos
-                  - Elaborar reportes de avance de proyectos
-                  - Elaborar tablas dinámicas y gráficos
-                  - Revisar indicadores de seguimiento
-                  - Analizar información ambiental técnica
-                  - Revisión e integración de las bases de datos de la verificación vehicular y del monitoreo de la calidad del aire
-                  - Elaboración de tablas dinámicas
-                  - Elaboración de gráficos y reportes
-                  - Seguimiento de los programas, proyectos y acciones en materia de calidad del aire y emisiones vehiculares
-                  - Revisión de información técnica
-                  - Apoyo logístico en las reuniones de trabajo
-                  - Reportar a la Directora de Prevención y Control de la Contaminación Urbana en Zonas Metropolitanas
-                  - Interacción con la Dirección General Adjunta de Gestión de Calidad del aire en Zonas Metropolitanas
+              #     #### EXPERIENCIA LABORAL Y ACTIVIDADES A REALIZAR
+              #     - Contar con experiencia de 4 años en el ramo ambiental
+              #     - Manejar sistemas informáticos
+              #     - Manejar bases de datos
+              #     - Elaborar reportes de avance de proyectos
+              #     - Elaborar tablas dinámicas y gráficos
+              #     - Revisar indicadores de seguimiento
+              #     - Analizar información ambiental técnica
+              #     - Revisión e integración de las bases de datos de la verificación vehicular y del monitoreo de la calidad del aire
+              #     - Elaboración de tablas dinámicas
+              #     - Elaboración de gráficos y reportes
+              #     - Seguimiento de los programas, proyectos y acciones en materia de calidad del aire y emisiones vehiculares
+              #     - Revisión de información técnica
+              #     - Apoyo logístico en las reuniones de trabajo
+              #     - Reportar a la Directora de Prevención y Control de la Contaminación Urbana en Zonas Metropolitanas
+              #     - Interacción con la Dirección General Adjunta de Gestión de Calidad del aire en Zonas Metropolitanas
 
                   
-                  #### COMPETENCIAS Y HABILIDADES
-                  - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de planeación
-                  - Excelente administración del tiempo, orientación al resultado, seguimiento de acedos, orientación a la colaboración, trabajar en equipo y bajo presión
-                  - Disponibilidad de horario, tolerancia a la crítica, tolerancia a la frustración, sociabilidad, iniciativa, reflexivo, orientado al detalle, estructurado, aceptación del control multi-tareas, proactivo
-                  - Responsabilidad
-                  - Transparencia
-                  - Honestidad
-                  - Confidencialidad
-                  - Calidad
-                  - Integridad
+              #     #### COMPETENCIAS Y HABILIDADES
+              #     - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de planeación
+              #     - Excelente administración del tiempo, orientación al resultado, seguimiento de acedos, orientación a la colaboración, trabajar en equipo y bajo presión
+              #     - Disponibilidad de horario, tolerancia a la crítica, tolerancia a la frustración, sociabilidad, iniciativa, reflexivo, orientado al detalle, estructurado, aceptación del control multi-tareas, proactivo
+              #     - Responsabilidad
+              #     - Transparencia
+              #     - Honestidad
+              #     - Confidencialidad
+              #     - Calidad
+              #     - Integridad
  
                
-                  #### OFERTA
-                  - Prestaciones de Ley
-                  - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
-                  - Colegas de trabajo inteligentes y capaces
+              #     #### OFERTA
+              #     - Prestaciones de Ley
+              #     - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
+              #     - Colegas de trabajo inteligentes y capaces
 
                
-                  #### PROCESO
-                  Envía al correo electrónico ideas@capsus.mx lo siguiente:
+              #     #### PROCESO
+              #     Envía al correo electrónico ideas@capsus.mx lo siguiente:
  
-                  1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
-                  2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
-                  3. Si tu CV es seleccionado, te enviaremos una prueba.
-                  4. Si la prueba es satisfactoria, te llamamos a entrevista.
-                info4_id: vac-4
-                info4_item_location: CDMX
+              #     1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
+              #     2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
+              #     3. Si tu CV es seleccionado, te enviaremos una prueba.
+              #     4. Si la prueba es satisfactoria, te llamamos a entrevista.
+              #   info4_id: vac-4
+              #   info4_item_location: CDMX
               #- info4_item_fulltitle: Ingeniería en Transporte o afines
               #  info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la Ciudad de México
               #  info4_item_content: |
