@@ -10,3 +10,4 @@ HUGO_THEME = "repo"
 from = "/"
 to = "/es"
 conditions = { Language = ["es"] }
+force = true
