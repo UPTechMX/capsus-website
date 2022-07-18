@@ -10,7 +10,7 @@ title = "CAPSUS | Capital Sustentable"
 [Languages]
 
 [Languages.en]
-baseURL = "https://capsus.mx/en"
+# baseURL = "https://capsus.mx/en"
 contentDir = "content/english"
 copyright = "&copy; 2020 CAPSUS S.C. all rights reserved. This website uses [Hugo static pages](https://gohugo.io/). [Template](https://themes.gohugo.io/meghna-hugo/) by [Themefisher](https://themefisher.com/contact/)."
 home = "Home"
@@ -21,7 +21,7 @@ privacy_notice = "[Privacy Notice](/en/privacy/privacy-notice)"
 weight = "1"
 
 [Languages.es]
-baseURL = "https://capsus.mx/es"
+# baseURL = "https://capsus.mx/es"
 contentDir = "content/spanish"
 copyright = "&copy; 2020 CAPSUS S.C. todos los derechos reservados. Este sitio web utiliza [Hugo static pages](https://gohugo.io/). [Template](https://themes.gohugo.io/meghna-hugo/) por [Themefisher](https://themefisher.com/contact/)."
 home = "Principal"
