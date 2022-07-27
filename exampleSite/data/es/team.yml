@@ -135,6 +135,21 @@ team:
         de Unilever, en centros de investigación de Japón y Canadá en temas de agua
         y energía y con la Secretaría de Desarrollo Sustentable de Morelos enfocado
         al rescate de barrancas urbanas."
+    - name: Denisse Larracilla Razo
+      member_title: Urbanista
+      image: images/team/DR.jpg
+      image_webp: images/team/DR.jpg
+      categories:
+        - consultants
+      title: Consultant
+      content: Desarrollo Urbano y Diseño Ambiental
+      link: "#"
+      member_profile:
+        Magíster en Desarrollo Urbano en la Pontificia Universidad Católica de Chile y Diseñadora-urbana ambiental por la Benemérita Universidad Autónoma de Puebla, México.
+        En el ámbito municipal, ha coordinado la elaboración de instrumentos normativos y de planificación urbana, así como estructuras institucionales para promover y atender la movilidad urbana sustentable,
+        espacio público y seguridad vial desde la acción gubernamental. A nivel estatal, ha coordinado el desarrollo de ejercicios de experimentación urbana,
+        bajo un esquema de trabajo colaborativo entre los sectores social, académico, público y privado. En el sector privado, ha proporcionado acompañamiento técnico para el desarrollo de proyectos de mejoramiento urbano,
+        con énfasis en movilidad sustentable y perspectiva de género.
     - name: Dinorah León
       member_title: Ingeniero en Desarrollo Sustentable
       image: images/team/DL.jpg
@@ -236,6 +251,20 @@ team:
         ha implementado programas de intercambio académico y profesional entre México
         y otros países del mundo, así como proyectos de cooperación internacional relacionados
         a desarrollo económico, asociaciones público privadas y desarrollo social.
+    - name: Paul Cota
+      member_title: Política Pública
+      image: images/team/PC.jpg
+      image_webp: images/team/PC.jpg
+      categories:
+        - associates
+      title: Asociado
+      content: Política Pública y Desarrollo Regional
+      link: "#"
+      member_profile:
+        Internacionalista, cuenta con una Maestría en Estudios Regionales por el Instituto Mora. Se ha especializado en el análisis de políticas públicas y proyectos de desarrollo en temáticas sobre gobiernos locales,
+        gobernanza urbana y metropolitana, participación ciudadana y segregación socioespacial. Durante su desarrollo profesional,
+        Paul ha coordinado proyectos en torno a la promoción de energías limpias como catalizador de desarrollo regional en el noroeste de México,
+        así como consultor en política pública dentro del Instituto Metropolitano de Planeación de Tijuana e investigador invitado en el Departamento de Planeación Urbana y Regional de la Universidad de Illinois.
     - name: Renata Rocha
       member_title: Ingeniera Química
       image: images/team/RR.jpg

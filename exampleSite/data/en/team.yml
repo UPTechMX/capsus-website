@@ -140,6 +140,20 @@ team:
         department, in research centers in Japan and Canada on water and energy issues
         and with the Ministry for Sustainable Development of the State of Morelos, Mexico.
         His work there focused on the rescue of urban ravines.
+    - name: Denisse Larracilla Razo
+      member_title: Urban Planner
+      image: images/team/DR.jpg
+      image_webp: images/team/DR.jpg
+      categories:
+        - consultants
+      title: Consultant
+      content: Urban Development and Environmental Design
+      link: "#"
+      member_profile:
+        Master in Urban Development from the Pontificia Universidad Católica de Chile and Urban-Environmental Designer at the Meritorious Autonomous University of Puebla, Mexico.
+        At the municipal level, she has coordinated the development of regulatory and urban planning instruments, as well as institutional structures to promote and attend sustainable urban mobility,
+        public space and road safety from the public perspective. At the state level, she has coordinated the development of urban experimentation exercises under a collaborative work scheme between the social,
+        academic, public and private sectors. In the private sector, she has provided technical support for the development of urban improvement projects with an emphasis on sustainable mobility and a gender perspective.
     - name: Dinorah León
       member_title: Engineer in Sustainable Development
       image: images/team/DL.jpg
@@ -248,6 +262,20 @@ team:
         She has implemented academic and professional exchange programs in Mexico and
         abroad, and she has also worked on projects related to economic development,
         public-private partnerships and social development.
+    - name: Paul Cota
+      member_title: Policy Analyst
+      image: images/team/PC.jpg
+      image_webp: images/team/PC.jpg
+      categories:
+        - associates
+      title: Associate
+      content: Public Policy and Regional Development
+      link: "#"
+      member_profile:
+        An Internationalist with a master’s degree in Regional Studies from the Social Research Institute Dr. José María Luis Mora.
+        Paul specializes in the analysis of public policy and development projects on topics such as local governments, urban and metropolitan governance,
+        citizen participation and socio spatial segregation. During his career, Paul has led international projects promoting the transition to clean energies in the northwest of Mexico as a catalyst for regional development.
+        He has also worked as a consultant in public policy at the Metropolitan Institute of Urban Planning in Tijuana and did a research stay at the Department of Urban and Regional Planning of the University of Illinois.
     - name: Renata Rocha
       member_title: Chemical Engineer
       image: images/team/RR.jpg
