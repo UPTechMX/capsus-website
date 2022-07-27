@@ -140,8 +140,8 @@ team:
       image: images/team/DR.jpg
       image_webp: images/team/DR.jpg
       categories:
-        - consultants
-      title: Consultant
+        - associates
+      title: Asociada
       content: Desarrollo Urbano y Diseño Ambiental
       link: "#"
       member_profile:

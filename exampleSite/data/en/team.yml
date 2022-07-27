@@ -145,8 +145,8 @@ team:
       image: images/team/DR.jpg
       image_webp: images/team/DR.jpg
       categories:
-        - consultants
-      title: Consultant
+        - associates
+      title: Associate
       content: Urban Development and Environmental Design
       link: "#"
       member_profile:
