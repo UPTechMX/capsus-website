@@ -119,6 +119,21 @@ team:
         y relaciones públicas. Además, ha trabajado en el mundo del diseño editorial,
         diseño digital para eventos, animación, identidad corporativa, diseño UX, entre
         otros."
+    - name: Azucena García
+      member_title: Ingeniera en Desarrollo Sustentable y Maestra en Economía
+      image: images/team/AL.jpg
+      image_webp: images/team/AL.jpg
+      categories:
+        - consultants
+      title: Consultora
+      content: Economía Sustentable
+      link: "#"
+      member_profile:
+        "Ingeniera en Desarrollo Sostenible por el Tecnológico de Monterrey, y Maestra en economía, con especialidad en economía de la tecnología y la innovación,
+        por la Universidad Nacional Autónoma de México. Azucena es especialista en sustentabilidad, innovación y desarrollo empresarial con más de 5 años de experiencia como consultora en el diseño,
+        implementación y seguimiento de proyectos en el sector público y privado. Ha colaborado en diferentes organizaciones de diversos sectores en asesoría estratégica, innovación y financiamiento.
+        Azucena también ha colaborado en proyectos relacionados a organismos internacionales como el Programa de las Naciones Unidas para el Desarrollo (PNUD), el Banco Interamericano de Desarrollo (BID),
+        el Banco Mundial (BM) y el Banco Centroamericano de Integración Económica (BCIE)."
     - name: Dante Zayas
       member_title: Ingeniero en Desarrollo Sustentable
       image: images/team/DZ.jpg

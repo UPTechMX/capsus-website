@@ -124,6 +124,21 @@ team:
         with various brands on aspects related to reputation and public relations. In
         addition, she has worked in editorial design, digital design, animation, corporate
         identity, Infographic design, among others."
+    - name: Azucena García
+      member_title: Sustainable Development Engineer and Master in Economics
+      image: images/team/AL.jpg
+      image_webp: images/team/AL.jpg
+      categories:
+        - consultants
+      title: Consultant
+      content: Sustainable Economy
+      link: "#"
+      member_profile:
+        "Sustainable Development Engineer with a master's degree in economics, a specialty in technology and innovation economics, and a diploma in management and technology transfer.
+        Azucena is a specialist in procurement, sustainability, innovation and business development with more than 5 years of experience in the design, implementation and monitoring of projects for the private and public sectors.
+        She has collaborated as a consultant in organizations from diverse sectors to carry out diagnosis, strategic plans and financial advice.
+        As procurement specialist, she has worked on projects destined for international organizations such as the United Nations Development Program (UNDP), the InterAmerican Development Bank (IADB),
+        the World Bank (WB) and the Central American Bank for Economic Integration."
     - name: Dante Zayas
       member_title: Engineer in Sustainable Development
       image: images/team/DZ.jpg
