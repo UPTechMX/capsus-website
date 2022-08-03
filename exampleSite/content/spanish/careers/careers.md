@@ -36,89 +36,71 @@ jobs:
                 Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tú y nosotros.
           info4:
             - info4_title: Vacantes
-              # info4_item:
-              # - info4_item_fulltitle: Ingeniero para Soporte técnico
-              #   info4_item_subtitle: ""
-              #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
-              #   info4_item_content: |
-              #     #### PERFIL
-              #     Licenciatura: Ingenierías en sistemas, computación, mecánica automotriz, ambiental, civil, química, informática o afines.
-                  
-              #     Buscamos una persona convencida y comprometida con el desarrollo sustentable, alguien que resuelva problemas y busque formas de lograr sus objetivos. 
-                  
-              #     Disponibilidad de horario de tiempo completo para laborar de manera presencial en la zona poniente de la Ciudad de México.
+              info4_item:
+              - info4_item_fulltitle: Ingeniería Ambiental
+                info4_item_subtitle: ""
+                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
+                info4_item_content: |
+                  #### PERFIL
+                  Buscamos una persona comprometida con el desarrollo sustentable. Una persona que cuente con título de ingeniería o similar. Este puede ser tu primer empleo pero idealmente buscamos a alguien que cuente de 1 a 3 años de experiencia laboral.
+
+                  Disponibilidad de horario de tiempo completo (9 a 18 horas). Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual.
                   
 
-              #     #### EXPERIENCIA LABORAL Y ACTIVIDADES A REALIZAR
-              #     - Contar con experiencia de 5 años en el ramo ambiental
-              #     - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de planeación, programación y manejo de redes
-              #     - Programar en los lenguajes principales
-              #     - Manejar sistemas informáticos en línea
-              #     - Manejar bases de datos en Excel y otras
-              #     - Elaborar reportes de avance de proyectos
-              #     - Elaborar tablas dinámicas y gráficos
-              #     - Revisar indicadores de seguimiento
-              #     - Analizar información ambiental técnica
-              #     - Trabajar en equipo y bajo presión
-              #     - Conocimiento general de mecánica automotriz y emisiones vehiculares
-              #     - Revisión e integración de las bases de datos de la verificación vehicular
-              #     - Programación para sistemas en línea
-              #     - Manejo de redes y comunicación
-              #     - Elaboración de tablas dinámicas
-              #     - Elaboración de gráficos y reportes
-              #     - Apoyo al seguimiento de los programas y acciones en materia de verificación vehicular e inventario de emisiones vehiculares
-              #     - Revisión de información técnica y mecánica
-              #     - Apoyo logístico en las reuniones de trabajo
-              #     - Conocimiento de la normatividad ambiental en la materia
+                  #### EXPERIENCIA LABORAL
+                  - Ingeniería Ambiental o afines (titulación)
+                  - Idealmente de 1 a 3 años de experiencia
+                  - Excelente ortografía y redacción
+                  - Buena comunicación
+                  - Manejo de Microsoft Office
+                  - Totalmente bilingüe en español e inglés
+                  - El tercer idioma es un plus
 
 
-
-              #     #### CONOCIMIENTOS TÉCNICOS DESEABLES
-              #     - Conocimiento en tecnologías web: HTML, CSS y Javascript
-              #     - Conocimiento de PHP, Java, Python, R o similares
-              #     - Haber trabajado con alguno de los siguientes lenguajes: PHP, Java, C#
-              #     - Conocimiento y habilidades con los comandos básicos de Linux
-              #     - Conocimiento de servicios IaaS y PaaS
-              #     - Experiencia y conocimiento con el uso de un DBMS relacional (Postgres, MySQL, etc.)
-              #     - Tener dominio sobre los conceptos fundamentales de bases de datos
+                  #### CONOCIMIENTOS
+                  - Solucionar problemas prácticos, mediante la aplicación de las matemáticas y el conocimiento científico
+                  - Tener muy buen manejo de tablas de cálculo, tipo Excel
+                  - Conocimiento y/o experiencia en temas de cambio climático
+                  - Sería un plus saber programar en R o Python
                   
                   
-              #     #### COMPETENCIAS Y HABILIDADES
-              #     - Disponibilidad de horario, tolerancia a la crítica, tolerancia a la frustración, sociabilidad, iniciativa, reflexivo, orientado al detalle, estructurado, aceptación del control, multitareas, proactivo y responsable
-              #     - Colaborar eficientemente con personas de diferentes ramas del conocimiento
-              #     - Excelente ortografía
-              #     - Manejo de Office al 100%
-              #     - Proactividad y creatividad
-              #     - Buscar soluciones a problemas y requerimientos del proyecto
-              #     - Autodidacta y con ganas de seguir aprendiendo
-              #     - Ser puntual con los compromisos
-              #     - Excelente organización y administración de tiempo
-              #     - Capacidad de aceptar retroalimentación de su trabajo y atenderlo
-              #     - Responsabilidad
-              #     - Transparencia
-              #     - Honestidad
-              #     - Confidencialidad
-              #     - Calidad
-              #     - Integridad
+                  #### COMPETENCIAS Y HABILIDADES
+                  - Trabajo en equipo
+                  - Comunicación eficaz
+                  - Habilidades de planeación y organización
+                  - Tolerancia a la crítica
+                  - Sociable
+                  - Iniciativa y capacidad de reflexión
+                  - Orientación al detalle y estructura
+                  - Organización y persistencia
+                  - Proactividad
+                  - Respeto
+                  - Multi tareas
 
 
-              #     #### OFERTA
-              #     - Prestaciones de Ley
-              #     - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
-              #     - Colegas de trabajo inteligentes y capaces
-              #     - Proyectos retadores y de gran impacto
-              #     - Crecimiento profesional
+                  #### OFERTA
+                  - Prestaciones superiores a las de la ley
+                  - Seguro de gastos médicos mayores
+                  - Apoyo para capacitación
+                  - Días personales y vacaciones adicionales a los de la ley
+                  - Trabajo nacional e internacional
+                  - Proyectos de gran impacto
+                  - Crecimiento profesional
+                  - $17,500 mxn bruto de acuerdo a competencias y habilidades
+
               
 
-              #     #### PROCESO
-              #     Envía al correo electrónico ideas@capsus.mx lo siguiente:
+                  #### PROCESO
+                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
 
-              #     1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
-              #     2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
-              #     3. Si tu CV es seleccionado, te enviaremos una prueba.
-              #     4. Si la prueba es satisfactoria, te llamamos a entrevista.
-              #   info4_id: vac-1
-              #   info4_item_location: CDMX
+                  1. Tu CV (no más de 2 páginas)
+                  2. Tu exposición de motivos en español.
+                  3. Una carta en inglés donde nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
+                  4. Copia de título profesional
+                  5. Si tu CV es seleccionado, te enviaremos una prueba.
+                  6. Si la prueba es satisfactoria, te llamamos a entrevista.
+                info4_id: vac-1
+                info4_item_location: CDMX
               # - info4_item_fulltitle: Especialista Legal "B" en la Dirección de Crecimiento Verde
               #   info4_item_subtitle: ""
               #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
