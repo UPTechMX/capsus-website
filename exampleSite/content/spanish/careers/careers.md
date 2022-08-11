@@ -36,71 +36,71 @@ jobs:
                 Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tú y nosotros.
           info4:
             - info4_title: Vacantes
-              info4_item:
-              - info4_item_fulltitle: Ingeniería Ambiental
-                info4_item_subtitle: ""
-                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
-                info4_item_content: |
-                  #### PERFIL
-                  Buscamos una persona comprometida con el desarrollo sustentable. Una persona que cuente con título de ingeniería o similar. Este puede ser tu primer empleo pero idealmente buscamos a alguien que cuente de 1 a 3 años de experiencia laboral.
+              # info4_item:
+              # - info4_item_fulltitle: Ingeniería Ambiental
+              #   info4_item_subtitle: ""
+              #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
+              #   info4_item_content: |
+              #     #### PERFIL
+              #     Buscamos una persona comprometida con el desarrollo sustentable. Una persona que cuente con título de ingeniería o similar. Este puede ser tu primer empleo pero idealmente buscamos a alguien que cuente de 1 a 3 años de experiencia laboral.
 
-                  Disponibilidad de horario de tiempo completo (9 a 18 horas). Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual.
+              #     Disponibilidad de horario de tiempo completo (9 a 18 horas). Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual.
                   
 
-                  #### EXPERIENCIA LABORAL
-                  - Ingeniería Ambiental o afines (titulación)
-                  - Idealmente de 1 a 3 años de experiencia
-                  - Excelente ortografía y redacción
-                  - Buena comunicación
-                  - Manejo de Microsoft Office
-                  - Totalmente bilingüe en español e inglés
-                  - El tercer idioma es un plus
+              #     #### EXPERIENCIA LABORAL
+              #     - Ingeniería Ambiental o afines (titulación)
+              #     - Idealmente de 1 a 3 años de experiencia
+              #     - Excelente ortografía y redacción
+              #     - Buena comunicación
+              #     - Manejo de Microsoft Office
+              #     - Totalmente bilingüe en español e inglés
+              #     - El tercer idioma es un plus
 
 
-                  #### CONOCIMIENTOS
-                  - Solucionar problemas prácticos, mediante la aplicación de las matemáticas y el conocimiento científico
-                  - Tener muy buen manejo de tablas de cálculo, tipo Excel
-                  - Conocimiento y/o experiencia en temas de cambio climático
-                  - Sería un plus saber programar en R o Python
+              #     #### CONOCIMIENTOS
+              #     - Solucionar problemas prácticos, mediante la aplicación de las matemáticas y el conocimiento científico
+              #     - Tener muy buen manejo de tablas de cálculo, tipo Excel
+              #     - Conocimiento y/o experiencia en temas de cambio climático
+              #     - Sería un plus saber programar en R o Python
                   
                   
-                  #### COMPETENCIAS Y HABILIDADES
-                  - Trabajo en equipo
-                  - Comunicación eficaz
-                  - Habilidades de planeación y organización
-                  - Tolerancia a la crítica
-                  - Sociable
-                  - Iniciativa y capacidad de reflexión
-                  - Orientación al detalle y estructura
-                  - Organización y persistencia
-                  - Proactividad
-                  - Respeto
-                  - Multi tareas
+              #     #### COMPETENCIAS Y HABILIDADES
+              #     - Trabajo en equipo
+              #     - Comunicación eficaz
+              #     - Habilidades de planeación y organización
+              #     - Tolerancia a la crítica
+              #     - Sociable
+              #     - Iniciativa y capacidad de reflexión
+              #     - Orientación al detalle y estructura
+              #     - Organización y persistencia
+              #     - Proactividad
+              #     - Respeto
+              #     - Multi tareas
 
 
-                  #### OFERTA
-                  - Prestaciones superiores a las de la ley
-                  - Seguro de gastos médicos mayores
-                  - Apoyo para capacitación
-                  - Días personales y vacaciones adicionales a los de la ley
-                  - Trabajo nacional e internacional
-                  - Proyectos de gran impacto
-                  - Crecimiento profesional
-                  - $17,500 mxn bruto de acuerdo a competencias y habilidades
+              #     #### OFERTA
+              #     - Prestaciones superiores a las de la ley
+              #     - Seguro de gastos médicos mayores
+              #     - Apoyo para capacitación
+              #     - Días personales y vacaciones adicionales a los de la ley
+              #     - Trabajo nacional e internacional
+              #     - Proyectos de gran impacto
+              #     - Crecimiento profesional
+              #     - $17,500 mxn bruto de acuerdo a competencias y habilidades
 
               
 
-                  #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+              #     #### PROCESO
+              #     Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
 
-                  1. Tu CV (no más de 2 páginas)
-                  2. Tu exposición de motivos en español.
-                  3. Una carta en inglés donde nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
-                  4. Copia de título profesional
-                  5. Si tu CV es seleccionado, te enviaremos una prueba.
-                  6. Si la prueba es satisfactoria, te llamamos a entrevista.
-                info4_id: vac-1
-                info4_item_location: CDMX
+              #     1. Tu CV (no más de 2 páginas)
+              #     2. Tu exposición de motivos en español.
+              #     3. Una carta en inglés donde nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
+              #     4. Copia de título profesional
+              #     5. Si tu CV es seleccionado, te enviaremos una prueba.
+              #     6. Si la prueba es satisfactoria, te llamamos a entrevista.
+              #   info4_id: vac-1
+              #   info4_item_location: CDMX
               # - info4_item_fulltitle: Especialista Legal "B" en la Dirección de Crecimiento Verde
               #   info4_item_subtitle: ""
               #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
