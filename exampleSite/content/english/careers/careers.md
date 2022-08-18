@@ -6,6 +6,8 @@ jobs:
     description : "This is meta description"
     main_bg_image_webp: images/careers/Banner-unete.png
     main_bg_image: images/careers/Banner-unete.png
+    diversity_image : images/who/diversidad-img-08.png
+    diversity_image_webp : images/who/diversidad-img-08.png
     diversity_title: We celebrate diversity!
     diversity_content: "We believe that inclusion and social diversity nurture the capacity of innovation and creativity, therefore our team and allies are from diverse races and backgrounds, religions, genders, sexual orientation, gender identity and expression, ages and more aspects that belong to people's identity.\n\nOur Gender, Diversity and Inclusion Policy focuses our actions in 3 pillars to act under the premise of non-violence, gender equality, and respect for sexual diversity to protect the rights, identity and individuality of the LGBTQ+ community, women and minority groups in our workplace."
     diversity_button_title: Download GDI Policy
