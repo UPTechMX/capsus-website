@@ -30,6 +30,24 @@
           <div class="container text-center">
             <h2 class="color" id="intro-heading">{{ .job_intro_title | markdownify }}</h2>
             <h3 class="color-3" id="intro-content">{{ .job_intro_content | markdownify }}</h3>
+            <div class="row">
+              <div class="col-lg-6 my-auto text-left">
+                <h2 class="color" id="diversity-heading">{{ .diversity_title | markdownify }}</h2>
+                <p>
+                  <span>{{ .diversity_content | markdownify }}</span>
+                </p>
+                <button class="btn btn-transparent mt-4" tabindex="-1">
+                  <a href="{{ .diversity_document | relURL }}" download>
+                    <h5 class="my-auto">
+                      {{ .diversity_button_title | markdownify }}
+                    </h5>
+                  </a>
+                </button>
+              </div>
+              <div class="col-lg-6 my-auto">
+								<img class="img-fluid" onerror="this.onerror=null;this.parentElement.style.backgroundImage='url({{ .diversity_image | absURL }})'" src="{{ .diversity_image_webp | absURL }}" />
+              </div>
+            </div>
             <div class="pt-5" style="border-bottom: 2px solid white;height: 1px;position: relative;width: 100%;"></div>
           </div>
         </div>

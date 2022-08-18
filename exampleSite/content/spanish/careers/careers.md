@@ -6,8 +6,14 @@ jobs:
     description : "This is meta description"
     main_bg_image_webp: images/careers/Banner-unete.png
     main_bg_image: images/careers/Banner-unete.png
+    diversity_image : images/who/diversidad-img-08.png
+    diversity_image_webp : images/who/diversidad-img-08.png
+    diversity_title: ¡Celebramos la diversidad!
+    diversity_content: "Creemos que la inclusión y la diversidad social nutren la capacidad de innovación y creatividad, por lo tanto nuestro equipo y aliados son de diversas razas, religiones, géneros, orientación sexual, identidad y expresión de género, edades y más aspectos que conforman la identidad de las personas.\n\nNuestra Política de Género, Diversidad e Inclusión enfoca nuestras acciones en 3 pilares para promover la equidad de género, el respeto a la comunidad LGBTQ+ y la prevención de situaciones de acoso, violencia y discriminación en nuestro ambiente de trabajo."
+    diversity_button_title: Descarga Política GDI
+    diversity_document: documents/Politica-de-genero-diversidad-e-inclusion.pdf
     job_intro_title : SOMOS UN EQUIPO TRANSDISCIPLINARIO
-    job_intro_content : Superamos desafíos en diferentes contextos gracias a nuestra experiencia y profunda comprensión de las necesidades de los clientes.
+    job_intro_content : "Superamos desafíos en diferentes contextos gracias a nuestra experiencia y profunda comprensión de las necesidades de los clientes. \n\nLa fortaleza de CAPSUS se constituye a partir de la gran capacidad y creatividad de las personas que forman al equipo, comprometidas con la construcción de espacios seguros, justos, resilientes y enfocados en las personas."
     job_intro_image : images/careers/Mapa-mundo.png
     job_item:
         - name: Bolsa de trabajo
