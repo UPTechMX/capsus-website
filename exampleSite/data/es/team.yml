@@ -134,6 +134,21 @@ team:
         implementación y seguimiento de proyectos en el sector público y privado. Ha colaborado en diferentes organizaciones de diversos sectores en asesoría estratégica, innovación y financiamiento.
         Azucena también ha colaborado en proyectos relacionados a organismos internacionales como el Programa de las Naciones Unidas para el Desarrollo (PNUD), el Banco Interamericano de Desarrollo (BID),
         el Banco Mundial (BM) y el Banco Centroamericano de Integración Económica (BCIE)."
+    - name: Bardo Salgado
+      member_title: Urbanista
+      image: images/team/BS.jpg
+      image_webp: images/team/BS.jpg
+      categories:
+        - consultants
+      title: Consultor
+      content: Diseño y Desarrollo Urbano
+      link: "#"
+      member_profile:
+        "Bardo es licenciado en planeación urbana por la Universidad Nacional Autónoma de México y cuenta con una maestría en desarrollo y diseño urbano integral por la Universidad Bauhaus Weimar de Alemania.
+        Se ha desarrollado profesionalmente en las áreas de movilidad y desarrollo urbano participando en la elaboración de planes maestros de movilidad urbana, propuestas de accesibilidad urbana,
+        estudios de factibilidad de proyectos de transporte, programas Integrales de Movilidad Urbana Sostenible y formación de capacidades para autoridades municipales.
+        En el ámbito académico, Bardo colaboró en Bauhaus Mobility Lab de Alemania y en el Programa Universitario de Estudios sobre la Ciudad de México, donde participó en el desarrollo de alternativas de espacio público considerando aspectos de salud pública,
+        eficiencia energética y seguridad vial."
     - name: Dante Zayas
       member_title: Ingeniero en Desarrollo Sustentable
       image: images/team/DZ.jpg

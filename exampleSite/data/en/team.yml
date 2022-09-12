@@ -139,6 +139,20 @@ team:
         She has collaborated as a consultant in organizations from diverse sectors to carry out diagnosis, strategic plans and financial advice.
         As procurement specialist, she has worked on projects destined for international organizations such as the United Nations Development Program (UNDP), the InterAmerican Development Bank (IADB),
         the World Bank (WB) and the Central American Bank for Economic Integration."
+    - name: Bardo Salgado
+      member_title: Urbanist
+      image: images/team/BS.jpg
+      image_webp: images/team/BS.jpg
+      categories:
+        - consultants
+      title: Consultor
+      content: Urban Design and Development
+      link: "#"
+      member_profile:
+        "Bardo is an urban planner from the Universidad Nacional Autónoma de México (UNAM) and holds a master's degree in integral urban development and design from the German Bauhaus University of Weimar.
+        His professional experience includes mobility and urban planning, participating in the development of master plans, urban accessibility, feasibility studies, capacity development and Sustainable Urban Mobility Programs.
+        He conducted research at the Bauhaus Mobility Lab in Germany and at the University Program for City Studies in Mexico where he participated in the development of public space alternatives considering aspects of public health,
+        energy efficiency and roads safety."
     - name: Dante Zayas
       member_title: Engineer in Sustainable Development
       image: images/team/DZ.jpg
