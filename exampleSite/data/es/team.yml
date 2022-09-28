@@ -247,19 +247,6 @@ team:
         Ingeniera en desarrollo sustentable por el ITESM con máster en manejo de zona costera y especialidad en pensamiento sistémico para la sustentabilidad.
 
         Cuenta con experiencia en análisis, diseño e implementación de modelos sostenibles y resilientes para comunidades, instituciones y organismos nacionales e internacionales, así como programas específicos para la conservación de áreas protegidas y adaptación al cambio climático, a través de tecnologías geoespaciales, modelos matemáticos y desarrollo comunitario.
-    - name: Lili Hernández
-      member_title: Ingeniera en Desarrollo Sustentable
-      image: images/team/LH.jpg
-      image_webp: images/team/LH.jpg
-      categories:
-        - consultants
-      title: Consultora
-      content: Desarrollo Sustentable
-      link: "#"
-      member_profile: |-
-        Ingeniera en Desarrollo Sustentable por el Tecnológico de Monterrey y con experiencia internacional en Canadá y Singapur.
-
-        Previo a CAPSUS trabajó en el Instituto de Energías Renovables de la UNAM en el departamento de Mecánica de Fluidos en cuestiones ópticas y en el laboratorio de ecología marina de la Universidad de Victoria analizando muestras bacterianas en agua y realizando monitoreos de corales de la Isla de Navidad.
     - name: Maria Fernanda Nájera
       member_title: Ingeniera química
       image: images/team/Mafer.jpg

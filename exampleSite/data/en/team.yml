@@ -258,19 +258,6 @@ team:
         Engineer in Sustainable Development from ITESM with a Master's degree in Coastal Zone Management from and a specialization in systemic sustainability.
 
         Karen has experience analyzing, designing and implementing sustainable resilient models for communities and national and international institutions and organizations, as well as specific programs for the conservation of protected areas and adaptation to climate change, through geospatial technologies, mathematical models and community development.
-    - name: Lili Hernández
-      member_title: Engineer in Sustainable Development
-      image: images/team/LH.jpg
-      image_webp: images/team/LH.jpg
-      categories:
-        - consultants
-      title: Consultant
-      content: Sustainable Development
-      link: "#"
-      member_profile: |-
-        Sustainable Development Engineer by the Tecnológico de Monterrey. She has international experience at Canadá and Singapore.
-
-        Prior to CAPSUS she worked and the Renewable Energies Institute from the UNAM at the Fluids Mechanic department in optical issues and she worked at Victoria's University inside the marine ecology laboratory analyzing bacterial samples in water and monitoring corals at "Christmas Island".
     - name: Maria Fernanda Nájera
       member_title: Chemical engineer
       image: images/team/Mafer.jpg
