@@ -201,8 +201,8 @@ team:
       image: images/team/FV.jpg
       image_webp: images/team/FV.jpg
       categories:
-        - associates
-      title: Asociada
+        - consultants
+      title: Consultora
       content: Desarrollo Sustentable
       link: "#"
       member_profile: "Egresada de Ingeniería Ambiental del Instituto Politécnico Nacional. Ha participado en programas académicos desarrollando proyectos de investigación sobre el desarrollo de biopolímeros a partir de los residuos forestales, abordando temas relacionados al análisis de ciclo de vida y economía circular. Ha trabajado con cooperación internacional en temas relacionados con medidas de mitigación al cambio climático y eficiencia energética."
@@ -234,6 +234,19 @@ team:
         Egresado de la Universidad Nacional Autónoma de México. Juan Manuel trabaja en el diseño y desarrollo de sistemas desde 2007, ha colaborado en el desarrollo de plataformas de información para la Universidad Nacional Autónoma de México en el proyecto “Voto Informado” y “Diagnóstico Nacional con perspectiva de género sobre todas las formas de violencia contra las mujeres y las niñas y anteproyecto del programa integral para prevenir, atener, sancionar y erradicar la violencia contra las mujeres”, participó en el equipo de desarrollo del Sistema de Información de la Agenda de Transversalidad del Programa especial de cambio climático (SIAT-PECC), colaboró en la programación del Sistema de Seguimiento del Programa de Acción Climática de la Ciudad de México (SS-PACCM) y en el Sistema de Seguimiento del PROAIRE de la Ciudad de México (SS-PROAIRE), también colaboró en el desarrollo del Sistema Nacional de Información de la Calidad del Aire (SINAICA) para el INECC.
 
         Es cofundador de NotLand, empresa establecida en 2013 especializada en el desarrollo de sistemas de recopilación y manejo de información, con NotLand ha colaborado en el desarrollo de proyectos con la GIZ, BID y entidades gubernamentales. Con la iniciativa privada ha participado en la coordinación y desarrollo de aplicaciones web y móviles para el levantamiento en línea de encuestas con la empresa Shoppers Consulting y en el sistema de seguimiento de instalaciones para Isla Urbana. Apoyó en el desarrollo visual de la herramienta Perfil Metropolitano y coordinó la adaptación de mapas de entrada y salida del módulo LULCC para lenguaje R.
+    - name: Karen Aguilar
+      member_title: Ingeniera en desarrollo sustentable y maestra en manejo de zonas costeras
+      image: images/team/KA.jpg
+      image_webp: images/team/KA.jpg
+      categories:
+        - consultants
+      title: Consultora
+      content: Sustainable development
+      link: "#"
+      member_profile:
+        Ingeniera en desarrollo sustentable por el ITESM con máster en manejo de zona costera y especialidad en pensamiento sistémico para la sustentabilidad.
+
+        Cuenta con experiencia en análisis, diseño e implementación de modelos sostenibles y resilientes para comunidades, instituciones y organismos nacionales e internacionales, así como programas específicos para la conservación de áreas protegidas y adaptación al cambio climático, a través de tecnologías geoespaciales, modelos matemáticos y desarrollo comunitario.
     - name: Lili Hernández
       member_title: Ingeniera en Desarrollo Sustentable
       image: images/team/LH.jpg
