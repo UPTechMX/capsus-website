@@ -42,73 +42,72 @@ jobs:
                 Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tú y nosotros.
           info4:
             - info4_title: Vacantes
-              # info4_item:
-              # - info4_item_fulltitle: Ingeniería Ambiental
-              #   info4_item_subtitle: ""
-              #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
-              #   info4_item_content: |
-              #     #### PERFIL
-              #     Buscamos una persona comprometida con el desarrollo sustentable. Una persona que cuente con título de ingeniería o similar. Este puede ser tu primer empleo pero idealmente buscamos a alguien que cuente de 1 a 3 años de experiencia laboral.
+              info4_item:
+              - info4_item_fulltitle: Becaria o becario de Diseño
+                info4_item_subtitle: ""
+                info4_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
+                info4_item_content: |
+                  #### PERFIL
+                  Buscamos a una persona comprometida con la creación de espacios socialmente inclusivos, resilientes y responsables con el medio ambiente. En CAPSUS te integraremos al equipo para tener una experiencia profesional real e irás de la mano del equipo permanente para participar en proyectos nacionales y/o internacionales. 
 
-              #     Disponibilidad de horario de tiempo completo (9 a 18 horas). Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual.
+                  Puedes haberte graduado recientemente o estar cursando el último año de tus estudios. Esperamos que tengas un compromiso con el equipo CAPSUS de cuando menos 3 meses de tiempo completo, si sigues estudiando y tu carga académica es muy baja, podríamos acordar un horario reducido y un periodo de tiempo más largo.
 
-              #     La fortaleza de CAPSUS se constituye a partir de la gran capacidad y compromiso de las personas que forman al equipo, comprometidas con la construcción de espacios seguros y justos. Por lo tanto nuestra vacante está abierta para personas de cualquier raza, religión, género, orientación sexual, identidad y expresión de género, edad y más aspectos visibles y no visibles que conforman la identidad de cada persona.
+                  Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual, por ello requieres contar con un espacio de trabajo adecuado, con equipo de cómputo propio, cámara, micrófono y audífonos/bocinas y una conexión a internet con una capacidad suficiente para videoconferencias. 
                   
 
-              #     #### EXPERIENCIA LABORAL
-              #     - Ingeniería Ambiental o afines (titulación)
-              #     - Idealmente de 1 a 3 años de experiencia
-              #     - Excelente ortografía y redacción
-              #     - Buena comunicación
-              #     - Manejo de Microsoft Office
-              #     - Totalmente bilingüe en español e inglés
-              #     - El tercer idioma es un plus
+                  #### EXPERIENCIA Y CONOCIMIENTOS
+                  - Haber estudiado o estar cursando el último semestre de alguna licenciatura dentro del área del diseño, por ejemplo:
+                    - Diseño Gráfico
+                    - Diseño de la Comunicación Gráfica
+                    - Diseño y Comunicación Visual
+                    - Comunicación Visual
+                    - Diseño Audiovisual
+                  - Diseño de composiciones visuales y manejo de paletas de color
+                  - Apoyo al equipo para generar ideas, conceptos creativos y llevarlo a la materialización
+                  - Ilustración es un plus
+                  - Interés por aprender de diversas áreas del conocimiento
+                  - Buena comunicación
+                  - Manejo profesional de español e inglés
 
 
-              #     #### CONOCIMIENTOS
-              #     - Solucionar problemas prácticos, mediante la aplicación de las matemáticas y el conocimiento científico
-              #     - Tener muy buen manejo de tablas de cálculo, tipo Excel
-              #     - Conocimiento y/o experiencia en temas de cambio climático
-              #     - Sería un plus saber programar en R o Python
+                  #### MANEJO DE PROGRAMAS
+                  - Illustrator
+                  - Photoshop
+                  - Conocimientos en InDesign 
+                  - Conocimientos en After effects, Premiere u otra herramienta es un plus
+                  - Conocimientos de herramientas de trabajo colaborativo como Google Workspace (Google Docs y Google Slides)
                   
                   
-              #     #### COMPETENCIAS Y HABILIDADES
-              #     - Trabajo en equipo
-              #     - Comunicación eficaz
-              #     - Habilidades de planeación y organización
-              #     - Tolerancia a la crítica
-              #     - Sociable
-              #     - Iniciativa y capacidad de reflexión
-              #     - Orientación al detalle y estructura
-              #     - Organización y persistencia
-              #     - Proactividad
-              #     - Respeto
-              #     - Multi tareas
+                  #### COMPETENCIAS Y HABILIDADES
+                  - Trabajo en equipo (trabajo con un equipo multidisciplinario)
+                  - Comunicación eficaz
+                  - Organización
+                  - Buena actitud ante la retroalimentación
+                  - Iniciativa y capacidad de reflexión
+                  - Orientación al detalle y estructura
+                  - Organización y persistencia
+                  - Proactividad
+                  - Respeto
 
 
-              #     #### OFERTA
-              #     - Prestaciones superiores a las de la ley
-              #     - Seguro de gastos médicos mayores
-              #     - Apoyo para capacitación
-              #     - Días personales y vacaciones adicionales a los de la ley
-              #     - Trabajo nacional e internacional
-              #     - Proyectos de gran impacto
-              #     - Crecimiento profesional
-              #     - $17,500 mxn bruto de acuerdo a competencias y habilidades
+                  #### OFERTA
+                  - Integración a un equipo de trabajo multidisciplinar para trabajar en proyectos nacionales e internacionales
+                  - Proyectos de gran impacto
+                  - Apoyo de $3,500.00 mxn 
 
               
 
-              #     #### PROCESO
-              #     Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                  #### PROCESO
+                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
 
-              #     1. Tu CV (no más de 2 páginas)
-              #     2. Tu exposición de motivos en español.
-              #     3. Una carta en inglés donde nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
-              #     4. Copia de título profesional
-              #     5. Si tu CV es seleccionado, te enviaremos una prueba.
-              #     6. Si la prueba es satisfactoria, te llamamos a entrevista.
-              #   info4_id: vac-1
-              #   info4_item_location: CDMX
+                  1. Una carta de motivos en español donde nos cuentes por qué te interesa trabajar en CAPSUS y qué te motiva a seguir una carrera profesional en el área de la sustentabilidad.
+                  2. Una carta en inglés donde nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullecen. 
+                  3. Enviar tu CV.
+                  4. Enviar Book o algún documento mostrando proyectos (pueden ser proyectos académicos o a nivel profesional).
+
+                  Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tanto tú como el equipo CAPSUS.
+                info4_id: vac-1
+                info4_item_location: CDMX
               # - info4_item_fulltitle: Especialista Legal "B" en la Dirección de Crecimiento Verde
               #   info4_item_subtitle: ""
               #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
@@ -724,5 +723,72 @@ jobs:
                 - info4_content: Te integramos al equipo como un miembro más y tendrás una experiencia profesional real equivalente en responsabilidades y actividades al resto de los miembros del equipo permanente de CAPSUS. 
                 - info4_content: Te integraremos de lleno a nuestras plataformas tecnológicas. 
                 - info4_content: Podrás participar de manera directa en proyectos que se desarrollan en México o en algún otro país.
-                - info4_content: Ofrecemos un apoyo de transporte de $3,200 pesos mexicanos al mes.  
+                - info4_content: Ofrecemos un apoyo de transporte de $3,200 pesos mexicanos al mes.
+          info5:
+            - info5_item:
+              - info5_item_fulltitle: Becaria o becario de Diseño
+                info5_item_subtitle: ""
+                info5_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
+                info5_item_content: |
+                  #### PERFIL
+                  Buscamos a una persona comprometida con la creación de espacios socialmente inclusivos, resilientes y responsables con el medio ambiente. En CAPSUS te integraremos al equipo para tener una experiencia profesional real e irás de la mano del equipo permanente para participar en proyectos nacionales y/o internacionales. 
+
+                  Puedes haberte graduado recientemente o estar cursando el último año de tus estudios. Esperamos que tengas un compromiso con el equipo CAPSUS de cuando menos 3 meses de tiempo completo, si sigues estudiando y tu carga académica es muy baja, podríamos acordar un horario reducido y un periodo de tiempo más largo.
+
+                  Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual, por ello requieres contar con un espacio de trabajo adecuado, con equipo de cómputo propio, cámara, micrófono y audífonos/bocinas y una conexión a internet con una capacidad suficiente para videoconferencias. 
+                  
+
+                  #### EXPERIENCIA Y CONOCIMIENTOS
+                  - Haber estudiado o estar cursando el último semestre de alguna licenciatura dentro del área del diseño, por ejemplo:
+                    - Diseño Gráfico
+                    - Diseño de la Comunicación Gráfica
+                    - Diseño y Comunicación Visual
+                    - Comunicación Visual
+                    - Diseño Audiovisual
+                  - Diseño de composiciones visuales y manejo de paletas de color
+                  - Apoyo al equipo para generar ideas, conceptos creativos y llevarlo a la materialización
+                  - Ilustración es un plus
+                  - Interés por aprender de diversas áreas del conocimiento
+                  - Buena comunicación
+                  - Manejo profesional de español e inglés
+
+
+                  #### MANEJO DE PROGRAMAS
+                  - Illustrator
+                  - Photoshop
+                  - Conocimientos en InDesign 
+                  - Conocimientos en After effects, Premiere u otra herramienta es un plus
+                  - Conocimientos de herramientas de trabajo colaborativo como Google Workspace (Google Docs y Google Slides)
+                  
+                  
+                  #### COMPETENCIAS Y HABILIDADES
+                  - Trabajo en equipo (trabajo con un equipo multidisciplinario)
+                  - Comunicación eficaz
+                  - Organización
+                  - Buena actitud ante la retroalimentación
+                  - Iniciativa y capacidad de reflexión
+                  - Orientación al detalle y estructura
+                  - Organización y persistencia
+                  - Proactividad
+                  - Respeto
+
+
+                  #### OFERTA
+                  - Integración a un equipo de trabajo multidisciplinar para trabajar en proyectos nacionales e internacionales
+                  - Proyectos de gran impacto
+                  - Apoyo de $3,500.00 mxn 
+
+              
+
+                  #### PROCESO
+                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+
+                  1. Una carta de motivos en español donde nos cuentes por qué te interesa trabajar en CAPSUS y qué te motiva a seguir una carrera profesional en el área de la sustentabilidad.
+                  2. Una carta en inglés donde nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullecen. 
+                  3. Enviar tu CV.
+                  4. Enviar Book o algún documento mostrando proyectos (pueden ser proyectos académicos o a nivel profesional).
+
+                  Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tanto tú como el equipo CAPSUS.
+                info5_id: vac-1
+                info5_item_location: CDMX
 ---
