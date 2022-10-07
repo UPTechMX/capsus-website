@@ -844,6 +844,6 @@ jobs:
                   4. Enviar Book o algún documento mostrando proyectos (pueden ser proyectos académicos o a nivel profesional).
 
                   Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tanto tú como el equipo CAPSUS.
-                info5_id: vac-1
+                info5_id: intern-1
                 info5_item_location: CDMX
 ---
