@@ -725,6 +725,7 @@ jobs:
                 - info4_content: Podrás participar de manera directa en proyectos que se desarrollan en México o en algún otro país.
                 - info4_content: Ofrecemos un apoyo de transporte de $3,200 pesos mexicanos al mes.
           info5:
+              info5_title: Vacantes
             - info5_item:
               - info5_item_fulltitle: Becaria o becario de Diseño
                 info5_item_subtitle: ""

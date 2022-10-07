@@ -780,70 +780,71 @@ jobs:
                 - info4_content: You will be engaged in a project that promotes sustainable development either in Mexico or internationally.
                 - info4_content: If needed, we offer a stipend to cover your transportation costs.
           info5:
-            - info5_item:
-              - info5_item_fulltitle: Becaria o becario de Diseño
-                info5_item_subtitle: ""
-                info5_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
-                info5_item_content: |
-                  #### PERFIL
-                  Buscamos a una persona comprometida con la creación de espacios socialmente inclusivos, resilientes y responsables con el medio ambiente. En CAPSUS te integraremos al equipo para tener una experiencia profesional real e irás de la mano del equipo permanente para participar en proyectos nacionales y/o internacionales. 
+              - info5_title: Internships
+                info5_item:
+                - info5_item_fulltitle: Becaria o becario de Diseño
+                  info5_item_subtitle: ""
+                  info5_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
+                  info5_item_content: |
+                    #### PERFIL
+                    Buscamos a una persona comprometida con la creación de espacios socialmente inclusivos, resilientes y responsables con el medio ambiente. En CAPSUS te integraremos al equipo para tener una experiencia profesional real e irás de la mano del equipo permanente para participar en proyectos nacionales y/o internacionales. 
 
-                  Puedes haberte graduado recientemente o estar cursando el último año de tus estudios. Esperamos que tengas un compromiso con el equipo CAPSUS de cuando menos 3 meses de tiempo completo, si sigues estudiando y tu carga académica es muy baja, podríamos acordar un horario reducido y un periodo de tiempo más largo.
+                    Puedes haberte graduado recientemente o estar cursando el último año de tus estudios. Esperamos que tengas un compromiso con el equipo CAPSUS de cuando menos 3 meses de tiempo completo, si sigues estudiando y tu carga académica es muy baja, podríamos acordar un horario reducido y un periodo de tiempo más largo.
 
-                  Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual, por ello requieres contar con un espacio de trabajo adecuado, con equipo de cómputo propio, cámara, micrófono y audífonos/bocinas y una conexión a internet con una capacidad suficiente para videoconferencias. 
-                  
+                    Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual, por ello requieres contar con un espacio de trabajo adecuado, con equipo de cómputo propio, cámara, micrófono y audífonos/bocinas y una conexión a internet con una capacidad suficiente para videoconferencias. 
+                    
 
-                  #### EXPERIENCIA Y CONOCIMIENTOS
-                  - Haber estudiado o estar cursando el último semestre de alguna licenciatura dentro del área del diseño, por ejemplo:
-                    - Diseño Gráfico
-                    - Diseño de la Comunicación Gráfica
-                    - Diseño y Comunicación Visual
-                    - Comunicación Visual
-                    - Diseño Audiovisual
-                  - Diseño de composiciones visuales y manejo de paletas de color
-                  - Apoyo al equipo para generar ideas, conceptos creativos y llevarlo a la materialización
-                  - Ilustración es un plus
-                  - Interés por aprender de diversas áreas del conocimiento
-                  - Buena comunicación
-                  - Manejo profesional de español e inglés
-
-
-                  #### MANEJO DE PROGRAMAS
-                  - Illustrator
-                  - Photoshop
-                  - Conocimientos en InDesign 
-                  - Conocimientos en After effects, Premiere u otra herramienta es un plus
-                  - Conocimientos de herramientas de trabajo colaborativo como Google Workspace (Google Docs y Google Slides)
-                  
-                  
-                  #### COMPETENCIAS Y HABILIDADES
-                  - Trabajo en equipo (trabajo con un equipo multidisciplinario)
-                  - Comunicación eficaz
-                  - Organización
-                  - Buena actitud ante la retroalimentación
-                  - Iniciativa y capacidad de reflexión
-                  - Orientación al detalle y estructura
-                  - Organización y persistencia
-                  - Proactividad
-                  - Respeto
+                    #### EXPERIENCIA Y CONOCIMIENTOS
+                    - Haber estudiado o estar cursando el último semestre de alguna licenciatura dentro del área del diseño, por ejemplo:
+                      - Diseño Gráfico
+                      - Diseño de la Comunicación Gráfica
+                      - Diseño y Comunicación Visual
+                      - Comunicación Visual
+                      - Diseño Audiovisual
+                    - Diseño de composiciones visuales y manejo de paletas de color
+                    - Apoyo al equipo para generar ideas, conceptos creativos y llevarlo a la materialización
+                    - Ilustración es un plus
+                    - Interés por aprender de diversas áreas del conocimiento
+                    - Buena comunicación
+                    - Manejo profesional de español e inglés
 
 
-                  #### OFERTA
-                  - Integración a un equipo de trabajo multidisciplinar para trabajar en proyectos nacionales e internacionales
-                  - Proyectos de gran impacto
-                  - Apoyo de $3,500.00 mxn 
+                    #### MANEJO DE PROGRAMAS
+                    - Illustrator
+                    - Photoshop
+                    - Conocimientos en InDesign 
+                    - Conocimientos en After effects, Premiere u otra herramienta es un plus
+                    - Conocimientos de herramientas de trabajo colaborativo como Google Workspace (Google Docs y Google Slides)
+                    
+                    
+                    #### COMPETENCIAS Y HABILIDADES
+                    - Trabajo en equipo (trabajo con un equipo multidisciplinario)
+                    - Comunicación eficaz
+                    - Organización
+                    - Buena actitud ante la retroalimentación
+                    - Iniciativa y capacidad de reflexión
+                    - Orientación al detalle y estructura
+                    - Organización y persistencia
+                    - Proactividad
+                    - Respeto
 
-              
 
-                  #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+                    #### OFERTA
+                    - Integración a un equipo de trabajo multidisciplinar para trabajar en proyectos nacionales e internacionales
+                    - Proyectos de gran impacto
+                    - Apoyo de $3,500.00 mxn 
 
-                  1. Una carta de motivos en español donde nos cuentes por qué te interesa trabajar en CAPSUS y qué te motiva a seguir una carrera profesional en el área de la sustentabilidad.
-                  2. Una carta en inglés donde nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullecen. 
-                  3. Enviar tu CV.
-                  4. Enviar Book o algún documento mostrando proyectos (pueden ser proyectos académicos o a nivel profesional).
+                
 
-                  Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tanto tú como el equipo CAPSUS.
-                info5_id: intern-1
-                info5_item_location: CDMX
+                    #### PROCESO
+                    Si cumples con los requisitos, envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
+
+                    1. Una carta de motivos en español donde nos cuentes por qué te interesa trabajar en CAPSUS y qué te motiva a seguir una carrera profesional en el área de la sustentabilidad.
+                    2. Una carta en inglés donde nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullecen. 
+                    3. Enviar tu CV.
+                    4. Enviar Book o algún documento mostrando proyectos (pueden ser proyectos académicos o a nivel profesional).
+
+                    Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tanto tú como el equipo CAPSUS.
+                  info5_id: intern-1
+                  info5_item_location: CDMX
 ---
