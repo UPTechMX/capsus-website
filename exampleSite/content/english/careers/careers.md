@@ -106,86 +106,66 @@ jobs:
                   Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tanto tú como el equipo CAPSUS.
                 info4_id: vac-1
                 info4_item_location: CDMX
-              # - info4_item_fulltitle: Especialista Legal "B" en la Dirección de Crecimiento Verde
-              #   info4_item_subtitle: ""
-              #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
-              #   info4_item_content: |
-              #     #### PERFIL
-              #     Buscamos una persona convencida y comprometida con el desarrollo sustentable, con Licenciatura en Derecho (titulado). Buscamos a alguien que resuelva problemas y busque formas de lograr sus objetivos. 
+              - info4_item_fulltitle: Licenciatura en Administración Pública, Políticas Públicas o afines
+                info4_item_subtitle: "Buscamos ampliar nuestro equipo en la Ciudad de México"
+                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
+                info4_item_content: |
+                  Somos CAPSUS, una consultora en sustentabilidad enfocada en impulsar un crecimiento ambientalmente amigable, económicamente eficiente y socialmente justo en las ciudades y países en los que trabajamos. Estamos convencidos que el desarrollo sustentable de las empresas, ciudades y naciones es la mejor forma de garantizar un crecimiento económico continuo que incrementa nuestra calidad de vida. Por eso trabajamos con nuestros clientes en el sector privado, público e internacional para que tengan mejores herramientas y tomen mejores decisiones de forma que su desempeño ambiental, económico y social crezca. Somos un equipo multidisciplinario de profesionistas que incluye arquitectos, desarrolladores de software, diseñadores, educadores, pedagogos, ingenieros y urbanistas, y estamos en búsqueda de una nueva persona para nuestro equipo. Te invitamos a que visites nuestra página web para que nos conozcas y descubras si somos el grupo de personas con las que te gustaría trabajar y crecer profesionalmente: www.capsus.mx 
 
-              #     Disponibilidad de horario de tiempo completo para laborar 40 horas a la semana de manera presencial en la zona poniente de la Ciudad de México.
+
+                  #### PERFIL
+                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, especialmente con la componente ambiental y de equidad social; con licenciatura en Administración Pública, Políticas Públicas o afines Debes ser una persona dinámica, motivada, creativa y multidisciplinaria. Tolerante a la crítica constructiva y a la frustración. Buscamos alguien que sea sociable, con iniciativa, mente analítica, con estructura y capaz de multitareas. Debes ser alguien que resuelva problemas y busque formas de lograr sus objetivos de manera proactiva. Debes ser una persona responsable, transparente, honesta e íntegra.
+                  Necesitas disponer de un horario de tiempo completo (40 horas a la semana), en donde el trabajo será presencial en la zona poniente de la Ciudad de México.
                   
 
-              #     #### EXPERIENCIA LABORAL Y ACTIVIDADES A REALIZAR
-              #     - Licenciatura en Derecho (titulado)
-              #     - Experiencia profesional: mínimo 2 años
-              #     - Experiencia en:
-              #       - Administrativo
-              #       - Contencioso
-              #       - Legislativo
-              #       - Fiscal
-              #       - Finanzas públicas
-              #       - Civil
-              #     - Es deseable tener experiencia en políticas internas de la administración pública
-              #     - Apoyo en actividades administrativas, consultivas, financieras, fiscales, desarrollo sustentable con enfoque legal y demás que resulten necesarias en la Dirección de Crecimiento Verde
-              #     - Elaborar los proyectos de los diversos instrumentos legales como convenios, contratos, lineamientos y demás actos jurídicos que le entreguen para su atención
-              #     - Formular análisis jurídico de la diferente normatividad que se le requiera para presentarlo a su superior
-              #     - Apoyar en el control de la base de datos del acervo documental que le compete a la Dirección
-              #     - Apoyar en la coordinación, atención y seguimiento de las actividades administrativas propias de la Dirección
-              #     - Apoyar a la Dirección en los asuntos que tenga a su cargo, relativos a la coordinación de actividades con las entidades federativas, la Ciudad de México, así como con las unidades administrativas de la SEMARNAT
-              #     - Apoyar en la atención y dar seguimiento a los requerimientos informativos que le sean formulados a la Dirección, incluyendo los que refiere la Ley Federal de Transparencia y Acceso a la Información
-              #     - Realizar las demás que le encomiende su Jefe Inmediato y/o Superior Jerárquico de conformidad a las disposiciones legales y reglamentarias aplicables
+                  #### EXPERIENCIA LABORAL 
+                  Requieres contar con 3 años de experiencia laboral con cuando menos 2 de ellos en el ramo ambiental. Es deseable que tengas experiencia en la administración pública en el ramo ambiental.
+
+
+                  #### LABORES A REALIZAR
+                  - Realizar investigación aplicada con un enfoque en administración y políticas públicas sobre acciones, programas y políticas de las entidades y dependencias gubernamentales en temas ambientales.
+                  - Otorgar apoyo técnico y administrativo para el seguimiento de acuerdos de reuniones de trabajo.
+                  - Apoyar el desarrollo de acciones, proyectos y programas en materia ambiental que se trabajen con los clientes de CAPSUS en México.
 
                   
-              #     #### COMPETENCIAS Y HABILIDADES
-              #     - Excelente administración del tiempo, orientación al resultado, toma de decisiones, orientación a la colaboración, capacidad de negociación y resolución de conflictos
-              #     - Excelente ortografía, manejo de Office 100%, redacción básica 100% comunicación, habilidades de trabajo en equipo
-              #     - Organizado
-              #     - Persistente
-              #     - Tolerancia a la crítica y la frustración
-              #     - Sociable
-              #     - Iniciativa
-              #     - Reflexivo
-              #     - Orientado al detalle
-              #     - Estructurado
-              #     - Aceptación del control
-              #     - Multitareas
-              #     - Proactivo
-              #     - Respetuoso
+                  #### HABILIDADES
+                  - Excelente ortografía y redacción
+                  - Manejo de Office al 100%
+                  - Buena relación profesional y personal.
+                  - Colaborar eficientemente con otros colegas de diferentes ramas del conocimiento.
+                  - Buenas habilidades de comunicación oral y escrita.
+                  - Planeación personal y automotivación.
+                  - Proactiva(o) y creativa(o)
+                  - Buscar soluciones a problemas y requerimientos del proyecto.
+                  - Autodidacta y con ganas de seguir aprendiendo.
+                  - Ser puntual con los compromisos.
+                  - Excelente organización y administración de tiempo.
+                  - Capacidad de aceptar retroalimentación de su trabajo y atenderla.
+                  - Orientación a resultados.
+                  - Atenta(o) a los detalles.
 
 
-              #     #### APTITUDES
-              #     - Responsabilidad
-              #     - Transparencia
-              #     - Honestidad
-              #     - Confidencialidad
-              #     - Calidad
-              #     - Integridad
-              #     - Organización
-              #     - Persistencia
-              #     - Tolerancia a la crítica
-              #     - Sociable
-              #     - Con iniciativa propia
-              #     - Detallista
-              #     - Con estructura
-              #     - Multitareas
+                  #### IDIOMAS
+                  - Debes poder expresarte y escribir en español de manera impecable.
+                  - Debes poder entender y comunicarte de manera profesional en inglés. Idealmente tienes un nivel C1 o C2, según el Marco Común Europeo de Referencia para las Lenguas.
 
 
-              #     #### OFERTA
-              #     - Prestaciones de Ley
-              #     - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
+                  #### OFERTA
+                  - Sueldo bruto mensual: $25,000.00, más prestaciones de ley.
               
 
-              #     #### PROCESO
-              #     Envía al correo electrónico ideas@capsus.mx lo siguiente:
- 
-              #     1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
-              #     2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
-              #     3. Si tu CV es seleccionado, te enviaremos una prueba.
-              #     4. Si la prueba es satisfactoria, te llamamos a entrevista.
+                  #### PROCESO
+                  1. Si estás interesada(o) envía un correo electrónico a: ideas@capsus.mx e incluye lo siguiente:
+                    1) CV en español
+                    2) Una carta de motivos en español explicando porqué te gustaría trabajar en el área de sustentabilidad y porqué en CAPSUS
+                    3) Copia de tu(s) cédula(s) o título(s)  
 
-              #   info4_id: vac-2
-              #   info4_item_location: CDMX
+                  2. Una vez que tengamos suficientes personas en el proceso (dos semanas o más de 10 perfiles) elegiremos a un primer grupo de 3 personas para entrevistar.
+                  3. Si tu CV es seleccionado, te llamamos a entrevista.
+                  4. Una vez que encontremos a la persona que hace más sentido para los proyectos en los que estamos, le comunicamos a todos el resultado.
+                  5. El proceso usualmente toma de 2 a 4 semanas.
+                info4_id: vac-2
+                info4_item_location: CDMX
               # - info4_item_fulltitle: Apoyo en el Seguimiento de Proyectos Financiados por el Fideicomiso 1490
               #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la CDMX
               #   info4_item_content: |
