@@ -168,6 +168,8 @@ jobs:
                   3. Si tu CV es seleccionado, te llamamos a entrevista.
                   4. Una vez que encontremos a la persona que hace más sentido para los proyectos en los que estamos, le comunicamos a todos el resultado.
                   5. El proceso usualmente toma de 2 a 4 semanas.
+                info4_id: vac-2
+                info4_item_location: CDMX
               # - info4_item_fulltitle: Apoyo en el Seguimiento de Proyectos Financiados por el Fideicomiso 1490
               #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la CDMX
               #   info4_item_content: |
