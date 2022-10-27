@@ -160,6 +160,7 @@ jobs:
                       2) Una carta de motivos en español explicando porqué te gustaría trabajar en el área de sustentabilidad y porqué en CAPSUS
                       3) Copia de tu(s) cédula(s) o título(s)  
 
+
                   2. Una vez que tengamos suficientes personas en el proceso (dos semanas o más de 10 perfiles) elegiremos a un primer grupo de 3 personas para entrevistar.
                   3. Si tu CV es seleccionado, te llamamos a entrevista.
                   4. Una vez que encontremos a la persona que hace más sentido para los proyectos en los que estamos, le comunicamos a todos el resultado.
