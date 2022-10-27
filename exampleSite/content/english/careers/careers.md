@@ -156,9 +156,9 @@ jobs:
 
                   #### PROCESO
                   1. Si estás interesada(o) envía un correo electrónico a: ideas@capsus.mx e incluye lo siguiente:
-                      1) CV en español
-                      2) Una carta de motivos en español explicando porqué te gustaría trabajar en el área de sustentabilidad y porqué en CAPSUS
-                      3) Copia de tu(s) cédula(s) o título(s)  
+                      1. CV en español
+                      2. Una carta de motivos en español explicando porqué te gustaría trabajar en el área de sustentabilidad y porqué en CAPSUS
+                      3. Copia de tu(s) cédula(s) o título(s)  
 
 
                   2. Una vez que tengamos suficientes personas en el proceso (dos semanas o más de 10 perfiles) elegiremos a un primer grupo de 3 personas para entrevistar.
