@@ -108,7 +108,7 @@ jobs:
                   Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tanto tú como el equipo CAPSUS.
                 info4_id: vac-1
                 info4_item_location: CDMX
-              - info4_item_fulltitle: Licenciatura en Administración Pública, Políticas Públicas o afines
+              - info4_item_fulltitle: Licenciatura en Políticas Públicas o afines
                 info4_item_subtitle: ""
                 info4_item_title2: Buscamos ampliar nuestro equipo en la Ciudad de México
                 info4_item_content: |
@@ -116,8 +116,7 @@ jobs:
 
 
                   #### PERFIL
-                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, especialmente con la componente ambiental y de equidad social; con licenciatura en Administración Pública, Políticas Públicas o afines Debes ser una persona dinámica, motivada, creativa y multidisciplinaria. Tolerante a la crítica constructiva y a la frustración. Buscamos alguien que sea sociable, con iniciativa, mente analítica, con estructura y capaz de multitareas. Debes ser alguien que resuelva problemas y busque formas de lograr sus objetivos de manera proactiva. Debes ser una persona responsable, transparente, honesta e íntegra.
-                  Necesitas disponer de un horario de tiempo completo (40 horas a la semana), en donde el trabajo será presencial en la zona poniente de la Ciudad de México.
+                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, especialmente con la componente ambiental y de equidad social; con licenciatura en Administración Pública, Políticas Públicas o afines. Debes ser una persona dinámica, motivada, creativa y multidisciplinaria. Tolerante a la crítica constructiva y a la frustración. Buscamos alguien que sea sociable, con iniciativa, mente analítica, con estructura y capaz de multitareas. Debes ser alguien que resuelva problemas y busque formas de lograr sus objetivos de manera proactiva. Debes ser una persona responsable, transparente, honesta e íntegra. Necesitas disponer de un horario de tiempo completo (40 horas a la semana), en donde el trabajo será presencial en la zona poniente de la Ciudad de México.
                   
 
                   #### EXPERIENCIA LABORAL 
@@ -131,13 +130,13 @@ jobs:
 
                   
                   #### HABILIDADES
-                  - Excelente ortografía y redacción
-                  - Manejo de Office al 100%
+                  - Excelente ortografía y redacción.
+                  - Manejo de Office al 100%.
                   - Buena relación profesional y personal.
                   - Colaborar eficientemente con otros colegas de diferentes ramas del conocimiento.
                   - Buenas habilidades de comunicación oral y escrita.
                   - Planeación personal y automotivación.
-                  - Proactiva(o) y creativa(o)
+                  - Proactiva(o) y creativa(o).
                   - Buscar soluciones a problemas y requerimientos del proyecto.
                   - Autodidacta y con ganas de seguir aprendiendo.
                   - Ser puntual con los compromisos.
