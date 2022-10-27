@@ -110,10 +110,8 @@ jobs:
                 info4_item_location: CDMX
               - info4_item_fulltitle: Licenciatura en Administración Pública, Políticas Públicas o afines
                 info4_item_subtitle: ""
-                info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
+                info4_item_title2: Buscamos ampliar nuestro equipo en la Ciudad de México
                 info4_item_content: |
-                  #### Buscamos ampliar nuestro equipo en la Ciudad de México
-
                   Somos CAPSUS, una consultora en sustentabilidad enfocada en impulsar un crecimiento ambientalmente amigable, económicamente eficiente y socialmente justo en las ciudades y países en los que trabajamos. Estamos convencidos que el desarrollo sustentable de las empresas, ciudades y naciones es la mejor forma de garantizar un crecimiento económico continuo que incrementa nuestra calidad de vida. Por eso trabajamos con nuestros clientes en el sector privado, público e internacional para que tengan mejores herramientas y tomen mejores decisiones de forma que su desempeño ambiental, económico y social crezca. Somos un equipo multidisciplinario de profesionistas que incluye arquitectos, desarrolladores de software, diseñadores, educadores, pedagogos, ingenieros y urbanistas, y estamos en búsqueda de una nueva persona para nuestro equipo. Te invitamos a que visites nuestra página web para que nos conozcas y descubras si somos el grupo de personas con las que te gustaría trabajar y crecer profesionalmente: www.capsus.mx 
 
 
@@ -160,9 +158,9 @@ jobs:
 
                   #### PROCESO
                   1. Si estás interesada(o) envía un correo electrónico a: ideas@capsus.mx e incluye lo siguiente:
-                    1) CV en español
-                    2) Una carta de motivos en español explicando porqué te gustaría trabajar en el área de sustentabilidad y porqué en CAPSUS
-                    3) Copia de tu(s) cédula(s) o título(s)  
+                      1) CV en español
+                      2) Una carta de motivos en español explicando porqué te gustaría trabajar en el área de sustentabilidad y porqué en CAPSUS
+                      3) Copia de tu(s) cédula(s) o título(s)  
 
                   2. Una vez que tengamos suficientes personas en el proceso (dos semanas o más de 10 perfiles) elegiremos a un primer grupo de 3 personas para entrevistar.
                   3. Si tu CV es seleccionado, te llamamos a entrevista.
