@@ -109,9 +109,11 @@ jobs:
                 info4_id: vac-1
                 info4_item_location: CDMX
               - info4_item_fulltitle: Licenciatura en Administración Pública, Políticas Públicas o afines
-                info4_item_subtitle: "Buscamos ampliar nuestro equipo en la Ciudad de México"
+                info4_item_subtitle: ""
                 info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
                 info4_item_content: |
+                  #### Buscamos ampliar nuestro equipo en la Ciudad de México
+
                   Somos CAPSUS, una consultora en sustentabilidad enfocada en impulsar un crecimiento ambientalmente amigable, económicamente eficiente y socialmente justo en las ciudades y países en los que trabajamos. Estamos convencidos que el desarrollo sustentable de las empresas, ciudades y naciones es la mejor forma de garantizar un crecimiento económico continuo que incrementa nuestra calidad de vida. Por eso trabajamos con nuestros clientes en el sector privado, público e internacional para que tengan mejores herramientas y tomen mejores decisiones de forma que su desempeño ambiental, económico y social crezca. Somos un equipo multidisciplinario de profesionistas que incluye arquitectos, desarrolladores de software, diseñadores, educadores, pedagogos, ingenieros y urbanistas, y estamos en búsqueda de una nueva persona para nuestro equipo. Te invitamos a que visites nuestra página web para que nos conozcas y descubras si somos el grupo de personas con las que te gustaría trabajar y crecer profesionalmente: www.capsus.mx 
 
 
