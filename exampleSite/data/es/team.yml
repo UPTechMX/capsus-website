@@ -149,22 +149,6 @@ team:
         estudios de factibilidad de proyectos de transporte, programas Integrales de Movilidad Urbana Sostenible y formación de capacidades para autoridades municipales.
         En el ámbito académico, Bardo colaboró en Bauhaus Mobility Lab de Alemania y en el Programa Universitario de Estudios sobre la Ciudad de México, donde participó en el desarrollo de alternativas de espacio público considerando aspectos de salud pública,
         eficiencia energética y seguridad vial."
-    - name: Dante Zayas
-      member_title: Ingeniero en Desarrollo Sustentable
-      image: images/team/DZ.jpg
-      image_webp: images/team/DZ.jpg
-      categories:
-        - consultants
-      title: Consultor
-      content: Desarrollo Sustentable
-      link: "#"
-      member_profile:
-        "Egresado del Tecnológico de Monterrey. Se especializa en el desarrollo
-        de estrategias que integren los pilares de sostenibilidad y el manejo adecuado
-        de recursos. \n\nPrevio a CAPSUS trabajó en el departamento de medio ambiente
-        de Unilever, en centros de investigación de Japón y Canadá en temas de agua
-        y energía y con la Secretaría de Desarrollo Sustentable de Morelos enfocado
-        al rescate de barrancas urbanas."
     - name: Denisse Larracilla
       member_title: Urbanista
       image: images/team/DR.jpg
@@ -234,19 +218,6 @@ team:
         Egresado de la Universidad Nacional Autónoma de México. Juan Manuel trabaja en el diseño y desarrollo de sistemas desde 2007, ha colaborado en el desarrollo de plataformas de información para la Universidad Nacional Autónoma de México en el proyecto “Voto Informado” y “Diagnóstico Nacional con perspectiva de género sobre todas las formas de violencia contra las mujeres y las niñas y anteproyecto del programa integral para prevenir, atener, sancionar y erradicar la violencia contra las mujeres”, participó en el equipo de desarrollo del Sistema de Información de la Agenda de Transversalidad del Programa especial de cambio climático (SIAT-PECC), colaboró en la programación del Sistema de Seguimiento del Programa de Acción Climática de la Ciudad de México (SS-PACCM) y en el Sistema de Seguimiento del PROAIRE de la Ciudad de México (SS-PROAIRE), también colaboró en el desarrollo del Sistema Nacional de Información de la Calidad del Aire (SINAICA) para el INECC.
 
         Es cofundador de NotLand, empresa establecida en 2013 especializada en el desarrollo de sistemas de recopilación y manejo de información, con NotLand ha colaborado en el desarrollo de proyectos con la GIZ, BID y entidades gubernamentales. Con la iniciativa privada ha participado en la coordinación y desarrollo de aplicaciones web y móviles para el levantamiento en línea de encuestas con la empresa Shoppers Consulting y en el sistema de seguimiento de instalaciones para Isla Urbana. Apoyó en el desarrollo visual de la herramienta Perfil Metropolitano y coordinó la adaptación de mapas de entrada y salida del módulo LULCC para lenguaje R.
-    - name: Karen Aguilar
-      member_title: Ingeniera en desarrollo sustentable y maestra en manejo de zonas costeras
-      image: images/team/KA.jpg
-      image_webp: images/team/KA.jpg
-      categories:
-        - consultants
-      title: Consultora
-      content: Desarrollo Sustentable
-      link: "#"
-      member_profile:
-        Ingeniera en desarrollo sustentable por el ITESM con máster en manejo de zona costera y especialidad en pensamiento sistémico para la sustentabilidad.
-
-        Cuenta con experiencia en análisis, diseño e implementación de modelos sostenibles y resilientes para comunidades, instituciones y organismos nacionales e internacionales, así como programas específicos para la conservación de áreas protegidas y adaptación al cambio climático, a través de tecnologías geoespaciales, modelos matemáticos y desarrollo comunitario.
     - name: Maria Fernanda Nájera
       member_title: Ingeniera química
       image: images/team/Mafer.jpg

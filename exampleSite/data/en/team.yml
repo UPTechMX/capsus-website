@@ -153,22 +153,6 @@ team:
         His professional experience includes mobility and urban planning, participating in the development of master plans, urban accessibility, feasibility studies, capacity development and Sustainable Urban Mobility Programs.
         He conducted research at the Bauhaus Mobility Lab in Germany and at the University Program for City Studies in Mexico where he participated in the development of public space alternatives considering aspects of public health,
         energy efficiency and roads safety."
-    - name: Dante Zayas
-      member_title: Engineer in Sustainable Development
-      image: images/team/DZ.jpg
-      image_webp: images/team/DZ.jpg
-      categories:
-        - consultants
-      title: Consultant
-      content: SUSTAINABLE DEVELOPMENT
-      link: "#"
-      member_profile:
-        Engineer in Sustainable Development by the Tecnológico de Monterrey.
-        He specializes in developing strategies that integrate sustainability pillars
-        and resource management. Prior to CAPSUS he worked in Unilever's environmental
-        department, in research centers in Japan and Canada on water and energy issues
-        and with the Ministry for Sustainable Development of the State of Morelos, Mexico.
-        His work there focused on the rescue of urban ravines.
     - name: Denisse Larracilla
       member_title: Urban Planner
       image: images/team/DR.jpg
@@ -245,19 +229,6 @@ team:
         System of the Climate Action Program of Mexico City (SS-PACCM) and in the Monitoring
         System of PROAIRE of Mexico City (SS-PROAIRE). He also assisted the development
         of the National Air Quality Information System (SINAICA) for THE INECC."
-    - name: Karen Aguilar
-      member_title: Engineer in Sustainable Development & Master in Coastal Management
-      image: images/team/KA.jpg
-      image_webp: images/team/KA.jpg
-      categories:
-        - consultants
-      title: Consultant
-      content: Sustainable development
-      link: "#"
-      member_profile:
-        Engineer in Sustainable Development from ITESM with a Master's degree in Coastal Zone Management from and a specialization in systemic sustainability.
-
-        Karen has experience analyzing, designing and implementing sustainable resilient models for communities and national and international institutions and organizations, as well as specific programs for the conservation of protected areas and adaptation to climate change, through geospatial technologies, mathematical models and community development.
     - name: Maria Fernanda Nájera
       member_title: Chemical engineer
       image: images/team/Mafer.jpg
