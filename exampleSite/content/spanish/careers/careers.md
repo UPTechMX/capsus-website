@@ -112,15 +112,13 @@ jobs:
                 info4_item_subtitle: ""
                 info4_item_title2: Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
                 info4_item_content: |
+                  #### PERFIL
                   Buscamos una persona convencida y comprometida con el desarrollo sustentable, con un título universitario en ingeniería, ciencias, urbanismo o similar en áreas relacionadas a, estudios territoriales, medio ambiente o desarrollo urbano y que tenga experiencia tanto en el manejo de Sistemas de Información Geográfica, como en el análisis de datos. Debes ser una persona dinámica, motivada, creativa, multidisciplinaria, muy buena con los números y con un enfoque en análisis urbanos. Buscamos alguien que resuelva problemas y busque formas de lograr sus objetivos, no que encuentre razones por las cuales no se pueden alcanzar.
                   
                   
                   Disponibilidad de horario de tiempo completo (9 a 18 horas). Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual. No obstante, tenemos algunas reuniones presenciales en la Ciudad de México a las cuales debes asistir cuando suceden. 
 
 
-                  #### PERFIL
-                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, especialmente con la componente ambiental y de equidad social; con licenciatura en Administración Pública, Políticas Públicas o afines. Debes ser una persona dinámica, motivada, creativa y multidisciplinaria. Tolerante a la crítica constructiva y a la frustración. Buscamos alguien que sea sociable, con iniciativa, mente analítica, con estructura y capaz de multitareas. Debes ser alguien que resuelva problemas y busque formas de lograr sus objetivos de manera proactiva. Debes ser una persona responsable, transparente, honesta e íntegra. Necesitas disponer de un horario de tiempo completo (40 horas a la semana), en donde el trabajo será presencial en la zona poniente de la Ciudad de México.
-                  
 
                   #### EXPERIENCIA LABORAL 
                   -	Más de 3 años de experiencia profesional en las áreas de análisis de datos y/o sistemas de información geográfica. 
