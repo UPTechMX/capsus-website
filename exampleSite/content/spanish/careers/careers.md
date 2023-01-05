@@ -108,7 +108,7 @@ jobs:
                   Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tanto tú como el equipo CAPSUS.
                 info4_id: vac-1
                 info4_item_location: CDMX
-              - info4_item_fulltitle: Analista de Datos Urbanista
+              - info4_item_fulltitle: Analista de Datos
                 info4_item_subtitle: ""
                 info4_item_title2: Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
                 info4_item_content: |
@@ -116,7 +116,7 @@ jobs:
                   Buscamos una persona convencida y comprometida con el desarrollo sustentable, con un título universitario en ingeniería, ciencias, urbanismo o similar en áreas relacionadas a, estudios territoriales, medio ambiente o desarrollo urbano y que tenga experiencia tanto en el manejo de Sistemas de Información Geográfica, como en el análisis de datos. Debes ser una persona dinámica, motivada, creativa, multidisciplinaria, muy buena con los números y con un enfoque en análisis urbanos. Buscamos alguien que resuelva problemas y busque formas de lograr sus objetivos, no que encuentre razones por las cuales no se pueden alcanzar.
                   
                   
-                  Disponibilidad de horario de tiempo completo (9 a 18 horas). Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual. No obstante, tenemos algunas reuniones presenciales en la Ciudad de México a las cuales debes asistir cuando suceden. 
+                  Disponibilidad de horario de tiempo completo (9am a 6pm zona horaria de la CDMX). Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual. No obstante, tenemos algunas reuniones presenciales en la Ciudad de México a las cuales debes asistir cuando suceden. 
 
 
 
