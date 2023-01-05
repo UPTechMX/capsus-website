@@ -108,66 +108,82 @@ jobs:
                   Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tanto tú como el equipo CAPSUS.
                 info4_id: vac-1
                 info4_item_location: CDMX
-              # - info4_item_fulltitle: Licenciatura en Políticas Públicas o afines
-              #   info4_item_subtitle: ""
-              #   info4_item_title2: Buscamos ampliar nuestro equipo en la Ciudad de México
-              #   info4_item_content: |
-              #     Somos CAPSUS, una consultora en sustentabilidad enfocada en impulsar un crecimiento ambientalmente amigable, económicamente eficiente y socialmente justo en las ciudades y países en los que trabajamos. Creemos que el desarrollo sustentable de las empresas, ciudades y naciones es la mejor forma de garantizar un crecimiento económico continuo que incrementa nuestra calidad de vida. Por eso trabajamos en el sector privado, público e internacional para que se tengan mejores herramientas y se tomen mejores decisiones favoreciendo el desempeño ambiental, económico y social. Somos un equipo multidisciplinario de profesionistas con especialidad en arquitectura, desarrollo de software, diseño, educación, pedagogía, ingeniería y urbanismo, y estamos en búsqueda de una nueva persona para nuestro equipo.
+                            - info4_item_fulltitle: Analista de Datos Urbanista
+                info4_item_subtitle: ""
+                info4_item_title2: Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
+                info4_item_content: |
+                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, con un título universitario en ingeniería, ciencias, urbanismo o similar en áreas relacionadas a, estudios territoriales, medio ambiente o desarrollo urbano y que tenga experiencia tanto en el manejo de Sistemas de Información Geográfica, como en el análisis de datos. Debes ser una persona dinámica, motivada, creativa, multidisciplinaria, muy buena con los números y con un enfoque en análisis urbanos. Buscamos alguien que resuelva problemas y busque formas de lograr sus objetivos, no que encuentre razones por las cuales no se pueden alcanzar.
+                  
+                  
+                  Disponibilidad de horario de tiempo completo (9 a 18 horas). Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual. No obstante, tenemos algunas reuniones presenciales en la Ciudad de México a las cuales debes asistir cuando suceden. 
 
 
-              #     #### PERFIL
-              #     Buscamos una persona convencida y comprometida con el desarrollo sustentable, especialmente con la componente ambiental y de equidad social; con licenciatura en Administración Pública, Políticas Públicas o afines. Debes ser una persona dinámica, motivada, creativa y multidisciplinaria. Tolerante a la crítica constructiva y a la frustración. Buscamos alguien que sea sociable, con iniciativa, mente analítica, con estructura y capaz de multitareas. Debes ser alguien que resuelva problemas y busque formas de lograr sus objetivos de manera proactiva. Debes ser una persona responsable, transparente, honesta e íntegra. Necesitas disponer de un horario de tiempo completo (40 horas a la semana), en donde el trabajo será presencial en la zona poniente de la Ciudad de México.
+                  #### PERFIL
+                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, especialmente con la componente ambiental y de equidad social; con licenciatura en Administración Pública, Políticas Públicas o afines. Debes ser una persona dinámica, motivada, creativa y multidisciplinaria. Tolerante a la crítica constructiva y a la frustración. Buscamos alguien que sea sociable, con iniciativa, mente analítica, con estructura y capaz de multitareas. Debes ser alguien que resuelva problemas y busque formas de lograr sus objetivos de manera proactiva. Debes ser una persona responsable, transparente, honesta e íntegra. Necesitas disponer de un horario de tiempo completo (40 horas a la semana), en donde el trabajo será presencial en la zona poniente de la Ciudad de México.
                   
 
-              #     #### EXPERIENCIA LABORAL 
-              #     Requieres contar con 3 años de experiencia laboral con cuando menos 2 de ellos en el ramo ambiental. Es deseable que tengas experiencia en la administración pública en el ramo ambiental.
-
-
-              #     #### LABORES A REALIZAR
-              #     - Realizar investigación aplicada con un enfoque en administración y políticas públicas sobre acciones, programas y políticas de las entidades y dependencias gubernamentales en temas ambientales.
-              #     - Otorgar apoyo técnico y administrativo para el seguimiento de acuerdos de reuniones de trabajo.
-              #     - Apoyar el desarrollo de acciones, proyectos y programas en materia ambiental que se trabajen con los clientes de CAPSUS en México.
+                  #### EXPERIENCIA LABORAL 
+                  -	Más de 3 años de experiencia profesional en las áreas de análisis de datos y/o sistemas de información geográfica. 
+                  -	Excelente ortografía y redacción
+                  -	Buena comunicación
+                  -	Manejo de Microsoft Office
+                  -	Manejo de Sistemas de Información Geográfica (SIG)
+                  -	Manejo de bases de datos
+                  -	Análisis de datos
+                  -	Documentación organizada de procesos
+                  -	Totalmente bilingüe en español e inglés
 
                   
-              #     #### HABILIDADES
-              #     - Excelente ortografía y redacción.
-              #     - Manejo de Office al 100%.
-              #     - Buena relación profesional y personal.
-              #     - Colaborar eficientemente con otros colegas de diferentes ramas del conocimiento.
-              #     - Buenas habilidades de comunicación oral y escrita.
-              #     - Planeación personal y automotivación.
-              #     - Proactiva(o) y creativa(o).
-              #     - Buscar soluciones a problemas y requerimientos del proyecto.
-              #     - Autodidacta y con ganas de seguir aprendiendo.
-              #     - Ser puntual con los compromisos.
-              #     - Excelente organización y administración de tiempo.
-              #     - Capacidad de aceptar retroalimentación de su trabajo y atenderla.
-              #     - Orientación a resultados.
-              #     - Atenta(o) a los detalles.
+                  #### CONOCIMIENTOS
+                  -	Solucionar problemas prácticos, mediante la aplicación de las matemáticas y el conocimiento científico
+                  -	Tener muy buen manejo de SIG
+                  -	Conocimiento y/o experiencia en estudios territoriales y urbanos
+                  -	Conocimiento y/o experiencia en análisis espacial en relación con la sustentabilidad
+                  -	Tener muy buen manejo de tablas de cálculo y datos numéricos
+                  -	Tener fuertes habilidades de investigación y resolución de problemas 
+                  -	Experiencia en el manejo y análisis de datos geoespaciales y numéricos
+                  -	Conocimiento y/o experiencia en temas de desarrollo sostenible
+                  -	Conocimiento y/o experiencia en temas de cambio climático
+                  -	Sería un plus saber programar en R o Python
 
 
-              #     #### IDIOMAS
-              #     - Debes poder expresarte y escribir en español de manera impecable.
-              #     - Debes poder entender y comunicarte de manera profesional en inglés. Idealmente tienes un nivel C1 o C2, según el Marco Común Europeo de Referencia para las Lenguas.
+                  #### COMPETECIAS Y HABILIDADES
+                  -	Trabajo en equipo
+                  -	Comunicación eficaz
+                  -	Habilidades de planeación y organización
+                  -	Investigación
+                  -	Tolerancia a la crítica
+                  -	Sociable
+                  -	Iniciativa y capacidad de reflexión
+                  -	Orientación al detalle y estructura
+                  -	Organización y persistencia
+                  -	Proactividad
+                  -	Autoevaluación
+                  -	Respeto
+                  -	Multi tareas
 
 
-              #     #### OFERTA
-              #     - Sueldo bruto mensual: $25,000.00, más prestaciones de ley.
+                  #### OFERTA
+                  -	Seguro de gastos médicos mayores
+                  -	Apoyo para capacitación
+                  -	Días personales y vacaciones adicionales a los de la ley
+                  -	Trabajo nacional e internacional
+                  -	Proyectos de gran impacto
+                  -	Crecimiento profesional
+                  -	Entre 18,000 y 27,000 M.N. bruto de acuerdo con tus competencias y habilidades.
               
 
-              #     #### PROCESO
-              #     1. Si estás interesada(o) envía un correo electrónico a: ideas@capsus.mx e incluye lo siguiente:
-              #         1. CV en español
-              #         2. Una carta de motivos en español explicando porqué te gustaría trabajar en el área de sustentabilidad y porqué en CAPSUS
-              #         3. Copia de tu(s) cédula(s) o título(s)  
+                  #### PROCESO
+                  Si cumples con los requisitos, y estás interesada o interesado envía un correo electrónico a: ideas@capsus.mx con los siguientes documentos:
 
 
-              #     2. Una vez que tengamos suficientes personas en el proceso (dos semanas o más de 10 perfiles) elegiremos a un primer grupo de 3 personas para entrevistar.
-              #     3. Si tu CV es seleccionado, te llamamos a entrevista.
-              #     4. Una vez que encontremos a la persona que hace más sentido para los proyectos en los que estamos, le comunicamos a todos el resultado.
-              #     5. El proceso usualmente toma de 2 a 4 semanas.
-              #   info4_id: vac-2
-              #   info4_item_location: CDMX
+                  -	Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
+                  -	Una carta en inglés donde nos expliques porqué eres la/el candidata(o) ideal para esta vacante (diferente a la exposición de motivos),
+                  -	Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
+                  -	Si tu CV es seleccionado, te enviaremos una prueba.
+                  -	Si la prueba es satisfactoria, te llamamos a entrevista.
+                info4_id: vac-2
+                info4_item_location: CDMX
               # - info4_item_fulltitle: Apoyo en el Seguimiento de Proyectos Financiados por el Fideicomiso 1490
               #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la CDMX
               #   info4_item_content: |
