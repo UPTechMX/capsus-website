@@ -108,7 +108,7 @@ jobs:
                   Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tanto tú como el equipo CAPSUS.
                 info4_id: vac-1
                 info4_item_location: CDMX
-                            - info4_item_fulltitle: Analista de Datos Urbanista
+              - info4_item_fulltitle: Analista de Datos Urbanista
                 info4_item_subtitle: ""
                 info4_item_title2: Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
                 info4_item_content: |
