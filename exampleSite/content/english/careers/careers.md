@@ -106,7 +106,7 @@ jobs:
                   Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tanto tú como el equipo CAPSUS.
                 info4_id: vac-1
                 info4_item_location: CDMX
-              - info4_item_fulltitle: Analista de Datos
+              - info4_item_fulltitle: Analista de Datos y SIG
                 info4_item_subtitle: ""
                 info4_item_title2: Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
                 info4_item_content: |
@@ -163,7 +163,7 @@ jobs:
                   #### OFERTA
                   -	Seguro de gastos médicos mayores
                   -	Apoyo para capacitación
-                  -	Días personales y vacaciones adicionales a los de la ley
+                  -	Vacaciones adicionales a las de la ley
                   -	Trabajo nacional e internacional
                   -	Proyectos de gran impacto
                   -	Crecimiento profesional
