@@ -114,10 +114,12 @@ jobs:
                 info4_item_content: |
                   #### PERFIL
                   Buscamos una persona convencida y comprometida con el desarrollo sustentable, con un título universitario en ingeniería, ciencias, urbanismo o similar en áreas relacionadas a, estudios territoriales, medio ambiente o desarrollo urbano y que tenga experiencia tanto en el manejo de Sistemas de Información Geográfica, como en el análisis de datos. Debes ser una persona dinámica, motivada, creativa, multidisciplinaria, muy buena con los números y con un enfoque en análisis urbanos. Buscamos alguien que resuelva problemas y busque formas de lograr sus objetivos, no que encuentre razones por las cuales no se pueden alcanzar.
-                  
-                  
-                  Disponibilidad de horario de tiempo completo (9am a 6pm zona horaria de la CDMX). Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual. No obstante, tenemos algunas reuniones presenciales en la Ciudad de México a las cuales debes asistir cuando suceden. 
 
+
+                  Disponibilidad de horario de tiempo completo (9am a 6pm zona horaria de la CDMX). Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual. No obstante, tenemos algunas reuniones presenciales en la Ciudad de México a las cuales debes asistir cuando suceden.
+
+
+                  La fortaleza de CAPSUS se constituye a partir de la gran capacidad y compromiso de las personas que forman al equipo, comprometidas con la construcción de espacios seguros y justos. Por lo tanto nuestra vacante está abierta para personas de cualquier raza, religión, género, orientación sexual, identidad y expresión de género, edad y más aspectos visibles y no visibles que conforman la identidad de cada persona.
 
 
                   #### EXPERIENCIA LABORAL 
