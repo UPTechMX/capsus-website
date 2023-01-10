@@ -60,22 +60,21 @@
 
 			{{"<!-- Contact Form -->" | safeHTML}}
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<form id="contact-form" netlify-honeypot="capsussec" data-success="{{ i18n "success" }}" data-success-msg="{{ i18n "success_content" }}" data-error="{{ i18n "error" }}" data-error-msg="{{ i18n "error_content" }}" action="/#contact" class="form-meghna" method="POST" role="form" name="contact-us" netlify>
+				<form id="contact-form" netlify-honeypot="capsussec" data-success="{{ i18n "success" }}" data-success-msg="{{ i18n "success_content" }}" data-error="{{ i18n "error" }}" data-error-msg="{{ i18n "error_content" }}" action="/#contact" class="form-meghna" method="POST" role="form" name="contact-us" data-netlify="true">
 					<p class="d-none">
 						<label>Don’t fill this out if you're human: <input name="capsussec" /></label>
 					</p>
-					<input name="e-zmail" type="text" id="e-mail" autocomplete="off">
 					<div class="form-group">
-						<input type="text" placeholder="{{ i18n "name" }}" class="form-control" name="name" id="name">
+						<input type="text" placeholder="{{ i18n "name" }}" class="form-control" name="name" id="name" required>
 					</div>
 					<div class="form-group">
-						<input type="email" placeholder="{{ i18n "email" }}" class="form-control" name="email" id="email">
+						<input type="email" placeholder="{{ i18n "email" }}" class="form-control" name="email" id="email" required>
 					</div>
 					<div class="form-group">
-						<input type="text" placeholder="{{ i18n "subject" }}" class="form-control" name="subject" id="subject">
+						<input type="text" placeholder="{{ i18n "subject" }}" class="form-control" name="subject" id="subject" required>
 					</div>
 					<div class="form-group">
-						<textarea rows="6" placeholder="{{ i18n "message" }}" class="form-control" name="message" id="message"></textarea>
+						<textarea rows="6" placeholder="{{ i18n "message" }}" class="form-control" name="message" id="message" required></textarea>
 					</div>
 					<div id="cf-submit">
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block" value="Submit">{{ i18n "submit" }}</button>
