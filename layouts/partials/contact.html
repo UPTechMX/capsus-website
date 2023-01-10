@@ -60,7 +60,7 @@
 
 			{{"<!-- Contact Form -->" | safeHTML}}
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<form id="contact-form" netlify-honeypot="capsussec" data-success="{{ i18n "success" }}" data-success-msg="{{ i18n "success_content" }}" data-error="{{ i18n "error" }}" data-error-msg="{{ i18n "error_content" }}" action="/#contact" class="form-meghna" method="POST" role="form" name="contact-us" data-netlify="true">
+				<form id="contact-form" data-netlify-recaptcha="true" netlify-honeypot="capsussec" data-success="{{ i18n "success" }}" data-success-msg="{{ i18n "success_content" }}" data-error="{{ i18n "error" }}" data-error-msg="{{ i18n "error_content" }}" action="/#contact" class="form-meghna" method="POST" role="form" name="contact-us" data-netlify="true">
 					<p class="d-none">
 						<label>Don’t fill this out if you're human: <input name="capsussec" /></label>
 					</p>
@@ -76,6 +76,7 @@
 					<div class="form-group">
 						<textarea rows="6" placeholder="{{ i18n "message" }}" class="form-control" name="message" id="message" required></textarea>
 					</div>
+  					<div data-netlify-recaptcha="true"></div>
 					<div id="cf-submit">
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block" value="Submit">{{ i18n "submit" }}</button>
 					</div>
