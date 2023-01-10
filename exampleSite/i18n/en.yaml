@@ -81,8 +81,10 @@
 - id: success_content
   translation: Your communication has been successfully sent! We will email you shortly.
 - id: error
-  translation: Sorry!
+  translation: Error!
 - id: error_content
   translation: There was an error while sending your communication! If the issue persists, please contact us through other means.
+- id: error_captcha
+  translation: Please complete the reCAPTCHA challenge to submit your message!
 - id: viewMore
   translation: Read more...

@@ -263,10 +263,16 @@ jQuery(function ($) {
 		var successContent = $form.data('success-msg');
 		var errorTitle = $form.data('error');
 		var errorContent = $form.data('error-msg');
-		$.post($form.attr("action"), $form.serialize()).then(function() {
-		  toastr.success(success + " " + successContent);
-		}, function() {
-			toastr.error(errorTitle + " " + errorContent);
-		});
+		var errorCaptcha = $form.data('error-captcha');
+		const recaptcha_box_checked = (grecaptcha.getResponse()) ? true : false;
+		if(recaptcha_box_checked) {
+			$.post($form.attr("action"), $form.serialize()).then(function() {
+			  toastr.success(success + " " + successContent);
+			}, function() {
+				toastr.error(errorTitle + " " + errorContent);
+			});
+		} else {
+			toastr.error(errorTitle + " " + errorCaptcha);
+		}
 	  });
 });
