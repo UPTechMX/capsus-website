@@ -145,9 +145,9 @@
                             {{ .info2_title | markdownify }}
                         </h2>
                         {{ end }}
-                        {{ if isset .Params .info2_content }}
+                        {{ if isset .Params .info2_fullcontent }}
                         <span>
-                          {{ .info2_content | markdownify }}
+                          {{ .info2_fullcontent | markdownify }}
                         </span>
                         {{ end }}
                       {{ end }}

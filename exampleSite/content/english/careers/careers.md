@@ -167,10 +167,10 @@ jobs:
               
                   #### PROCESO
                   1. Envía los siguientes documentos al correo <ideas@capsus.mx>. Asegúrate que el asunto del correo contenga en el asunto "Vacante Leyes" y tus iniciales (Vacante leyes - tus iniciales). 
-                    a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
-                    b. **Carta de exposición de motivos en inglés**
-                    c. **Carta que explique la importancia del desarrollo sustentable en español**
-                    d. **Copia de título(s) profesional(es)**
+                     a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
+                     b. **Carta de exposición de motivos en inglés**
+                     c. **Carta que explique la importancia del desarrollo sustentable en español**
+                     d. **Copia de título(s) profesional(es)**
                   2. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
                   
 
