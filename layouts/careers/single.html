@@ -145,11 +145,11 @@
                           {{ .info2_title | markdownify }}
                         {{ end }}
                       </h2>
-                      <p>
+                      <span>
                         {{ if isset .Params .info2_content }}
                           {{ .info2_content | markdownify }}
                         {{ end }}
-                      </p>
+                      </span>
                       {{ end }}
                     <ul style="padding-inline-start: 20px;">
                       {{ range .info2 }}
