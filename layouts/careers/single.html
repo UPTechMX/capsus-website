@@ -164,6 +164,7 @@
                     </ul>
                     </div>
                     <div class="col-lg-1"></div>
+                    {{ if isset .Params .info3 }}
                     <div class="col-lg-5">
                       <h2 class="recruitment">
                         {{ range .info3 }}
@@ -176,6 +177,7 @@
                         {{ end }}
                       </span>
                     </div>
+                    {{ end }}
                     {{ end }}
                   </div>
                 </div>

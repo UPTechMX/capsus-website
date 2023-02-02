@@ -23,22 +23,12 @@ jobs:
           job_image: images/expertise/placeholder1.jpg
           job_image_webp: images/expertise/placeholder1.webp
           info1:
-            - info1_content: "Somos un equipo multidisciplinario de profesionistas que incluye ingenieros, arquitectos, desarrolladores de software, diseñadores, educadores, politólogos, sociólogos y urbanistas.  Cuando estamos en búsqueda de ampliar nuestro equipo, publicamos la convocatoria en nuestras redes sociales.
- \n\n
-
-            Te invitamos a que sigas visitando nuestra página web para que nos conozcas."
-              #info1_title: Descubre si somos el grupo de personas con quien te gustaría trabajar y crecer profesionalmente
+            - info1_title: Descubre si somos el grupo de personas con quien te gustaría trabajar y crecer profesionalmente
           info2: 
             - info2_content: | 
                 Somos CAPSUS, una consultora en sustentabilidad enfocada en impulsar un crecimiento ambientalmente amigable, económicamente eficiente y socialmente justo en las ciudades y países en los que trabajamos. Confiamos en que el desarrollo sustentable de las empresas, ciudades y naciones garantiza una mejor calidad de vida. Por eso trabajamos con los sectores público y privado, a nivel nacional e internacional, en el desarrollo de herramientas e instrumentos para la toma de decisiones informadas que mejoren el desempeño ambiental, económico y social. 
                 
                 Somos un equipo diverso, en el que convergen múltiples disciplinas como arquitectura, ingeniería química, física, energética, diseño de la información, urbanismo y desarrollo de software, por nombrar algunas. Nos enorgullece la naturaleza multidisciplinar del equipo y estamos en **búsqueda de personas que lo enriquezcan.**
-          info3:
-            - info3_title: "¿Cumples con los requisitos?\n\nEscríbenos:"
-              info3_content: |
-                Enviar por correo electrónico a: ideas@capsus.mx tu CV, una carta de motivos en español sobre por qué te interesa trabajar en CAPSUS y qué te motiva a perseguir una carrera profesional en el área de sustentabilidad.
-
-                Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tú y nosotros.
           info4:
             - info4_title: Vacantes
               info4_item:
@@ -123,7 +113,7 @@ jobs:
                   - Reportar al Director de Coordinación y Vinculación Institucional
                   - Este puesto interactúa principalmente con funcionarias y funcionarios de la CEVI, la SEMARNAT y de los estados de la CAMe
 
-                  ##### LABORES A REALIZAR:
+                  #### LABORES A REALIZAR:
                   - Otorgar soporte en actividades administrativas, consultivas, financieras, fiscales, desarrollo sustentable con enfoque legal y demás que resulten necesarias.
                   - Elaborar los proyectos de los diversos instrumentos legales como convenios, contratos, lineamientos y demás actos jurídicos.
                   - Formular análisis jurídico de la normatividad y regulación, según se requiera. 
@@ -131,7 +121,7 @@ jobs:
                   - Apoyar en la coordinación, atención y seguimiento de las actividades administrativas.
 
 
-                  ##### HABILIDADES:
+                  #### HABILIDADES:
                   - Buena relación profesional y personal
                   - Colaborar eficientemente con otros colegas de diferentes ramas del conocimiento
                   - Excelente ortografía
