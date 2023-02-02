@@ -30,9 +30,9 @@ jobs:
               #info1_title: Descubre si somos el grupo de personas con quien te gustaría trabajar y crecer profesionalmente
           info2: 
             - info2_content: | 
-            Somos CAPSUS, una consultora en sustentabilidad enfocada en impulsar un crecimiento ambientalmente amigable, económicamente eficiente y socialmente justo en las ciudades y países en los que trabajamos. Confiamos en que el desarrollo sustentable de las empresas, ciudades y naciones garantiza una mejor calidad de vida. Por eso trabajamos con los sectores público y privado, a nivel nacional e internacional, en el desarrollo de herramientas e instrumentos para la toma de decisiones informadas que mejoren el desempeño ambiental, económico y social. 
-            
-            Somos un equipo diverso, en el que convergen múltiples disciplinas como arquitectura, ingeniería química, física, energética, diseño de la información, urbanismo y desarrollo de software, por nombrar algunas. Nos enorgullece la naturaleza multidisciplinar del equipo y estamos en **búsqueda de personas que lo enriquezcan.**
+                Somos CAPSUS, una consultora en sustentabilidad enfocada en impulsar un crecimiento ambientalmente amigable, económicamente eficiente y socialmente justo en las ciudades y países en los que trabajamos. Confiamos en que el desarrollo sustentable de las empresas, ciudades y naciones garantiza una mejor calidad de vida. Por eso trabajamos con los sectores público y privado, a nivel nacional e internacional, en el desarrollo de herramientas e instrumentos para la toma de decisiones informadas que mejoren el desempeño ambiental, económico y social. 
+                
+                Somos un equipo diverso, en el que convergen múltiples disciplinas como arquitectura, ingeniería química, física, energética, diseño de la información, urbanismo y desarrollo de software, por nombrar algunas. Nos enorgullece la naturaleza multidisciplinar del equipo y estamos en **búsqueda de personas que lo enriquezcan.**
           info3:
             - info3_title: "¿Cumples con los requisitos?\n\nEscríbenos:"
               info3_content: |
