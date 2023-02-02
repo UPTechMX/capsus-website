@@ -141,19 +141,19 @@
                     <div class="col-lg-5">
                       {{ range .info2 }}
                       <h2>
-                        {{ if isset .info2_title }}
+                        {{ if isset .Params .info2_title }}
                           {{ .info2_title | markdownify }}
                         {{ end }}
                       </h2>
                       <p>
-                        {{ if isset .info2_content }}
+                        {{ if isset .Params .info2_content }}
                           {{ .info2_content | markdownify }}
                         {{ end }}
                       </p>
                       {{ end }}
                     <ul style="padding-inline-start: 20px;">
                       {{ range .info2 }}
-                        {{ if isset .info2_item }}
+                        {{ if isset .Params .info2_item }}
                           {{ range .info2_item }}
                             <li>
                               {{ .info2_content | markdownify }}
