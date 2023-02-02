@@ -104,7 +104,7 @@ jobs:
                   
                   #### EXPERIENCIA LABORAL
                   - Licenciatura, Económica Administrativa o Ingeniería (titulado)
-                  - 3 años de experiencia profesional
+                  - 4 años de experiencia profesional
                   - Colaborar en el seguimiento de los proyectos integrando y analizando información sobre el cumplimiento de los resultados de los proyectos
                   - Reportar al Director de Coordinación y Vinculación Institucional
                   - Este puesto interactúa principalmente con funcionarias y funcionarios de la CEVI, la SEMARNAT y de los estados de la CAMe
