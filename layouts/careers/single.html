@@ -140,16 +140,16 @@
                     <hr class="col-lg-11 pb-4" style="border-top: 2px solid rgba(128, 128, 128, 0.2);">
                     <div class="col-lg-5">
                       {{ range .info2 }}
-                      <h2>
                         {{ if isset .Params .info2_title }}
-                          {{ .info2_title | markdownify }}
+                        <h2>
+                            {{ .info2_title | markdownify }}
+                        </h2>
                         {{ end }}
-                      </h2>
-                      <span>
                         {{ if isset .Params .info2_content }}
+                        <span>
                           {{ .info2_content | markdownify }}
+                        </span>
                         {{ end }}
-                      </span>
                       {{ end }}
                     <ul style="padding-inline-start: 20px;">
                       {{ range .info2 }}

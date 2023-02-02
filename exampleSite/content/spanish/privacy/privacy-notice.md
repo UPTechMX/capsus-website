@@ -37,26 +37,26 @@ privacy_notice:
         - table_title: Cuarta
           table_content: |
             Revocación de consentimiento. Usted tiene derecho a conocer qué datos personales tenemos de usted, para que los utilizamos y las condiciones del uso que les damos (Acceso). 
-            Así mismo es su derecho solicitar la corrección de su información personal en caso de que esté desactualizada, sea inexacta o incompleta (Rectificación); que la eliminemos de nuestros registros o bases de datos cuando considere que la misma no está siendo utilizada adecuadamente (cancelación), así como oponerse al uso de sus datos personales para fines específicos (Oposición). Estos derechos se conocen como derecho ARCO Para el ejercicio de cualquiera de los derechos ARCO, usted deberá presentar la solicitud respectiva a través del siguiente medio. Envío de correo electrónico ideas@capsus.mx
+            Así mismo es su derecho solicitar la corrección de su información personal en caso de que esté desactualizada, sea inexacta o incompleta (Rectificación); que la eliminemos de nuestros registros o bases de datos cuando considere que la misma no está siendo utilizada adecuadamente (cancelación), así como oponerse al uso de sus datos personales para fines específicos (Oposición). Estos derechos se conocen como derecho ARCO Para el ejercicio de cualquiera de los derechos ARCO, usted deberá presentar la solicitud respectiva a través del siguiente medio. Envío de correo electrónico <ideas@capsus.mx>
 
             Para conocer el procedimiento y requisitos para el ejercicio de los derechos ARCO, ponemos a su disposición el siguiente medio. www.capsus.mx
 
             Los datos de contacto de la persona o departamento de datos personales, que está a cargo de dar trámite a las solicitudes de derecho ARCO, es:
             - Departamento: Administrativo
             - Domicilio: Boulevard Manuel Ávila Camacho 118, int 1604 Lomas de Chapultepec, Miguel Hidalgo 11000, CDMX
-            - Correo electrónico: ideas@capsus.mx
+            - Correo electrónico: <ideas@capsus.mx>
             - Teléfono: [+52 1 (55) 44 31 29 27](tel:+5215544312927)
         - table_title: Quinta
           table_content: |
             Revocar consentimiento de sus datos personales. Usted puede revocar el consentimiento que, en su caso, nos haya otorgado para el tratamiento de sus datos personales. Sin embargo, es importante que tenga en cuenta que no en todos los casos podremos atender su solicitud o concluir el uso de forma inmediata, ya que es posible que por alguna obligación legal requiramos seguir tratando sus datos personales. Asimismo, usted deberá considerar que, para ciertos fines, la revocación de su consentimiento implica que no le podamos seguir prestando el servicio que nos solicitó o la conclusión de su relación con nosotros. 
 
             Para revocar su consentimiento deberá presentar su solicitud a través del siguiente medio:
-            - ideas@capsus.mx
+            - <ideas@capsus.mx>
             Para conocer el proceso y requisitos para la revocación del consentimiento, ponemos a su disposición el siguiente medio. www.capsus.mx
         - table_title: Sexta
           table_content: |
             Limitar el uso o divulgación de su información personal. Con objeto de que usted pueda limitar el uso y divulgación de su información personal, le ofrecemos los siguientes medios.
-            - Correo electrónico: ideas@capsus.mx
+            - Correo electrónico: <ideas@capsus.mx>
             - Sitio web: www.capsus.mx
         - table_title: Séptima
           table_content: |
