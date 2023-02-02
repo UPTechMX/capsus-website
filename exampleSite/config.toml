@@ -7,6 +7,9 @@ summaryLength = "15"
 theme = "meghna-hugo"
 title = "CAPSUS | Capital Sustentable"
 
+[markup]
+defaultMarkdownHandler = "pandoc"
+
 [Languages]
 
 [Languages.en]

@@ -27,13 +27,12 @@ jobs:
  \n\n
 
             Te invitamos a que sigas visitando nuestra página web para que nos conozcas."
-              info1_title: Descubre si somos el grupo de personas con quien te gustaría trabajar y crecer profesionalmente
+              #info1_title: Descubre si somos el grupo de personas con quien te gustaría trabajar y crecer profesionalmente
           info2: 
-            - info2_title: ¿Qué pedimos a nuestros colegas?
-              info2_item: 
-                - info2_content: Titulación de una licenciatura o ingeniería.
-                - info2_content: Ser 100% bilingüe (español, inglés).
-                - info2_content: Que su misión en la vida sea promover el desarrollo sustentable.
+            - info2_content: | 
+            Somos CAPSUS, una consultora en sustentabilidad enfocada en impulsar un crecimiento ambientalmente amigable, económicamente eficiente y socialmente justo en las ciudades y países en los que trabajamos. Confiamos en que el desarrollo sustentable de las empresas, ciudades y naciones garantiza una mejor calidad de vida. Por eso trabajamos con los sectores público y privado, a nivel nacional e internacional, en el desarrollo de herramientas e instrumentos para la toma de decisiones informadas que mejoren el desempeño ambiental, económico y social. 
+            
+            Somos un equipo diverso, en el que convergen múltiples disciplinas como arquitectura, ingeniería química, física, energética, diseño de la información, urbanismo y desarrollo de software, por nombrar algunas. Nos enorgullece la naturaleza multidisciplinar del equipo y estamos en **búsqueda de personas que lo enriquezcan.**
           info3:
             - info3_title: "¿Cumples con los requisitos?\n\nEscríbenos:"
               info3_content: |
@@ -108,84 +107,76 @@ jobs:
                   Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tanto tú como el equipo CAPSUS.
                 info4_id: vac-1
                 info4_item_location: CDMX
-              # - info4_item_fulltitle: Apoyo en el Seguimiento de Proyectos Financiados por el Fideicomiso 1490
-              #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en la CDMX
-              #   info4_item_content: |
-              #     #### PERFIL
-              #     Buscamos una persona convencida y comprometida con el desarrollo sustentable, para Apoyar en el seguimiento de proyectos financiados por el Fideicomiso 1490 “Para Apoyar los Programas, Proyectos y Acciones Ambientales de la Megalópolis”.
+              - info4_item_fulltitle: Leyes/derecho
+                info4_item_title2:  Ambiental, administrativo, contenciosos, legislativo, fiscal, finanzas públicas y/o civil
+                info4_item_content: |
+                  Estamos buscando una persona que se integren a nuestro equipo en la zona poniente de CDMX
 
-              #     Horario 9 a 18 horas. Laborar de manera presencial en la zona poniente de la Ciudad de México.
-
-              #     Género: Indistinto
-
-              #     Edad: Indistinto
+                  #### PERFIL
+                  Requieres contar con 4 años de experiencia laboral y cuando menos 2 de ellos deben de ser en el ramo ambiental. Buscamos personas con experiencia en alguna(s) de las siguientes ramas de derecho: ambiental, administrativo, contenciosos, legislativo, fiscal y/o finanzas públicas. Es deseable que tengas experiencia en políticas internas de la administración pública.
 
                   
-              #     #### EXPERIENCIA Y ACTIVIDADES A REALIZAR
-              #     - Licenciatura, Económica Administrativa o Ingeniería (titulado)
-              #     - 3 años de experiencia profesional
-              #     - Colaborar en el seguimiento de los proyectos integrando y analizando información sobre el cumplimiento de los resultados de los proyectos
-              #     - Reportar al Director de Coordinación y Vinculación Institucional
-              #     - Este puesto interactúa principalmente con funcionarias y funcionarios de la CEVI, la SEMARNAT y de los estados de la CAMe
+                  #### EXPERIENCIA LABORAL
+                  - Licenciatura, Económica Administrativa o Ingeniería (titulado)
+                  - 3 años de experiencia profesional
+                  - Colaborar en el seguimiento de los proyectos integrando y analizando información sobre el cumplimiento de los resultados de los proyectos
+                  - Reportar al Director de Coordinación y Vinculación Institucional
+                  - Este puesto interactúa principalmente con funcionarias y funcionarios de la CEVI, la SEMARNAT y de los estados de la CAMe
 
-              #     ##### Funciones prioritarias:
-              #     - Dar seguimiento a los proyectos aprobados por el Comité Técnico del Fideicomiso 1490
-              #     - Dar seguimiento al cumplimiento de los Términos de Referencia de los Proyectos
-              #     - Dar seguimiento al cumplimiento de los Convenios de Aportaciones de los proyectos
+                  ##### LABORES A REALIZAR:
+                  - Otorgar soporte en actividades administrativas, consultivas, financieras, fiscales, desarrollo sustentable con enfoque legal y demás que resulten necesarias.
+                  - Elaborar los proyectos de los diversos instrumentos legales como convenios, contratos, lineamientos y demás actos jurídicos.
+                  - Formular análisis jurídico de la normatividad y regulación, según se requiera. 
+                  - Apoyar en el control de la base de datos del acervo documental
+                  - Apoyar en la coordinación, atención y seguimiento de las actividades administrativas.
 
-              #     ##### Funciones complementarias:
-              #     - Realizar seguimiento de avance físico y financiero de los proyectos
-              #     - Participar en la evaluación de propuestas
-              #     - Elaborar presentaciones para el Subcomité y Comité Técnico del Fideicomiso
-              #     - Integrar carpetas para las sesiones del Subcomité y Comité Técnico del Fideicomiso
-              #     - Integrar información relativa al seguimiento de proyectos
-              #     - Interactuar con el personal técnico de las entidades federativas
-              #     - Integrar expedientes físicos y digitalizarlos
-              #     - Elaborar presentaciones
-              #     - Elaborar y entregar oficios y otros documentos
-              #     - Realizar informes de avance
-              #     - Generar minutas
+
+                  ##### HABILIDADES:
+                  - Buena relación profesional y personal
+                  - Colaborar eficientemente con otros colegas de diferentes ramas del conocimiento
+                  - Excelente ortografía
+                  - Manejo de Office al 100%
+                  - Proactividad y creatividad
+                  - Capacidad de negociación y resolución de conflictos
+                  - Capacidad de análisis y síntesis de información técnica y legal
+                  - Buscar soluciones a problemas y requerimientos del proyecto.
+                  - Autodidacta y con ganas de seguir aprendiendo
+                  - Puntual con los compromisos
+                  - Excelente organización y administración de tiempo
+                  - Capacidad de aceptar retroalimentación de su trabajo y atenderla
+                  - Atención a los detalles
+
   
+                  #### IDIOMAS
+                  Debes poder expresarte y escribir en español de manera impecable.
 
-              #     #### COMPETENCIAS Y HABILIDADES
-              #     - Manejo de Office 100%
-              #     - Inglés 80%
-              #     - Análisis, síntesis y procesamiento de información
-              #     - Toma de decisiones oportuna
-              #     - Trabajo en equipo
-              #     - Excelente comunicación interpersonal
-              #     - Capacidad de adaptación
-              #     - Análisis numérico
-              #     - Organizado
-              #     - Proactivo
-              #     - Alta aceptación del control
-              #     - Actitud positiva hacia la gente
-              #     - Lógico y estructurado
-
-
-              #     #### EXPERIENCIA EN POLÍTICAS INTERNAS
-              #     - Responsabilidad
-              #     - Transparencia
-              #     - Honestidad
-              #     - Confidencialidad
-              #     - Calidad
-              #     - Integridad
+                  #### APTITUDES
+                  - Organización
+                  - Persistencia
+                  - Tolerancia a la crítica
+                  - Sociable
+                  - Con iniciativa propia
+                  - Detallista
+                  - Con estructura
+                  - Multitareas
 
               
-              #     #### OFERTA
-              #     - Prestaciones de Ley
-              #     - $18,000 a $21,000 mxn neto mensual de acuerdo a experiencia y competencias 
+                  #### OFERTA
+                  Sueldo bruto mensual: $24,000.00 MXN, dependiendo de experiencia y competencias, más prestaciones de ley.
 
               
-              #     #### PROCESO
-              #     Envía al correo electrónico ideas@capsus.mx lo siguiente:
- 
-              #     1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
-              #     2. Copia de título profesional y CV por correo electrónico a ideas@capsus.mx
-              #     3. Si tu CV es seleccionado, te enviaremos una prueba.
-              #     4. Si la prueba es satisfactoria, te llamamos a entrevista.
-              #   info4_id: vac-3
-              #   info4_item_location: CDMX
+                  #### PROCESO
+                  1. Envía los siguientes documentos al correo ideas@capsus.mx. Asegúrate que el asunto del correo contenga en el asunto "Vacante Leyes" y tus iniciales (Vacante leyes - tus iniciales). 
+                    a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
+                    b. **Carta de exposición de motivos en inglés**
+                    c. **Carta que explique la importancia del desarrollo sustentable en español**
+                    d. **Copia de título(s) profesional(es)**
+                  2. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
+                  
+
+                  Estimamos que el proceso para cubrir está vacante nos tomará de 2 a 3 semanas. Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su documentación completa sobre los resultados.
+                info4_id: vac-3
+                info4_item_location: CDMX
               # - info4_item_fulltitle: Soporte técnico en verificación vehicular y manejo de datos
               #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
               #   info4_item_content: |

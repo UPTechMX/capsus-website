@@ -138,17 +138,27 @@
                       <img class="img-fluid" alt="{{ .name }}" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .job_image | absURL }})'" src="{{ .job_image_webp | absURL }}" />
                     </div>
                     <hr class="col-lg-11 pb-4" style="border-top: 2px solid rgba(128, 128, 128, 0.2);">
-                    <div class="col-lg-5"><h2>
+                    <div class="col-lg-5">
                       {{ range .info2 }}
-                        {{ .info2_title | markdownify }}
+                      <h2>
+                        {{ if isset .info2_title }}
+                          {{ .info2_title | markdownify }}
+                        {{ end }}
+                      </h2>
+                      <p>
+                        {{ if isset .info2_content }}
+                          {{ .info2_content | markdownify }}
+                        {{ end }}
+                      </p>
                       {{ end }}
-                    </h2>
                     <ul style="padding-inline-start: 20px;">
                       {{ range .info2 }}
-                        {{ range .info2_item }}
-                          <li>
-                            {{ .info2_content | markdownify }}
-                          </li>
+                        {{ if isset .info2_item }}
+                          {{ range .info2_item }}
+                            <li>
+                              {{ .info2_content | markdownify }}
+                            </li>
+                          {{ end }}
                         {{ end }}
                       {{ end }}
                     </ul>
