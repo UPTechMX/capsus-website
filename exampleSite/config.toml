@@ -10,6 +10,19 @@ title = "CAPSUS | Capital Sustentable"
 [markup]
 defaultMarkdownHandler = "pandoc"
 
+[security]
+  enableInlineShortcodes = false
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^pandoc$', '^nvim$']
+    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+
+  [security.funcs]
+    getenv = ['^HUGO_']
+
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
+
 [Languages]
 
 [Languages.en]
