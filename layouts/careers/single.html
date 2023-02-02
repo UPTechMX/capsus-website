@@ -93,6 +93,11 @@
                       </div>
                       <div class="col-lg-1 vr"></div>
                       <div class="col-lg-5">
+                        {{ if isset .Params .info_fullcontent }}
+                        <span>
+                          {{ .info_fullcontent | markdownify }}
+                        </span>
+                        {{ end }}
                         <h2>
                           {{ range .info2 }}
                             {{ .info2_title | markdownify }}
@@ -138,14 +143,7 @@
                       <img class="img-fluid" alt="{{ .name }}" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .job_image | absURL }})'" src="{{ .job_image_webp | absURL }}" />
                     </div>
                     <hr class="col-lg-11 pb-4" style="border-top: 2px solid rgba(128, 128, 128, 0.2);">
-                    {{ if isset .Params .info_fullcontent }}
-                    <div class="col-lg-5">
-                      <span>
-                        {{ .info_fullcontent | markdownify }}
-                      </span>
-                    </div>
-                    {{ end }}
-                    {{ if isset .Paramas .info2 }}
+                    {{ if isset .Params .info2 }}
                     <div class="col-lg-5">
                       {{ range .info2 }}
                         {{ if isset .Params .info2_title }}
