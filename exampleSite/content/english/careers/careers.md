@@ -108,7 +108,7 @@ jobs:
                 info4_item_location: CDMX
               
               - info4_item_fulltitle: Leyes/derecho
-                info4_item_title2:  Ambiental, administrativo, contenciosos, legislativo, fiscal, finanzas públicas y/o civil
+                info4_item_title2:  Ambiental, administrativo, contenciosos, legislativo, fiscal, y/o finanzas públicas
                 info4_item_content: |
                   Estamos buscando una persona que se integren a nuestro equipo en la zona poniente de CDMX
 
@@ -166,12 +166,12 @@ jobs:
 
               
                   #### PROCESO
-                  1. Envía los siguientes documentos al correo <ideas@capsus.mx>. Asegúrate que el asunto del correo contenga en el asunto "Vacante Leyes" y tus iniciales (Vacante leyes - tus iniciales). 
+                  5. Envía los siguientes documentos al correo <ideas@capsus.mx>. Asegúrate que el asunto del correo contenga en el asunto "Vacante Leyes" y tus iniciales (Vacante leyes - tus iniciales). 
                      a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
                      b. **Carta de exposición de motivos en inglés**
                      c. **Carta que explique la importancia del desarrollo sustentable en español**
                      d. **Copia de título(s) profesional(es)**
-                  2. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
+                  6. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
                   
 
                   Estimamos que el proceso para cubrir está vacante nos tomará de 2 a 3 semanas. Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su documentación completa sobre los resultados.
