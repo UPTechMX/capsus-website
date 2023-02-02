@@ -93,11 +93,9 @@
                       </div>
                       <div class="col-lg-1 vr"></div>
                       <div class="col-lg-5">
-                        {{ if isset .Params .info_fullcontent }}
                         <span>
                           {{ .info_fullcontent | markdownify }}
                         </span>
-                        {{ end }}
                         <h2>
                           {{ range .info2 }}
                             {{ .info2_title | markdownify }}
