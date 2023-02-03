@@ -93,76 +93,76 @@ jobs:
                   Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tanto tú como el equipo CAPSUS.
                 info4_id: vac-1
                 info4_item_location: CDMX
-              - info4_item_fulltitle: Leyes/derecho
-                info4_item_title2:  Ambiental, administrativo, contenciosos, legislativo, fiscal, y/o finanzas públicas
-                info4_item_content: |
-                  Estamos buscando una persona que se integren a nuestro equipo en la zona poniente de CDMX
+              # - info4_item_fulltitle: Leyes/derecho
+              #   info4_item_title2:  Ambiental, administrativo, contenciosos, legislativo, fiscal, y/o finanzas públicas
+              #   info4_item_content: |
+              #     Estamos buscando una persona que se integren a nuestro equipo en la zona poniente de CDMX
 
-                  #### PERFIL
-                  Requieres contar con 4 años de experiencia laboral y cuando menos 2 de ellos deben de ser en el ramo ambiental. Buscamos personas con experiencia en alguna(s) de las siguientes ramas de derecho: ambiental, administrativo, contenciosos, legislativo, fiscal y/o finanzas públicas. Es deseable que tengas experiencia en políticas internas de la administración pública.
+              #     #### PERFIL
+              #     Requieres contar con 4 años de experiencia laboral y cuando menos 2 de ellos deben de ser en el ramo ambiental. Buscamos personas con experiencia en alguna(s) de las siguientes ramas de derecho: ambiental, administrativo, contenciosos, legislativo, fiscal y/o finanzas públicas. Es deseable que tengas experiencia en políticas internas de la administración pública.
 
                   
-                  #### EXPERIENCIA LABORAL
-                  - Licenciatura, Económica Administrativa o Ingeniería (titulado)
-                  - 4 años de experiencia profesional
-                  - Colaborar en el seguimiento de los proyectos integrando y analizando información sobre el cumplimiento de los resultados de los proyectos
-                  - Reportar al Director de Coordinación y Vinculación Institucional
-                  - Este puesto interactúa principalmente con funcionarias y funcionarios de la CEVI, la SEMARNAT y de los estados de la CAMe
+              #     #### EXPERIENCIA LABORAL
+              #     - Licenciatura, Económica Administrativa o Ingeniería (titulado)
+              #     - 4 años de experiencia profesional
+              #     - Colaborar en el seguimiento de los proyectos integrando y analizando información sobre el cumplimiento de los resultados de los proyectos
+              #     - Reportar al Director de Coordinación y Vinculación Institucional
+              #     - Este puesto interactúa principalmente con funcionarias y funcionarios de la CEVI, la SEMARNAT y de los estados de la CAMe
 
-                  #### LABORES A REALIZAR:
-                  - Otorgar soporte en actividades administrativas, consultivas, financieras, fiscales, desarrollo sustentable con enfoque legal y demás que resulten necesarias.
-                  - Elaborar los proyectos de los diversos instrumentos legales como convenios, contratos, lineamientos y demás actos jurídicos.
-                  - Formular análisis jurídico de la normatividad y regulación, según se requiera. 
-                  - Apoyar en el control de la base de datos del acervo documental
-                  - Apoyar en la coordinación, atención y seguimiento de las actividades administrativas.
+              #     #### LABORES A REALIZAR:
+              #     - Otorgar soporte en actividades administrativas, consultivas, financieras, fiscales, desarrollo sustentable con enfoque legal y demás que resulten necesarias.
+              #     - Elaborar los proyectos de los diversos instrumentos legales como convenios, contratos, lineamientos y demás actos jurídicos.
+              #     - Formular análisis jurídico de la normatividad y regulación, según se requiera. 
+              #     - Apoyar en el control de la base de datos del acervo documental
+              #     - Apoyar en la coordinación, atención y seguimiento de las actividades administrativas.
 
 
-                  #### HABILIDADES:
-                  - Buena relación profesional y personal
-                  - Colaborar eficientemente con otros colegas de diferentes ramas del conocimiento
-                  - Excelente ortografía
-                  - Manejo de Office al 100%
-                  - Proactividad y creatividad
-                  - Capacidad de negociación y resolución de conflictos
-                  - Capacidad de análisis y síntesis de información técnica y legal
-                  - Buscar soluciones a problemas y requerimientos del proyecto.
-                  - Autodidacta y con ganas de seguir aprendiendo
-                  - Puntual con los compromisos
-                  - Excelente organización y administración de tiempo
-                  - Capacidad de aceptar retroalimentación de su trabajo y atenderla
-                  - Atención a los detalles
+              #     #### HABILIDADES:
+              #     - Buena relación profesional y personal
+              #     - Colaborar eficientemente con otros colegas de diferentes ramas del conocimiento
+              #     - Excelente ortografía
+              #     - Manejo de Office al 100%
+              #     - Proactividad y creatividad
+              #     - Capacidad de negociación y resolución de conflictos
+              #     - Capacidad de análisis y síntesis de información técnica y legal
+              #     - Buscar soluciones a problemas y requerimientos del proyecto.
+              #     - Autodidacta y con ganas de seguir aprendiendo
+              #     - Puntual con los compromisos
+              #     - Excelente organización y administración de tiempo
+              #     - Capacidad de aceptar retroalimentación de su trabajo y atenderla
+              #     - Atención a los detalles
 
   
-                  #### IDIOMAS
-                  Debes poder expresarte y escribir en español de manera impecable.
+              #     #### IDIOMAS
+              #     Debes poder expresarte y escribir en español de manera impecable.
 
-                  #### APTITUDES
-                  - Organización
-                  - Persistencia
-                  - Tolerancia a la crítica
-                  - Sociable
-                  - Con iniciativa propia
-                  - Detallista
-                  - Con estructura
-                  - Multitareas
-
-              
-                  #### OFERTA
-                  Sueldo bruto mensual: $24,000.00 MXN, dependiendo de experiencia y competencias, más prestaciones de ley.
+              #     #### APTITUDES
+              #     - Organización
+              #     - Persistencia
+              #     - Tolerancia a la crítica
+              #     - Sociable
+              #     - Con iniciativa propia
+              #     - Detallista
+              #     - Con estructura
+              #     - Multitareas
 
               
-                  #### PROCESO
-                  5. Envía los siguientes documentos al correo <ideas@capsus.mx>. Asegúrate que el asunto del correo contenga en el asunto "Vacante Leyes" y tus iniciales (Vacante leyes - tus iniciales). 
-                     a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
-                     b. **Carta de exposición de motivos en inglés**
-                     c. **Carta que explique la importancia del desarrollo sustentable en español**
-                     d. **Copia de título(s) profesional(es)**
-                  6. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
+              #     #### OFERTA
+              #     Sueldo bruto mensual: $24,000.00 MXN, dependiendo de experiencia y competencias, más prestaciones de ley.
+
+              
+              #     #### PROCESO
+              #     5. Envía los siguientes documentos al correo <ideas@capsus.mx>. Asegúrate que el asunto del correo contenga en el asunto "Vacante Leyes" y tus iniciales (Vacante leyes - tus iniciales). 
+              #        a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
+              #        b. **Carta de exposición de motivos en inglés**
+              #        c. **Carta que explique la importancia del desarrollo sustentable en español**
+              #        d. **Copia de título(s) profesional(es)**
+              #     6. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
                   
 
-                  Estimamos que el proceso para cubrir está vacante nos tomará de 2 a 3 semanas. Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su documentación completa sobre los resultados.
-                info4_id: vac-3
-                info4_item_location: CDMX
+              #     Estimamos que el proceso para cubrir está vacante nos tomará de 2 a 3 semanas. Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su documentación completa sobre los resultados.
+              #   info4_id: vac-3
+              #   info4_item_location: CDMX
               # - info4_item_fulltitle: Soporte técnico en verificación vehicular y manejo de datos
               #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
               #   info4_item_content: |
