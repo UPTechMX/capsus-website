@@ -98,6 +98,7 @@ jobs:
                 info4_item_content: |
                   #### PERFIL
                   Buscamos una persona comprometida con el desarrollo sustentable, debes contar con un título de ingeniería o similar. La persona que buscamos debe tener las siguientes habilidades:
+                  
                   - Solucione problemas prácticos, mediante la aplicación de las matemáticas y el conocimiento científico.
                   - Tenga muy buen manejo de tablas de cálculo, tipo Excel
                   - Totalmente bilingüe en español e inglés
