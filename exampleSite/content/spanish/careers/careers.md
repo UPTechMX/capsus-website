@@ -97,7 +97,7 @@ jobs:
                 info4_item_title2:  ""
                 info4_item_content: |
                   #### PERFIL
-                  Buscamos una persona comprometida con el desarrollo sustentable, debes contar con un título de ingeniería o similar. La persona que buscamos debe tener las siguientes habilidades:
+                  Buscamos una persona comprometida con el desarrollo sustentable, debes contar con un **título de ingeniería o similar**. La persona que buscamos debe tener las siguientes habilidades:
 
 
                   - Solucione problemas prácticos, mediante la aplicación de las matemáticas y el conocimiento científico.
@@ -124,12 +124,12 @@ jobs:
 
               
                   #### PROCESO
-                  5. Envía los siguientes documentos al correo <ideas@capsus.mx>. Asegúrate que el asunto del correo contenga en el asunto "Vacante Analista ambiental" y tus iniciales (Vacante analista ambiental  - tus iniciales). 
-                     a. CV en español. Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
-                     b. Carta de exposición de motivos en inglés
-                     c. Carta que explique la importancia del desarrollo sustentable en español
-                     d. Copia de título(s) profesional(es) 
-                  6. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
+                  1. Envía los siguientes documentos al correo <ideas@capsus.mx>. Asegúrate que el asunto del correo contenga en el asunto "Vacante Analista ambiental" y tus iniciales (Vacante analista ambiental  - tus iniciales). 
+                     a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
+                     b. **Carta de exposición de motivos en inglés**
+                     c. **Carta que explique la importancia del desarrollo sustentable en español**
+                     d. **Copia de título(s) profesional(es) **
+                  2. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
                   
 
                   Estimamos que el proceso para cubrir está vacante nos tomará de 4 a 8 semanas. Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su documentación completa sobre los resultados.
