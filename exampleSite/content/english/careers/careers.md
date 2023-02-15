@@ -150,7 +150,7 @@ jobs:
                 info4_id: vac-3
                 info4_item_location: CDMX
               - info4_item_fulltitle: Especialista en medio ambiente y/o urbanismo
-                info4_item_title2:  ""
+                info4_item_title2:  "Recibiremos postulaciones hasta el Lunes 20 de febrero. ¡Éxito!"
                 info4_item_content: |
                   #### PERFIL
                   Buscamos una persona convencida y comprometida con el desarrollo sustentable. Buscamos alguien que sea totalmente bilingüe en español e inglés con una redacción estupenda en ambos idiomas. Esta persona debe tener experiencia internacional (de trabajo o estudios), e idealmente con un **título de maestría en áreas relacionadas a las relaciones internacionales, medio ambiente y/o urbanismo.** Debe ser una persona que se caracterice por ser organizada, atenta al detalle y sistemática. Además, nos gustaría contar con una persona dinámica, motivada, creativa, multidisciplinaria y con pensamiento estratégico. Buscamos a alguien que resuelva problemas y busque formas de lograr sus objetivos. Necesitas disponer de un horario de tiempo completo en un horario de 9 a 18 horas. Aunque el modo de trabajo permite trabajar desde una ubicación remota, el lugar de contratación es en nuestras oficinas de la Ciudad de México. En algunas ocasiones habrá reuniones presenciales a las que es necesario asistir. 
