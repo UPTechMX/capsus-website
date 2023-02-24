@@ -135,57 +135,57 @@ jobs:
                   Estimamos que el proceso para cubrir está vacante nos tomará de 4 a 8 semanas. Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su documentación completa sobre los resultados.
                 info4_id: vac-3
                 info4_item_location: CDMX
-              - info4_item_fulltitle: Especialista en medio ambiente y/o urbanismo
-                info4_item_title2:  "Recibiremos postulaciones hasta el Lunes 20 de febrero. ¡Éxito!"
-                info4_item_content: |
-                  #### PERFIL
-                  Buscamos una persona convencida y comprometida con el desarrollo sustentable. Buscamos alguien que sea totalmente bilingüe en español e inglés con una redacción estupenda en ambos idiomas. Esta persona debe tener experiencia internacional (de trabajo o estudios), e idealmente con un **título de maestría en áreas relacionadas a las relaciones internacionales, medio ambiente y/o urbanismo.** Debe ser una persona que se caracterice por ser organizada, atenta al detalle y sistemática. Además, nos gustaría contar con una persona dinámica, motivada, creativa, multidisciplinaria y con pensamiento estratégico. Buscamos a alguien que resuelva problemas y busque formas de lograr sus objetivos. Necesitas disponer de un horario de tiempo completo en un horario de 9 a 18 horas. Aunque el modo de trabajo permite trabajar desde una ubicación remota, el lugar de contratación es en nuestras oficinas de la Ciudad de México. En algunas ocasiones habrá reuniones presenciales a las que es necesario asistir. 
+              # - info4_item_fulltitle: Especialista en medio ambiente y/o urbanismo
+              #   info4_item_title2:  "Recibiremos postulaciones hasta el Lunes 20 de febrero. ¡Éxito!"
+              #   info4_item_content: |
+              #     #### PERFIL
+              #     Buscamos una persona convencida y comprometida con el desarrollo sustentable. Buscamos alguien que sea totalmente bilingüe en español e inglés con una redacción estupenda en ambos idiomas. Esta persona debe tener experiencia internacional (de trabajo o estudios), e idealmente con un **título de maestría en áreas relacionadas a las relaciones internacionales, medio ambiente y/o urbanismo.** Debe ser una persona que se caracterice por ser organizada, atenta al detalle y sistemática. Además, nos gustaría contar con una persona dinámica, motivada, creativa, multidisciplinaria y con pensamiento estratégico. Buscamos a alguien que resuelva problemas y busque formas de lograr sus objetivos. Necesitas disponer de un horario de tiempo completo en un horario de 9 a 18 horas. Aunque el modo de trabajo permite trabajar desde una ubicación remota, el lugar de contratación es en nuestras oficinas de la Ciudad de México. En algunas ocasiones habrá reuniones presenciales a las que es necesario asistir. 
 
                   
-                  #### EXPERIENCIA LABORAL 
-                  Este no sería tu primer empleo. Buscamos a alguien que tenga más de 3 años de experiencia laboral.
+              #     #### EXPERIENCIA LABORAL 
+              #     Este no sería tu primer empleo. Buscamos a alguien que tenga más de 3 años de experiencia laboral.
                   
 
-                  #### Idiomas
-                  Debes poder expresarte y escribir en español e inglés de manera impecable.
+              #     #### Idiomas
+              #     Debes poder expresarte y escribir en español e inglés de manera impecable.
 
 
-                  #### APTITUDES
-                  - Excelente organización
-                  - Capacidad para armar presupuestos, planear proyectos y darles seguimiento
-                  - Redacción profesional, limpia, entendible, y bien documentada
-                  - Capacidad de análisis y pensamiento estratégico
-                  - Capacidad para realizar pruebas de calidad de su propio trabajo
-                  - Capacidad para desarrollar un proyecto de manera independiente
+              #     #### APTITUDES
+              #     - Excelente organización
+              #     - Capacidad para armar presupuestos, planear proyectos y darles seguimiento
+              #     - Redacción profesional, limpia, entendible, y bien documentada
+              #     - Capacidad de análisis y pensamiento estratégico
+              #     - Capacidad para realizar pruebas de calidad de su propio trabajo
+              #     - Capacidad para desarrollar un proyecto de manera independiente
 
                   
-                  #### CONOCIMIENTO TÉCNICO
-                  Experiencia y conocimiento en sustentabilidad, política ambiental, planeación urbana o similares. 
+              #     #### CONOCIMIENTO TÉCNICO
+              #     Experiencia y conocimiento en sustentabilidad, política ambiental, planeación urbana o similares. 
  
                
-                  #### OFERTA
-                  - Sueldo bruto mensual: $22,000.00 - $28,000.00 dependiendo de experiencia y competencias 
-                  - Prestaciones de ley
-                  - Seguro de gastos médicos mayores
-                  - Excelente ambiente de trabajo
-                  - Trabajo orientado a una misión: impulsar el desarrollo sustentable y el bienestar de la humanidad
-                  - Crecimiento profesional y posible experiencia internacional
-                  - Equipo de cómputo y apoyo para capacitación
+              #     #### OFERTA
+              #     - Sueldo bruto mensual: $22,000.00 - $28,000.00 dependiendo de experiencia y competencias 
+              #     - Prestaciones de ley
+              #     - Seguro de gastos médicos mayores
+              #     - Excelente ambiente de trabajo
+              #     - Trabajo orientado a una misión: impulsar el desarrollo sustentable y el bienestar de la humanidad
+              #     - Crecimiento profesional y posible experiencia internacional
+              #     - Equipo de cómputo y apoyo para capacitación
 
 
                
-                  #### PROCESO
-                  1. Envía los siguientes documentos al correo <ideas@capsus.mx>. Asegúrate que el asunto del correo contenga en el asunto "Vacante Especialista" y tus iniciales (Vacante especialista  - tus iniciales). 
-                     a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
-                     b. **Carta de exposición de motivos en inglés**
-                     c. **Carta que explique la importancia del desarrollo sustentable en español**
-                     d. **Copia de título(s) profesional(es)**
-                  2. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
+              #     #### PROCESO
+              #     1. Envía los siguientes documentos al correo <ideas@capsus.mx>. Asegúrate que el asunto del correo contenga en el asunto "Vacante Especialista" y tus iniciales (Vacante especialista  - tus iniciales). 
+              #        a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
+              #        b. **Carta de exposición de motivos en inglés**
+              #        c. **Carta que explique la importancia del desarrollo sustentable en español**
+              #        d. **Copia de título(s) profesional(es)**
+              #     2. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
 
 
-                  Estimamos que el proceso para cubrir está vacante nos tomará entre 4 y 8 semanas. Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su documentación completa sobre los resultados.
-                info4_id: vac-4
-                info4_item_location: CDMX
+              #     Estimamos que el proceso para cubrir está vacante nos tomará entre 4 y 8 semanas. Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su documentación completa sobre los resultados.
+              #   info4_id: vac-4
+              #   info4_item_location: CDMX
               # - info4_item_fulltitle: Ingeniero para soporte técnico
               #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
               #   info4_item_content: |
