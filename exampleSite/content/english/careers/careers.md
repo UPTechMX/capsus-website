@@ -108,7 +108,7 @@ jobs:
                 info4_item_location: CDMX
               
               - info4_item_fulltitle: Analista Ambiental
-                info4_item_title2:  ""
+                info4_item_title2:  "Recepción de CV y solicitudes hasta el viernes 3 de marzo"
                 info4_item_content: |
                   #### PERFIL
                   Buscamos una persona comprometida con el desarrollo sustentable, debes contar con un **título de ingeniería o similar**. La persona que buscamos debe tener las siguientes habilidades:
