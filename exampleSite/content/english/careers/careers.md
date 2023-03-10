@@ -193,7 +193,7 @@ jobs:
                   1. Envía los siguientes documentos al correo <ideas@capsus.mx>.
                      a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
                      b. **Carta de exposición de motivos en inglés**
-                     c. **Carta en español que explique la importancia del desarrollo sustentable en español**
+                     c. **Carta en español donde expliques porqué es importante el desarrollo sustentable**
                      d. **Copia de título(s) profesional(es)**
                   2. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
 
