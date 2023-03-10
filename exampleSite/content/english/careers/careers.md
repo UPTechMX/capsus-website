@@ -155,10 +155,7 @@ jobs:
                   #### PERFIL
                   Buscamos una persona comprometida con el desarrollo sustentable, **debes contar con un título en relaciones internacionales, negocios internacionales, o similar**.
 
-                  Buscamos una persona convencida y comprometida con el desarrollo sustentable. Una persona que sea totalmente bilingüe en español e inglés con una redacción estupenda en ambos idiomas. 
-
-                  Necesitas disponer de un horario de tiempo completo de 9 a 18 horas. Nos ubicamos en la Ciudad de México, aunque por el momento el trabajo es virtual / remoto. En algunas ocasiones habrá reuniones presenciales en las oficinas de la CDMX.
-
+                  Una persona que sea totalmente bilingüe en español e inglés con una redacción estupenda en ambos idiomas. Necesitas disponer de un horario de tiempo completo de 9 a 18 horas. Nos ubicamos en la Ciudad de México, aunque por el momento el trabajo es virtual / remoto. En algunas ocasiones habrá reuniones presenciales en las oficinas de la CDMX.
 
                   
                   #### EXPERIENCIA LABORAL 
