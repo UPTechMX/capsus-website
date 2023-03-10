@@ -169,8 +169,7 @@ jobs:
                   - Prestaciones de ley.
                   - Seguro de gastos médicos mayores.
                   - Excelente ambiente de trabajo.
-                  - Trabajo orientado a una misión: impulsar el desarrollo sustentable y el
-                  - bienestar de la humanidad.
+                  - Trabajo orientado a una misión: impulsar el desarrollo sustentable y el bienestar de la humanidad.
                   - Crecimiento profesional.
                   - Equipo de cómputo y apoyo para capacitación.
 
