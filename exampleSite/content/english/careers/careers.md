@@ -107,78 +107,28 @@ jobs:
                 info4_id: vac-1
                 info4_item_location: CDMX
               
-              - info4_item_fulltitle: Analista Ambiental
-                info4_item_title2:  "Recepción de CV y solicitudes hasta el viernes 3 de marzo"
-                info4_item_content: |
-                  #### PERFIL
-                  Buscamos una persona comprometida con el desarrollo sustentable, debes contar con un **título de ingeniería o similar**. La persona que buscamos debe tener las siguientes habilidades:
-                  
-
-                  - Solucione problemas prácticos, mediante la aplicación de las matemáticas y el conocimiento científico.
-                  - Tenga muy buen manejo de tablas de cálculo, tipo Excel
-                  - Totalmente bilingüe en español e inglés
-                  - Conocimiento y/o experiencia en temas de cambio climático y de medio ambiente.
-
-
-                  Necesitas disponer de un horario de tiempo completo en un horario de 9 a 18 horas. Aunque el modo de trabajo permite trabajar desde una ubicación remota, el lugar de contratación es en nuestras oficinas de la Ciudad de México. En algunas ocasiones habrá reuniones presenciales a las que es necesario asistir.
-
-                  
-                  #### EXPERIENCIA LABORAL
-                  Este puede ser tu primer empleo, siempre y cuando ya cuentes con un título. Considera que la experiencia laboral, de entre 1 a 3 años, puede fortalecer tu candidatura.
-
-
-                  #### OFERTA
-                  - Sueldo bruto mensual: $17,000.00 - $22,000.00 dependiendo de la experiencia y las competencias 
-                  - Prestaciones de ley
-                  - Seguro de gastos médicos mayores
-                  - Excelente ambiente de trabajo
-                  - Trabajo orientado a una misión: impulsar el desarrollo sustentable y el bienestar de la humanidad
-                  - Crecimiento profesional y posible experiencia internacional
-                  - Equipo de cómputo y apoyo para capacitación
-
-              
-                  #### PROCESO
-                  1. Envía los siguientes documentos al correo <ideas@capsus.mx>. Asegúrate que el asunto del correo contenga en el asunto "Vacante Analista ambiental" y tus iniciales (Vacante analista ambiental  - tus iniciales). 
-                     a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
-                     b. **Carta de exposición de motivos en inglés**
-                     c. **Carta que explique la importancia del desarrollo sustentable en español**
-                     d. **Copia de título(s) profesional(es)**
-                  2. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
-                  
-
-                  Estimamos que el proceso para cubrir está vacante nos tomará de 4 a 8 semanas. Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su documentación completa sobre los resultados.
-                info4_id: vac-3
-                info4_item_location: CDMX
-              # - info4_item_fulltitle: Especialista en medio ambiente y/o urbanismo
-              #   info4_item_title2:  "Recibiremos postulaciones hasta el Lunes 20 de febrero. ¡Éxito!"
+              # - info4_item_fulltitle: Analista Ambiental
+              #   info4_item_title2:  "Recepción de CV y solicitudes hasta el viernes 3 de marzo"
               #   info4_item_content: |
               #     #### PERFIL
-              #     Buscamos una persona convencida y comprometida con el desarrollo sustentable. Buscamos alguien que sea totalmente bilingüe en español e inglés con una redacción estupenda en ambos idiomas. Esta persona debe tener experiencia internacional (de trabajo o estudios), e idealmente con un **título de maestría en áreas relacionadas a las relaciones internacionales, medio ambiente y/o urbanismo.** Debe ser una persona que se caracterice por ser organizada, atenta al detalle y sistemática. Además, nos gustaría contar con una persona dinámica, motivada, creativa, multidisciplinaria y con pensamiento estratégico. Buscamos a alguien que resuelva problemas y busque formas de lograr sus objetivos. Necesitas disponer de un horario de tiempo completo en un horario de 9 a 18 horas. Aunque el modo de trabajo permite trabajar desde una ubicación remota, el lugar de contratación es en nuestras oficinas de la Ciudad de México. En algunas ocasiones habrá reuniones presenciales a las que es necesario asistir. 
-
-                  
-              #     #### EXPERIENCIA LABORAL 
-              #     Este no sería tu primer empleo. Buscamos a alguien que tenga más de 3 años de experiencia laboral.
+              #     Buscamos una persona comprometida con el desarrollo sustentable, debes contar con un **título de ingeniería o similar**. La persona que buscamos debe tener las siguientes habilidades:
                   
 
-              #     #### Idiomas
-              #     Debes poder expresarte y escribir en español e inglés de manera impecable.
+              #     - Solucione problemas prácticos, mediante la aplicación de las matemáticas y el conocimiento científico.
+              #     - Tenga muy buen manejo de tablas de cálculo, tipo Excel
+              #     - Totalmente bilingüe en español e inglés
+              #     - Conocimiento y/o experiencia en temas de cambio climático y de medio ambiente.
 
 
-              #     #### APTITUDES
-              #     - Excelente organización
-              #     - Capacidad para armar presupuestos, planear proyectos y darles seguimiento
-              #     - Redacción profesional, limpia, entendible, y bien documentada
-              #     - Capacidad de análisis y pensamiento estratégico
-              #     - Capacidad para realizar pruebas de calidad de su propio trabajo
-              #     - Capacidad para desarrollar un proyecto de manera independiente
+              #     Necesitas disponer de un horario de tiempo completo en un horario de 9 a 18 horas. Aunque el modo de trabajo permite trabajar desde una ubicación remota, el lugar de contratación es en nuestras oficinas de la Ciudad de México. En algunas ocasiones habrá reuniones presenciales a las que es necesario asistir.
 
                   
-              #     #### CONOCIMIENTO TÉCNICO
-              #     Experiencia y conocimiento en sustentabilidad, política ambiental, planeación urbana o similares. 
- 
-               
+              #     #### EXPERIENCIA LABORAL
+              #     Este puede ser tu primer empleo, siempre y cuando ya cuentes con un título. Considera que la experiencia laboral, de entre 1 a 3 años, puede fortalecer tu candidatura.
+
+
               #     #### OFERTA
-              #     - Sueldo bruto mensual: $22,000.00 - $28,000.00 dependiendo de experiencia y competencias 
+              #     - Sueldo bruto mensual: $17,000.00 - $22,000.00 dependiendo de la experiencia y las competencias 
               #     - Prestaciones de ley
               #     - Seguro de gastos médicos mayores
               #     - Excelente ambiente de trabajo
@@ -186,20 +136,71 @@ jobs:
               #     - Crecimiento profesional y posible experiencia internacional
               #     - Equipo de cómputo y apoyo para capacitación
 
-
-               
+              
               #     #### PROCESO
-              #     3. Envía los siguientes documentos al correo <ideas@capsus.mx>. Asegúrate que el asunto del correo contenga en el asunto "Vacante Especialista" y tus iniciales (Vacante especialista  - tus iniciales). 
+              #     1. Envía los siguientes documentos al correo <ideas@capsus.mx>. Asegúrate que el asunto del correo contenga en el asunto "Vacante Analista ambiental" y tus iniciales (Vacante analista ambiental  - tus iniciales). 
               #        a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
               #        b. **Carta de exposición de motivos en inglés**
               #        c. **Carta que explique la importancia del desarrollo sustentable en español**
               #        d. **Copia de título(s) profesional(es)**
-              #     4. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
+              #     2. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
+                  
 
-
-              #     Estimamos que el proceso para cubrir está vacante nos tomará entre 4 y 8 semanas. Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su documentación completa sobre los resultados.
-              #   info4_id: vac-4
+              #     Estimamos que el proceso para cubrir está vacante nos tomará de 4 a 8 semanas. Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su documentación completa sobre los resultados.
+              #   info4_id: vac-3
               #   info4_item_location: CDMX
+              - info4_item_fulltitle: Relaciones o negocios internacionales
+                info4_item_title2:  "Recepción de solicitudes hasta el Lunes 27 de marzo"
+                info4_item_content: |
+                  #### PERFIL
+                  Buscamos una persona comprometida con el desarrollo sustentable, **debes contar con un título en relaciones internacionales, negocios internacionales, o similar**.
+
+                  Buscamos una persona convencida y comprometida con el desarrollo sustentable. Una persona que sea totalmente bilingüe en español e inglés con una redacción estupenda en ambos idiomas. 
+
+                  Necesitas disponer de un horario de tiempo completo de 9 a 18 horas. Nos ubicamos en la Ciudad de México, aunque por el momento el trabajo es virtual / remoto. En algunas ocasiones habrá reuniones presenciales en las oficinas de la CDMX.
+
+
+                  
+                  #### EXPERIENCIA LABORAL 
+                  Este puede ser tu primer empleo, siempre y cuando ya estés titulada(o). Aunque preferimos alguien que tenga más de 2 años de experiencia laboral.
+                  
+
+                  #### Idiomas
+                  Debes poder expresarte y escribir en español e inglés de manera impecable.
+
+
+                  #### HABILIDADES
+                  - Totalmente bilingüe en español e inglés.
+                  - Excelente redacción.
+                  - Con altas capacidades de organización.
+                  - Capacidad de investigación, ampliación de redes de contacto y facilidad para desarrollar relaciones y propuestas de trabajo.
+                  - Tenga muy buen manejo de procesadores de texto y hojas de cálculo.
+                  - Capacidad de desarrollar presupuestos.
+ 
+               
+                  #### OFERTA
+                  - Sueldo bruto mensual de $17,000.00 mxn.
+                  - Prestaciones de ley.
+                  - Seguro de gastos médicos mayores.
+                  - Excelente ambiente de trabajo.
+                  - Trabajo orientado a una misión: impulsar el desarrollo sustentable y el
+                  - bienestar de la humanidad.
+                  - Crecimiento profesional.
+                  - Equipo de cómputo y apoyo para capacitación.
+
+               
+                  #### PROCESO
+                  1. Envía los siguientes documentos al correo <ideas@capsus.mx>.
+                     a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
+                     b. **Carta de exposición de motivos en inglés**
+                     c. **Carta en español que explique la importancia del desarrollo sustentable en español**
+                     d. **Copia de título(s) profesional(es)**
+                  2. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
+
+
+                  Estimamos que este proceso nos tomará 3 semanas, una vez concluido el proceso informaremos a todas las personas que hayan enviado sus documentos sobre los resultados.
+                info4_id: vac-4
+                info4_item_location: CDMX
               # - info4_item_fulltitle: Ingeniero para soporte técnico
               #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
               #   info4_item_content: |
