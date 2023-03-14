@@ -36,7 +36,7 @@ team:
       member_profile: |-
         Ricardo tiene experiencia en ingeniería mecánica y administración, cuenta con una Maestría en Ciencias en Energía Renovable y 15 años de experiencia en energía y desarrollo sustentable.
 
-         En los últimos 10 años ha liderado equipos en el desarrollo de herramientas digitales para apoyar a gobiernos locales en la toma de decisiones informadas con un enfoque específico en estrategias de eficiencia energética, adaptación y mitigación al cambio climático en el entorno construido.
+        En los últimos 10 años ha liderado equipos en el desarrollo de herramientas digitales para apoyar a gobiernos locales en la toma de decisiones informadas con un enfoque específico en estrategias de eficiencia energética, adaptación y mitigación al cambio climático en el entorno construido.
     - name: Daniela Evia
       member_title: Historiadora y maestra en Innovación Educativa
       image: images/team/DE.jpg
@@ -71,6 +71,17 @@ team:
         mayor parte de su experiencia ha sido en el área de manufactura donde ha llevado
         el control de proyectos y establecido mejoras a procesos para incrementar la
         productividad."
+    - name: Alexis Cervantes
+      member_title: ""
+      image: images/team/AC.jpg
+      image_webp: images/team/AC.jpg
+      categories:
+        - consultants
+      title: Consultor
+      content: Sistemas de información geográfica
+      link: "#"
+      member_profile: |
+        **Licenciado en Manejo Sustentable de Zonas Costeras y maestrando en Geografía por la Universidad Nacional Autónoma de México.** Previo a CAPSUS, Alexis participó en un proyecto del Programa Mexicano del Carbono sobre el análisis del marco jurídico relacionado con la gestión de aguas residuales entre Corea del Sur y México (haciendo hincapié en el caso de Quintana Roo). Actualmente ha dirigido su perfil profesional hacia el procesamiento de imágenes satelitales, al manejo de sistemas de información geográfica y al análisis de datos.
     - name: Amílcar González
       member_title: Ingeniero en Sistemas Computacionales
       image: images/team/AG.jpg
@@ -119,21 +130,6 @@ team:
         y relaciones públicas. Además, ha trabajado en el mundo del diseño editorial,
         diseño digital para eventos, animación, identidad corporativa, diseño UX, entre
         otros."
-    - name: Azucena García
-      member_title: Ingeniera en Desarrollo Sustentable y Maestra en Economía
-      image: images/team/AL.jpg
-      image_webp: images/team/AL.jpg
-      categories:
-        - consultants
-      title: Consultora
-      content: Economía Sustentable
-      link: "#"
-      member_profile:
-        "Ingeniera en Desarrollo Sostenible por el Tecnológico de Monterrey, y Maestra en economía, con especialidad en economía de la tecnología y la innovación,
-        por la Universidad Nacional Autónoma de México. Azucena es especialista en sustentabilidad, innovación y desarrollo empresarial con más de 5 años de experiencia como consultora en el diseño,
-        implementación y seguimiento de proyectos en el sector público y privado. Ha colaborado en diferentes organizaciones de diversos sectores en asesoría estratégica, innovación y financiamiento.
-        Azucena también ha colaborado en proyectos relacionados a organismos internacionales como el Programa de las Naciones Unidas para el Desarrollo (PNUD), el Banco Interamericano de Desarrollo (BID),
-        el Banco Mundial (BM) y el Banco Centroamericano de Integración Económica (BCIE)."
     - name: Bardo Salgado
       member_title: Urbanista
       image: images/team/BS.jpg
@@ -154,8 +150,8 @@ team:
       image: images/team/DR.jpg
       image_webp: images/team/DR.jpg
       categories:
-        - associates
-      title: Asociada
+        - consultants
+      title: Consultora
       content: Desarrollo Urbano y Diseño Ambiental
       link: "#"
       member_profile:
@@ -190,13 +186,24 @@ team:
       content: Desarrollo Sustentable
       link: "#"
       member_profile: "Egresada de Ingeniería Ambiental del Instituto Politécnico Nacional. Ha participado en programas académicos desarrollando proyectos de investigación sobre el desarrollo de biopolímeros a partir de los residuos forestales, abordando temas relacionados al análisis de ciclo de vida y economía circular. Ha trabajado con cooperación internacional en temas relacionados con medidas de mitigación al cambio climático y eficiencia energética."
+    - name: Fernanda Silva
+      member_title: ""
+      image: images/team/FS.jpg
+      image_webp: images/team/FS.jpg
+      categories:
+        - associates
+      title: Asociada
+      content: Administración
+      link: "#"
+      member_profile: |
+        **4 años de experiencia como auxiliar en el área administrativa y contable, apoyando en las actividades que está demanda. Con una carrera técnica en trabajo social.**
     - name: Jorge Márquez
       member_title: Geógrafo
       image: images/team/JM.jpg
       image_webp: images/team/JM.jpg
       categories:
-        - associates
-      title: Asociado
+        - consultants
+      title: Consultor
       content: Planeación Urbana
       link: "#"
       member_profile:
@@ -218,13 +225,35 @@ team:
         Egresado de la Universidad Nacional Autónoma de México. Juan Manuel trabaja en el diseño y desarrollo de sistemas desde 2007, ha colaborado en el desarrollo de plataformas de información para la Universidad Nacional Autónoma de México en el proyecto “Voto Informado” y “Diagnóstico Nacional con perspectiva de género sobre todas las formas de violencia contra las mujeres y las niñas y anteproyecto del programa integral para prevenir, atener, sancionar y erradicar la violencia contra las mujeres”, participó en el equipo de desarrollo del Sistema de Información de la Agenda de Transversalidad del Programa especial de cambio climático (SIAT-PECC), colaboró en la programación del Sistema de Seguimiento del Programa de Acción Climática de la Ciudad de México (SS-PACCM) y en el Sistema de Seguimiento del PROAIRE de la Ciudad de México (SS-PROAIRE), también colaboró en el desarrollo del Sistema Nacional de Información de la Calidad del Aire (SINAICA) para el INECC.
 
         Es cofundador de NotLand, empresa establecida en 2013 especializada en el desarrollo de sistemas de recopilación y manejo de información, con NotLand ha colaborado en el desarrollo de proyectos con la GIZ, BID y entidades gubernamentales. Con la iniciativa privada ha participado en la coordinación y desarrollo de aplicaciones web y móviles para el levantamiento en línea de encuestas con la empresa Shoppers Consulting y en el sistema de seguimiento de instalaciones para Isla Urbana. Apoyó en el desarrollo visual de la herramienta Perfil Metropolitano y coordinó la adaptación de mapas de entrada y salida del módulo LULCC para lenguaje R.
+    - name: Louise David
+      member_title: ""
+      image: images/team/LD.jpg
+      image_webp: images/team/LD.jpg
+      categories:
+        - consultants
+      title: Consultora
+      content: Desarrollo urbano y política pública
+      link: "#"
+      member_profile: |
+        **Con más de 15 años de investigación en desarrollo urbano, Louise es doctora en urbanismo y ordenamiento territorial por parte de la Université Paris-Est, Francia, y maestra en políticas públicas de la Sorbona.** Durante 9 años, fue profesora de sociología urbana y sustentabilidad urbana en maestrías de desarrollo urbano. Hoy es experta en temas de gobernanza urbana y procesos participativos, vivienda y suelo, regeneración y redensificación urbana, financiamiento público-privado del desarrollo urbano, e instrumentos de planeación urbana. Su experiencia profesional incluye México, Perú, Francia y Gran Bretaña..
+    - name: Luis Villarreal
+      member_title: ""
+      image: images/team/LV.jpg
+      image_webp: images/team/LV.jpg
+      categories:
+        - consultants
+      title: Consultor
+      content: Sistemas de información geográfica
+      link: "#"
+      member_profile: |
+        **4 años de experiencia en consultoría ambiental y 2 años de experiencia en investigación en áreas de sostenibilidad, sistemas de información geográfica, manejo y análisis de datos, impacto ambiental y área forestal.** Biólogo egresado de la Universidad Autónoma Metropolitana, unidad Xochimilco, actualmente en proceso de titulación para la obtención de grado de Maestro en Ciencias de la Sostenibilidad en la Universidad Nacional Autónoma de México. Especializado en Sistemas de Información Geográfica pero desempeñándose en áreas de impacto ambiental, captación de agua pluvial, diagnóstico ambiental, restauración ambiental y reforestación, levantamiento forestal, análisis geoespacial y territorial, programas de manejo de residuos, auditoría ambiental, procesamiento de datos, elaboración de cartografía, análisis de elegibilidad y capacidad institucional para pago por servicios ambientales, talleres de mapeo participativo y análisis geoespacial de riesgo y resiliencia. Ha trabajado principalmente en proyectos en México en el sector público y privado y actualmente en un proyecto para Indonesia.
     - name: Maria Fernanda Nájera
       member_title: Ingeniera química
       image: images/team/Mafer.jpg
       image_webp: images/team/Mafer.jpg
       categories:
-        - associates
-      title: Asociada
+        - consultants
+      title: Consultora
       content: Desarrollo sustentable
       link: "#"
       member_profile:
@@ -257,8 +286,8 @@ team:
       image: images/team/PC.jpg
       image_webp: images/team/PC.jpg
       categories:
-        - associates
-      title: Asociado
+        - consultants
+      title: Consultor
       content: Política Pública y Desarrollo Regional
       link: "#"
       member_profile:
@@ -284,19 +313,6 @@ team:
         al aprovechamiento del sargazo y a la adopción de ecotecnologías para el manejo
         sustentable del agua. Actualmente trabaja en las Áreas de Calidad del Aire,
         Cambio Climático y Financiamiento Ambiental."
-    - name: Socorro Román
-      member_title: Urbanista
-      image: images/team/SM.jpg
-      image_webp: images/team/SM.jpg
-      categories:
-        - consultants
-      title: Consultora
-      content: Desarrollo Urbano y Sistemas de Información Geográfica
-      link: "#"
-      member_profile:
-        Egresada de la Benemérita Universidad de Puebla. Se ha desempeñado
-        en el sector privado en proyectos catastrales y de planeación urbana como analista
-        en SIG, además cuenta con experiencia en diseño urbano y estudios territoriales.
     - name: Tania Guerrero
       member_title: Arquitecta
       image: images/team/TG.jpg
@@ -311,6 +327,17 @@ team:
         de la Universidad de Tecnología de Delft, actualmente es candidata a doctora
         en Geografía Humana del University College London. Tania ha trabajado como arquitecta
         y urbanista en México y en los Países Bajos.
+    - name: Yoshiki Ozawa
+      member_title: ""
+      image: images/team/YO.jpg
+      image_webp: images/team/YO.jpg
+      categories:
+        - associates
+      title: Asociado
+      content: Desarrollo Sustentable
+      link: "#"
+      member_profile: |
+        **Empezó a trabajar en Capsus en Noviembre de 2022 en el área de urbanismo, ha trabajado en el proyecto conjunto con el Banco Interamericano de Desarrollo, TECHO Paraguay y el Ministerio de Urbanismo, Vivienda y Hábitat de Paraguay.** Estudiante de la UNAM en donde ha analizado y estudiado proyectos a nivel municipal, metropolitano y regional dentro de México buscando un mejor desarrollo del territorio e identificando problemáticas en las diferentes escalas.
     - name: Israel Huipio
       member_title: Contador público
       image: images/team/CAMe/IsraelHuipio.jpg
@@ -325,6 +352,17 @@ team:
         en Habilidades Directivas y una Licenciatura en Contaduría Pública. Contador
         Público con más de 15 años de experiencia en la rama administrativa y en la
         gestión de proyectos de desarrollo inmobiliario.
+    - name: Jorge Santacruz
+      member_title: ""
+      image: images/team/CAMe/JorgeSantacruz.jpg
+      image_webp: images/team/CAMe/JorgeSantacruz.jpg
+      categories:
+        - consultants
+      title: Consultor
+      content: Calidad del Aire
+      link: "#"
+      member_profile: |
+        **Más de 20 años de experiencia en el área de Ingeniería Ambiental Especialista en (Calidad del aire, Contaminación del Agua, Residuos sólidos urbanos y municipales, y Gestión Ambiental), Oceanografía Química, Química Ambiental y Docente en Química en la UNAM.** Las fortalezas principales de su trabajo radican en la resolución de problemas ambientales para la toma de decisiones en una política pública, y sean representativas para el bienestar para la sociedad, la vida silvestre y la industria. Evaluador del Fondo CONACYT-Secretaría de Energía-Hidrocarburos sobre derrames en el Golfo de México, Capítulo del libro, Las Costas Mexicanas: Contaminación, Impacto y Cambio Climático, diseño y apoyo en proyectos internacionales sobre Contaminación Ambiental en México. Su colaboración y experiencia internacional incluye México, Estados Unidos, Japón, Corea y Perú.
     - name: Luis Enrique Juárez
       member_title: Arquitecto
       image: images/team/CAMe/LuisEnriqueJuarez.jpg
@@ -338,35 +376,6 @@ team:
         Egresado de la Facultad de Estudios Superiores Acatlán de la Universidad
         Nacional Autónoma de México. Cuenta con dos años de experiencia en el sector
         público en proyectos de obra pública y desarrollo sustentable.
-    - name: Elizabeth Méndez
-      member_title: Arquitecta
-      image: images/team/CAMe/ElizabethMendez.jpg
-      image_webp: images/team/CAMe/ElizabethMendez.jpg
-      categories:
-        - consultants
-      title: Consultora
-      content: Planeación territorial y movilidad urbana
-      link: "#"
-      member_profile:
-        Cuenta con una Maestría en Ingeniería Civil en el Área de Planeación
-        Territorial por la Escuela Superior de Ingeniería y Arquitectura del Instituto
-        Politécnico Nacional, actualmente es candidata a Doctora en Ingeniería por la
-        misma Institución. En los últimos 8 años ha participado en diversas actividades
-        académicas y de investigación en el área de movilidad urbana.
-    - name: Valeria Navarro
-      member_title: Licenciada en relaciones internacionales
-      image: images/team/CAMe/ValeriaNavarro.jpg
-      image_webp: images/team/CAMe/ValeriaNavarro.jpg
-      categories:
-        - consultants
-      title: Consultora
-      content: Sustentabilidad y Salud
-      link: "#"
-      member_profile:
-        Egresada de la Licenciatura en Relaciones Internacionales por
-        la Universidad Iberoamericana y de la Maestría en Salud por la Universidad College
-        Cork de la República de Irlanda. Cuenta con experiencia en el sector privado
-        y en organizaciones no gubernamentales, tanto a nivel nacional como internacional.
     - name: Sandra García
       member_title: Ingeniera química
       image: images/team/CAMe/SandraGarcia.jpg
@@ -383,20 +392,6 @@ team:
         y ejecución de campañas de monitoreo,  identificación de impactos de diferentes
         fuentes de emisión de contaminantes y en el uso de modelos meteorológicos y
         de química atmosférica.
-    - name: Joaquín Ayora
-      member_title: Ingeniero civil-ambiental
-      image: images/team/CAMe/JoaquinAyora.jpg
-      image_webp: images/team/CAMe/JoaquinAyora.jpg
-      categories:
-        - consultants
-      title: Consultor
-      content: Desarrollo sustentable
-      link: "#"
-      member_profile:
-        Ingeniero civil por el Instituto Politécnico Nacional y maestro
-        en ingeniería ambiental por la misma institución. Joaquín cuenta con más de
-        20 años de experiencia profesional en las áreas de medio ambiente del sector
-        público.
     - name: Yeni Solis
       member_title: Comunicóloga
       image: images/team/CAMe/Yeni.jpg

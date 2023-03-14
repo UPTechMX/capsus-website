@@ -70,7 +70,18 @@ team:
       link: "#"
       member_profile:
         "She has more than 20 years of experience in the private sector
-        focused on administrative, finance, human resources and fiscal compliance. "
+        focused on administrative, finance, human resources and fiscal compliance."
+    - name: Alexis Cervantes
+      member_title: ""
+      image: images/team/AC.jpg
+      image_webp: images/team/AC.jpg
+      categories:
+        - consultants
+      title: Consultant
+      content: GEOGRAPHICAL INFORMATION SYSTEMS
+      link: "#"
+      member_profile: |
+        **Bachelor and Mastering degree in Sustainable Management of Coastal Zones and Geography from the National Autonomous University of Mexico.** Before CAPSUS, Alexis collaborated in a project of The Mexican Carbon about the legal analysis of the wastewater treatment between South Korea and Mexico (specifically for the case of Quintana Roo). At the time his professional interests are focused on the processing of satellite images, geographic information systems management, and data analysis. 
     - name: Amílcar González
       member_title: Engineer in Computer Systems
       image: images/team/AG.jpg
@@ -124,21 +135,6 @@ team:
         with various brands on aspects related to reputation and public relations. In
         addition, she has worked in editorial design, digital design, animation, corporate
         identity, Infographic design, among others."
-    - name: Azucena García
-      member_title: Sustainable Development Engineer and Master in Economics
-      image: images/team/AL.jpg
-      image_webp: images/team/AL.jpg
-      categories:
-        - consultants
-      title: Consultant
-      content: Sustainable Economy
-      link: "#"
-      member_profile:
-        "Sustainable Development Engineer with a master's degree in economics, a specialty in technology and innovation economics, and a diploma in management and technology transfer.
-        Azucena is a specialist in procurement, sustainability, innovation and business development with more than 5 years of experience in the design, implementation and monitoring of projects for the private and public sectors.
-        She has collaborated as a consultant in organizations from diverse sectors to carry out diagnosis, strategic plans and financial advice.
-        As procurement specialist, she has worked on projects destined for international organizations such as the United Nations Development Program (UNDP), the InterAmerican Development Bank (IADB),
-        the World Bank (WB) and the Central American Bank for Economic Integration."
     - name: Bardo Salgado
       member_title: Urbanist
       image: images/team/BS.jpg
@@ -158,8 +154,8 @@ team:
       image: images/team/DR.jpg
       image_webp: images/team/DR.jpg
       categories:
-        - associates
-      title: Associate
+        - consultants
+      title: Consultant
       content: Urban Development and Environmental Design
       link: "#"
       member_profile:
@@ -193,13 +189,24 @@ team:
       content: Sustainable development
       link: "#"
       member_profile: "Environmental Engineer by the Instituto Politécnico Nacional. She has participated in research projects about forest waste, life cycle analysis and circular economy. She also has experience working with international cooperation agencies on issues related to climate change and energy efficiency."
+    - name: Fernanda Silva
+      member_title: ""
+      image: images/team/FS.jpg
+      image_webp: images/team/FS.jpg
+      categories:
+        - associates
+      title: Associate
+      content: Administration
+      link: "#"
+      member_profile: |
+        **4 years of experience as an assistant in the administrative and accounting area,** providing support with diverse activities. With a technical career in social work.
     - name: Jorge Márquez
       member_title: Geographer
       image: images/team/JM.jpg
       image_webp: images/team/JM.jpg
       categories:
-        - associates
-      title: Associate
+        - consultants
+      title: Consultant
       content: Urban Planning
       link: "#"
       member_profile:
@@ -229,13 +236,35 @@ team:
         System of the Climate Action Program of Mexico City (SS-PACCM) and in the Monitoring
         System of PROAIRE of Mexico City (SS-PROAIRE). He also assisted the development
         of the National Air Quality Information System (SINAICA) for THE INECC."
+    - name: Louise David
+      member_title: ""
+      image: images/team/LD.jpg
+      image_webp: images/team/LD.jpg
+      categories:
+        - consultants
+      title: Consultant
+      content: Urban development and public policy
+      link: "#"
+      member_profile: |
+        **With more than 15 years of research in urban development, she has a PhD in urban planning and land use planning from the Université Paris-Est, France, and a master's degree in public policy from the Sorbonne.** She has been a teacher of urban sociology and urban sustainability in urban development master's degrees for 9 years. Today, she is an expert in urban governance and participatory processes, housing and land, urban regeneration and redensification, public-private financing of urban development, and urban planning instruments. Her international experience includes Mexico, Peru, France and Great Britain.
+    - name: Luis Villarreal
+      member_title: ""
+      image: images/team/LV.jpg
+      image_webp: images/team/LV.jpg
+      categories:
+        - consultants
+      title: Consultant
+      content: Geographic information systems
+      link: "#"
+      member_profile: |
+        **4 years experience in environmental consulting and 2 years experience in research in sustainability, geographic information systems, data management and analysis, environmental impact and forestry.** Biologist from the Universidad Autónoma Metropolitana, Xochimilco unit, currently in the process of obtaining the Master’s degree in Sustainability Science at the Universidad Nacional Autónoma de México. Specialized Geographic Information Systems and performing in areas such as environmental impact, rainwater collecting systems, environmental diagnosis, environmental restoration and reforestation, forest survey, geospatial and territorial analysis, waste management programs, environmental auditing, data processing,  cartography, eligibility and institutional capacity analysis for environmental services payment, participatory mapping workshops and geospatial analysis for risk and resilience. He has worked mainly in projects in México for the public and private sectors and currently working in a project for Indonesia.
     - name: Maria Fernanda Nájera
       member_title: Chemical engineer
       image: images/team/Mafer.jpg
       image_webp: images/team/Mafer.jpg
       categories:
-        - associates
-      title: Associate
+        - consultants
+      title: Consultant
       content: Sustainable development
       link: "#"
       member_profile:
@@ -267,8 +296,8 @@ team:
       image: images/team/PC.jpg
       image_webp: images/team/PC.jpg
       categories:
-        - associates
-      title: Associate
+        - consultants
+      title: Consultant
       content: Public Policy and Regional Development
       link: "#"
       member_profile:
@@ -293,19 +322,6 @@ team:
         the sustainable use of sargassum and the implementation of ecotechnologies for
         sustainable water usage. She is currently working on Climate Change, Air Quality
         and Green Financing."
-    - name: Socorro Román
-      member_title: Urban Planner
-      image: images/team/SM.jpg
-      image_webp: images/team/SM.jpg
-      categories:
-        - consultants
-      title: Consultant
-      content: URBAN PLANNING AND GEOGRAPHICAL INFORMATION SYSTEMS
-      link: "#"
-      member_profile:
-        Urban planner from the Benemérita Universidad de Puebla. She has
-        worked in the private sector in urban planning projects and has experience in
-        urban design and territorial studies.
     - name: Tania Guerrero
       member_title: Architect
       image: images/team/TG.jpg
@@ -320,6 +336,17 @@ team:
         and Construction from Delft University of Technology, and a PhD candidate in
         Human Geography from University College London. Tania has worked as an architect
         and urban planner in Mexico and the Netherlands.
+    - name: Yoshiki Ozawa
+      member_title: ""
+      image: images/team/YO.jpg
+      image_webp: images/team/YO.jpg
+      categories:
+        - associates
+      title: Associate
+      content: Sustainable Development
+      link: "#"
+      member_profile: |
+        **He started working at Capsus in November 2022 inside the urban planning area, he has worked on projects with the Inter-American Development Bank, TECHO Paraguay and the Ministry of Urban Planning, Housing and Habitat of Paraguay.** Nowadays, he is a student from the UNAM, where he has analyzed projects at the municipal, metropolitan and regional level within Mexico seeking a better development of the territory and identifying problems at different scales.
     - name: Israel Huipio
       member_title: PUBLIC ACCOUNTANT
       image: images/team/CAMe/IsraelHuipio.jpg
@@ -333,6 +360,17 @@ team:
         Graduated from the Mexican University, he has a specialty in Management
         and a Bachelor's Degree in Public Accounting. Israel has more than 15 years
         of experience in the field and in the management of real estate projects.
+    - name: Jorge Santacruz
+      member_title: ""
+      image: images/team/CAMe/JorgeSantacruz.jpg
+      image_webp: images/team/CAMe/JorgeSantacruz.jpg
+      categories:
+        - consultants
+      title: Consultant
+      content: Air Quality
+      link: "#"
+      member_profile: |
+        **More than 20 years of experience as ​​Environmental Engineering Specialist in (Air Quality, Water Pollution, Urban and Municipal Solid Waste, and Environmental Management), Chemical Oceanography, Environmental Chemistry and Professor of Chemistry at UNAM.** The main strengths of his work lie in the resolution of environmental problems for decision-making in public policy, and are representative for the well-being of society, wildlife and industry. Evaluator of the CONACYT-Secretary of Energy-Hydrocarbons Fund about spills in the Gulf of Mexico, Chapter of the book, The Mexican Coasts: Contamination, Impact and Climate Change, design and support in international projects on Environmental Contamination in Mexico. His collaboration and international experience includes Mexico, the United States, Japan, Korea and Peru.
     - name: Luis Enrique Juárez
       member_title: Architect
       image: images/team/CAMe/LuisEnriqueJuarez.jpg
@@ -346,36 +384,6 @@ team:
         Graduated from Facultad de Estudios Superiores Acatlán of the
         Universidad Nacional Autónoma de México. He has two years of experience in public
         works and sustainable development projects.
-    - name: Elizabeth Méndez
-      member_title: Architect
-      image: images/team/CAMe/ElizabethMendez.jpg
-      image_webp: images/team/CAMe/ElizabethMendez.jpg
-      categories:
-        - consultants
-      title: Consultant
-      content: Territorial planning and urban mobility
-      link: "#"
-      member_profile:
-        Elizabeth has a Master's Degree in Civil Engineering in the Area
-        of Territorial Planning by the Engineering and Architecture School of the Instituto
-        Politécnico Nacional in Mexico, she is currently a PhD candidate for Civil Engineering
-        from the same Institution. For the past 8 years, she has participated in various
-        academic and research activities in the area of urban mobility.
-    - name: Valeria Navarro
-      member_title: International Relations
-      image: images/team/CAMe/ValeriaNavarro.jpg
-      image_webp: images/team/CAMe/ValeriaNavarro.jpg
-      categories:
-        - consultants
-      title: Consultant
-      content: Environmental Health Policy
-      link: "#"
-      member_profile:
-        Valeria holds a bachelor degree in International Relations from
-        the Iberoamerican University and a Masters in Public Health from the College
-        Cork University of Ireland. She has international experience in the private
-        sector as well as in non-governmental organizations such as the Red Cross and
-        Amnesty International.
     - name: Sandra García
       member_title: Chemical engineer
       image: images/team/CAMe/SandraGarcia.jpg
@@ -392,19 +400,6 @@ team:
         pollutants and the design and execution of monitoring campaigns. Sandra has
         extensive experience in the analysis of atmospheric pollutants generated by
         several emissions sources, through the use of meteorological chemistry models.
-    - name: Joaquín Ayora
-      member_title: Civil-environmental engineer
-      image: images/team/CAMe/JoaquinAyora.jpg
-      image_webp: images/team/CAMe/JoaquinAyora.jpg
-      categories:
-        - consultants
-      title: Consultant
-      content: Sustainable development
-      link: "#"
-      member_profile:
-        Joaquin is a Civil Engineer from the Instituto Politécnico Nacional
-        and holds a master degree in Environmental engineering from the same institution.
-        He has more than 20 years of experience in the environmental public sector.
     - name: Yeni Solis
       member_title: Communicologist
       image: images/team/CAMe/Yeni.jpg
