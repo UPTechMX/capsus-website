@@ -141,7 +141,7 @@ team:
       image_webp: images/team/BS.jpg
       categories:
         - consultants
-      title: Consultor
+      title: Consultant
       content: Urban Design and Development
       link: "#"
       member_profile:
