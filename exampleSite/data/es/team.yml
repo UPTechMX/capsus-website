@@ -290,10 +290,8 @@ team:
       title: Consultor
       content: Desarrollo urbano sustentable
       link: "#"
-      member_profile:
-        Egresado de la Facultad de Estudios Superiores Acatlán de la Universidad
-        Nacional Autónoma de México. Cuenta con dos años de experiencia en el sector
-        público en proyectos de obra pública y desarrollo sustentable.
+      member_profile: |
+        **2 años de experiencia en obras públicas y proyectos de desarrollo sostenible.** Egresado de la Facultad de Estudios Superiores Acatlán, Universidad Nacional Autónoma de México. Diplomado en “Control y Transparencia en la Administración Pública”.
     - name: Sandra García
       member_title: Ingeniera química
       image: images/team/CAMe/SandraGarcia.jpg
@@ -325,23 +323,8 @@ team:
       title: Consultor
       content: Legislación ambiental
       link: "#"
-      member_profile:
-        Licenciado en Derecho por la Universidad Autónoma Metropolitana.
-        César tiene tres años de trayectoria profesional en la materia de derecho ambiental
-        y administrativo. Se ha desempeñado como abogado ambiental, tanto en el sector
-        público como en el privado. En el sector público, se desempeñó en la Unidad
-        Coordinadora de Asuntos Jurídicos de la Secretaría de Medio Ambiente y Recursos
-        Naturales, en la Dirección de Juicio de Amparo, la Dirección de Recurso de Revisión
-        y la Dirección de Legislación. En el sector privado, se desempeñó en un despacho
-        jurídico dedicado a la consultoría y asesoría jurídica en materia ambiental
-        y administrativa. A lo largo de su trayectoria profesional en materia de derecho
-        ambiental y administrativo, ha participado en la instrumentación y dictaminación
-        jurídica de leyes y sus reglamentos, lineamientos, normas oficiales mexicanas,
-        convenios y, en la emisión de opiniones consultivas respecto de la interpretación
-        y aplicación de preceptos normativos contenidos en la legislación administrativa,
-        ambiental, en la constitución y en los tratados internacionales; así mismo,
-        se ha desempeñado en la protección efectiva de derechos humanos a través del
-        juicio de amparo, el juicio de nulidad y el recurso de revisión en sede administrativa.
+      member_profile: |
+        3 años de experiencia profesional en el campo del derecho ambiental y administrativo. Es Licenciado en Derecho por la Universidad Autónoma Metropolitana. En el sector público, se desempeñó en la Unidad de Asuntos Jurídicos de la Secretaría de Medio Ambiente y Recursos Naturales de México. En el sector privado, trabajó en un despacho de abogados dedicado a asuntos ambientales y administrativos. A lo largo de su carrera profesional en derecho ambiental y administrativo ha participado en la evaluación y diseño de leyes y sus reglamentos, incluyendo lineamientos, normas, estándares, convenios y tratados internacionales.
     - name: Araceli Hernández
       member_title: Urbanista
       image: images/team/CAMe/Araceli.jpg
@@ -351,10 +334,8 @@ team:
       title: Consultora
       content: Desarrollo urbano sustentable
       link: "#"
-      member_profile: |-
-        Araceli cuenta con una licenciatura en Diseño de Asentamientos Humanos por la Universidad Autónoma Metropolitana, campus Xochimilco, con una especialización en gestión y análisis de la política ambiental por el Instituto Nacional de Administración Pública, con un diplomado en control de la Contaminación Ambiental y una Maestría en Desarrollo Urbano por la Universidad Autónoma de México.
-
-        Araceli cuenta con una amplia experiencia profesional, ha sido docente a nivel universitario en el área de desarrollo urbano, trabajó en el sector privado en firmas de arquitectura y construcción, y en el sector público ha laborado a nivel local y federal en secretarías relacionados a medio ambiente, desarrollo urbano y desarrollo social.
+      member_profile: |
+        **Más de 20 años de experiencia en los sectores académico, privado y público.** Tiene una licenciatura en Diseño de Asentamientos Humanos de la Universidad Autónoma Metropolitana de México y una Maestría en Planeación Urbana de la Universidad Nacional Autónoma de México. También tiene estudios de posgrado en política ambiental y control de la contaminación. En el ámbito académico, Araceli ha impartido cursos a nivel de pregrado en las materias de desarrollo urbano. En el sector privado se desempeñó en empresas de arquitectura y construcción, y en el sector público ha trabajado tanto en los gobiernos locales y nacionales de México, así como en las secretarías de medio ambiente, desarrollo urbano y desarrollo social.
     - name: Mónica Palomero
       member_title: Ingeniera ambiental
       image: images/team/CAMe/Monica.jpg
