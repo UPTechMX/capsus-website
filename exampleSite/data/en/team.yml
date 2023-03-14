@@ -13,16 +13,8 @@ team:
       title: Partner
       content: PUBLIC POLICY, SUSTAINABLE DEVELOPMENT
       link: "#"
-      member_profile:
-        "He has a master’s degree in Public Policy from Harvard University.
-        Guillermo has more than 20 years of experience in the environmental and urban
-        sectors. As a public official he was Chief of Staff in the Mexican Senate, Federal
-        and Local Congressman for the State of Mexico, as well as Minister of the Environment
-        for the Government of the State of Mexico. He later served for six years as
-        Program Coordinator of the Sustainable Cities Program at the Nobel Laurate Mario
-        Molina Center for Strategic Studies on Energy and Environment. \n\nHe is currently
-        the founding partner of CAPSUS S.C., an international sustainability consulting
-        firm."
+      member_profile: |
+        **Over 20 years of experience evaluating, designing and implementing environmental and urban policies for the public sector at the national, regional and local level for countries and cities of varying scales, political regimes, cultural contexts, and complexities.** His professional experience in the public sector includes being chief of staff at the Mexican Senate, federal and local congressperson, as well as Secretary of the Environment for the State of Mexico. During this time, he designed and implemented policies and investments related to air quality, climate change, waste management, water, environmental impact, green infrastructure and natural conservation. In the private sector he worked at Accenture and was Program Coordinator at the Mario Molina Center, where he coordinated the air quality, waste management, transportation, and urban development teams. Guillermo has been part of the Mexican National Climate Change Council and the Mexican National Urban Development Council. Country experiences include Mexico, the United States of America, Côte d’Ivoire, Jordan, Palestine, Argentina, Kosovo, Mongolia, Brazil, South Africa, Bulgaria, Peru, Colombia, Ecuador and Paraguay.
     - name: Ricardo Ochoa
       member_title: Mechanical Engineer
       image: images/team/RO.jpg
@@ -32,13 +24,8 @@ team:
       title: Partner
       content: ENERGY, CLIMATE CHANGE AND URBAN PLANNING
       link: "#"
-      member_profile:
-        Ricardo has a background in mechanical engineering and administration,
-        a Master in Science in renewable energy and 15-years’ experience in energy and
-        sustainable development. For the last 10 years Ricardo has led teams in the
-        development of digital tools to support local governments in making informed
-        choices, with specific focus on integrated climate change mitigation and adaptation
-        models and energy in the built environment.
+      member_profile: |
+        **Ricardo has a mechanical engineering and administration background, postgraduate studies in energy, and 17 years of experience in sustainable development.** Ricardo develops tools to support local governments in making informed choices. His work combines system analytics, software development, and evidence-based decision-making processes. He has developed systems and analytical work for more than 300 cities in Africa, East Asia & Pacific, Europe & Central Asia, Latin America & the Caribbean, the Middle East, and South Asia.
     - name: Daniela Evia
       member_title: Art Historian
       image: images/team/DE.jpg
@@ -48,17 +35,8 @@ team:
       title: Coordinator
       content: EDUCATION AND SOCIAL PROCESSES
       link: "#"
-      member_profile:
-        She holds a Bachelor in Art History from the Universidad de las
-        Américas Puebla, and a Master’s degree in innovative education from the Universidad
-        Autónoma de Yucatán. For the last 10 years, she has designed, implemented, and
-        evaluated several workshops, training courses and knowledge exchange experiences.
-        She designed and developed educational programmes and materials on climate change
-        and on urban planning tools. She has collaborated in writing guides, including
-        the Guide for the Elaboration of Climate Action Plans in Mexico, during her
-        collaboration with the Centro Mario Molina. Her most recent work has included
-        design and implementation of workshops with local stakeholders to gather information
-        and/or to transfer specific contents.
+      member_profile: |
+        **Over 15 years of experience designing, curating, and implementing knowledge exchange and participatory processes, including training courses (online and offline) for cities of varying scales, political regimes, cultural contexts, and complexities** which in turn enables deeper penetration of institutional change in public interest among a wide range of actors -public, private, and civil society-, closing the communication gap in the realm of urban policy, planning, and development. Extensive experience teaching history, philosophy, and pedagogy, in Mexican universities. Strong background in designing and developing climate change education programs, and editing science dissemination and institutional documents. Country experience includes Mexico, the United States, Indonesia, Côte d'Ivoire, Jordania, Palestine, and Paraguay.
     - name: Leticia Galindo
       member_title: Public Accountant
       image: images/team/LG.jpg
@@ -68,9 +46,8 @@ team:
       title: Coordinator
       content: ADMINISTRATION AND FINANCES
       link: "#"
-      member_profile:
-        "She has more than 20 years of experience in the private sector
-        focused on administrative, finance, human resources and fiscal compliance."
+      member_profile: |
+        **25 years of experience in the private sector focused on the administrative area, finance, human resources and tax.** Public Accountant with a Master Degree in Finance. Most of her experience has been in the manufacturing area and now in the sustainability area, in both fields she has taken control of projects, has implemented programs to improve processes and increase productivity.
     - name: Alexis Cervantes
       member_title: ""
       image: images/team/AC.jpg
@@ -91,11 +68,8 @@ team:
       title: Associate
       content: SOFTWARE DEVELOPMENT
       link: "#"
-      member_profile:
-        He has worked in the public sector to adapt web accessibility
-        tools to Mexico City´s portals. He has experience in web development using JavaScript/jQuery,
-        CSS, Java and Angular framework management. He has used the Bootstrap and Primefaces
-        (Angular version) libraries to develop user interfaces.
+      member_profile: |
+        **Over 6 years of experience in the public and private sectors with software and web development, and systems management, including HTML/CSS/JS. PHP, jQuery, Dart/Flutter, Java, Hugo, Python and Angular, as well as systems management in Linux-based systems (Ubuntu, Debian, etc.).** Computer Systems Engineer from the Universidad Tecnológica de México (UNITEC). Core strengths include constant learning of various technologies according to different projects, handling mainly the frontend, but also working on the backend. He also has experience handling resources from the Google Cloud Consoles, including DNS, virtual machines. Country experience includes Mexico, Argentina, Paraguay, and Indonesia.
     - name: Andrea González
       member_title: Sustainable Development Engineer and Master in Environmental Management
       image: images/team/AN.jpg
@@ -105,17 +79,8 @@ team:
       title: Consultant
       content: Sustainable Development
       link: "#"
-      member_profile:
-        She completed her Masters in Environmental Resource Management
-        at Duke University’s Nicholas School of the Environment where she specialized
-        in ecosystem science and conservation. She has studied energy, environmental,
-        and sustainability issues such as community resource management, landscape sciences,
-        geospatial analysis, energy efficiency, and generation and social responsibility.
-        Andrea has worked in the Mexican energy sector, analyzing energy forecast reports
-        and market dynamics as well as designing end-to-end energy efficiency projects.
-        Her experience also includes research where she employed a comparative case
-        study design to provide insights into the dynamics of risks, costs, and potential
-        rewards of REDD+ carbon offsetting for biodiversity conservation in Peru.
+      member_profile: |
+        **More than 5 years of experience in the public sector coordinating the development of regulatory instruments, urban planning, and institutional structures focused on sustainable urban mobility, public space, and road safety. She has a master's degree in Environmental Management from Duke University.** Background in the development of urban experimentation exercises, under collaborative work schemes between the social, academic, public, and private sectors. Experience providing technical support to local governments for the development of urban improvement projects, with emphasis on sustainable mobility and gender perspective. Her international experience includes Cambodia, Indonesia, Ecuador, Peru, and the evaluation of Climate Action Plans of Argentina, Brazil, Chile, Colombia, Honduras, and Jamaica.
     - name: Antares Velázquez
       member_title: Graphic Communication Designer
       image: images/team/AV.jpg
@@ -125,16 +90,8 @@ team:
       title: Consultant
       content: INFORMATION AND EFFECTIVE COMMUNICATION DESIGN
       link: "#"
-      member_profile:
-        "Information and Graphic Designer from the Universidad Autónoma
-        Metropolitana at Azcapotzalco. She has experience in the information and graphic
-        communication design to conceptualize technical messages in specialized graphics.
-        She has worked in the health sector developing communication and education campaigns.
-        Her training focuses on the world of communication, strategic planning, visual
-        arts and public relations. \n\nPrior to CAPSUS she worked in Llorente y Cuenca
-        with various brands on aspects related to reputation and public relations. In
-        addition, she has worked in editorial design, digital design, animation, corporate
-        identity, Infographic design, among others."
+      member_profile: |
+        **5 years of experience in the public and private sectors conceptualizing technical messages in specialized graphics using diverse design and communication solutions, data visualization, infographics, user interfaces design and actually acquiring knowledge about UX discipline and inclusive design for design processes and methodologies.** Graphic Communication Designer from the Universidad Autónoma Metropolitana Azcapotzalco, currently studying a Master in Design Studies at CENTRO. Core strengths include the strategic planning to create materials and solutions that respond to the communication and information needs based on sustainability and urban development issues. She has experience working with editorial design for environmental studies and research, audiovisual guides, branding and graphic identity, visual arts for social media and more areas inside the design discipline. She is one of the co-founders and members of the firm's Gender, Diversity, and Inclusion Committee and has contributed to obtaining a 100% score for the firm in the HRC Equidad Mx Index. Country experience includes Mexico, the United States, Indonesia, Jordan, Palestine, Paraguay, Egypt, Mongolia, Kosovo, among others.
     - name: Bardo Salgado
       member_title: Urbanist
       image: images/team/BS.jpg
@@ -144,11 +101,8 @@ team:
       title: Consultant
       content: Urban Design and Development
       link: "#"
-      member_profile:
-        "Bardo is an urban planner from the Universidad Nacional Autónoma de México (UNAM) and holds a master's degree in integral urban development and design from the German Bauhaus University of Weimar.
-        His professional experience includes mobility and urban planning, participating in the development of master plans, urban accessibility, feasibility studies, capacity development and Sustainable Urban Mobility Programs.
-        He conducted research at the Bauhaus Mobility Lab in Germany and at the University Program for City Studies in Mexico where he participated in the development of public space alternatives considering aspects of public health,
-        energy efficiency and roads safety."
+      member_profile: |
+        **4 years of experience in the public and private sector developing urban mobility projects, public space guidelines, and urban development strategies.** Core strengths include analyzing the built environment at different scales through spatial patterns and people's behavior. Solid training in parametric urban design and analysis models for the generation and assessment of urban design variants and development patterns. Experience includes analysis of urban form attributes like density, visibility, and accessibility in order to identify human-centered strategies. Acquired know-how in applying and combining qualitative-participatory tools and quantitative methods for evidence-based interventions to improve urban settlements at different scales.
     - name: Denisse Larracilla
       member_title: Urban Planner
       image: images/team/DR.jpg
@@ -158,11 +112,8 @@ team:
       title: Consultant
       content: Urban Development and Environmental Design
       link: "#"
-      member_profile:
-        Master in Urban Development from the Pontificia Universidad Católica de Chile and Urban-Environmental Designer at the Meritorious Autonomous University of Puebla, Mexico.
-        At the municipal level, she has coordinated the development of regulatory and urban planning instruments, as well as institutional structures to promote and attend sustainable urban mobility,
-        public space and road safety from the public perspective. At the state level, she has coordinated the development of urban experimentation exercises under a collaborative work scheme between the social,
-        academic, public and private sectors. In the private sector, she has provided technical support for the development of urban improvement projects with an emphasis on sustainable mobility and a gender perspective.
+      member_profile: |
+        **Over 5 years of experience in the public sector coordinating the development of regulatory, urban planning instruments, and institutional structures focused on sustainable urban mobility, public space and road safety.** Background in the development of urban-experimentation exercises, under collaborative work schemes between the social, academic, public and private sectors. Experience providing technical support to local governments for the development of urban improvement projects, with an emphasis on sustainable mobility and a gender perspective. Her international experience includes Chile and Ecuador.
     - name: Dinorah León
       member_title: Engineer in Sustainable Development
       image: images/team/DL.jpg
@@ -172,13 +123,8 @@ team:
       title: Consultant
       content: Social Analysis
       link: "#"
-      member_profile:
-        Engineer in Sustainable Development by the Tecnológico de Monterrey.
-        She has experience in both fieldwork and desk-base data collection, as well
-        as in the development of Social and Environmental Impact Assessments, based
-        on quantitative and qualitative methodologies. Dinorah is experienced in sustainable
-        development funding, social impact investment, stakeholder engagement strategies
-        and effective communication. She has worked for both Mexican and Asian clients.
+      member_profile: |
+        **Over 6 years of experience development of methods to collect, analyze, and visualize qualitative and quantitative data.** Core strengths include fieldwork and desk-base data collection and analysis. Extensive experience baseline analysis, impact assessment and designing mitigation, prevention and adaptation measures. Strong background in designing and developing sustainable projects. Country experience includes Bulgaria, Jordan, Kosovo, Mexico, South Africa, Uzbekistan.
     - name: Fatima Viquez
       member_title: Environmental engineer
       image: images/team/FV.jpg
@@ -188,7 +134,8 @@ team:
       title: Consultant
       content: Sustainable development
       link: "#"
-      member_profile: "Environmental Engineer by the Instituto Politécnico Nacional. She has participated in research projects about forest waste, life cycle analysis and circular economy. She also has experience working with international cooperation agencies on issues related to climate change and energy efficiency."
+      member_profile: |
+        **Environmental Engineer by the Instituto Politécnico Nacional.** Previous to CAPSUS she has participated in research projects about forest waste, life cycle analysis and circular economy. She also has experience working with international cooperation agencies on issues related to climate change and energy efficiency at SME’s At CAPSUS she has collaborated on projects focused on resilient affordable housing and climate change in Asian cities. She is currently working on a low-carbon city planning project in Central Asian cities. Work experience in countries such as Mexico, Mongolia, Indonesia, Kazakhstan, Uzbekistan, Tayikistán, Kyrgyzstan and Turkmenistan.
     - name: Fernanda Silva
       member_title: ""
       image: images/team/FS.jpg
@@ -209,11 +156,8 @@ team:
       title: Consultant
       content: Urban Planning
       link: "#"
-      member_profile:
-        Graduated from the Universidad Nacional Autónoma de México. Prior
-        to CAPSUS, he collaborated in the urban impact area at the “Secretaría de Desarrollo
-        Urbano y Vivienda”. He participated in collecting and analyzing data form the
-        “Population and Housing Census”.
+      member_profile: |
+        **2 years of experience in the use of Geographic Information Systems for management and processing of spatial data, study of the behavior and development of urban areas.** This includes different training courses throughout the university trajectory and training for work activities related to spatial analysis. The main strengths of her work lie in the search and compilation of information in the office and in the field, as analysis of spatial information to prepare urban improvement proposals for cities or small towns. With 2 years working in Mexico, his international experience includes Indonesia, Egypt, South Africa, Maldives, and Bulgaria.
     - name: Juan Manuel Gómez
       member_title: Applied Mathematics
       image: images/team/JMG copia.jpg
@@ -267,11 +211,8 @@ team:
       title: Consultant
       content: Sustainable development
       link: "#"
-      member_profile:
-        Graduated with a degree in Chemical Engineering. She has participated
-        in the development of technology for the generation of energy by salinity gradients,
-        and in the private sector, where she contributed to the implementation and adoption
-        of sustainable practices.
+      member_profile: |
+        **Over 2 years of experience evaluating, analyzing and designing sustainability solutions across several sectors.** Chemical engineer graduated from the UNAM (Universidad Nacional Autónoma de México). At CAPSUS, she has examined policies related to energy, waste management, water, and sanitation. Additionally, she has proposed strategies to take a step further towards urban sustainability. Previously, she participated in the development of technology for the generation of energy by salinity gradients, and in the private sector, she contributed to the implementation and adoption of sustainable practices. Core strengths include critical thinking, which enables to identify key points and analyze the information, in order to overcome challenges and find optimal solutions. Country experience includes Mexico, Indonesia, and Latin America.
     - name: Mariana Elizondo
       member_title: International Relations and Master in Public Administration
       image: images/team/ME.jpg
@@ -281,16 +222,8 @@ team:
       title: Consultant
       content: Foreign Affairs and Public Administration
       link: "#"
-      member_profile:
-        Mariana holds a bachelor degree on International Relations and
-        a Master degree on Public Administration. She has specialized in academic and
-        professional foreign exchanges between México and the countries of the Americas.
-        Mariana has professional experience in the public and private sectors in Mexico,
-        the United States of America and France. She has worked at the OECD, in the
-        Mexican State Department and in the Mexican Ministry of Social Development.
-        She has implemented academic and professional exchange programs in Mexico and
-        abroad, and she has also worked on projects related to economic development,
-        public-private partnerships and social development.
+      member_profile: |
+        **Over 15 years of experience in international and public relations for the public and private sectors.** She has specialized in international relations and academic and professional foreign exchanges between México and the countries of the Americas. She has worked at Harvard University's LASPAU, the OECD, in the Mexican Ministry of Foreign Affairs and in the Mexican Ministry of Social Development as an international specialist. She has implemented academic and professional exchange programs in Mexico and abroad, and she has also worked on projects related to economic development, public-private partnerships and social development. Her country experiences include Mexico, the United States of America and France.
     - name: Paul Cota
       member_title: Policy Analyst
       image: images/team/PC.jpg
@@ -300,11 +233,8 @@ team:
       title: Consultant
       content: Public Policy and Regional Development
       link: "#"
-      member_profile:
-        An Internationalist with a master’s degree in Regional Studies from the Social Research Institute Dr. José María Luis Mora.
-        Paul specializes in the analysis of public policy and development projects on topics such as local governments, urban and metropolitan governance,
-        citizen participation and socio spatial segregation. During his career, Paul has led international projects promoting the transition to clean energies in the northwest of Mexico as a catalyst for regional development.
-        He has also worked as a consultant in public policy at the Metropolitan Institute of Urban Planning in Tijuana and did a research stay at the Department of Urban and Regional Planning of the University of Illinois.
+      member_profile: |
+        **Over 5 years of experience designing and implementing development projects and analyzing public policies, as well as methodology design and participatory diagnostics in the public, private and social sectors.** He has a Master's in Regional Studies, with an emphasis on public policy, local governments, and governance. Core strengths include effective communication, scientific research, and negotiation skills. This enables a deep understanding of topics such as international affairs, regional and transborder development, subnational government capacities, and metropolitan governance. Extensive experience researching spatial and sociopolitical issues such as spatial segregation, multicultural policies, urban social movements, and community development. Strong background in designing and analyzing public policies within public urban planning offices and research centers, as well as designing, implementing and evaluating development projects in grassroots and international NGOs. Country experience includes Mexico, The United States, Canada, Poland, Indonesia, Turkmenistan, Kazakhstan, Uzbekistan, Kyrgyzstan, and Tajikistan.
     - name: Renata Rocha
       member_title: Chemical Engineer
       image: images/team/RR.jpg
@@ -314,14 +244,8 @@ team:
       title: Consultant
       content: Sustainable Development
       link: "#"
-      member_profile:
-        "Chemical Engineer from the Universidad Iberoamericana. She has
-        experience in the power sector, advising private companies in the development
-        of their electric management strategy, promoting the use of renewable energy
-        and energy efficiency. \n\nShe has also participated in academic research regarding
-        the sustainable use of sargassum and the implementation of ecotechnologies for
-        sustainable water usage. She is currently working on Climate Change, Air Quality
-        and Green Financing."
+      member_profile: |
+        **Over 3 years of experience advising on sustainable development.** Chemical engineering by the Universidad Iberoamericana. Core strengths include research, quantitative methods, and critical analysis. Experience providing guidance in sustainable finance, climate action, air quality, and energy. Strong background advising on alternatives to finance projects with social and environmental benefits and supporting low-carbon and resilient urban planning. Country experience includes Mexico, Indonesia, Mongolia, Kosovo, Argentina, Brazil, Colombia, Ecuador, and Peru.
     - name: Tania Guerrero
       member_title: Architect
       image: images/team/TG.jpg
@@ -331,11 +255,8 @@ team:
       title: Associate
       content: URBAN DEVELOPMENT AND HOUSING
       link: "#"
-      member_profile:
-        Architect with a master's degree in Science in Architecture, Urbanism
-        and Construction from Delft University of Technology, and a PhD candidate in
-        Human Geography from University College London. Tania has worked as an architect
-        and urban planner in Mexico and the Netherlands.
+      member_profile: |
+        **Over 10 years of experience in architecture and urban planning.** Tania holds a Master's degree in Science in Architecture, Urbanism and Construction from Delft University of Technology, and a PhD in Human Geography from University College London. She has worked extensively on sustainable urban planning, analyzing and researching how cities evolve to identify key recommendations that can foster sustainable development. On the architectural arena, Tania has worked on improving the energy efficiency, environmental performance and comfort of housing. Country experiences include Mexico, the United States of America, Côte d’Ivoire and the Netherlands.
     - name: Yoshiki Ozawa
       member_title: ""
       image: images/team/YO.jpg
@@ -356,10 +277,8 @@ team:
       title: Consultant
       content: Administration and Finances
       link: "#"
-      member_profile:
-        Graduated from the Mexican University, he has a specialty in Management
-        and a Bachelor's Degree in Public Accounting. Israel has more than 15 years
-        of experience in the field and in the management of real estate projects.
+      member_profile: |
+        **More than 15 years of experience as a public accountant, mainly in the field of construction and property leasing.** Graduated from the Mexican University, he has a specialty in Management Skills and a Bachelor's Degree in Public Accounting. In the companies in which he previously participated, he contributed to the development and implementation of projects that allowed a greater control of information.
     - name: Jorge Santacruz
       member_title: ""
       image: images/team/CAMe/JorgeSantacruz.jpg
@@ -370,7 +289,7 @@ team:
       content: Air Quality
       link: "#"
       member_profile: |
-        **More than 20 years of experience as ​​Environmental Engineering Specialist in (Air Quality, Water Pollution, Urban and Municipal Solid Waste, and Environmental Management), Chemical Oceanography, Environmental Chemistry and Professor of Chemistry at UNAM.** The main strengths of his work lie in the resolution of environmental problems for decision-making in public policy, and are representative for the well-being of society, wildlife and industry. Evaluator of the CONACYT-Secretary of Energy-Hydrocarbons Fund about spills in the Gulf of Mexico, Chapter of the book, The Mexican Coasts: Contamination, Impact and Climate Change, design and support in international projects on Environmental Contamination in Mexico. His collaboration and international experience includes Mexico, the United States, Japan, Korea and Peru.
+        **More than 20 years of experience as Environmental Engineering Specialist in (Air Quality, Water Pollution, Urban and Municipal Solid Waste, and Environmental Management), Chemical Oceanography, Environmental Chemistry and Professor of Chemistry at UNAM.** The main strengths of his work lie in the resolution of environmental problems for decision-making in public policy, and are representative for the well-being of society, wildlife and industry. Evaluator of the CONACYT-Secretary of Energy-Hydrocarbons Fund about spills in the Gulf of Mexico, Chapter of the book, The Mexican Coasts: Contamination, Impact and Climate Change, design and support in international projects on Environmental Contamination in Mexico. His collaboration and international experience includes Mexico, the United States, Japan, Korea and Peru.
     - name: Luis Enrique Juárez
       member_title: Architect
       image: images/team/CAMe/LuisEnriqueJuarez.jpg
@@ -380,10 +299,8 @@ team:
       title: Consultant
       content: Sustainable Urban Development
       link: "#"
-      member_profile:
-        Graduated from Facultad de Estudios Superiores Acatlán of the
-        Universidad Nacional Autónoma de México. He has two years of experience in public
-        works and sustainable development projects.
+      member_profile: |
+        **2 years of experience in public works and sustainable development projects.** Graduated from Facultad de Estudios Superiores Acatlán, Universidad Nacional Autónoma de México. He holds a diploma on “Control and Transparency in Public Administration”.
     - name: Sandra García
       member_title: Chemical engineer
       image: images/team/CAMe/SandraGarcia.jpg
@@ -393,13 +310,8 @@ team:
       title: Consultant
       content: Air Quality and Climate Change
       link: "#"
-      member_profile:
-        Chemical Engineer from the National Autonomous University of Mexico
-        (UNAM), she holds a Master of Science from the Center for Atmospheric Sciences
-        at UNAM. She has worked in several projects about air quality modeling of atmospheric
-        pollutants and the design and execution of monitoring campaigns. Sandra has
-        extensive experience in the analysis of atmospheric pollutants generated by
-        several emissions sources, through the use of meteorological chemistry models.
+      member_profile: |
+        **More than 10 years of experience in air quality modeling, using and applying models of meteorology, atmospheric chemistry, dispersion and transformation of pollutants in different layers of the atmosphere.** She has participated in projects for the development of monitoring campaigns, measurements, particle identification to locate the main sources, and application of measures at a regional and local level. Her main strengths are in the analysis of atmospheric monitoring data at surface level and analysis of contaminant trends over time. Extensive experience in modeling volcanic emissions, mainly those coming from the Popocatépetl volcano, applying the FALL 3D model for the dispersion and deposit of ash for the first time in Mexico, enabling the use of this model in volcanoes such as Tungurahua in Ecuador and the Galeras volcano in the same country. She has taken courses in Colombia and Argentina on the modeling of active volcanoes and has presented his research at conferences in Mexico, Colombia and Costa Rica.
     - name: Yeni Solis
       member_title: Communicologist
       image: images/team/CAMe/Yeni.jpg
@@ -409,13 +321,8 @@ team:
       title: Consultant
       content: Communication
       link: "#"
-      member_profile:
-        She has a degree in Social Communication from the Universidad
-        Autónoma Metropolitana at Xochimilco and postgraduate studies in Political Journalism
-        from the Carlos Septién García School of Journalism. She has more than 10 years
-        of experience in the public sector in the communication area. Prior to Capsus,
-        Yeni worked at the Ministry of the Environment and Natural Resources (Semarnat)
-        for more than 6 years in the social communication area.
+      member_profile: |
+        **More than 12 years of experience in the area of social communication, particularly in issues related to the environment.** The main strengths of her work lie in his extensive experience in the preparation of press releases, lines of discourse, content creation and programming of social networks. As well as his proactivity, responsibility and teamwork. Her professional development has been mainly in government agencies in Mexico.
     - name: César Augusto Flores
       member_title: Environmental lawyer
       image: images/team/CAMe/Cesar.jpg
@@ -425,16 +332,8 @@ team:
       title: Consultant
       content: Environmental law
       link: "#"
-      member_profile:
-        Degree in Law from the Universidad Autónoma Metropolitana. Cesar
-        has three years of professional experience in the field of environmental and
-        administrative law. He has served as an environmental lawyer in both the public
-        and private sectors. In the public sector, he worked in the Legal Affairs Unit
-        of the Mexican Secretary of Environment and Natural Resources. In the private
-        sector, he worked in a law firm dedicated to environmental and administrative
-        matters. Throughout his professional career in environmental and administrative
-        law, he has participated in the evaluation and design of laws and their regulations,
-        including guidelines, norms,  standards, conventions, and international treaties.
+      member_profile: |
+        **3 years of professional experience in the field of environmental and administrative law.** He has a Degree in Law from the Universidad Autónoma Metropolitana. In the public sector, he worked in the Legal Affairs Unit of the Mexican Secretary of Environment and Natural Resources. In the private sector, he worked in a law firm dedicated to environmental and administrative matters. Throughout his professional career in environmental and administrative law, he has participated in the evaluation and design of laws and their regulations, including guidelines, norms, standards, conventions, and international treaties.
     - name: Araceli Hernández
       member_title: Urban Planner
       image: images/team/CAMe/Araceli.jpg
@@ -444,16 +343,8 @@ team:
       title: Consultant
       content: Sustainable Urban Development
       link: "#"
-      member_profile:
-        Araceli holds a bachelor in Design of Human Settlements from the
-        Mexcan Universidad Autónoma Metropolitana, and a Master’s degree in Urban Planning
-        form the National Autonomous University of Mexico. She also has post graduate
-        studies in environmental policy and pollution control. She has extensive professional
-        experience in the academic, private and public sectors. In academia, Araceli
-        has given undergraduate level courses in the urban development subjects. In
-        the private sector she worked in architectural and construction companies, and
-        in the public sector she has worked both in the local and national governments
-        of Mexico, in the ministries of environment, urban development and social development.
+      member_profile: |
+        **More than 20 years of experience in the academic, private and public sectors.** Araceli holds a bachelor in Design of Human Settlements from the Mexican Universidad Autónoma Metropolitana, and a Master's degree in Urban Planning form the National Autonomous University of Mexico. She also has post graduate studies in environmental policy and pollution control. In academia, Araceli has given undergraduate level courses in the urban development subjects. In the private sector she worked in architectural and construction companies, and in the public sector she has worked both in the local and national governments of Mexico, in the ministries of environment, urban development and social development.
     - name: Mónica Palomero
       member_title: Environmental engineer
       image: images/team/CAMe/Monica.jpg
@@ -463,15 +354,5 @@ team:
       title: Consultant
       content: Sustainable development
       link: "#"
-      member_profile:
-        "Environmental Engineer, with specialization studies in Treatment
-        and Elimination of Hazardous Industrial Waste at Carl Duisberg Gesellschaf,
-        Germany; as well as Control and Supply of Drinking Water in Japan. \n\nMónica
-        has worked in Mexico City´s Environment Ministry, in the General Attorney's
-        Office for Environmental Protection, in the National Water Commission, in the
-        National Commission for Protected Natural Areas and in the National Agency for
-        Environmental Protection, Industrial Safety and Security, all of them in Mexico.
-        Mónica implemented supervision, inspection and surveillance programs at the
-        national level in environmental and industrial safety matters.\n\nMónica was
-        an active member of the Clean Beaches Committee of Mexico, assisting in the
-        sanitation, prevention and restoration of contaminated Mexican beaches."
+      member_profile: |
+        **More than 25 years of experience in the environmental sector, in the areas of air quality, water, hazardous waste, among others.** This includes the development of supervision, inspection and surveillance programs at the national level in patrimonial, environmental and security in hydrocarbons.** The main strengths of her work is in the effective and efficient communication of complex concepts and processes which has allowed her to do planning, programming, evaluation and project management. Extensive experience in supervising inspection, surveillance and verification plans and programs in the federal maritime-terrestrial zone at the national level, as well as in the development and execution of programs and projects in which inter-institutional coordination and linkage are needed. Solid experience in the management of national security actions to safeguard the Nation's Assets, the planning, coordination and execution of Special Operations in the main coasts of the country, with the support and direct interaction of the federal judicial authorities. International experience includes Germany, Japan and Venezuela. She was an active member of the Clean Beaches Committee of Mexico, contributing to the sanitation, prevention and correction of contamination of Mexican beaches through various actions, investigations and proposals.

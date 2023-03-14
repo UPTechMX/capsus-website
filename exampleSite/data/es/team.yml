@@ -13,17 +13,8 @@ team:
       title: Socio
       content: Política Pública y Desarrollo Sustentable
       link: "#"
-      member_profile:
-        "Tiene una Maestría en Políticas Públicas por la escuela de gobierno
-        de la Universidad de Harvard. Guillermo tiene más de 20 años de trayectoria
-        en el sector ambiental y el sector urbano. \n\nComo funcionario público fue
-        Coordinador de Asesores en el Senado de la República, Diputado Federal y Local
-        por el Estado de México, así como Secretario de Medio Ambiente para el Gobierno
-        del Estado de México. Posteriormente fungió por seis años como Coordinador del
-        Programa de Ciudades Sustentables del Centro Mario Molina para Estudios Estratégicos
-        sobre Energía y Medio Ambiente, donde llevó esa línea de investigación aplicada
-        para el Premio Nobel de Química de 1995. \n\nActualmente es socio fundador de
-        CAPSUS S.C. empresa internacional de consultoría en sustentabilidad."
+      member_profile: |
+        **Más de 20 años de experiencia evaluando, diseñando e implementando políticas ambientales y urbanas para el sector público a nivel nacional, regional y local para países y ciudades de diferentes escalas, regímenes políticos, contextos culturales y complejidades.** Su experiencia profesional en el sector público incluye ser Coordinador de Asesores en el Senado de la República, diputado federal y local, así como Secretario de Medio Ambiente del Estado de México. Durante este tiempo, diseñó e implementó políticas e inversiones relacionadas con la calidad del aire, el cambio climático, la gestión de residuos, el agua, el impacto ambiental, la infraestructura verde y la conservación natural. En el sector privado trabajó en Accenture y fue Coordinador de Programas en el Centro Mario Molina, donde coordinó los equipos de calidad del aire, manejo de residuos, transporte y desarrollo urbano. Guillermo ha sido parte del Consejo Nacional de Cambio Climático de México y del Consejo Nacional de Desarrollo Urbano de México. Las experiencias de países incluyen México, Estados Unidos de América, Sudáfrica, Jordania, Palestina, Argentina, Kosovo, Mongolia, entre otros.
     - name: Ricardo Ochoa
       member_title: Ingeniero Mecánico
       image: images/team/RO.jpg
@@ -33,10 +24,8 @@ team:
       title: Socio
       content: Energía y Edificación
       link: "#"
-      member_profile: |-
-        Ricardo tiene experiencia en ingeniería mecánica y administración, cuenta con una Maestría en Ciencias en Energía Renovable y 15 años de experiencia en energía y desarrollo sustentable.
-
-        En los últimos 10 años ha liderado equipos en el desarrollo de herramientas digitales para apoyar a gobiernos locales en la toma de decisiones informadas con un enfoque específico en estrategias de eficiencia energética, adaptación y mitigación al cambio climático en el entorno construido.
+      member_profile: |
+        **Ricardo estudió Ingeniería Mecánica y Administración, y es Maestro en Ciencias en Energía Renovable. Ha trabajado durante 17 años en la evaluación de prácticas y políticas de desarrollo sostenible, agua y energía.** La mayor parte de su trabajo se ha enfocado en el desarrollo de herramientas para ayudar a los gobiernos a tomar decisiones informadas. Su trabajo combina análisis de sistemas, desarrollo de software, análisis de datos espaciales y procesos de toma de decisiones basados en evidencia. Ricardo ha trabajado en 18 países, desarrollado sistemas para más de 300 ciudades en África, Asia y el Pacífico, Europa, Norteamérica, América Latina y el Caribe, y en el Medio Oriente.
     - name: Daniela Evia
       member_title: Historiadora y maestra en Innovación Educativa
       image: images/team/DE.jpg
@@ -46,16 +35,8 @@ team:
       title: Coordinadora
       content: Educación y Procesos Participativos
       link: "#"
-      member_profile:
-        Realizó su licenciatura en Historia del Arte, donde aprendió la
-        importancia del discurso y la narrativa para la transformación de nuestro entorno.Tiene
-        una maestría en innovación pedagógica y se ha especializado en el diseño, implementación
-        y evaluación de programas y materiales educativos. Daniela ha diseñado diversos
-        procesos de participación social e intercambio de conocimiento sobre cambio
-        climático, planeación urbana e infraestructura de datos geoespaciales para la
-        toma de decisiones informadas. Tiene amplia experiencia en el diseño y coordinación
-        de talleres y cursos de capacitación en diferentes países, tales como México,
-        Jordania, Côte d’Ivoire, Indonesia, Paraguay, y Estados Unidos.
+      member_profile: |
+        **Más de 15 años de experiencia en el diseño, curaduría e implementación de intercambio de conocimientos y procesos participativos. Esto incluye cursos de capacitación (en línea y en persona) para ciudades de diferentes escalas, regímenes políticos, contextos culturales y complejidades,** así como con diversos actores -públicos, privados y de la sociedad civil-. Las fortalezas principales de su trabajo radican en la comunicación efectiva y eficiente de conceptos y procesos complejos, lo que permite cerrar la brecha de comunicación en el ámbito de la política urbana, la planificación y el desarrollo. Amplia experiencia en la enseñanza de historia, filosofía y pedagogía, en varias universidades mexicanas. Sólida experiencia en el diseño y desarrollo de programas de educación sobre cambio climático, y en la edición de documentos institucionales y de divulgación científica. Con muchos años trabajando en México, su experiencia internacional incluye Estados Unidos, Indonesia, Costa de Marfil, Gran Bretaña, Jordania, Palestina, y Paraguay.
     - name: Leticia Galindo
       member_title: Contadora Pública
       image: images/team/LG.jpg
@@ -65,12 +46,8 @@ team:
       title: Coordinadora
       content: Administración y Finanzas
       link: "#"
-      member_profile:
-        "Cuenta con más de 20 años de experiencia en el sector privado
-        enfocada en el área administrativa, finanzas, recursos humanos y fiscal. \n\nLa
-        mayor parte de su experiencia ha sido en el área de manufactura donde ha llevado
-        el control de proyectos y establecido mejoras a procesos para incrementar la
-        productividad."
+      member_profile: |
+        **25 años de experiencia en el sector privado enfocada en el área administrativa, finanzas, recursos humanos y fiscal.** Contadora pública y Maestra en Finanzas. La mayor parte de su experiencia ha sido en el área de manufactura y ahora en la área de sustentabilidad, en ambos campos ha llevado el control de proyectos, ha implementando programas para mejorar los procesos e incrementar la productividad.
     - name: Alexis Cervantes
       member_title: ""
       image: images/team/AC.jpg
@@ -91,12 +68,8 @@ team:
       title: Asociado
       content: Tecnologías de la Información
       link: "#"
-      member_profile:
-        Ha trabajado en el sector público para adaptar herramientas de
-        accesibilidad web a los portales de la CDMX. Cuenta con experiencia en desarrollo
-        web utilizando JavaScript/jQuery, CSS, Java y manejo del framework Angular.
-        Ha utilizado las bibliotecas de Bootstrap y Primefaces (versión Angular) para
-        desarrollar interfaces de usuario.
+      member_profile: |
+        **6 años de experiencia en el sector público y privado con desarrollo web, desarrollo de software y gestión de sistemas, incluyendo HTML/CSS/JS. PHP, jQuery, Dart/Flutter, Java, Hugo, Python y Angular, así como gestión de sistemas basados en Linux (Ubuntu, Debian, etc.).** Ingeniero en Sistemas Computacionales de la Universidad Tecnológica de México (UNITEC). Sus principales fortalezas recaen en un constante aprendizaje de diversas tecnologías de acuerdo a los proyectos en los que participa, trabajando principalmente en el frontend, pero también manejando el backend. También tiene experiencia utilizando servicios de Google Cloud Console, tales como DNS, máquinas virtuales, etc.. Ha trabajado en países como México, Argentina, Paraguay, e Indonesia.
     - name: Andrea González
       member_title: Ingeniera en Desarrollo Sustentable y Maestra en Gestión Ambiental
       image: images/team/AN.jpg
@@ -106,10 +79,8 @@ team:
       title: Consultora
       content: Desarrollo Sustentable
       link: "#"
-      member_profile: |-
-        Completó su Maestría en Gestión de Recursos Ambientales en la Universidad de Duke, donde se especializó en ciencias ecosistémicas y conservación. Ha estudiado temas energéticos, ambientales y de sustentabilidad tales como manejo de recursos comunitarios, ciencias del paisaje, análisis geoespacial, eficiencia energética y responsabilidad social.
-
-        Andrea ha trabajado en el sector energético mexicano, analizando informes de pronóstico de energía y dinámicas de mercado, así como diseñando proyectos de eficiencia energética llave en mano. Además, su experiencia incluye el análisis de los riesgos, costos y las posibles recompensas de la compensación de carbono en proyectos REDD + para la conservación de la biodiversidad en Perú.
+      member_profile: |
+        **Más de 5 años de experiencia en el sector público coordinando el desarrollo de instrumentos normativos, de planificación urbana y estructuras institucionales enfocadas en la movilidad urbana sostenible, el espacio público y la seguridad vial. Cuenta con una maestría en Gestión Ambiental por parte de Duke University.** Antecedentes en el desarrollo de ejercicios de experimentación urbana, bajo esquemas de trabajo colaborativo entre los sectores social, académico, público y privado. Experiencia brindando apoyo técnico a gobiernos locales para el desarrollo de proyectos de mejoramiento urbano, con énfasis en movilidad sostenible y perspectiva de género. Su experiencia internacional incluye: Ecuador, Perú, y la evaluación de Planes de Acción Climática de Argentina, Brasil, Chile, Colombia, Honduras, y Jamaica.
     - name: Antares Velázquez
       member_title: Diseñadora de la Comunicación Gráfica
       image: images/team/AV.jpg
@@ -119,17 +90,8 @@ team:
       title: Consultora
       content: Diseño de la Comunicación Gráfica e Información
       link: "#"
-      member_profile:
-        "Es Diseñadora de la Comunicación Gráfica egresada de la Universidad
-        Autónoma Metropolitana unidad Azcapotzalco. Cuenta con experiencia en el diseño
-        de información y comunicación gráfica para conceptualizar mensajes técnicos
-        en gráficos especializados. Ha trabajado en el sector salud elaborando campañas
-        de comunicación y educación. Su formación se centra en el mundo de la comunicación,
-        planeación estratégica y las artes visuales. \n\nPrevio a CAPSUS laboró en Llorente
-        y Cuenca trabajando con diversas marcas en aspectos relacionados con reputación
-        y relaciones públicas. Además, ha trabajado en el mundo del diseño editorial,
-        diseño digital para eventos, animación, identidad corporativa, diseño UX, entre
-        otros."
+      member_profile: |
+        **5 años de experiencia en el sector público y privado conceptualizando mensajes técnicos en gráficos especializados a través de diversas soluciones de diseño y comunicación, visualización de datos, infografías, diseño de interfaces digitales y actualmente adquiriendo conocimientos sobre el diseño de experiencias de usuarios (UX) y diseño inclusivo para procesos y metodologías creativas.** Diseñadora de la Comunicación Gráfica egresada de la Universidad Autónoma Metropolitana- Azcapotzalco, actualmente cursando la Maestría en Estudios de Diseño en CENTRO. Sus principales fortalezas recaen en la planeación estratégica para crear materiales y soluciones que respondan a las necesidades de comunicación e información basadas en temas de sostenibilidad y desarrollo urbano. Tiene experiencia trabajando con diseño editorial para estudios e investigaciones ambientales, guías audiovisuales, branding e identidad gráfica, artes para redes sociales, entre otras. Es una de las co-fundadoras y miembro del Comité de Género, Diversidad e Inclusión, contribuyendo con la firma en la obtención de una puntuación de 100% para el índice de Equidad Mx. Su experiencia internacional incluye países como México, Estados Unidos, Indonesia, Jordania, Palestina, Paraguay, Egipto, Mongolia, Kosovo, Sudáfrica, entre otros.
     - name: Bardo Salgado
       member_title: Urbanista
       image: images/team/BS.jpg
@@ -139,12 +101,8 @@ team:
       title: Consultor
       content: Diseño y Desarrollo Urbano
       link: "#"
-      member_profile:
-        "Bardo es licenciado en planeación urbana por la Universidad Nacional Autónoma de México y cuenta con una maestría en desarrollo y diseño urbano integral por la Universidad Bauhaus Weimar de Alemania.
-        Se ha desarrollado profesionalmente en las áreas de movilidad y desarrollo urbano participando en la elaboración de planes maestros de movilidad urbana, propuestas de accesibilidad urbana,
-        estudios de factibilidad de proyectos de transporte, programas Integrales de Movilidad Urbana Sostenible y formación de capacidades para autoridades municipales.
-        En el ámbito académico, Bardo colaboró en Bauhaus Mobility Lab de Alemania y en el Programa Universitario de Estudios sobre la Ciudad de México, donde participó en el desarrollo de alternativas de espacio público considerando aspectos de salud pública,
-        eficiencia energética y seguridad vial."
+      member_profile: |
+        **4 años de experiencia en el sector público y privado desarrollando proyectos de movilidad urbana, lineamientos de espacio público y estrategias de desarrollo urbano.** Las fortalezas centrales incluyen el análisis del entorno urbano a distintas escalas a través de patrones espaciales y el comportamiento de las personas. Sólida formación en diseño urbano paramétrico y modelos de análisis para la generación y evaluación de variantes de diseño y patrones de desarrollo urbano. Experiencia en el análisis de atributos de la forma urbana, como densidad, visibilidad y accesibilidad, para identificar y orientar estrategias centradas en las personas y comunidades. Conocimientos adquiridos en la aplicación y combinación de herramientas cualitativas-participativas y métodos cuantitativos para intervenciones basadas en evidencia que contribuyan a mejorar los asentamientos urbanos a diferentes escalas.
     - name: Denisse Larracilla
       member_title: Urbanista
       image: images/team/DR.jpg
@@ -154,12 +112,8 @@ team:
       title: Consultora
       content: Desarrollo Urbano y Diseño Ambiental
       link: "#"
-      member_profile:
-        Magíster en Desarrollo Urbano en la Pontificia Universidad Católica de Chile y Diseñadora-urbana ambiental por la Benemérita Universidad Autónoma de Puebla, México.
-        En el ámbito municipal, ha coordinado la elaboración de instrumentos normativos y de planificación urbana, así como estructuras institucionales para promover y atender la movilidad urbana sustentable,
-        espacio público y seguridad vial desde la acción gubernamental. A nivel estatal, ha coordinado el desarrollo de ejercicios de experimentación urbana,
-        bajo un esquema de trabajo colaborativo entre los sectores social, académico, público y privado. En el sector privado, ha proporcionado acompañamiento técnico para el desarrollo de proyectos de mejoramiento urbano,
-        con énfasis en movilidad sustentable y perspectiva de género.
+      member_profile: |
+        **Más de 5 años de experiencia en el sector público coordinando el desarrollo de instrumentos normativos, de planificación urbana y estructuras institucionales enfocadas en movilidad urbana sostenible, espacio público y seguridad vial.** Antecedentes en el desarrollo de ejercicios de experimentación urbana, bajo esquemas de trabajo colaborativo entre los sectores social, académico, público y privado. Experiencia brindando apoyo técnico a gobiernos locales para el desarrollo de proyectos de mejoramiento urbano, con énfasis en movilidad sostenible y perspectiva de género. Su experiencia internacional incluye a Chile y Ecuador.
     - name: Dinorah León
       member_title: Ingeniero en Desarrollo Sustentable
       image: images/team/DL.jpg
@@ -169,13 +123,8 @@ team:
       title: Consultora
       content: Análisis Social
       link: "#"
-      member_profile:
-        "Egresada del Tecnológico de Monterrey. Ha colaborado en el desarrollo
-        de Evaluaciones de Impacto Social y Ambiental para proyectos energéticos en
-        México y en Asia, a partir de metodologías cuantitativas y cualitativas. En
-        su experiencia profesional en México ha desarrollado estudios de campo y análisis
-        de datos para el desarrollo de proyectos sustentables, así como de estrategias
-        de comunicación e inversión social."
+      member_profile: |
+        **Más de 6 años de experiencia en el desarrollo de métodos para recopilar, analizar y visualizar datos cualitativos y cuantitativos.** Las fortalezas principales incluyen el trabajo de campo, la recopilación y análisis de datos. Amplia experiencia en análisis de línea base, evaluación de impacto y diseño de medidas de mitigación, prevención y adaptación. Sólida formación en el diseño de proyectos para el desarrollo sustentable. La experiencia nacional incluye Bulgaria, Jordania, Kosovo, México, Sudáfrica, Uzbekistán.
     - name: Fatima Viquez
       member_title: Ingeniera ambiental
       image: images/team/FV.jpg
@@ -185,7 +134,8 @@ team:
       title: Consultora
       content: Desarrollo Sustentable
       link: "#"
-      member_profile: "Egresada de Ingeniería Ambiental del Instituto Politécnico Nacional. Ha participado en programas académicos desarrollando proyectos de investigación sobre el desarrollo de biopolímeros a partir de los residuos forestales, abordando temas relacionados al análisis de ciclo de vida y economía circular. Ha trabajado con cooperación internacional en temas relacionados con medidas de mitigación al cambio climático y eficiencia energética."
+      member_profile: |
+        **Ingeniería Ambiental del Instituto Politécnico Nacional.** Ha participado en programas académicos desarrollando proyectos de investigación sobre el desarrollo de biopolímeros a partir de los residuos forestales, abordando temas relacionados al análisis de ciclo de vida y economía circular. Ha trabajado con cooperación internacional en temas relacionados con medidas de mitigación al cambio climático y eficiencia energética en las PyME’s. En CAPSUS ha colaborado en proyectos enfocados a vivienda resiliente asequible y cambio climático en ciudades de Asia. Actualmente se encuentra trabajando en proyectos de planificación de ciudades bajas en carbono en ciudades de Asia Central. Cuenta con experiencia de trabajo en países como México, Mongolia, Indonesia, Kazajistán, Uzbekistán, Tayikistán, Kirguistán y Turkmenistán.
     - name: Fernanda Silva
       member_title: ""
       image: images/team/FS.jpg
@@ -196,7 +146,7 @@ team:
       content: Administración
       link: "#"
       member_profile: |
-        **4 años de experiencia como auxiliar en el área administrativa y contable, apoyando en las actividades que está demanda. Con una carrera técnica en trabajo social.**
+        **4 años de experiencia como auxiliar en el área administrativa y contable,** apoyando en las actividades que está demanda. Con una carrera técnica en trabajo social.
     - name: Jorge Márquez
       member_title: Geógrafo
       image: images/team/JM.jpg
@@ -206,12 +156,8 @@ team:
       title: Consultor
       content: Planeación Urbana
       link: "#"
-      member_profile:
-        Egresado de la Universidad Nacional Autónoma de México. Previo
-        a CAPSUS, colaboró en el manejo de problemáticas de desarrollo sustentable a
-        través del área de Impacto Urbano adscrita a la Secretaría de Desarrollo Urbano
-        y Vivienda, así como en la recopilación y análisis de datos en el Censo Población
-        y Vivienda 2020 del Instituto Nacional de Estadística y Geografía.
+      member_profile: |
+        **2 años de experiencia en el uso de Sistemas de Información Geográfica para el manejo y procesamiento de datos espaciales, y estudio del comportamiento y desarrollo de áreas urbanas.** Esto incluye diferentes cursos de capacitación a lo largo de la trayectoria universitaria y capacitaciones para actividades laborales relacionadas con el análisis espacial. Las fortalezas principales de su trabajo radican en la búsqueda y recopilación de información en gabinete y campo, análisis de información espacial para elaborar propuestas de mejoramiento urbano para ciudades o pequeñas localidades. Con 2 años trabajando en México, su experiencia internacional incluye Indonesia, Egipto, South Africa, Maldives, y Bulgaria.
     - name: Juan Manuel Gómez
       member_title: Matemáticas Aplicadas
       image: images/team/JMG copia.jpg
@@ -256,12 +202,8 @@ team:
       title: Consultora
       content: Desarrollo sustentable
       link: "#"
-      member_profile:
-        Egresada de la Licenciatura en Ingeniería Química por la Universidad
-        Nacional Autónoma de México. Ha participado en el desarrollo de proyectos de
-        investigación académica, donde colaboró en el desarrollo de tecnología para
-        la generación de energía por gradientes de salinidad, y en el sector privado,
-        donde contribuyó a la implementación y adopción de prácticas sustentables.
+      member_profile: |
+        **Más de 2 años de experiencia evaluando, analizando y diseñando soluciones sostenibles en varios sectores.** Ingeniera química por la Universidad Nacional Autónoma de México (UNAM). En CAPSUS, ha examinado políticas relacionadas con la energía, la gestión de residuos, el agua, y el saneamiento. Además, ha propuesto estrategias para dar un paso más hacia la sostenibilidad urbana. Anteriormente, participó en el desarrollo de tecnología para la generación de energía por gradientes salinos y, en el sector privado, contribuyó con la implementación y adopción de prácticas sustentables. Una de sus fortalezas es el pensamiento crítico, que permite identificar los puntos clave y analizar la información, con el fin de superar los retos y encontrar soluciones óptimas. Adicional a México, su experiencia internacional incluye Latinoamérica e Indonesia.
     - name: Mariana Elizondo
       member_title: Internacionalista y Maestra en Administración Pública
       image: images/team/ME.jpg
@@ -271,16 +213,8 @@ team:
       title: Consultora
       content: Relaciones Internacionales y Administración Pública
       link: "#"
-      member_profile:
-        Licenciada en Relaciones Internacionales, con Maestría en Administración
-        Pública. Se ha especializado en el intercambio educativo y profesional entre
-        México y los países de las Américas. Mariana tiene experiencia en el sector
-        público y privado en México, Estados Unidos de América y Francia. En el sector
-        público Mariana ha trabajado en la OCDE, la Secretaría de Relaciones Exteriores
-        y la Secretaría de Desarrollo Social. Durante su desarrollo profesional Mariana
-        ha implementado programas de intercambio académico y profesional entre México
-        y otros países del mundo, así como proyectos de cooperación internacional relacionados
-        a desarrollo económico, asociaciones público privadas y desarrollo social.
+      member_profile: |
+        **Más de 15 años de experiencia en relaciones internacionales y públicas para los sectores público y privado.** Se ha especializado en relaciones internacionales e intercambios académicos y profesionales entre países de las Américas. Ha trabajado en la Universidad de Harvard, la OCDE, en la Secretaría de Relaciones Exteriores de México y en la Secretaría de Desarrollo Social de México como especialista internacional. Ha implementado programas de intercambio académico y profesional en México y en el extranjero, y también ha trabajado en proyectos relacionados con el desarrollo económico, alianzas público-privadas y desarrollo social. Su experiencia abarca los países de México, Estados Unidos de América y Francia.
     - name: Paul Cota
       member_title: Política Pública
       image: images/team/PC.jpg
@@ -290,11 +224,8 @@ team:
       title: Consultor
       content: Política Pública y Desarrollo Regional
       link: "#"
-      member_profile:
-        Internacionalista, cuenta con una Maestría en Estudios Regionales por el Instituto Mora. Se ha especializado en el análisis de políticas públicas y proyectos de desarrollo en temáticas sobre gobiernos locales,
-        gobernanza urbana y metropolitana, participación ciudadana y segregación socioespacial. Durante su desarrollo profesional,
-        Paul ha coordinado proyectos en torno a la promoción de energías limpias como catalizador de desarrollo regional en el noroeste de México,
-        así como consultor en política pública dentro del Instituto Metropolitano de Planeación de Tijuana e investigador invitado en el Departamento de Planeación Urbana y Regional de la Universidad de Illinois.
+      member_profile: |
+        **Más de 5 años de experiencia diseñando e implementando proyectos de desarrollo y analizando políticas públicas, así como diseños metodológicos y diagnósticos participativos en el sector público, privado y social.** Cuenta con estudios en relaciones internacionales y una maestría en Estudios Regionales, con énfasis en políticas públicas, gobiernos locales y gobernanza. Dentro de las fortalezas, se incluye la comunicación efectiva, la investigación científica y las habilidades blandas. Esto permite un entendimiento integral y sistémico de asuntos internacionales, así como de asuntos de desarrollo regional y transfronterizo, gobiernos subnacionales y gobernanza metropolitana. Experiencia extensa en la investigación científica de temas sociopolíticos y espaciales como segregación urbana, políticas multiculturales, movimientos sociales y desarrollo comunitario. Experiencia profesional en el diseño y análisis de políticas públicas en instituciones de planeación urbana y centros especializados de investigación, así como también ha desarrollado actividades de diseño, implementación y evaluación de proyectos de desarrollo en OSC locales y ONG internacionales. Los proyectos en donde se ha desarrollado incluyen países tales como México, Estados Unidos, Canadá, Polonia, Indonesia, Kazajistán, Uzbekistán, Turkmenistán, Kirguistán, y Tayikistán
     - name: Renata Rocha
       member_title: Ingeniera Química
       image: images/team/RR.jpg
@@ -304,15 +235,8 @@ team:
       title: Consultora
       content: Desarrollo Sustentable
       link: "#"
-      member_profile:
-        "Egresada de la Licenciatura en Ingeniería Química por la Universidad
-        Iberoamericana. Cuenta con experiencia en el sector de energía, donde ha asesorado
-        a empresas privadas en el desarrollo de su estrategia de gestión de energía
-        eléctrica, impulsando la implementación de energía renovable y la eficiencia
-        energética. \n\nTambién, ha participado en investigaciones académicas referentes
-        al aprovechamiento del sargazo y a la adopción de ecotecnologías para el manejo
-        sustentable del agua. Actualmente trabaja en las Áreas de Calidad del Aire,
-        Cambio Climático y Financiamiento Ambiental."
+      member_profile: |
+        **Más de 3 años de experiencia guiando estrategias para un desarrollo sustentable.** Ingeniera Química con la Universidad Iberoamericana. Tiene experiencia en asesoría en áreas de financiamiento verde, acción climática, calidad del aire y energía. Las fortalezas principales de su trabajo radican en la investigación y su capacidad analítica. Sólida experiencia recomendando alternativas de financiamiento para proyectos con beneficios sociales, ambientales y planificando ciudades sostenibles y resilientes al cambio climático. Cuenta con experiencia en México y en otros países, incluyendo Indonesia, Mongolia, Kosovo, Argentina, Brasil, Colombia, Ecuador y Perú.
     - name: Tania Guerrero
       member_title: Arquitecta
       image: images/team/TG.jpg
@@ -322,11 +246,8 @@ team:
       title: Asociada
       content: Desarrollo Urbano y Vivienda
       link: "#"
-      member_profile:
-        Tiene una Maestría en Ciencias en Arquitectura, Urbanismo y Construcción
-        de la Universidad de Tecnología de Delft, actualmente es candidata a doctora
-        en Geografía Humana del University College London. Tania ha trabajado como arquitecta
-        y urbanista en México y en los Países Bajos.
+      member_profile: |
+        **Más de 10 años de experiencia en arquitectura y urbanismo.** Tania tiene una maestría en Arquitectura, Urbanismo y Construcción de la Universidad Tecnológica de Delft y un doctorado en Geografía Humana de la University College London. Ha trabajado extensamente en planificación urbana sustentable, analizando e investigando cómo evolucionan las ciudades para identificar recomendaciones clave que pueden fomentar el desarrollo sustentable. En el ámbito arquitectónico, Tania ha trabajado en mejorar la eficiencia energética, el desempeño ambiental y el confort de las viviendas. Tania tiene experiencia en los siguientes países: México, los Estados Unidos de América, Costa de Marfil y los Países Bajos.
     - name: Yoshiki Ozawa
       member_title: ""
       image: images/team/YO.jpg
@@ -347,11 +268,8 @@ team:
       title: Consultor
       content: Administración y Finanzas
       link: "#"
-      member_profile:
-        Egresado de la Universidad Mexicana, cuenta con una especialidad
-        en Habilidades Directivas y una Licenciatura en Contaduría Pública. Contador
-        Público con más de 15 años de experiencia en la rama administrativa y en la
-        gestión de proyectos de desarrollo inmobiliario.
+      member_profile: |
+        **Más de 15 años de experiencia como contador público, principalmente en el ramo de la construcción y arrendamiento de bienes.** Egresado de la Universidad Mexicana, cuenta con una especialidad en Habilidades Directivas y una Licenciatura en Contaduría Pública. En las empresas en las que participó anteriormente, contribuyó en el desarrollo e implementación de proyectos que permitieron tener un mayor control de la información.
     - name: Jorge Santacruz
       member_title: ""
       image: images/team/CAMe/JorgeSantacruz.jpg
@@ -385,13 +303,8 @@ team:
       title: Consultora
       content: Calidad del Aire y Cambio Climático
       link: "#"
-      member_profile:
-        Ingeniera Química por la Universidad Nacional Autónoma de México,
-        Maestra en Ciencias por el Centro de Ciencias de la Atmósfera, se ha desempeñado
-        en proyectos enfocados a la modelación de contaminantes atmosféricos, al diseño
-        y ejecución de campañas de monitoreo,  identificación de impactos de diferentes
-        fuentes de emisión de contaminantes y en el uso de modelos meteorológicos y
-        de química atmosférica.
+      member_profile: |
+        **Más de 10 años de experiencia en modelación de la calidad del aire, utilizando y aplicando modelos de meteorología, química atmosférica, dispersión y transformación de contaminantes en diferentes capas de la atmósfera.** Ha participado en proyectos de desarrollo de campañas de monitoreo, mediciones, identificación de partículas para localizar las principales fuentes, y aplicación de medidas a nivel regional y local. Sus principales fortalezas están en el análisis de datos de monitoreo atmosférico a nivel superficie y análisis de las tendencias de los contaminantes a través del tiempo. Ha publicado dos artículos en revistas indexadas gracias al proyecto “Impacto del sector energético de Tula Hidalgo en el centro de México” y a la aplicación del modelo de depósito de cenizas volcánicas del Popocatépetl. Amplia experiencia en la modelación de emisiones volcánicas principalmente las provenientes del volcán Popocatépetl aplicando por primera vez en México el modelo FALL 3D para dispersión y deposito de cenizas, capacitando el uso de este modelo en volcanes como el Tungurahua en Ecuador y el volcán Galeras en el mismo país. Ha tomado cursos en Colombia y Argentina acerca de la modelación de volcanes activos y ha presentado sus investigaciones en congresos en México, Colombia y Costa Rica.
     - name: Yeni Solis
       member_title: Comunicóloga
       image: images/team/CAMe/Yeni.jpg
@@ -401,14 +314,8 @@ team:
       title: Consultora
       content: Comunicación
       link: "#"
-      member_profile:
-        "Yeni es licenciada en Comunicación Social de la Universidad Autónoma
-        Metropolitana unidad Xochimilco y maestrante en Periodismo Político de la Escuela
-        de Periodismo Carlos Septién García, cuenta con más de 10 años de experiencia
-        en el sector público en el área de comunicación.\n\nPrevio a Capsus trabajó
-        en la Secretaría de Medio Ambiente y Recursos Naturales (Semarnat) durante más
-        de 6 años en el área de medios de comunicación, creación de contenidos para
-        redes sociales y gestión de entrevistas. "
+      member_profile: |
+        **Más de 12 años de experiencia en el área de comunicación social, particularmente en temas relacionados con el medio ambiente.** Las principales fortalezas de su trabajo radican en la amplia experiencia en la elaboración de comunicados de prensa, líneas discursivas, creación de contenidos y programación de redes sociales. Así como su proactividad, responsabilidad y trabajo en equipo. Su desarrollo profesional ha sido principalmente en dependencias gubernamentales de México.
     - name: César Augusto Flores
       member_title: Abogado ambiental
       image: images/team/CAMe/Cesar.jpg
@@ -457,16 +364,5 @@ team:
       title: Consultora
       content: Desarrollo sustentable
       link: "#"
-      member_profile:
-        "Ingeniera Ambiental, con estudios de especialización en Tratamiento
-        y Eliminación de Residuos Industriales Peligrosos en la Carl Duisberg Gesellschaf,
-        Alemania; así como de Control y Abastecimiento de Agua Potable en Japón. \n\nEn
-        el sector público ha trabajado en la Secretaría de Medio Ambiente del Distrito
-        Federal, en la Procuraduría Federal de Protección al Ambiente, en la Comisión
-        Nacional del Agua, en la Comisión Nacional de Áreas Naturales Protegidas y en
-        la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente.
-        Mónica ha implementado programas de supervisión, inspección y vigilancia a nivel
-        nacional en materia patrimonial, ambiental y de seguridad.\n\nAdicional a ello,
-        Mónica fue miembro activo del Comité de Playas Limpias de México, coadyuvando
-        en el saneamiento, prevención y corrección de la contaminación de las playas
-        mexicanas."
+      member_profile: |
+        **Más de 25 años de experiencia en el sector ambiental, en las áreas de calidad del aire, agua, residuos peligrosos, entre otros. Esto incluye el desarrollo programas de supervisión, inspección y vigilancia a nivel nacional en materia patrimonial, ambiental y de seguridad en materia de hidrocarburos.** Las fortalezas principales de su trabajo radican en la comunicación efectiva y eficiente de conceptos y procesos complejos, lo que ha permitido obtener una preparación en las áreas de planeación, programación, evaluación y administración de proyectos. Amplia experiencia en las funciones de supervisión de planes y programas de inspección, vigilancia y verificación en la zona federal marítimo terrestre a nivel nacional, así como en el desarrollo y ejecución de programas y proyectos en los que la coordinación y vinculación interinstitucional se hacen necesarias. Sólida experiencia en el manejo de acciones de seguridad nacional para salvaguardar los Bienes de la Nación, la planeación, coordinación y ejecución de Operativos Especiales en las principales costas del país, con el apoyo e interacción directa de las autoridades federales judiciales, tanto en el seguimiento de denuncias ambientales como personas puestas a disposición en el ministerio público federal. Con muchos años trabajando en México, su experiencia internacional incluye Alemania, Japón y Venezuela. Fue miembro activo del Comité de Playas Limpias de México, coadyuvando en el saneamiento, prevención y corrección de la contaminación de las playas mexicanas a través de diversas acciones, investigaciones y propuestas.
