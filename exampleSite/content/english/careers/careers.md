@@ -46,11 +46,11 @@ jobs:
                 info4_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
                 info4_item_content: |
                   #### PERFIL
-                  Buscamos a una persona comprometida con la creación de espacios socialmente inclusivos, resilientes y responsables con el medio ambiente. En CAPSUS te integraremos al equipo para tener una experiencia profesional real e irás de la mano del equipo permanente para participar en proyectos nacionales y/o internacionales. 
+                  Buscamos a una persona comprometida con la creación de espacios socialmente inclusivos, resilientes y responsables con el medio ambiente. En CAPSUS te integraremos al equipo para tener una experiencia profesional real e irás de la mano del equipo permanente para participar en proyectos nacionales y/o internacionales.
 
-                  Puedes haberte graduado recientemente o estar cursando el último año de tus estudios. Esperamos que tengas un compromiso con el equipo CAPSUS de cuando menos 3 meses de tiempo completo, si sigues estudiando y tu carga académica es muy baja, podríamos acordar un horario reducido y un periodo de tiempo más largo.
+                  Puedes haberte graduado recientemente o estar cursando el último año de tus estudios. Esperamos que tengas un compromiso con el equipo CAPSUS de cuando menos 3 meses de tiempo completo, si sigues estudiando y tu carga académica es muy baja, podríamos acordar un horario reducido, un periodo de tiempo más largo y un ajuste económico.
 
-                  Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual, por ello requieres contar con un espacio de trabajo adecuado, con equipo de cómputo propio, cámara, micrófono y audífonos/bocinas y una conexión a internet con una capacidad suficiente para videoconferencias. 
+                  Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual, por ello requieres contar con un espacio de trabajo adecuado, con equipo de cómputo propio, cámara, micrófono y audífonos/bocinas y una conexión a internet con una capacidad suficiente para videoconferencias.
                   
 
                   #### EXPERIENCIA Y CONOCIMIENTOS
@@ -91,7 +91,7 @@ jobs:
                   #### OFERTA
                   - Integración a un equipo de trabajo multidisciplinar para trabajar en proyectos nacionales e internacionales
                   - Proyectos de gran impacto
-                  - Apoyo de $3,500.00 mxn 
+                  - Apoyo de $3,800.00 mxn 
 
               
 
@@ -662,11 +662,11 @@ jobs:
                   info5_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
                   info5_item_content: |
                     #### PERFIL
-                    Buscamos a una persona comprometida con la creación de espacios socialmente inclusivos, resilientes y responsables con el medio ambiente. En CAPSUS te integraremos al equipo para tener una experiencia profesional real e irás de la mano del equipo permanente para participar en proyectos nacionales y/o internacionales. 
+                    Buscamos a una persona comprometida con la creación de espacios socialmente inclusivos, resilientes y responsables con el medio ambiente. En CAPSUS te integraremos al equipo para tener una experiencia profesional real e irás de la mano del equipo permanente para participar en proyectos nacionales y/o internacionales.
 
-                    Puedes haberte graduado recientemente o estar cursando el último año de tus estudios. Esperamos que tengas un compromiso con el equipo CAPSUS de cuando menos 3 meses de tiempo completo, si sigues estudiando y tu carga académica es muy baja, podríamos acordar un horario reducido y un periodo de tiempo más largo.
+                    Puedes haberte graduado recientemente o estar cursando el último año de tus estudios. Esperamos que tengas un compromiso con el equipo CAPSUS de cuando menos 3 meses de tiempo completo, si sigues estudiando y tu carga académica es muy baja, podríamos acordar un horario reducido, un periodo de tiempo más largo y un ajuste económico.
 
-                    Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual, por ello requieres contar con un espacio de trabajo adecuado, con equipo de cómputo propio, cámara, micrófono y audífonos/bocinas y una conexión a internet con una capacidad suficiente para videoconferencias. 
+                    Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual, por ello requieres contar con un espacio de trabajo adecuado, con equipo de cómputo propio, cámara, micrófono y audífonos/bocinas y una conexión a internet con una capacidad suficiente para videoconferencias.
                     
 
                     #### EXPERIENCIA Y CONOCIMIENTOS
@@ -707,7 +707,7 @@ jobs:
                     #### OFERTA
                     - Integración a un equipo de trabajo multidisciplinar para trabajar en proyectos nacionales e internacionales
                     - Proyectos de gran impacto
-                    - Apoyo de $3,500.00 mxn 
+                    - Apoyo de $3,800.00 mxn 
 
                 
 
