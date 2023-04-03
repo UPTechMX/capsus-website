@@ -136,7 +136,7 @@ jobs:
               #   info4_id: vac-3
               #   info4_item_location: CDMX
               - info4_item_fulltitle: Negocios internacionales
-                info4_item_title2:  "Recepción de solicitudes hasta el Lunes 27 de marzo"
+                info4_item_title2:  ""
                 info4_item_content: |
                   #### PERFIL
                   Buscamos una persona comprometida con el desarrollo sustentable, **debes contar con un título en negocios internacionales**.
