@@ -135,54 +135,54 @@ jobs:
               #     Estimamos que el proceso para cubrir está vacante nos tomará de 4 a 8 semanas. Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su documentación completa sobre los resultados.
               #   info4_id: vac-3
               #   info4_item_location: CDMX
-              - info4_item_fulltitle: Negocios internacionales
-                info4_item_title2:  ""
-                info4_item_content: |
-                  #### PERFIL
-                  Buscamos una persona comprometida con el desarrollo sustentable, **debes contar con un título en negocios internacionales**.
+              # - info4_item_fulltitle: Negocios internacionales
+              #   info4_item_title2:  ""
+              #   info4_item_content: |
+              #     #### PERFIL
+              #     Buscamos una persona comprometida con el desarrollo sustentable, **debes contar con un título en negocios internacionales**.
 
-                  Una persona que sea totalmente bilingüe en español e inglés con una redacción estupenda en ambos idiomas. Necesitas disponer de un horario de tiempo completo de 9 a 18 horas. Nos ubicamos en la Ciudad de México, aunque por el momento el trabajo es virtual / remoto. En algunas ocasiones habrá reuniones presenciales en las oficinas de la CDMX.
+              #     Una persona que sea totalmente bilingüe en español e inglés con una redacción estupenda en ambos idiomas. Necesitas disponer de un horario de tiempo completo de 9 a 18 horas. Nos ubicamos en la Ciudad de México, aunque por el momento el trabajo es virtual / remoto. En algunas ocasiones habrá reuniones presenciales en las oficinas de la CDMX.
 
                   
-                  #### EXPERIENCIA LABORAL 
-                  Este puede ser tu primer empleo, siempre y cuando ya estés titulada(o). Aunque preferimos alguien que tenga más de 2 años de experiencia laboral.
+              #     #### EXPERIENCIA LABORAL 
+              #     Este puede ser tu primer empleo, siempre y cuando ya estés titulada(o). Aunque preferimos alguien que tenga más de 2 años de experiencia laboral.
                   
 
-                  #### Idiomas
-                  Debes poder expresarte y escribir en español e inglés de manera impecable.
+              #     #### Idiomas
+              #     Debes poder expresarte y escribir en español e inglés de manera impecable.
 
 
-                  #### HABILIDADES
-                  - Totalmente bilingüe en español e inglés.
-                  - Excelente redacción.
-                  - Con altas capacidades de organización.
-                  - Capacidad de investigación, ampliación de redes de contacto y facilidad para desarrollar relaciones y propuestas de trabajo.
-                  - Tenga muy buen manejo de procesadores de texto y hojas de cálculo.
-                  - Capacidad de desarrollar presupuestos.
+              #     #### HABILIDADES
+              #     - Totalmente bilingüe en español e inglés.
+              #     - Excelente redacción.
+              #     - Con altas capacidades de organización.
+              #     - Capacidad de investigación, ampliación de redes de contacto y facilidad para desarrollar relaciones y propuestas de trabajo.
+              #     - Tenga muy buen manejo de procesadores de texto y hojas de cálculo.
+              #     - Capacidad de desarrollar presupuestos.
  
                
-                  #### OFERTA
-                  - Sueldo bruto mensual de $17,000.00 mxn.
-                  - Prestaciones de ley.
-                  - Seguro de gastos médicos mayores.
-                  - Excelente ambiente de trabajo.
-                  - Trabajo orientado a una misión: impulsar el desarrollo sustentable y el bienestar de la humanidad.
-                  - Crecimiento profesional.
-                  - Equipo de cómputo y apoyo para capacitación.
+              #     #### OFERTA
+              #     - Sueldo bruto mensual de $17,000.00 mxn.
+              #     - Prestaciones de ley.
+              #     - Seguro de gastos médicos mayores.
+              #     - Excelente ambiente de trabajo.
+              #     - Trabajo orientado a una misión: impulsar el desarrollo sustentable y el bienestar de la humanidad.
+              #     - Crecimiento profesional.
+              #     - Equipo de cómputo y apoyo para capacitación.
 
                
-                  #### PROCESO
-                  1. Envía los siguientes documentos al correo <ideas@capsus.mx>.
-                     a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
-                     b. **Carta de exposición de motivos en inglés**
-                     c. **Carta en español donde expliques por qué es importante el desarrollo sustentable**
-                     d. **Copia de título(s) profesional(es)**
-                  2. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
+              #     #### PROCESO
+              #     1. Envía los siguientes documentos al correo <ideas@capsus.mx>.
+              #        a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
+              #        b. **Carta de exposición de motivos en inglés**
+              #        c. **Carta en español donde expliques por qué es importante el desarrollo sustentable**
+              #        d. **Copia de título(s) profesional(es)**
+              #     2. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
 
 
-                  Estimamos que este proceso nos tomará 3 semanas, una vez concluido el proceso informaremos a todas las personas que hayan enviado sus documentos sobre los resultados.
-                info4_id: vac-4
-                info4_item_location: CDMX
+              #     Estimamos que este proceso nos tomará 3 semanas, una vez concluido el proceso informaremos a todas las personas que hayan enviado sus documentos sobre los resultados.
+              #   info4_id: vac-4
+              #   info4_item_location: CDMX
               # - info4_item_fulltitle: Ingeniero para soporte técnico
               #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
               #   info4_item_content: |
