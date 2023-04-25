@@ -135,54 +135,65 @@ jobs:
               #     Estimamos que el proceso para cubrir está vacante nos tomará de 4 a 8 semanas. Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su documentación completa sobre los resultados.
               #   info4_id: vac-3
               #   info4_item_location: CDMX
-              # - info4_item_fulltitle: Negocios internacionales
-              #   info4_item_title2:  ""
-              #   info4_item_content: |
-              #     #### PERFIL
-              #     Buscamos una persona comprometida con el desarrollo sustentable, **debes contar con un título en negocios internacionales**.
+              - info4_item_fulltitle: Especialista en ventas y gestión de convocatorias
+                info4_item_title2:  ""
+                info4_item_content: |
+                  CAPSUS es una consultora en sustentabilidad enfocada en impulsar un crecimiento ambientalmente amigable, económicamente eficiente y socialmente justo en las ciudades y países en los que trabajamos. Trabajamos con nuestros clientes en el sector privado, público e internacional para que tengan mejores herramientas y tomen mejores decisiones de forma que su desempeño ambiental, económico y social crezca.
 
-              #     Una persona que sea totalmente bilingüe en español e inglés con una redacción estupenda en ambos idiomas. Necesitas disponer de un horario de tiempo completo de 9 a 18 horas. Nos ubicamos en la Ciudad de México, aunque por el momento el trabajo es virtual / remoto. En algunas ocasiones habrá reuniones presenciales en las oficinas de la CDMX.
+                  #### PERFIL
+                  Buscamos a una persona con excelente nivel de inglés, comprometida con el desarrollo sostenible y con experiencia en el desarrollo de propuestas para agencias de cooperación, así como para el sector público y privado. Necesitamos a alguien que tenga habilidades de análisis, síntesis y redacción, así como capacidad para trabajar en equipo y bajo presión.
 
                   
-              #     #### EXPERIENCIA LABORAL 
-              #     Este puede ser tu primer empleo, siempre y cuando ya estés titulada(o). Aunque preferimos alguien que tenga más de 2 años de experiencia laboral.
+                  #### REQUISITOS
+                  - Licenciatura en áreas relacionadas con el desarrollo sostenible, administración, economía o afín.
+                  - Experiencia mínima de 3 años en el desarrollo de propuestas para agencias de cooperación.
+                  - Excelente nivel de inglés (hablado y escrito).
+                  - Conocimientos sólidos en temas de desarrollo sostenible, cambio climático y resiliencia.
+                  - Habilidad para trabajar en equipo y de manera organizada
+                  - Proactividad y creatividad.
+                  - Buscar soluciones a problemas y requerimientos de negocio.
+                  - Autodidacta y con ganas de seguir aprendiendo.
                   
 
-              #     #### Idiomas
-              #     Debes poder expresarte y escribir en español e inglés de manera impecable.
+                  #### IDIOMAS
+                  Debes poder expresarte y escribir en español de manera impecable y excelente nivel de inglés. Otros idiomas son una ventaja.
 
 
-              #     #### HABILIDADES
-              #     - Totalmente bilingüe en español e inglés.
-              #     - Excelente redacción.
-              #     - Con altas capacidades de organización.
-              #     - Capacidad de investigación, ampliación de redes de contacto y facilidad para desarrollar relaciones y propuestas de trabajo.
-              #     - Tenga muy buen manejo de procesadores de texto y hojas de cálculo.
-              #     - Capacidad de desarrollar presupuestos.
+                  #### FUNCIONES
+                  - Desarrollar propuestas para agencias de cooperación como el Banco Mundial, BID, GIZ, entre otras.
+                  - Investigar y analizarinformación relevante para la elaboración de propuestas.
+                  - Coordinar el trabajo con los equipos internos y externos involucrados en la elaboración de propuestas.
+                  - Gestionar y dar seguimiento a los procesos de evaluación y adjudicación de las propuestas.
  
                
-              #     #### OFERTA
-              #     - Sueldo bruto mensual de $17,000.00 mxn.
-              #     - Prestaciones de ley.
-              #     - Seguro de gastos médicos mayores.
-              #     - Excelente ambiente de trabajo.
-              #     - Trabajo orientado a una misión: impulsar el desarrollo sustentable y el bienestar de la humanidad.
-              #     - Crecimiento profesional.
-              #     - Equipo de cómputo y apoyo para capacitación.
+                  #### OFRECEMOS
+                  - Sueldo bruto mensual: $17,000.00 - $23,000.00 dependiendo de experiencia y  competencias.
+                  - Prestaciones superiores a las de ley.
+                  - Oportunidades de crecimiento y desarrollo profesional.
+                  - Excelente ambiente de trabajo.
+                  - Proyectos desafiantes y de impacto.
+                  - Apoyo para capacitación.
 
                
-              #     #### PROCESO
-              #     1. Envía los siguientes documentos al correo <ideas@capsus.mx>.
-              #        a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
-              #        b. **Carta de exposición de motivos en inglés**
-              #        c. **Carta en español donde expliques por qué es importante el desarrollo sustentable**
-              #        d. **Copia de título(s) profesional(es)**
-              #     2. Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
+                  #### PROCESO
+                  Si cumples con los requisitos y tienes interés) en formar parte de nuestro equipo, envía los siguientes documentos al correo <daniela.evia@capsus.mx>.
 
+                  **Cada documento por separado**, y para nombrarlos por favor excluye tu nombre y **utiliza únicamente tus iniciales como referencia**.
 
-              #     Estimamos que este proceso nos tomará 3 semanas, una vez concluido el proceso informaremos a todas las personas que hayan enviado sus documentos sobre los resultados.
-              #   info4_id: vac-4
-              #   info4_item_location: CDMX
+                  1. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV **NO incluyas tu nombre, fotografía o algún otro dato personal** (por ejemplo la fecha de nacimiento o edad).
+                  2. Carta de exposición de motivos en inglés.
+                  3. Carta que explique la importancia del desarrollo sustentable en español.
+                  4. Copia de título(s) profesional(es).
+
+                  **Antes de enviar el correo**, asegúrate que el asunto del correo sea "Vacante Ventas" y tus iniciales (Por ejemplo: Vacante Ventas - DED).
+
+                  Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
+
+                  Estimamos que el proceso para cubrir está vacante nos tomará entre 4 y 8 semanas. Una vez
+                  concluido este proceso, informaremos a todas las personas que hayan enviado su documentación
+                  completa sobre los resultados.
+                info4_id: vac-4
+                info4_item_location: CDMX
               # - info4_item_fulltitle: Ingeniero para soporte técnico
               #   info4_item_title2:  Estamos en búsqueda de nuevos integrantes para nuestro equipo en CDMX
               #   info4_item_content: |
