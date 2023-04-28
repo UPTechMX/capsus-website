@@ -1,7 +1,7 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 {{ if $data.team.team.enable }}
-{{ with $data.team.team }}
+{{ with $data.team.team  }}
 {{"<!-- Portfolio Section -->" | safeHTML}}
 {{ $profile := .profile }}
 <section class="section section-bg" id="team">
