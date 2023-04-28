@@ -1,0 +1,37 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact us
+  main_title : "We want to collaborate with you\n\nLet's start the conversation"
+  subtitle : CAPSUS GREEN TOWER
+  subtitle_us : CAPSUS LLC
+  # content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  form_action: "mailto:ideas@capsus.mx" #contact form works with https://formspree.io
+
+  contact_details :
+    - icon : fas fa-map-marker-alt # themify icon pack : https://themify.me/themify-icons
+      info : "Boulevard Manuel Ávila Camacho 118, int 2401\n
+      Lomas de Chapultepec, Miguel Hidalgo,\n
+      Ciudad de México, 11000"
+      
+    - icon : fas fa-phone-alt # themify icon pack : https://themify.me/themify-icons
+      info : "[+52 1 (55) 44 31 29 27](tel:+5215544312927)"
+      
+    #- icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+    #  info : "Fax: +880-31-000-000"
+      
+    - icon : fas fa-envelope # themify icon pack : https://themify.me/themify-icons
+      info : "[ideas@capsus.mx](mailto:ideas@capsus.mx)"
+  contact_details_us :
+    - icon : fas fa-map-marker-alt # themify icon pack : https://themify.me/themify-icons
+      info : "5718 Westheimer Suite 1000\n
+      Houston, Texas 77057"
+      
+    - icon : fas fa-phone-alt # themify icon pack : https://themify.me/themify-icons
+      info : "[+832 737 08 34](tel:+8327370834)"
+      
+    #- icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+    #  info : "Fax: +880-31-000-000"
+      
+    - icon : fas fa-envelope # themify icon pack : https://themify.me/themify-icons
+      info : "[ideas@capsus.mx](mailto:ideas@capsus.mx)"

@@ -1,0 +1,90 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ if $data.contact.contact.enable }}
+{{ with $data.contact.contact }}
+{{"<!-- Start Contact Us -->" | safeHTML}}
+{{ $subtitle := .subtitle}}
+{{$subtitle_us := .subtitle_us}}
+<section id="contact" class="contact-us section-bg">
+	<div class="container pb-5">
+		<div class="row">
+			<div class="col-lg-12">
+				{{"<!-- section title -->" | safeHTML}}
+				<div class="title text-center wow fadeIn" data-wow-duration="500ms">
+					<h2>{{ with .title }} {{ index (split . " ") 0 }} {{ end }}<span class="color">
+						{{ with .title }} {{ index (split . " ") 1 }} {{ end }}</span></h2>
+					<div class="border-meghna-gray"></div>
+				</div>
+			</div>
+			{{"<!-- /section title -->" | safeHTML}}
+
+			{{"<!-- Contact Details -->" | safeHTML}}
+			<div class="contact-info col-lg-6 wow fadeInUp" data-wow-duration="500ms">
+				<h3>{{ .main_title | markdownify }}</h3>
+				<br>
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="contact-details">
+						{{ range .contact_details }}
+							<div class="con-info clearfix">
+								{{ if eq .icon "fas fa-map-marker-alt" }}
+								<h5 class="color"><i class="{{ .icon }} color"></i>{{ $subtitle | markdownify }}</h5>
+								<span>{{ .info | markdownify }}</span>
+								{{ else }}
+								<i class="{{ .icon }} color"></i>
+								<span>{{ .info | markdownify }}</span>
+								{{ end }}
+							</div>
+							{{ end }}
+						</div>
+					</div>
+				</div>
+				<div class="row pt-4">
+					<div class="col-lg-12">
+						<div class="contact-details">
+							{{ range .contact_details_us }}
+							<div class="con-info clearfix">
+								{{ if eq .icon "fas fa-map-marker-alt" }}
+								<h5 class="color"><i class="{{ .icon }} color"></i>{{ $subtitle_us | markdownify }}</h5>
+								<span>{{ .info | markdownify }}</span>
+								{{ else }}
+								<i class="{{ .icon }} color"></i>
+								<span>{{ .info | markdownify }}</span>
+								{{ end }}
+							</div>
+							{{ end }}
+						</div>
+					</div>
+				</div>
+			</div>
+
+			{{"<!-- Contact Form -->" | safeHTML}}
+			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+				<form id="contact-form" data-netlify-recaptcha="true" netlify-honeypot="capsussec" data-success="{{ i18n "success" }}" data-success-msg="{{ i18n "success_content" }}" data-error="{{ i18n "error" }}" data-error-msg="{{ i18n "error_content" }}" data-error-captcha="{{ i18n "error_captcha" }}" action="/#contact" class="form-meghna" method="POST" role="form" name="contact-us" data-netlify="true">
+					<p class="d-none">
+						<label>Don’t fill this out if you're human: <input name="capsussec" /></label>
+					</p>
+					<div class="form-group">
+						<input type="text" placeholder="{{ i18n "name" }}" class="form-control" name="name" id="name" required>
+					</div>
+					<div class="form-group">
+						<input type="email" placeholder="{{ i18n "email" }}" class="form-control" name="email" id="email" required>
+					</div>
+					<div class="form-group">
+						<input type="text" placeholder="{{ i18n "subject" }}" class="form-control" name="subject" id="subject" required>
+					</div>
+					<div class="form-group">
+						<textarea rows="6" placeholder="{{ i18n "message" }}" class="form-control" name="message" id="message" required></textarea>
+					</div>
+  					<div data-netlify-recaptcha="true" class="my-2"></div>
+					<div id="cf-submit">
+						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block">{{ i18n "submit" }}</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</section>
+{{"<!-- /contact -->" | safeHTML}}
+{{ end }}
+{{ end }}

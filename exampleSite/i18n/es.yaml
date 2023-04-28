@@ -1,0 +1,90 @@
+- id: blogTitle
+  translation: Última publicación
+- id: readMore
+  translation: Leer más...
+- id: viewAllPost
+  translation: Ver todas las publicaciones
+- id: share
+  translation: Compartir
+- id: aboutAuthor
+  translation: Sobre el autór
+- id: authorsPosts
+  translation: Publicaciones del autór
+- id: submit
+  translation: Enviar
+- id: all
+  translation: Todos
+- id: partners
+  translation: Socios
+- id: coordinators
+  translation: Coordinadores
+- id: consultants
+  translation: Consultores
+- id: associates
+  translation: Asociados
+- id: about
+  translation: Nuestro trabajo
+- id: who
+  translation: Quiénes somos
+- id: services
+  translation: Nuestro trabajo
+- id: team
+  translation: Nuestro equipo
+- id: pricing
+  translation: Precios
+- id: blog
+  translation: Blog
+- id: contact
+  translation: Contacto
+- id: careers
+  translation: Únete
+- id: expertise
+  translation: Especialidades
+- id: expertise1
+  translation: Planificación urbana y edificación sustentable
+- id: expertise2
+  translation: Evaluaciones y estudios sustentables
+- id: expertise3
+  translation: Difusión y desarrollo de capacidades sobre sustentabilidad
+- id: expertise4
+  translation: Diseño y evaluación de políticas públicas
+- id: casestudies
+  translation: Casos de Estudio
+- id: employment
+  translation: Únete a nuestro
+- id: employment2
+  translation: equipo
+- id: vacancy
+  translation: Vacantes
+- id: name
+  translation: Nombre
+- id: email
+  translation: Correo
+- id: subject
+  translation: Asunto
+- id: message
+  translation: Mensaje
+- id: clients
+  translation: Cliente(s)
+- id: about_case
+  translation: ¿En qué consistió?
+- id: aptitudes
+  translation: Aptitudes
+- id: skills
+  translation: Habilidades
+- id: languages
+  translation: Idiomas
+- id: vacancies
+  translation: No hay vacantes por el momento
+- id: success
+  translation: ¡Gracias!
+- id: success_content
+  translation: ¡Tu comunicación ha sido enviada exitosamente! Nos comunicaremos a la brevedad por correo.
+- id: error
+  translation: ¡Error!
+- id: error_content
+  translation: ¡Hubo un error al mandar tu comunicación! Si el problema persiste, comunícate con nosotros por otros medios.
+- id: error_captcha
+  translation: ¡Por favor completa el desafío reCAPTCHA para poder enviar tu mensaje!
+- id: viewMore
+  translation: Ver más...

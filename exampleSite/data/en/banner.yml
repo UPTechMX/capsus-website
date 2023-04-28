@@ -1,0 +1,50 @@
+---
+banner:
+  enable: true
+  bg_image_webp: images/backgrounds/Banner-1.webp
+  bg_image: images/backgrounds/Banner-1.jpg
+  icon: ''
+  title: PROMOTING SUSTAINABLE DEVELOPMENT
+  content: We promote collaborative, creative and innovative actions to build a sustainable future
+  button:
+    enable: true
+    label: Test
+    link: "#services"
+  banner_item:
+    - banner_title: PROMOTING SUSTAINABLE DEVELOPMENT
+      banner_content: We promote collaborative, creative and innovative actions to build a sustainable future
+      banner_id: main
+      banner_image: images/banner/Banner-1_Icon1.png
+      banner_image_webp: images/banner/Banner-1_Icon1.png
+      color: "#b2d912"
+    - banner_title: Technology for data analysis in
+      banner_content: urban planning projects
+      banner_id: other
+      banner_image: images/banner/Banner-1_Icon2.png
+      banner_image_webp: images/banner/Banner-1_Icon2.png
+      color: "#bad332"
+    - banner_title: Cities with  better quality of life and
+      banner_content: lower environmental impact
+      banner_id: other
+      banner_image: images/banner/Banner-1_Icon3.png
+      banner_image_webp: images/banner/Banner-1_Icon3.png
+      color: "#58cdd9"
+    - banner_title: Dissemination and training in
+      banner_content: environmental and social issues
+      banner_id: other
+      banner_image: images/banner/Banner-1_Icon4.png
+      banner_image_webp: images/banner/Banner-1_Icon4.png
+      color: "#ffa100"
+    - banner_title: Strategies designed to promote
+      banner_content: urban sustainability
+      banner_id: other
+      banner_image: images/banner/Banner-1_Icon5.png
+      banner_image_webp: images/banner/Banner-1_Icon5.png
+      color: "#17c9b8"
+    - banner_title: Multidisciplinary collaboration and innovation for improving
+      banner_content: environmental policies
+      banner_id: other
+      banner_image: images/banner/Banner-1_Icon6.png
+      banner_image_webp: images/banner/Banner-1_Icon6.png
+      color: "#10a2bc"
+      

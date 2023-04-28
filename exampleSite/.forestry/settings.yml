@@ -1,0 +1,80 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: ''
+webhook_url: 
+sections:
+- type: heading
+  label: Privacy Notice
+- type: directory
+  path: exampleSite/content/english/privacy
+  label: Privacy Notice (en)
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/spanish/privacy
+  label: Privacy Notice (es)
+  create: all
+  match: "**/*"
+- type: heading
+  label: Expertise
+- type: directory
+  path: exampleSite/content/english/expertise
+  label: Expertise (en)
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/spanish/expertise
+  label: Expertise (es)
+  create: all
+  match: "**/*"
+- type: heading
+  label: Careers
+- type: directory
+  path: exampleSite/content/english/careers
+  label: Careers (en)
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/spanish/careers
+  label: Careers (es)
+  create: all
+  match: "**/*"
+- type: heading
+  label: Data
+- type: directory
+  path: exampleSite/data
+  label: Homepage
+  create: all
+  match: "**/*"
+  exclude: fr/*
+- type: directory
+  path: exampleSite/i18n
+  label: i18n
+  create: documents
+  match: "**/*"
+  exclude: fr/*
+- type: heading
+  label: Configuration
+- type: directory
+  path: exampleSite
+  label: Configuration
+  create: all
+  match: "*.toml"
+  new_doc_ext: toml
+upload_dir: exampleSite/static/images
+public_path: "/images"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.58.2
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
+version: 0.58.2
