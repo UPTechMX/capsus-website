@@ -203,6 +203,8 @@ jobs:
 
                   Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
 
+                  **Con el envío de tus documentos te solicitamos responder un cuestionario de cinco preguntas (opción múltiple) en este [enlace](https://forms.gle/ERHFHnRRDTxNYBik7).**
+
                   Estimamos que el proceso para cubrir está vacante nos tomará entre 4 y 8 semanas. Una vez
                   concluido este proceso, informaremos a todas las personas que hayan enviado su documentación
                   completa sobre los resultados.
