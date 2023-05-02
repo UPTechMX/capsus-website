@@ -70,6 +70,17 @@ team:
       link: "#"
       member_profile: |
         **Over 6 years of experience in the public and private sectors with software and web development, and systems management, including HTML/CSS/JS. PHP, jQuery, Dart/Flutter, Java, Hugo, Python and Angular, as well as systems management in Linux-based systems (Ubuntu, Debian, etc.).** Computer Systems Engineer from the Universidad Tecnológica de México (UNITEC). Core strengths include constant learning of various technologies according to different projects, handling mainly the frontend, but also working on the backend. He also has experience handling resources from the Google Cloud Consoles, including DNS, virtual machines. Country experience includes Mexico, Argentina, Paraguay, and Indonesia.
+    - name: Ana Castro
+      member_title: Ingeniera en Desarrollo Sustentable y Maestra en Gestión Ambiental
+      image: images/team/AS.jpg
+      image_webp: images/team/AS.jpg
+      categories:
+        - consultants
+      title: Consultant
+      content: Sustainable Development
+      link: "#"
+      member_profile: |
+        **Over 1 year of experience in data analysis, contamination assessment, and development of cartographic material to inform decision-making and management strategies for governmental and academic institutions.** Earth Science graduate from the National Autonomous University of Mexico. Core strengths include analytical skills, problem-solving, and teamwork. She has mainly worked on projects in Mexico, such as the Annual Program for Fire Prevention and Combat at Iztapalapa borough, the management plan for Cerro de la Estrella National Park, and developing maps of disruptive phenomena. She possesses international academic experience as a Huayu Enrichment Scholarship recipient at the National Normal Taiwan University.
     - name: Andrea González
       member_title: Sustainable Development Engineer and Master in Environmental Management
       image: images/team/AN.jpg
@@ -88,7 +99,7 @@ team:
       categories:
         - consultants
       title: Consultant
-      content: INFORMATION AND EFFECTIVE COMMUNICATION DESIGN
+      content: Information and effective digital communication design
       link: "#"
       member_profile: |
         **5 years of experience in the public and private sectors conceptualizing technical messages in specialized graphics using diverse design and communication solutions, data visualization, infographics, user interfaces design and actually acquiring knowledge about UX discipline and inclusive design for design processes and methodologies.** Graphic Communication Designer from the Universidad Autónoma Metropolitana Azcapotzalco, currently studying a Master in Design Studies at CENTRO. Core strengths include the strategic planning to create materials and solutions that respond to the communication and information needs based on sustainability and urban development issues. She has experience working with editorial design for environmental studies and research, audiovisual guides, branding and graphic identity, visual arts for social media and more areas inside the design discipline. She is one of the co-founders and members of the firm's Gender, Diversity, and Inclusion Committee and has contributed to obtaining a 100% score for the firm in the HRC Equidad Mx Index. Country experience includes Mexico, the United States, Indonesia, Jordan, Palestine, Paraguay, Egypt, Mongolia, Kosovo, among others.
@@ -125,6 +136,17 @@ team:
       link: "#"
       member_profile: |
         **Over 6 years of experience development of methods to collect, analyze, and visualize qualitative and quantitative data.** Core strengths include fieldwork and desk-base data collection and analysis. Extensive experience baseline analysis, impact assessment and designing mitigation, prevention and adaptation measures. Strong background in designing and developing sustainable projects. Country experience includes Bulgaria, Jordan, Kosovo, Mexico, South Africa, Uzbekistan.
+    - name: Enoé Rordiguez
+      member_title: Environmental engineer
+      image: images/team/ER.jpg
+      image_webp: images/team/ER.jpg
+      categories:
+        - associates
+      title: Associate
+      content: Sustainable development
+      link: "#"
+      member_profile: |
+        **Chemical Engineer and Actuarial Science student, currently working on her thesis to obtain a master’s degree in environmental sciences from Instituto Potosino de Investigación Científica y Tecnológica.** She has been actively involved in research projects focused on hydrogen production through dark fermentation and the mitigation of inhibitory effects associated with this process, using both ion exchange resins and non-ionic resins. At CAPSUS, she has contributed to the planning of low-carbon emission cities in various Central Asian locations. Her professional experience includes collaboration with countries such as Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and Turkmenistan, which has enriched her perspective and skills in the field of sustainable development and environmental management.
     - name: Fatima Viquez
       member_title: Environmental engineer
       image: images/team/FV.jpg
@@ -147,6 +169,17 @@ team:
       link: "#"
       member_profile: |
         **4 years of experience as an assistant in the administrative and accounting area,** providing support with diverse activities. With a technical career in social work.
+    - name: Grecia Manzano
+      member_title: ""
+      image: images/team/GM.jpg
+      image_webp: images/team/GM.jpg
+      categories:
+        - associates
+      title: Associate
+      content: Graphic and information design
+      link: "#"
+      member_profile: |
+        **Architect from the Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO).** She collaborated in the research project “Identificación de suelo y diseño de mezcla para BTC para construcción con tierra en Chiquilistlán”, a paper about increasing earth blocks’ compressive and shear stress. Her skills include the knowledge of multiple softwares and analog techniques to express graphic ideas. With a trajectory on social and student movements, she searches to create spaces where discussions about gender, habitat, gentrification and bioclimatic architecture can happen.
     - name: Jorge Márquez
       member_title: Geographer
       image: images/team/JM.jpg
