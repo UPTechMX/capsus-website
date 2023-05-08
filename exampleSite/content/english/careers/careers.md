@@ -230,7 +230,8 @@ jobs:
 
                   **¿Si no soy una persona Mexicana, puedo aplicar?** Para que cuentes con todos los beneficios que ofrecemos, requerimos que tengas un registro fiscal en México. Sin embargo, estamos dispuestos a trabajar con alguien fuera del país a través de alguna de nuestras sucursales, mientras sea legal y administrativamente viable.
 
-                  **¿Si tengo alguna pregunta, a quien puedo consultar?** Cualquier duda que tengas la puedes enviar a <ideas@capsus.mx>. Solo recuerda que en este proceso se evalúa también la capacidad de investigación.
+                  **¿Si tengo alguna pregunta, a quien puedo consultar?**  
+                   Cualquier duda que tengas la puedes enviar a <ideas@capsus.mx>. Solo recuerda que en este proceso se evalúa también la capacidad de investigación.
                 info4_id: vac-4
                 info4_item_location: CDMX
               # - info4_item_fulltitle: Ingeniero para soporte técnico
