@@ -159,7 +159,7 @@ jobs:
 
                   
                   #### REQUISITOS **[INDISPENSABLES]{.underline}**
-                  - Excelente redacción (se requiere una prueba escrita en español e inglés)
+                  - Excelente redacción (se requiere una prueba escrita en español e inglés).
                   - Nivel de español e inglés profesional (C2 equivalente) hablado y escrito.
                   - Licenciatura terminada y con título.
                   - Compromiso por impulsar el desarrollo sustentable.
@@ -201,7 +201,7 @@ jobs:
                   3. Carta en español que explique la importancia del desarrollo sustentable para ti.
                   4. Copia de título(s) profesional(es).
 
-                  **Antes de enviar el correo**, asegúrate que el asunto del correo sea “Vacante Prospección” y tus iniciales (Por ejemplo: Vacante Propuestas - DED).
+                  **Antes de enviar el correo**, asegúrate que el asunto del correo sea “Vacante Prospección” y tus iniciales (Por ejemplo: Vacante Prospección - DED).
 
                   Si cumples con los documentos y requisitos indispensables, y tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
                   
@@ -210,17 +210,23 @@ jobs:
                   Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su [documentación completa]{.underline} sobre los resultados.
 
                   #### PREGUNTAS FRECUENTES:
-                  **¿Si no cuento con mi título o está en proceso, puedo aplicar a la vacante?** Si no cuentas con tu título profesional, puedes entrar a nuestro programa de becarios / prácticas profesionales. En la página web puedes encontrar el proceso a seguir.
+                  **¿Si no cuento con mi título o está en proceso, puedo aplicar a la vacante?**  
+                   Si no cuentas con tu título profesional, puedes entrar a nuestro programa de becarios / prácticas profesionales. En la página web puedes encontrar el proceso a seguir.
 
-                  **¿Si mi nivel de inglés no es C2, puedo aplicar a la vacante?** No se considerarán personas con un menor nivel de inglés. Esto se debe a que la mayoría del trabajo que se hace en CAPSUS es en inglés y la vacante tiene como objetivo apoyar en la redacción de reportes y solicitudes de financiamiento.
+                  **¿Si mi nivel de inglés no es C2, puedo aplicar a la vacante?**  
+                   No se considerarán personas con un menor nivel de inglés. Esto se debe a que la mayoría del trabajo que se hace en CAPSUS es en inglés y la vacante tiene como objetivo apoyar en la redacción de reportes y solicitudes de financiamiento.
 
-                  **¿Si no tengo certificado de inglés o este está en una escala diferente, puedo aplicar a la vacante?** Claro, siempre y cuando tu conocimiento y desempeño sea equivalente.
+                  **¿Si no tengo certificado de inglés o este está en una escala diferente, puedo aplicar a la vacante?**  
+                   Claro, siempre y cuando tu conocimiento y desempeño sea equivalente.
 
-                  **¿Qué tan extensos deben ser los documentos que les envíe?** Esto lo dejamos a tu criterio, parte de nuestro análisis a tu documentación incluye identificar tu criterio y capacidad de una comunicación efectiva y profesional.
+                  **¿Qué tan extensos deben ser los documentos que les envíe?**  
+                   Esto lo dejamos a tu criterio, parte de nuestro análisis a tu documentación incluye identificar tu criterio y capacidad de una comunicación efectiva y profesional.
 
-                  **¿En caso de que prefiera trabajar en su oficina, esto es posible?** Si, en CAPSUS puedes elegir el modo que prefieras. Aunque tenemos algunos eventos presenciales a los que esperamos nos puedas acompañar.
+                  **¿En caso de que prefiera trabajar en su oficina, esto es posible?**  
+                   Si, en CAPSUS puedes elegir el modo que prefieras. Aunque tenemos algunos eventos presenciales a los que esperamos nos puedas acompañar.
 
-                  **¿Es un trabajo de tiempo completo? ¿se puede negociar el horario?** Si, es un trabajo de tiempo completo. El horario está fijo para todas y todos, y al ser un equipo de trabajo, necesitamos coincidir para ser eficientes y lograr un balance adecuado para quienes integran a CAPSUS.
+                  **¿Es un trabajo de tiempo completo? ¿se puede negociar el horario?**  
+                   Si, es un trabajo de tiempo completo. El horario está fijo para todas y todos, y al ser un equipo de trabajo, necesitamos coincidir para ser eficientes y lograr un balance adecuado para quienes integran a CAPSUS.
 
                   **¿Si no soy una persona Mexicana, puedo aplicar?** Para que cuentes con todos los beneficios que ofrecemos, requerimos que tengas un registro fiscal en México. Sin embargo, estamos dispuestos a trabajar con alguien fuera del país a través de alguna de nuestras sucursales, mientras sea legal y administrativamente viable.
 
