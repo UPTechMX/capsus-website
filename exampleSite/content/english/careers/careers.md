@@ -149,65 +149,76 @@ jobs:
               #     Estimamos que el proceso para cubrir está vacante nos tomará de 4 a 8 semanas. Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su documentación completa sobre los resultados.
               #   info4_id: vac-3
               #   info4_item_location: CDMX
-              - info4_item_fulltitle: Especialista en ventas y gestión de convocatorias
+              - info4_item_fulltitle: Analista de investigación, prospección y redacción
                 info4_item_title2:  ""
                 info4_item_content: |
-                  CAPSUS es una consultora en sustentabilidad enfocada en impulsar un crecimiento ambientalmente amigable, económicamente eficiente y socialmente justo en las ciudades y países en los que trabajamos. Trabajamos con nuestros clientes en el sector privado, público e internacional para que tengan mejores herramientas y tomen mejores decisiones de forma que su desempeño ambiental, económico y social crezca.
+                  CAPSUS es una consultora con la misión de impulsar el desarrollo sustentable en el mundo.
 
                   #### PERFIL
-                  Buscamos a una persona con excelente nivel de inglés, comprometida con el desarrollo sostenible y con experiencia en el desarrollo de propuestas para agencias de cooperación, así como para el sector público y privado. Necesitamos a alguien que tenga habilidades de análisis, síntesis y redacción, así como capacidad para trabajar en equipo y bajo presión.
+                  Buscamos a una persona autónoma, organizada, creativa, con excelente redacción y un nivel de inglés de muy alto nivel profesional. Esta persona debe compartir nuestra misión de impulsar el desarrollo sustentable, e idealmente tener algo de experiencia en el desarrollo y seguimiento de propuestas y subvenciones para agencias de cooperación internacional, así como para el sector público y privado. Necesitamos a alguien que tenga habilidades de investigación, análisis, síntesis y redacción, así como capacidad para trabajar en un equipo multidisciplinario. En este rol, la persona adecuada investigará las oportunidades de financiamiento, las solicitudes de propuestas y licitaciones, identificando aquellas que sirvan para impulsar el desarrollo sustentable. Además, llevará un control de plazos, apoyará en la formación de equipos técnicos, organizará la documentación solicitada, obtendrá insumos de los expertos técnicos dentro de la empresa, redactará las solicitudes, y enviará las propuestas y los documentos de respaldo a quien lo solicite. Esta oportunidad no tiene límites por perfil académico, edad o género. Alentamos a que todas las personas que cumplan los requisitos envíen su propuesta.
 
                   
-                  #### REQUISITOS
-                  - Licenciatura en áreas relacionadas con el desarrollo sostenible, administración, economía o afín.
-                  - Experiencia mínima de 3 años en el desarrollo de propuestas para agencias de cooperación.
-                  - Excelente nivel de inglés (hablado y escrito).
-                  - Conocimientos sólidos en temas de desarrollo sostenible, cambio climático y resiliencia.
-                  - Habilidad para trabajar en equipo y de manera organizada
-                  - Proactividad y creatividad.
-                  - Buscar soluciones a problemas y requerimientos de negocio.
-                  - Autodidacta y con ganas de seguir aprendiendo.
+                  #### REQUISITOS **[INDISPENSABLES]{.underline}**
+                  - Excelente redacción (se requiere una prueba escrita en español e inglés)
+                  - Nivel de español e inglés profesional (C2 equivalente) hablado y escrito.
+                  - Licenciatura terminada y con título.
+                  - Compromiso por impulsar el desarrollo sustentable.
                   
 
-                  #### IDIOMAS
-                  Debes poder expresarte y escribir en español de manera impecable y excelente nivel de inglés. Otros idiomas son una ventaja.
+                  #### REQUISITOS DESEABLES
+                  - Mas de 2 años de experiencia en el desarrollo de propuestas para agencias de cooperación internacional.
+                  - Credenciales académicas y experiencia profesional en temas de cambio climático, política ambiental (agenda gris), desarrollo sustentable y/o equidad social.
+                  - Experiencia profesional en agencias de cooperación internacional.
 
 
                   #### FUNCIONES
-                  - Desarrollar propuestas para agencias de cooperación como el Banco Mundial, BID, GIZ, entre otras.
-                  - Investigar y analizarinformación relevante para la elaboración de propuestas.
+                  - Desarrollar propuestas para agencias de cooperación internacional, preparar licitaciones y solicitudes de financiamiento.
+                  - Revisar y buscar oportunidades de financiamiento y asistencia técnica en plataformas nacionales e internacionales.
+                  - Preparar y organizar documentación de soporte.
+                  - Mantener el sistema de seguimiento interno.
+                  - Investigar y analizar información relevante para la elaboración de propuestas.
+                  - Asistir en la identificación y reclutamiento de especialistas para la implementación de proyectos.
                   - Coordinar el trabajo con los equipos internos y externos involucrados en la elaboración de propuestas.
-                  - Gestionar y dar seguimiento a los procesos de evaluación y adjudicación de las propuestas.
  
                
                   #### OFRECEMOS
-                  - Sueldo bruto mensual: $17,000.00 - $23,000.00 dependiendo de experiencia y  competencias.
-                  - Prestaciones superiores a las de ley.
+                  - Posibilidad de trabajo remoto siguiendo el horario laboral de la CDMX (9-18 hrs).
+                  - Sueldo bruto mensual: $17,000 - $23,000 MXN dependiendo de experiencia y competencias.
+                  - Prestaciones superiores de ley.
+                  - Seguro de gastos médicos mayores.
+                  - Apoyo para trabajo en línea y para capacitación.
                   - Oportunidades de crecimiento y desarrollo profesional.
-                  - Excelente ambiente de trabajo.
-                  - Proyectos desafiantes y de impacto.
-                  - Apoyo para capacitación.
+                  - Excelente ambiente profesional y trabajo con propósito.
 
                
                   #### PROCESO
-                  Si cumples con los requisitos y tienes interés) en formar parte de nuestro equipo, envía los siguientes documentos al correo <daniela.evia@capsus.mx>.
+                  Si cumples con los requisitos indispensables y tienes interés en formar parte de nuestro equipo, envía los siguientes documentos al correo <ideas@capsus.mx>.
 
-                  **Cada documento por separado**, y para nombrarlos por favor excluye tu nombre y **utiliza únicamente tus iniciales como referencia**.
+                  **Cada documento (en *.pdf) por separado**, y para nombrarlos por favor excluye tu nombre y **utiliza únicamente tus iniciales como referencia**.
 
-                  1. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV **NO incluyas tu nombre, fotografía o algún otro dato personal** (por ejemplo la fecha de nacimiento o edad).
-                  2. Carta de exposición de motivos en inglés.
-                  3. Carta que explique la importancia del desarrollo sustentable en español.
+                  1. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV **NO incluyas tu nombre, fotografía o algún otro dato personal** (por ejemplo lugar de residencia o teléfono).
+                  2. Carta de exposición de motivos en inglés (porqué te interesa esta oportunidad y porqué en CAPSUS).
+                  3. Carta en español que explique la importancia del desarrollo sustentable para ti.
                   4. Copia de título(s) profesional(es).
 
-                  **Antes de enviar el correo**, asegúrate que el asunto del correo sea "Vacante Ventas" y tus iniciales (Por ejemplo: Vacante Ventas - DED).
+                  **Antes de enviar el correo**, asegúrate que el asunto del correo sea “Vacante Prospección” y tus iniciales (Por ejemplo: Vacante Propuestas - DED).
 
-                  Si tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
+                  Si cumples con los documentos y requisitos indispensables, y tu CV se apega al perfil que buscamos, te enviaremos un correo para programar una entrevista.
+                  
+                  Estimamos que el proceso para cubrir está vacante nos tomará entre 4 y 8 semanas.
+                  
+                  Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su [documentación completa]{.underline} sobre los resultados.
 
-                  **Con el envío de tus documentos te solicitamos responder un cuestionario de cinco preguntas (opción múltiple) en este [enlace](https://forms.gle/ERHFHnRRDTxNYBik7).**
-
-                  Estimamos que el proceso para cubrir está vacante nos tomará entre 4 y 8 semanas. Una vez
-                  concluido este proceso, informaremos a todas las personas que hayan enviado su documentación
-                  completa sobre los resultados.
+                  #### PREGUNTAS FRECUENTES:
+                  PREGUNTAS FRECUENTES:
+                  **¿Si no cuento con mi título o está en proceso, puedo aplicar a la vacante?** Si no cuentas con tu título profesional, puedes entrar a nuestro programa de becarios / prácticas profesionales. En la página web puedes encontrar el proceso a seguir.
+                  **¿Si mi nivel de inglés no es C2, puedo aplicar a la vacante?** No se considerarán personas con un menor nivel de inglés. Esto se debe a que la mayoría del trabajo que se hace en CAPSUS es en inglés y la vacante tiene como objetivo apoyar en la redacción de reportes y solicitudes de financiamiento.
+                  **¿Si no tengo certificado de inglés o este está en una escala diferente, puedo aplicar a la vacante?** Claro, siempre y cuando tu conocimiento y desempeño sea equivalente.
+                  **¿Qué tan extensos deben ser los documentos que les envíe?** Esto lo dejamos a tu criterio, parte de nuestro análisis a tu documentación incluye identificar tu criterio y capacidad de una comunicación efectiva y profesional.
+                  **¿En caso de que prefiera trabajar en su oficina, esto es posible?** Si, en CAPSUS puedes elegir el modo que prefieras. Aunque tenemos algunos eventos presenciales a los que esperamos nos puedas acompañar.
+                  **¿Es un trabajo de tiempo completo? ¿se puede negociar el horario?** Si, es un trabajo de tiempo completo. El horario está fijo para todas y todos, y al ser un equipo de trabajo, necesitamos coincidir para ser eficientes y lograr un balance adecuado para quienes integran a CAPSUS.
+                  **¿Si no soy una persona Mexicana, puedo aplicar?** Para que cuentes con todos los beneficios que ofrecemos, requerimos que tengas un registro fiscal en México. Sin embargo, estamos dispuestos a trabajar con alguien fuera del país a través de alguna de nuestras sucursales, mientras sea legal y administrativamente viable.
+                  **¿Si tengo alguna pregunta, a quien puedo consultar?** Cualquier duda que tengas la puedes enviar a <ideas@capsus.mx>. Solo recuerda que en este proceso se evalúa también la capacidad de investigación.
                 info4_id: vac-4
                 info4_item_location: CDMX
               # - info4_item_fulltitle: Ingeniero para soporte técnico
