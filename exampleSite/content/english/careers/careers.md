@@ -194,7 +194,7 @@ jobs:
                   #### PROCESO
                   Si cumples con los requisitos indispensables y tienes interés en formar parte de nuestro equipo, envía los siguientes documentos al correo <ideas@capsus.mx>.
 
-                  __Cada documento (en *.pdf) por separado__, y para nombrarlos por favor excluye tu nombre y **utiliza únicamente tus iniciales como referencia**.
+                  **Cada documento (en \*.pdf) por separado**, y para nombrarlos por favor excluye tu nombre y **utiliza únicamente tus iniciales como referencia**.
 
                   1. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV **NO incluyas tu nombre, fotografía o algún otro dato personal** (por ejemplo lugar de residencia o teléfono).
                   2. Carta de exposición de motivos en inglés (porqué te interesa esta oportunidad y porqué en CAPSUS).
