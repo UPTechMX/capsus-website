@@ -180,7 +180,7 @@ jobs:
                   #### PROCESO
                   Si cumples con los requisitos indispensables y tienes interés en formar parte de nuestro equipo, envía los siguientes documentos al correo <ideas@capsus.mx>.
 
-                  **Cada documento (en *.pdf) por separado**, y para nombrarlos por favor excluye tu nombre y **utiliza únicamente tus iniciales como referencia**.
+                  __Cada documento (en *.pdf) por separado__, y para nombrarlos por favor excluye tu nombre y **utiliza únicamente tus iniciales como referencia**.
 
                   1. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV **NO incluyas tu nombre, fotografía o algún otro dato personal** (por ejemplo lugar de residencia o teléfono).
                   2. Carta de exposición de motivos en inglés (porqué te interesa esta oportunidad y porqué en CAPSUS).
@@ -196,14 +196,20 @@ jobs:
                   Una vez concluido este proceso, informaremos a todas las personas que hayan enviado su [documentación completa]{.underline} sobre los resultados.
 
                   #### PREGUNTAS FRECUENTES:
-                  PREGUNTAS FRECUENTES:
                   **¿Si no cuento con mi título o está en proceso, puedo aplicar a la vacante?** Si no cuentas con tu título profesional, puedes entrar a nuestro programa de becarios / prácticas profesionales. En la página web puedes encontrar el proceso a seguir.
+
                   **¿Si mi nivel de inglés no es C2, puedo aplicar a la vacante?** No se considerarán personas con un menor nivel de inglés. Esto se debe a que la mayoría del trabajo que se hace en CAPSUS es en inglés y la vacante tiene como objetivo apoyar en la redacción de reportes y solicitudes de financiamiento.
+
                   **¿Si no tengo certificado de inglés o este está en una escala diferente, puedo aplicar a la vacante?** Claro, siempre y cuando tu conocimiento y desempeño sea equivalente.
+
                   **¿Qué tan extensos deben ser los documentos que les envíe?** Esto lo dejamos a tu criterio, parte de nuestro análisis a tu documentación incluye identificar tu criterio y capacidad de una comunicación efectiva y profesional.
+
                   **¿En caso de que prefiera trabajar en su oficina, esto es posible?** Si, en CAPSUS puedes elegir el modo que prefieras. Aunque tenemos algunos eventos presenciales a los que esperamos nos puedas acompañar.
+
                   **¿Es un trabajo de tiempo completo? ¿se puede negociar el horario?** Si, es un trabajo de tiempo completo. El horario está fijo para todas y todos, y al ser un equipo de trabajo, necesitamos coincidir para ser eficientes y lograr un balance adecuado para quienes integran a CAPSUS.
+
                   **¿Si no soy una persona Mexicana, puedo aplicar?** Para que cuentes con todos los beneficios que ofrecemos, requerimos que tengas un registro fiscal en México. Sin embargo, estamos dispuestos a trabajar con alguien fuera del país a través de alguna de nuestras sucursales, mientras sea legal y administrativamente viable.
+
                   **¿Si tengo alguna pregunta, a quien puedo consultar?** Cualquier duda que tengas la puedes enviar a <ideas@capsus.mx>. Solo recuerda que en este proceso se evalúa también la capacidad de investigación.
                 info4_id: vac-4
                 info4_item_location: CDMX
