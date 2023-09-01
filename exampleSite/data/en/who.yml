@@ -12,6 +12,10 @@ who:
     - enable: true
       label: Download One-pager
       link: "documents/ENG-One Pager capsus.pdf"
+  button_item3:
+    - enable: true
+      label: Download CV
+      link: "documents/CV-CAPSUS-ENG-2023.pdf"
   content : "Asesoramos a entes públicos y privados internacionales, analizamos datos espaciales, generamos indicadores de desempeño y desarrollamos herramientas para facilitar la toma de decisiones informadas que incentiven el desarrollo económico, la inclusión social y la conversación del medio ambiente."
   who_item : 
       # feature item loop
