@@ -114,7 +114,16 @@
 				</button>
 				{{ end }}
 				{{ range .button_item2 }}
-				<button class="btn btn-transparent col-lg-4 offset-lg-3">
+				<button class="btn btn-transparent col-lg-4">
+					<a href="{{ .link | relURL }}" download>
+						<h5 class="my-auto">
+							{{ .label | markdownify }}
+						</h5>
+					</a>
+				</button>
+				{{ end }}
+				{{ range .button_item3 }}
+				<button class="btn btn-transparent col-lg-4">
 					<a href="{{ .link | relURL }}" download>
 						<h5 class="my-auto">
 							{{ .label | markdownify }}
