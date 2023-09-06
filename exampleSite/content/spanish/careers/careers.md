@@ -28,71 +28,272 @@ jobs:
           info4:
             - info4_title: Vacantes
               info4_item:
-              # - info4_item_fulltitle: Becaria o becario de Diseño
-              #   info4_item_subtitle: ""
-              #   info4_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
-              #   info4_item_content: |
-              #     #### PERFIL
-              #     Buscamos a una persona comprometida con la creación de espacios socialmente inclusivos, resilientes y responsables con el medio ambiente. En CAPSUS te integraremos al equipo para tener una experiencia profesional real e irás de la mano del equipo permanente para participar en proyectos nacionales y/o internacionales.
+              - info4_item_fulltitle: Comunicación social, periodismo
+                info4_item_subtitle: ""
+                info4_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
+                info4_item_content: |
+                  #### PERFIL
+                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, con licenciatura en **Comunicación social, periodismo u otro similar**. Debes ser una persona dinámica, motivada, creativa y multidisciplinaria. Buscamos alguien que resuelva problemas y busque formas de lograr sus objetivos, no que encuentre razones por las cuales no se pueden alcanzar. Debes ser una persona responsable, transparente, honesta e íntegra.
 
-              #     Puedes haberte graduado recientemente o estar cursando el último año de tus estudios. Esperamos que tengas un compromiso con el equipo CAPSUS de cuando menos 3 meses de tiempo completo, si sigues estudiando y tu carga académica es muy baja, podríamos acordar un horario reducido, un periodo de tiempo más largo y un ajuste económico.
-
-              #     Nos ubicamos en la Ciudad de México pero actualmente trabajamos en una modalidad virtual, por ello requieres contar con un espacio de trabajo adecuado, con equipo de cómputo propio, cámara, micrófono y audífonos/bocinas y una conexión a internet con una capacidad suficiente para videoconferencias.
+                  Necesitas disponer de un horario de tiempo completo (40 horas a la semana), en donde el trabajo será presencial en la zona poniente de la Ciudad de México.
                   
 
-              #     #### EXPERIENCIA Y CONOCIMIENTOS
-              #     - Haber estudiado o estar cursando el último semestre de alguna licenciatura dentro del área del diseño, por ejemplo:
-              #       - Diseño Gráfico
-              #       - Diseño de la Comunicación Gráfica
-              #       - Diseño y Comunicación Visual
-              #       - Comunicación Visual
-              #       - Diseño Audiovisual
-              #     - Diseño de composiciones visuales y manejo de paletas de color
-              #     - Apoyo al equipo para generar ideas, conceptos creativos y llevarlo a la materialización
-              #     - Ilustración es un plus
-              #     - Interés por aprender de diversas áreas del conocimiento
-              #     - Buena comunicación
-              #     - Manejo profesional de español e inglés
+                  #### EXPERIENCIA LABORAL
+                  Requieres contar con 4 años de experiencia laboral, ideal que sean más inclinados en el ramo ambiental. Buscamos personas con experiencia en difusión ambiental.
 
 
-              #     #### MANEJO DE PROGRAMAS
-              #     - Illustrator
-              #     - Photoshop
-              #     - Conocimientos en InDesign 
-              #     - Conocimientos en After effects, Premiere u otra herramienta es un plus
-              #     - Conocimientos de herramientas de trabajo colaborativo como Google Workspace (Google Docs y Google Slides)
+                  #### LABORES A REALIZAR
+                  - Apoyar en el manejo de redes sociales.
+                  - Trabajar en la elaboración de comunicados y boletines de prensa.
+                  - Apoyar en la logística de entrevistas. 
+                  - Realizar el diseño gráfico y editorial de materiales.
+                  - Elaborar infografías, presentaciones de PowerPoint y otros medios similares. 
+                  - Elaborar y actualizar la página de internet. 
+                  - Preparar conferencias de prensa, seminarios, talleres.
                   
                   
-              #     #### COMPETENCIAS Y HABILIDADES
-              #     - Trabajo en equipo (trabajo con un equipo multidisciplinario)
-              #     - Comunicación eficaz
-              #     - Organización
-              #     - Buena actitud ante la retroalimentación
-              #     - Iniciativa y capacidad de reflexión
-              #     - Orientación al detalle y estructura
-              #     - Organización y persistencia
-              #     - Proactividad
-              #     - Respeto
+                  #### HABILIDADES
+                  - Buena relación profesional y personal.
+                  - Colaborar eficientemente con colegas de diferentes ramas del conocimiento.
+                  - Excelente ortografía.
+                  - Manejo de Office al 100%.
+                  - Proactividad y creatividad.
+                  - Capacidad de negociación y resolución de conflictos.
+                  - Capacidad de análisis y síntesis de información técnica y legal.
+                  - Buscar soluciones a problemas y requerimientos del proyecto.
+                  - Autodidacta y con ganas de seguir aprendiendo.
+                  - Ser puntual con los compromisos.
+                  - Excelente organización y administración de tiempo.
+                  - Capacidad de aceptar retroalimentación de su trabajo y atenderla.
+                  - Atención a los detalles.
+                  - Disponibilidad para viajar.
+                  - Ideal que tenga licencia de manejo.
 
 
-              #     #### OFERTA
-              #     - Integración a un equipo de trabajo multidisciplinar para trabajar en proyectos nacionales e internacionales
-              #     - Proyectos de gran impacto
-              #     - Apoyo de $3,800.00 mxn 
+                  #### IDIOMAS
+                  - Debes poder expresarte y escribir en español de manera impecable.
 
+                  
+                  #### APTITUDES
+                  - Organización
+                  - Persistencia
+                  - Tolerancia a la crítica
+                  - Sociable.
+                  - Con iniciativa propia
+                  - Detallista
+                  - Con estructura
+                  - Multitareas
+
+                  #### OFERTA
+                  - Sueldo neto mensual: $18,000.00 - $21,000.00 dependiendo de experiencia y competencias, más prestaciones de ley.
               
 
-              #     #### PROCESO
-              #     Si cumples con los requisitos, envía un correo electrónico a: <ideas@capsus.mx> con los siguientes documentos:
+                  #### PROCESO
+                  Si tienes interés en la vacante envía un correo electrónico a: <ideas@capsus.mx> a manera de expresión de interés. Nos gustaría que además de tu CV, en el correo nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos anteriores de los cuales te enorgullezcas.
 
-              #     1. Una carta de motivos en español donde nos cuentes por qué te interesa trabajar en CAPSUS y qué te motiva a seguir una carrera profesional en el área de la sustentabilidad.
-              #     2. Una carta en inglés donde nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullecen. 
-              #     3. Enviar tu CV.
-              #     4. Enviar Book o algún documento mostrando proyectos (pueden ser proyectos académicos o a nivel profesional).
+                  1. Envía tu exposición de motivos, copia de título profesional y CV por correo electrónico.
+                  2. Si tu CV es seleccionado,  te llamamos a entrevista.
+                info4_id: vac-1
+                info4_item_location: CDMX
+              - info4_item_fulltitle: Analista ambiental
+                info4_item_subtitle: ""
+                info4_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
+                info4_item_content: |
+                  #### PERFIL
+                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, con licenciatura en **ingeniería química, ambiental, ciencias de la tierra o similares**.  Debes ser una persona dinámica, motivada, creativa y multidisciplinaria. Buscamos alguien que resuelva problemas y busque formas de lograr sus objetivos, no que encuentre razones por las cuales no se pueden alcanzar. Debes ser una persona responsable, transparente, honesta e íntegra.
 
-              #     Tras analizar tu documentación te contactaremos para una entrevista en donde podremos aclarar las dudas que tengas tanto tú como el equipo CAPSUS.
-              #   info4_id: vac-1
-              #   info4_item_location: CDMX
+                  Necesitas disponer de un horario de tiempo completo (40 horas a la semana), en donde el trabajo será presencial en la zona poniente de la Ciudad de México.
+                  
+
+                  #### EXPERIENCIA LABORAL
+                  Requieres contar con 4 años de experiencia laboral, ideal que sean más inclinados en el ramo ambiental.
+
+
+                  #### LABORES A REALIZAR
+                  - Planear y ejecutar la metodología y acciones de seguimiento y evaluación de productos y entregables de proyectos, programas y acciones ambientales.
+                  - Analizar y supervisar que se cumpla con los requisitos de los productos y entregables de proyectos, programas y acciones ambientales.
+                  - Apoyar en el seguimiento y supervisión de las acciones y recomendaciones de gestión de calidad del aire.
+                  - Apoyar en el análisis de datos y generación de gráficos e imágenes para presentaciones.
+                  - Desarrollar un sistema para supervisión y seguimiento de los productos y entregables de proyectos, programas y acciones ambientales.
+                  - Elaborar documentos y presentaciones para informar del seguimiento y de los análisis realizados y sus resultados.
+                  
+                  
+                  #### HABILIDADES
+                  - Conocimientos sobre tecnologías de control de emisiones a la atmósfera.
+                  - Conocimientos sobre modelación de la calidad del aire y meteorología.
+                  - Conocimiento general de otros temas ambientales.
+                  - Buena relación profesional y personal.
+                  - Colaborar eficientemente con otros colegas de diferentes ramas del conocimiento.
+                  - Excelente ortografía.
+                  - Manejo de Office al 100%.
+                  - Proactividad y creatividad.
+                  - Capacidad de negociación y resolución de conflictos.
+                  - Capacidad de análisis y síntesis de información técnica y legal.
+                  - Buscar soluciones a problemas y requerimientos del proyecto.
+                  - Autodidacta y con ganas de seguir aprendiendo.
+                  - Ser puntual con los compromisos.
+                  - Excelente organización y administración de tiempo.
+                  - Capacidad de aceptar retroalimentación de su trabajo y atenderla.
+                  - Atención a los detalles.
+                  - Disponibilidad para viajar.
+                  - Ideal que tenga licencia de manejo.
+
+
+                  #### IDIOMAS
+                  - Debes poder expresarte y escribir en español de manera impecable.
+
+                  
+                  #### APTITUDES
+                  - Organización
+                  - Persistencia
+                  - Tolerancia a la crítica
+                  - Sociable.
+                  - Con iniciativa propia
+                  - Detallista
+                  - Con estructura
+                  - Multitareas
+
+                  #### OFERTA
+                  - Sueldo neto mensual: $18,000.00 - $21,000.00 dependiendo de experiencia y competencias, más prestaciones de ley.
+              
+
+                  #### PROCESO
+                  Si tienes interés en la vacante envía un correo electrónico a: <ideas@capsus.mx> a manera de expresión de interés. Nos gustaría que además de tu CV, en el correo nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos anteriores de los cuales te enorgullezcas.
+
+                  1. Envía tu exposición de motivos, copia de título profesional y CV por correo electrónico.
+                  2. Si tu CV es seleccionado,  te llamamos a entrevista.
+                info4_id: vac-2
+                info4_item_location: CDMX
+              - info4_item_fulltitle: Calidad del aire
+                info4_item_subtitle: ""
+                info4_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
+                info4_item_content: |
+                  #### PERFIL
+                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, con licenciatura **en ingeniería química, ambiental, ciencias de la tierra o similares**.  Debes ser una persona dinámica, motivada, creativa y multidisciplinaria. Buscamos alguien que resuelva problemas y busque formas de lograr sus objetivos, no que encuentre razones por las cuales no se pueden alcanzar. Debes ser una persona responsable, transparente, honesta e íntegra.
+
+                  Necesitas disponer de un horario de tiempo completo (40 horas a la semana), en donde el trabajo será presencial en la zona poniente de la Ciudad de México.
+                  
+
+                  #### EXPERIENCIA LABORAL
+                  Requieres contar con 4 años de experiencia laboral, ideal que sean más inclinados en el ramo ambiental. Buscamos personas con experiencia y conocimientos sobre tecnologías de control de emisiones a la atmósfera.  Conocimientos sobre modelación de la calidad del aire y meteorología.  Conocimiento general de otros temas ambientales.
+
+
+                  #### LABORES A REALIZAR
+                  - Análisis de información de calidad del aire, emisiones a la atmósfera y sus fuentes, impactos en la salud.
+                  - Informar sobre el seguimiento de acciones y recomendaciones de gestión de calidad del aire.
+                  - Analizar datos e información y generación de gráficos e imágenes para presentaciones.
+                  - Elaboración de documentos y presentaciones para informar de los análisis realizados y sus resultados.
+                  - Apoyo al seguimiento de acciones y recomendaciones de gestión de calidad del aire.
+                  
+                  
+                  #### HABILIDADES
+                  - Buena relación profesional y personal.
+                  - Colaborar eficientemente con otros colegas de diferentes ramas del conocimiento.
+                  - Excelente ortografía.
+                  - Manejo de Office al 100%.
+                  - Proactividad y creatividad.
+                  - Capacidad de negociación y resolución de conflictos
+                  - Capacidad de análisis y síntesis de información técnica y lega.l
+                  - Buscar soluciones a problemas y requerimientos del proyecto.
+                  - Autodidacta y con ganas de seguir aprendiendo.
+                  - Ser puntual con los compromisos.
+                  - Excelente organización y administración de tiempo.
+                  - Capacidad de aceptar retroalimentación de su trabajo y atenderla.
+                  - Atención) a los detalles.
+                  - Disponibilidad para viajar.
+                  - Ideal que tenga licencia de manejo.
+
+
+                  #### IDIOMAS
+                  - Debes poder expresarte y escribir en español de manera impecable.
+
+                  
+                  #### APTITUDES
+                  - Organización
+                  - Persistencia
+                  - Tolerancia a la crítica
+                  - Sociable.
+                  - Con iniciativa propia
+                  - Detallista
+                  - Con estructura
+                  - Multitareas
+
+                  #### OFERTA
+                  - Sueldo neto mensual: $18,000.00 - $21,000.00 dependiendo de experiencia y competencias, más prestaciones de ley.
+              
+
+                  #### PROCESO
+                  Si tienes interés en la vacante envía un correo electrónico a: <ideas@capsus.mx> a manera de expresión de interés. Nos gustaría que además de tu CV, en el correo nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos anteriores de los cuales te enorgullezcas.
+
+                  1. Envía tu exposición de motivos, copia de título profesional y CV por correo electrónico.
+                  2. Si tu CV es seleccionado,  te llamamos a entrevista.
+                info4_id: vac-3
+                info4_item_location: CDMX
+              - info4_item_fulltitle: Leyes
+                info4_item_subtitle: ""
+                info4_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
+                info4_item_content: |
+                  #### PERFIL
+                  Buscamos una persona convencida y comprometida con el desarrollo sustentable, con licenciatura **en leyes / derecho**. Debes ser una persona dinámica, motivada, creativa y multidisciplinaria. Buscamos alguien que resuelva problemas y busque formas de lograr sus objetivos, no que encuentre razones por las cuales no se pueden alcanzar. Debes ser una persona responsable, transparente, honesta e íntegra.
+
+                  Necesitas disponer de un horario de tiempo completo (40 horas a la semana), en donde el trabajo será presencial en la zona poniente de la Ciudad de México.
+                  
+
+                  #### EXPERIENCIA LABORAL
+                  Requieres contar con 2 años de experiencia laboral, ideal que sean más inclinados en el ramo ambiental. Buscamos personas con experiencia en alguna(s) de las siguientes ramas de derecho: ambiental, administrativo, contenciosos, legislativo, fiscal, finanzas públicas y/o civil. Es deseable que tenga experiencia en políticas internas de la administración pública.
+
+
+                  #### LABORES A REALIZAR
+                  - Otorgar soporte en actividades administrativas, consultivas, financieras, fiscales, desarrollo sustentable con enfoque legal y demás que resulten necesarias .
+                  - Elaborar los proyectos de los diversos instrumentos legales como convenios, contratos, lineamientos y demás actos jurídicos.
+                  - Formular análisis jurídico de la normatividad y regulación, según se requiera.
+                  - Apoyar en el control de la base de datos del acervo documental
+                  - Apoyar en la coordinación, atención y seguimiento de las actividades administrativas.
+                  
+                  
+                  #### HABILIDADES
+                  - Buena relación profesional y personal.
+                  - Colaborar eficientemente con otros colegas de diferentes ramas del conocimiento.
+                  - Excelente ortografía.
+                  - Manejo de Office al 100%.
+                  - Proactividad y creatividad.
+                  - Capacidad de negociación y resolución de conflictos.
+                  - Capacidad de análisis y síntesis de información técnica y legal.
+                  - Buscar soluciones a problemas y requerimientos del proyecto.
+                  - Autodidacta y con ganas de seguir aprendiendo.
+                  - Ser puntual con los compromisos.
+                  - Excelente organización y administración de tiempo.
+                  - Capacidad de aceptar retroalimentación de su trabajo y atenderla.
+                  - Atención a los detalles.
+                  - Disponibilidad para viajar.
+                  - Ideal que tenga licencia de manejo.
+
+
+                  #### IDIOMAS
+                  - Debes poder expresarte y escribir en español de manera impecable.
+
+                  
+                  #### APTITUDES
+                  - Organización
+                  - Persistencia
+                  - Tolerancia a la crítica
+                  - Sociable.
+                  - Con iniciativa propia
+                  - Detallista
+                  - Con estructura
+                  - Multitareas
+
+                  #### OFERTA
+                  - Sueldo neto mensual: $18,000.00 - $21,000.00 dependiendo de experiencia y competencias, más prestaciones de ley.
+              
+
+                  #### PROCESO
+                  Si tienes interés en la vacante envía un correo electrónico a: <ideas@capsus.mx> a manera de expresión de interés. Nos gustaría que además de tu CV, en el correo nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos anteriores de los cuales te enorgullezcas.
+
+                  1. Envía tu exposición de motivos, copia de título profesional y CV por correo electrónico.
+                  2. Si tu CV es seleccionado,  te llamamos a entrevista.
+                info4_id: vac-4
+                info4_item_location: CDMX
               # - info4_item_fulltitle: Analista Ambiental
               #   info4_item_title2:  "Recepción de CV y solicitudes hasta el viernes 3 de marzo"
               #   info4_item_content: |
