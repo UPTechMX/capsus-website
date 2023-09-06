@@ -109,7 +109,7 @@ jobs:
                 info4_id: vac-1
                 info4_item_location: CDMX
               - info4_item_fulltitle: Analista ambiental
-                info4_item_subtitle: ""
+                info4_item_subtitle: "2 vacantes"
                 info4_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
                 info4_item_content: |
                   #### PERFIL
