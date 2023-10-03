@@ -125,28 +125,6 @@ team:
       link: "#"
       member_profile: |
         **Over 5 years of experience in the public sector coordinating the development of regulatory, urban planning instruments, and institutional structures focused on sustainable urban mobility, public space and road safety.** Background in the development of urban-experimentation exercises, under collaborative work schemes between the social, academic, public and private sectors. Experience providing technical support to local governments for the development of urban improvement projects, with an emphasis on sustainable mobility and a gender perspective. Her international experience includes Chile and Ecuador.
-    - name: Dinorah León
-      member_title: Engineer in Sustainable Development
-      image: images/team/DL.jpg
-      image_webp: images/team/DL.jpg
-      categories:
-        - consultants
-      title: Consultant
-      content: Social Analysis
-      link: "#"
-      member_profile: |
-        **Over 6 years of experience development of methods to collect, analyze, and visualize qualitative and quantitative data.** Core strengths include fieldwork and desk-base data collection and analysis. Extensive experience baseline analysis, impact assessment and designing mitigation, prevention and adaptation measures. Strong background in designing and developing sustainable projects. Country experience includes Bulgaria, Jordan, Kosovo, Mexico, South Africa, Uzbekistan.
-    - name: Enoé Rodríguez
-      member_title: Environmental engineer
-      image: images/team/ER.jpg
-      image_webp: images/team/ER.jpg
-      categories:
-        - associates
-      title: Associate
-      content: Sustainable development
-      link: "#"
-      member_profile: |
-        **Chemical Engineer and Actuarial Science student, currently working on her thesis to obtain a master’s degree in environmental sciences from Instituto Potosino de Investigación Científica y Tecnológica.** She has been actively involved in research projects focused on hydrogen production through dark fermentation and the mitigation of inhibitory effects associated with this process, using both ion exchange resins and non-ionic resins. At CAPSUS, she has contributed to the planning of low-carbon emission cities in various Central Asian locations. Her professional experience includes collaboration with countries such as Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and Turkmenistan, which has enriched her perspective and skills in the field of sustainable development and environmental management.
     - name: Fatima Viquez
       member_title: Environmental engineer
       image: images/team/FV.jpg
@@ -158,28 +136,6 @@ team:
       link: "#"
       member_profile: |
         **Environmental Engineer by the Instituto Politécnico Nacional.** Previous to CAPSUS she has participated in research projects about forest waste, life cycle analysis and circular economy. She also has experience working with international cooperation agencies on issues related to climate change and energy efficiency at SME’s At CAPSUS she has collaborated on projects focused on resilient affordable housing and climate change in Asian cities. She is currently working on a low-carbon city planning project in Central Asian cities. Work experience in countries such as Mexico, Mongolia, Indonesia, Kazakhstan, Uzbekistan, Tayikistán, Kyrgyzstan and Turkmenistan.
-    - name: Fernanda Silva
-      member_title: ""
-      image: images/team/FS.jpg
-      image_webp: images/team/FS.jpg
-      categories:
-        - associates
-      title: Associate
-      content: Administration
-      link: "#"
-      member_profile: |
-        **4 years of experience as an assistant in the administrative and accounting area,** providing support with diverse activities. With a technical career in social work.
-    - name: Grecia Manzano
-      member_title: ""
-      image: images/team/GM.jpg
-      image_webp: images/team/GM.jpg
-      categories:
-        - associates
-      title: Associate
-      content: Graphic design
-      link: "#"
-      member_profile: |
-        **Architect from the Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO).** She collaborated in the research project “Identificación de suelo y diseño de mezcla para BTC para construcción con tierra en Chiquilistlán”, a paper about increasing earth blocks’ compressive and shear stress. Her skills include the knowledge of multiple softwares and analog techniques to express graphic ideas. With a trajectory on social and student movements, she searches to create spaces where discussions about gender, habitat, gentrification and bioclimatic architecture can happen.
     - name: Jorge Márquez
       member_title: Geographer
       image: images/team/JM.jpg
@@ -268,17 +224,6 @@ team:
       link: "#"
       member_profile: |
         **Over 5 years of experience designing and implementing development projects and analyzing public policies, as well as methodology design and participatory diagnostics in the public, private and social sectors.** He has a Master's in Regional Studies, with an emphasis on public policy, local governments, and governance. Core strengths include effective communication, scientific research, and negotiation skills. This enables a deep understanding of topics such as international affairs, regional and transborder development, subnational government capacities, and metropolitan governance. Extensive experience researching spatial and sociopolitical issues such as spatial segregation, multicultural policies, urban social movements, and community development. Strong background in designing and analyzing public policies within public urban planning offices and research centers, as well as designing, implementing and evaluating development projects in grassroots and international NGOs. Country experience includes Mexico, The United States, Canada, Poland, Indonesia, Turkmenistan, Kazakhstan, Uzbekistan, Kyrgyzstan, and Tajikistan.
-    - name: Renata Rocha
-      member_title: Chemical Engineer
-      image: images/team/RR.jpg
-      image_webp: images/team/RR.jpg
-      categories:
-        - consultants
-      title: Consultant
-      content: Sustainable Development
-      link: "#"
-      member_profile: |
-        **Over 3 years of experience advising on sustainable development.** Chemical engineering by the Universidad Iberoamericana. Core strengths include research, quantitative methods, and critical analysis. Experience providing guidance in sustainable finance, climate action, air quality, and energy. Strong background advising on alternatives to finance projects with social and environmental benefits and supporting low-carbon and resilient urban planning. Country experience includes Mexico, Indonesia, Mongolia, Kosovo, Argentina, Brazil, Colombia, Ecuador, and Peru.
     - name: Tania Guerrero
       member_title: Architect
       image: images/team/TG.jpg
@@ -290,17 +235,6 @@ team:
       link: "#"
       member_profile: |
         **Over 10 years of experience in architecture and urban planning.** Tania holds a Master's degree in Science in Architecture, Urbanism and Construction from Delft University of Technology, and a PhD in Human Geography from University College London. She has worked extensively on sustainable urban planning, analyzing and researching how cities evolve to identify key recommendations that can foster sustainable development. On the architectural arena, Tania has worked on improving the energy efficiency, environmental performance and comfort of housing. Country experiences include Mexico, the United States of America, Côte d’Ivoire and the Netherlands.
-    - name: Yoshiki Ozawa
-      member_title: ""
-      image: images/team/YO.jpg
-      image_webp: images/team/YO.jpg
-      categories:
-        - associates
-      title: Associate
-      content: Urban Development
-      link: "#"
-      member_profile: |
-        **He started working at Capsus in November 2022 inside the urban planning area, he has worked on projects with the Inter-American Development Bank, TECHO Paraguay and the Ministry of Urban Planning, Housing and Habitat of Paraguay.** Nowadays, he is a student from the UNAM, where he has analyzed projects at the municipal, metropolitan and regional level within Mexico seeking a better development of the territory and identifying problems at different scales.
     - name: Israel Huipio
       member_title: PUBLIC ACCOUNTANT
       image: images/team/CAMe/IsraelHuipio.jpg
@@ -334,17 +268,6 @@ team:
       link: "#"
       member_profile: |
         **2 years of experience in public works and sustainable development projects.** Graduated from Facultad de Estudios Superiores Acatlán, Universidad Nacional Autónoma de México. He holds a diploma on “Control and Transparency in Public Administration”.
-    - name: Sandra García
-      member_title: Chemical engineer
-      image: images/team/CAMe/SandraGarcia.jpg
-      image_webp: images/team/CAMe/SandraGarcia.jpg
-      categories:
-        - consultants
-      title: Consultant
-      content: Air Quality and Climate Change
-      link: "#"
-      member_profile: |
-        **More than 10 years of experience in air quality modeling, using and applying models of meteorology, atmospheric chemistry, dispersion and transformation of pollutants in different layers of the atmosphere.** She has participated in projects for the development of monitoring campaigns, measurements, particle identification to locate the main sources, and application of measures at a regional and local level. Her main strengths are in the analysis of atmospheric monitoring data at surface level and analysis of contaminant trends over time. Extensive experience in modeling volcanic emissions, mainly those coming from the Popocatépetl volcano, applying the FALL 3D model for the dispersion and deposit of ash for the first time in Mexico, enabling the use of this model in volcanoes such as Tungurahua in Ecuador and the Galeras volcano in the same country. She has taken courses in Colombia and Argentina on the modeling of active volcanoes and has presented his research at conferences in Mexico, Colombia and Costa Rica.
     - name: Yeni Solis
       member_title: Communicologist
       image: images/team/CAMe/Yeni.jpg
