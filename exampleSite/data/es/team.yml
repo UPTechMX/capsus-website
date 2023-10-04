@@ -221,7 +221,7 @@ team:
       image_webp: images/team/foto_rodrigo.jpg
       categories:
         - consultants
-      title: Consultant
+      title: Consultor
       content: Desarrollo sustentable
       link: "#"
       member_profile: |
@@ -232,7 +232,7 @@ team:
       image_webp: images/team/SamuelM.jpg
       categories:
         - consultants
-      title: Consultant
+      title: Consultor
       content: Prospección y desarrollo sustentable
       link: "#"
       member_profile: |
@@ -265,7 +265,7 @@ team:
       image_webp: images/team/CAMe/AndreaMorales.jpg
       categories:
         - consultants
-      title: Consultant
+      title: Consultora
       content: Política pública y sustentabilidad
       link: "#"
       member_profile: |
