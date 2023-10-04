@@ -224,6 +224,28 @@ team:
       link: "#"
       member_profile: |
         **Over 5 years of experience designing and implementing development projects and analyzing public policies, as well as methodology design and participatory diagnostics in the public, private and social sectors.** He has a Master's in Regional Studies, with an emphasis on public policy, local governments, and governance. Core strengths include effective communication, scientific research, and negotiation skills. This enables a deep understanding of topics such as international affairs, regional and transborder development, subnational government capacities, and metropolitan governance. Extensive experience researching spatial and sociopolitical issues such as spatial segregation, multicultural policies, urban social movements, and community development. Strong background in designing and analyzing public policies within public urban planning offices and research centers, as well as designing, implementing and evaluating development projects in grassroots and international NGOs. Country experience includes Mexico, The United States, Canada, Poland, Indonesia, Turkmenistan, Kazakhstan, Uzbekistan, Kyrgyzstan, and Tajikistan.
+    - name: Rodrigo Negrete
+      member_title: Policy Analyst
+      image: images/team/foto_rodrigo.jpg
+      image_webp: images/team/foto_rodrigo.jpg
+      categories:
+        - consultants
+      title: Consultant
+      content: Sustainable development
+      link: "#"
+      member_profile: |
+        Graduated from the Geophysical Engineering program at the Universidad Nacional Autónoma de México, he holds a master's degree in numerical modeling from the Graduate Program in Earth Sciences at UNAM. His skills include spatial data analysis, analytical thinking, and proficiency in several programming languages. At CAPSUS, he has analyzed methodologies for calculating greenhouse gas emissions and implemented solutions for reducing these emissions into the atmosphere. Furthermore, he has participated in projects that require spatial information management to gain a better understanding of urban density patterns, enabling the identification of suitable locations for housing improvement. His professional experience extends to Indonesia, Republic of Maldives, and Mexico.
+    - name: Samuel Monteagudo
+      member_title: Policy Analyst
+      image: images/team/SamuelM.jpg
+      image_webp: images/team/SamuelM.jpg
+      categories:
+        - consultants
+      title: Consultant
+      content: Prospecting and sustainable development
+      link: "#"
+      member_profile: |
+        More than 3 years collaborating with international cooperation organizations in the creation of climate change mitigation strategies, energy efficiency and in the formulation of public policies that prioritize environmental sustainability. He has actively participated in various initiatives such as the promotion of Renewable Energy, the implementation of an economic model based on Circular Economy approach, and promoting electromobility and the adoption of 4.0 industry technologies. Additionally, he has a solid ability to lead workshops to develop technical and business skills, with a special focus on SMEs, based on approaches such as divergent creativity and the Design Thinking methodology. International experience includes Mexico, the United States and Germany.
     - name: Tania Guerrero
       member_title: Architect
       image: images/team/TG.jpg
@@ -235,6 +257,28 @@ team:
       link: "#"
       member_profile: |
         **Over 10 years of experience in architecture and urban planning.** Tania holds a Master's degree in Science in Architecture, Urbanism and Construction from Delft University of Technology, and a PhD in Human Geography from University College London. She has worked extensively on sustainable urban planning, analyzing and researching how cities evolve to identify key recommendations that can foster sustainable development. On the architectural arena, Tania has worked on improving the energy efficiency, environmental performance and comfort of housing. Country experiences include Mexico, the United States of America, Côte d’Ivoire and the Netherlands.
+    - name: Tania Ramírez
+      member_title: Arquitecta
+      image: images/team/TR.jpg
+      image_webp: images/team/TR.jpg
+      categories:
+        - associates
+      title: Asociada
+      content: Environmental Law
+      link: "#"
+      member_profile: |
+        Law student at the Universidad Abierta y a Distancia de México (UNADM). She started working in the projects' area with the CAPSUS team, analyzing and verifying the legal part of a construction waste project.
+    - name: Andrea Morales
+      member_title: PUBLIC ACCOUNTANT
+      image: images/team/CAMe/AndreaMorales.jpg
+      image_webp: images/team/CAMe/AndreaMorales.jpg
+      categories:
+        - consultants
+      title: Consultant
+      content: Public policy and sustainability
+      link: "#"
+      member_profile: |
+        She worked as a research assistant at the “think tank Ethos Innovation in Public Policy” and was a consultant for the United Nations Development Program (UNDP) at the Ministry of Foreign Affairs. Graduated from the Tecnológico Autónomo de México (ITAM), she has contributed to issues of green energy, sustainable transportation, public policies and Mexico's participation in multilateral forums and, currently, she works as Support for the Linkage of Public Policies in the Environmental Commission of the Megalopolis (CAMe).
     - name: Israel Huipio
       member_title: PUBLIC ACCOUNTANT
       image: images/team/CAMe/IsraelHuipio.jpg
