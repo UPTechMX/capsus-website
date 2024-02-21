@@ -83,7 +83,7 @@ jobs:
                   #### PROCESO
                   Si cumples con los requisitos, envía un correo electrónico a: <ideas@capsus.mx> con los siguientes documentos:
 
-                  1. CV. Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
+                  1. CV. Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes **no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.**
                   2. Book / portafolio de proyectos escolares y/o profesionales.
                   3. Carta de exposición de motivos donde nos cuentes por qué quieres hacer tus prácticas profesionales en CAPSUS y qué te llama de la sustentabilidad.
                   4. En el Asunto del correo por favor escribe "Prácticas Profesionales en Diseño de Información para la Sustentabilidad".
