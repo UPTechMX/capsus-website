@@ -40,74 +40,57 @@ jobs:
                 After analyzing your documentation, we will contact you for an interview where we can clarify the doubts that you and we have.
           info4:
             - info4_title: Careers
-              # info4_item:
-              # - info4_item_fulltitle: Comunicación social, periodismo
-              #   info4_item_subtitle: ""
-              #   info4_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
-              #   info4_item_content: |
-              #     #### PERFIL
-              #     Buscamos una persona convencida y comprometida con el desarrollo sustentable, con licenciatura en **Comunicación social, periodismo u otro similar**. Debes ser una persona dinámica, motivada, creativa y multidisciplinaria. Buscamos alguien que resuelva problemas y busque formas de lograr sus objetivos, no que encuentre razones por las cuales no se pueden alcanzar. Debes ser una persona responsable, transparente, honesta e íntegra.
-
-              #     Necesitas disponer de un horario de tiempo completo (40 horas a la semana), en donde el trabajo será presencial en la zona poniente de la Ciudad de México.
+              info4_item:
+              - info4_item_fulltitle: Prácticas Profesionales en Diseño de Información para la Sustentabilidad
+                info4_item_subtitle: ""
+                info4_item_title2: Buscamos a una persona para integrarse a nuestro equipo.
+                info4_item_content: |
+                  **Modalidad:** Home office (si estás en la CDMX nos encantaría invitarte en algunas ocasiones a la oficina)
                   
+                  Buscamos a una persona convencida y comprometida con el desarrollo sustentable que se encuentre en el último año o haya terminado una licenciatura afin al Diseño Gráfico, Diseño de la Comunicación Gráfica, Diseño y Comunicación Visual.
 
-              #     #### EXPERIENCIA LABORAL
-              #     Requieres contar con 4 años de experiencia laboral, ideal que sean más inclinados en el ramo ambiental. Buscamos personas con experiencia en difusión ambiental.
-
-
-              #     #### LABORES A REALIZAR
-              #     - Apoyar en el manejo de redes sociales.
-              #     - Trabajar en la elaboración de comunicados y boletines de prensa.
-              #     - Apoyar en la logística de entrevistas. 
-              #     - Realizar el diseño gráfico y editorial de materiales.
-              #     - Elaborar infografías, presentaciones de PowerPoint y otros medios similares. 
-              #     - Elaborar y actualizar la página de internet. 
-              #     - Preparar conferencias de prensa, seminarios, talleres.
+                  #### LABORES A REALIZAR
+                  - Apoyo con diseño de información.
+                  - Apoyo con visualización de datos en temas referentes a sustentabilidad.
+                  - Apoyo en el desarrollo de sistemas de diseño para proyectos dentro del área sustentable (manejo de paletas de color, iconografía, composiciones, tipografía, etc.)
+                  - Conocimientos básicos de diseño editorial.
+                  - Ilustración es un plus.
                   
+                  #### MANEJO DE PROGRAMAS
+                  - Illustrator
+                  - Photoshop
+                  - Conocimientos en InDesign
+                  - Otra herramienta de diseño es un plus
                   
-              #     #### HABILIDADES
-              #     - Buena relación profesional y personal.
-              #     - Colaborar eficientemente con colegas de diferentes ramas del conocimiento.
-              #     - Excelente ortografía.
-              #     - Manejo de Office al 100%.
-              #     - Proactividad y creatividad.
-              #     - Capacidad de negociación y resolución de conflictos.
-              #     - Capacidad de análisis y síntesis de información técnica y legal.
-              #     - Buscar soluciones a problemas y requerimientos del proyecto.
-              #     - Autodidacta y con ganas de seguir aprendiendo.
-              #     - Ser puntual con los compromisos.
-              #     - Excelente organización y administración de tiempo.
-              #     - Capacidad de aceptar retroalimentación de su trabajo y atenderla.
-              #     - Atención a los detalles.
-              #     - Disponibilidad para viajar.
-              #     - Ideal que tenga licencia de manejo.
+                  #### COMPETENCIAS Y HABILIDADES
+                  - Inglés nivel intermedio-avanzado.
+                  - Trabajo en equipo (trabajo con un equipo multidisciplinario)
+                  - Comunicación eficaz
+                  - Organización
+                  - Saber aprovechar la retroalimentación
+                  - Iniciativa y capacidad de reflexión
+                  - Orientación al detalle y estructura
+                  - Proactividad
+                  - Respeto
 
-
-              #     #### IDIOMAS
-              #     - Debes poder expresarte y escribir en español de manera impecable.
-
-                  
-              #     #### APTITUDES
-              #     - Organización
-              #     - Persistencia
-              #     - Tolerancia a la crítica
-              #     - Sociable.
-              #     - Con iniciativa propia
-              #     - Detallista
-              #     - Con estructura
-              #     - Multitareas
-
-              #     #### OFERTA
-              #     - Sueldo neto mensual: $18,000.00 - $21,000.00 dependiendo de experiencia y competencias, más prestaciones de ley.
+                  #### OFERTA
+                   - Integración a un equipo de trabajo multidisciplinar para trabajar en proyectos nacionales e internacionales
+                   - Trabajo con misión (impulsar el desarrollo sustentable)
+                   - Integración a las plataformas tecnológicas de CAPSUS
+                   - $5000 - $6000 pesos en tiempo completo (9-6pm) o $2500 a $3000 pesos medio tiempo.
               
 
-              #     #### PROCESO
-              #     Si tienes interés en la vacante envía un correo electrónico a: <ideas@capsus.mx> a manera de expresión de interés. Nos gustaría que además de tu CV, en el correo nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos anteriores de los cuales te enorgullezcas.
+                  #### PROCESO
+                  Si cumples con los requisitos, envía un correo electrónico a: <ideas@capsus.mx> con los siguientes documentos:
 
-              #     1. Envía tu exposición de motivos, copia de título profesional y CV por correo electrónico.
-              #     2. Si tu CV es seleccionado,  te llamamos a entrevista.
-              #   info4_id: vac-1
-              #   info4_item_location: CDMX
+                  1. CV. Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
+                  2. Book / portafolio de proyectos escolares y/o profesionales.
+                  3. Carta de exposición de motivos donde nos cuentes por qué quieres hacer tus prácticas profesionales en CAPSUS y qué te llama de la sustentabilidad.
+                  4. En el Asunto del correo por favor escribe "Prácticas Profesionales en Diseño de Información para la Sustentabilidad".
+
+                  Por favor revisa con detalle que hayas completado los pasos 1 al 4 antes de enviar tu solicitud, ya que no daremos seguimiento a solicitudes incompletas. Te notificaremos sobre los siguientes pasos cuando termine el periodo de aplicación.
+                info4_id: vac-1
+                info4_item_location: CDMX
               # - info4_item_fulltitle: Analista ambiental
               #   info4_item_subtitle: "2 vacantes"
               #   info4_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
