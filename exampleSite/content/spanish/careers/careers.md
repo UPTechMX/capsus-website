@@ -75,7 +75,7 @@ jobs:
                   3. Carta de exposición de motivos donde nos cuentes por qué quieres hacer tus prácticas profesionales en CAPSUS y qué te llama de la sustentabilidad.
                   4. En el Asunto del correo por favor escribe "Prácticas Profesionales en Diseño de Información para la Sustentabilidad".
 
-                  Por favor revisa con detalle que hayas completado los pasos 1 al 4 antes de enviar tu solicitud, ya que no daremos seguimiento a solicitudes incompletas. Te notificaremos sobre los siguientes pasos cuando termine el periodo de aplicación.
+                  **Por favor revisa con detalle que hayas completado los pasos 1 al 4 antes de enviar tu solicitud, ya que no daremos seguimiento a solicitudes incompletas. Te notificaremos sobre los siguientes pasos cuando termine el periodo de aplicación.**
                 info4_id: vac-1
                 info4_item_location: CDMX
               # - info4_item_fulltitle: Analista ambiental
