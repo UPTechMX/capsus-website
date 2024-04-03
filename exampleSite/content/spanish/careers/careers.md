@@ -28,7 +28,7 @@ jobs:
           info4:
             - info4_title: Vacantes
               info4_item:
-              - info4_item_fulltitle: Prácticas Profesionales en Diseño de Información para la Sustentabilidad
+              - info4_item_fulltitle: Prácticas Profesionales en Diseño Gráfico y Digital
                 info4_item_subtitle: ""
                 info4_item_title2: Buscamos a una persona para integrarse a nuestro equipo.
                 info4_item_content: |
