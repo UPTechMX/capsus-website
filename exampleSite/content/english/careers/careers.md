@@ -77,7 +77,7 @@ jobs:
                    - Integración a un equipo de trabajo multidisciplinar para trabajar en proyectos nacionales e internacionales
                    - Trabajo con misión (impulsar el desarrollo sustentable)
                    - Integración a las plataformas tecnológicas de CAPSUS
-                   - $5000 - $6000 pesos en tiempo completo (9-6pm) o $2500 a $3000 pesos medio tiempo.
+                   - Apoyo económico.
               
 
                   #### PROCESO
