@@ -79,6 +79,16 @@
 									</h5>
 								</a>
 							</button>
+							<h5 class="color">
+								{{ .download_info2 | markdownify }}
+							</h5>
+							<button class="btn btn-transparent mt-4">
+								<a href="{{ .download_link2 | relURL }}" download>
+									<h5 class="my-auto">
+										{{ .button2 | markdownify }}
+									</h5>
+								</a>
+							</button>
 							
 						</div>
 						<div class="col-lg-6 my-auto">

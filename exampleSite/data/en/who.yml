@@ -58,11 +58,14 @@ who:
         
     - who_title : Innovation and creativity through a diverse and inclusive workplace
       who_id: "gdi"
-      who_content : "We value human development as part of our contribution to build a sustainable, more equitable, and fair society. For that reason, we act under the premise of non-violence, gender equality, and respect for sexual diversity to protect the rights, identity and individuality of the LGBT+ community, women and minority groups in our workplace."
+      who_content : "We value human development as part of our contribution to build a sustainable, more equitable, and fair society. For that reason, we act under the premise of non-violence, gender equality, and respect for sexual diversity to protect the rights, identity and individuality of the LGBTQ+ community, women and minority groups in our workplace."
       image : images/who/diversidad-img-08.png
       image_webp : images/who/diversidad-img-08.png
       button: Download GDI policy
+      button2: Download SDP
       download_link: "documents/Gender-diversity-and-inclusion-policy_04_23.pdf"
-      download_info: "Learn more about our gender, diversity and inclusion policy here:"
+      download_info: "Learn more about our Gender, Diversity and Inclusion Policy here:"
+      download_link2: "documents/ENG_Supplier_Diversity_Policy.pdf"
+      download_info2: "Learn more about our gender, diversity and inclusion policy here:"
       list_item : 
-        - list_content : We value human development as part of our contribution to build a sustainable, more equitable, and fair society. For that reason, we act under the premise of non-violence, gender equality, and respect for sexual diversity to protect the rights, identity and individuality of the LGBT+ community, women and minority groups in our workplace.
+        - list_content : We value human development as part of our contribution to build a sustainable, more equitable, and fair society. For that reason, we act under the premise of non-violence, gender equality, and respect for sexual diversity to protect the rights, identity and individuality of the LGBTQ+ community, women and minority groups in our workplace.
