@@ -49,7 +49,7 @@ who:
       who_content : "We consider our clients as partners in a common effort to improve the environmental performance, economic achievements and social responsibility of the projects in the regions where we work."
       image : images/who/Vision.png
       image_webp : images/who/Vision.png
-      list_item : 
+      list_item :
         - list_content : Corresponsabilidad
         - list_content : Compromiso
         - list_content : Crecimiento
@@ -66,6 +66,6 @@ who:
       download_link: "documents/Gender-diversity-and-inclusion-policy_04_23.pdf"
       download_info: "Learn more about our Gender, Diversity and Inclusion Policy here:"
       download_link2: "documents/ENG_Supplier_Diversity_Policy.pdf"
-      download_info2: "Learn more about our gender, diversity and inclusion policy here:"
-      list_item : 
+      download_info2: "Learn more about our Supplier Diversity Policy here:"
+      list_item :
         - list_content : We value human development as part of our contribution to build a sustainable, more equitable, and fair society. For that reason, we act under the premise of non-violence, gender equality, and respect for sexual diversity to protect the rights, identity and individuality of the LGBTQ+ community, women and minority groups in our workplace.
