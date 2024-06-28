@@ -26,6 +26,17 @@ team:
       link: "#"
       member_profile: |
         **Ricardo has a mechanical engineering and administration background, postgraduate studies in energy, and 17 years of experience in sustainable development.** Ricardo develops tools to support local governments in making informed choices. His work combines system analytics, software development, and evidence-based decision-making processes. He has developed systems and analytical work for more than 300 cities in Africa, East Asia & Pacific, Europe & Central Asia, Latin America & the Caribbean, the Middle East, and South Asia.
+    - name: Andrea González
+      member_title: Sustainable Development Engineer and Master in Environmental Management
+      image: images/team/AN.jpg
+      image_webp: images/team/AN.jpg
+      categories:
+        - coordinators
+      title: Coordinator
+      content: Sustainable Development
+      link: "#"
+      member_profile: |
+        **More than 5 years of experience in the public sector coordinating the development of regulatory instruments, urban planning, and institutional structures focused on sustainable urban mobility, public space, and road safety. She has a master's degree in Environmental Management from Duke University.** Background in the development of urban experimentation exercises, under collaborative work schemes between the social, academic, public, and private sectors. Experience providing technical support to local governments for the development of urban improvement projects, with emphasis on sustainable mobility and gender perspective. Her international experience includes Cambodia, Indonesia, Ecuador, Peru, and the evaluation of Climate Action Plans of Argentina, Brazil, Chile, Colombia, Honduras, and Jamaica.
     - name: Daniela Evia
       member_title: Art Historian
       image: images/team/DE.jpg
@@ -81,17 +92,6 @@ team:
       link: "#"
       member_profile: |
         **Over 1 year of experience in data analysis, contamination assessment, and development of cartographic material to inform decision-making and management strategies for governmental and academic institutions.** Earth Science graduate from the National Autonomous University of Mexico. Core strengths include analytical skills, problem-solving, and teamwork. She has mainly worked on projects in Mexico, such as the Annual Program for Fire Prevention and Combat at Iztapalapa borough, the management plan for Cerro de la Estrella National Park, and developing maps of disruptive phenomena. She possesses international academic experience as a Huayu Enrichment Scholarship recipient at the National Normal Taiwan University.
-    - name: Andrea González
-      member_title: Sustainable Development Engineer and Master in Environmental Management
-      image: images/team/AN.jpg
-      image_webp: images/team/AN.jpg
-      categories:
-        - consultants
-      title: Consultant
-      content: Sustainable Development
-      link: "#"
-      member_profile: |
-        **More than 5 years of experience in the public sector coordinating the development of regulatory instruments, urban planning, and institutional structures focused on sustainable urban mobility, public space, and road safety. She has a master's degree in Environmental Management from Duke University.** Background in the development of urban experimentation exercises, under collaborative work schemes between the social, academic, public, and private sectors. Experience providing technical support to local governments for the development of urban improvement projects, with emphasis on sustainable mobility and gender perspective. Her international experience includes Cambodia, Indonesia, Ecuador, Peru, and the evaluation of Climate Action Plans of Argentina, Brazil, Chile, Colombia, Honduras, and Jamaica.
     - name: Antares Velázquez
       member_title: Graphic Communication Designer
       image: images/team/AV.jpg
@@ -334,28 +334,30 @@ team:
       link: "#"
       member_profile: |
         **3 years of professional experience in the field of environmental and administrative law.** He has a Degree in Law from the Universidad Autónoma Metropolitana. In the public sector, he worked in the Legal Affairs Unit of the Mexican Secretary of Environment and Natural Resources. In the private sector, he worked in a law firm dedicated to environmental and administrative matters. Throughout his professional career in environmental and administrative law, he has participated in the evaluation and design of laws and their regulations, including guidelines, norms, standards, conventions, and international treaties.
-    - name: Araceli Hernández
+    - name: Norma Lucina Hernández
       member_title: Urban Planner
-      image: images/team/CAMe/Araceli.jpg
-      image_webp: images/team/CAMe/Araceli.jpg
+      image: images/team/CAMe/lucina_BN.jpg
+      image_webp: images/team/CAMe/lucina_BN.jpg
       categories:
         - consultants
       title: Consultant
-      content: Sustainable Urban Development
+      content: Public Policy
       link: "#"
       member_profile: |
-        **More than 20 years of experience in the academic, private and public sectors.** Araceli holds a bachelor in Design of Human Settlements from the Mexican Universidad Autónoma Metropolitana, and a Master's degree in Urban Planning form the National Autonomous University of Mexico. She also has post graduate studies in environmental policy and pollution control. In academia, Araceli has given undergraduate level courses in the urban development subjects. In the private sector she worked in architectural and construction companies, and in the public sector she has worked both in the local and national governments of Mexico, in the ministries of environment, urban development and social development.
-    - name: Mónica Palomero
+        Extensive experience in the interaction between society and the environment, gained through participation in working groups dedicated to environmental education. She holds a degree in Earth Sciences and a master's degree in Sustainability Sciences from the Universidad Nacional Autónoma de México (UNAM). As a professor at the Faculty of Sciences at UNAM, she has taught courses on Applied Ecology and the Philosophy and Ethics of Science. She actively disseminates information on scientific topics, particularly those related to environmental and sustainable processes. Currently, she supports low-carbon transportation and sustainable mobility initiatives for the Megalopolis Environmental Commission.
+    - name: Víctor Sánchez
       member_title: Environmental engineer
-      image: images/team/CAMe/Monica.jpg
-      image_webp: images/team/CAMe/Monica.jpg
+      image: images/team/CAMe/Victor_BN.jpg
+      image_webp: images/team/CAMe/Victor_BN.jpg
       categories:
         - consultants
       title: Consultant
-      content: Sustainable development
+      content: Air quality
       link: "#"
       member_profile: |
-        **More than 25 years of experience in the environmental sector, in the areas of air quality, water, hazardous waste, among others.** This includes the development of supervision, inspection and surveillance programs at the national level in patrimonial, environmental and security in hydrocarbons.** The main strengths of her work is in the effective and efficient communication of complex concepts and processes which has allowed her to do planning, programming, evaluation and project management. Extensive experience in supervising inspection, surveillance and verification plans and programs in the federal maritime-terrestrial zone at the national level, as well as in the development and execution of programs and projects in which inter-institutional coordination and linkage are needed. Solid experience in the management of national security actions to safeguard the Nation's Assets, the planning, coordination and execution of Special Operations in the main coasts of the country, with the support and direct interaction of the federal judicial authorities. International experience includes Germany, Japan and Venezuela. She was an active member of the Clean Beaches Committee of Mexico, contributing to the sanitation, prevention and correction of contamination of Mexican beaches through various actions, investigations and proposals.
+        With over 20 years of experience in the environmental field, specializing in air quality, environmental information management, emissions estimation, and modeling. Extensive experience in various programming languages, with a focus on modeling, database administration, and web design. Knowledge and experience in developing working teams and fostering meaningful relationships among collaborators. Additionally, he has the ability to generate adaptive strategies in response to changes, demonstrating versatility in various environments.
+        
+        His work with data and information has required establishing efficient communication flows with federal entities and other national and international institutions, mainly in the United States and Canada, generating information for dissemination, training, and decision-making.
     - name: Diana Marquez
       member_title: Architect
       image: images/team/CAMe/DianaMarquez.jpg

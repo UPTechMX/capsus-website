@@ -26,6 +26,17 @@ team:
       link: "#"
       member_profile: |
         **Ricardo estudió Ingeniería Mecánica y Administración, y es Maestro en Ciencias en Energía Renovable. Ha trabajado durante 17 años en la evaluación de prácticas y políticas de desarrollo sostenible, agua y energía.** La mayor parte de su trabajo se ha enfocado en el desarrollo de herramientas para ayudar a los gobiernos a tomar decisiones informadas. Su trabajo combina análisis de sistemas, desarrollo de software, análisis de datos espaciales y procesos de toma de decisiones basados en evidencia. Ricardo ha trabajado en 18 países, desarrollado sistemas para más de 300 ciudades en África, Asia y el Pacífico, Europa, Norteamérica, América Latina y el Caribe, y en el Medio Oriente.
+    - name: Andrea González
+      member_title: Ingeniera en Desarrollo Sustentable y Maestra en Gestión Ambiental
+      image: images/team/AN.jpg
+      image_webp: images/team/AN.jpg
+      categories:
+        - coordinators
+      title: Coordinadora
+      content: Desarrollo Sustentable
+      link: "#"
+      member_profile: |
+        **Más de 5 años de experiencia en el sector público coordinando el desarrollo de instrumentos normativos, de planificación urbana y estructuras institucionales enfocadas en la movilidad urbana sostenible, el espacio público y la seguridad vial. Cuenta con una maestría en Gestión Ambiental por parte de Duke University.** Antecedentes en el desarrollo de ejercicios de experimentación urbana, bajo esquemas de trabajo colaborativo entre los sectores social, académico, público y privado. Experiencia brindando apoyo técnico a gobiernos locales para el desarrollo de proyectos de mejoramiento urbano, con énfasis en movilidad sostenible y perspectiva de género. Su experiencia internacional incluye: Ecuador, Perú, y la evaluación de Planes de Acción Climática de Argentina, Brasil, Chile, Colombia, Honduras, y Jamaica.
     - name: Daniela Evia
       member_title: Historiadora y maestra en Innovación Educativa
       image: images/team/DE.jpg
@@ -81,17 +92,6 @@ team:
       link: "#"
       member_profile: |
         **Más de 1 año de experiencia en análisis de datos, evaluación de contaminación y desarrollo de material cartográfico para informar la toma de decisiones y estrategias de manejo para instituciones gubernamentales y académicas.** Egresada en Ciencias de la Tierra por la Universidad Nacional Autónoma de México. Sus principales fortalezas incluyen habilidades analíticas, resolución de problemas y trabajo en equipo. Ha trabajado principalmente en proyectos en México, como el Programa Anual de Prevención y Combate contra Incendios en la alcaldía de Iztapalapa, el plan de manejo de la ANP Cerro de la Estrella, y la elaboración de mapas de fenómenos perturbadores. Posee experiencia académica internacional como becaria del Programa de Enriquecimiento Huayu en la Universidad Nacional Normal de Taiwán.
-    - name: Andrea González
-      member_title: Ingeniera en Desarrollo Sustentable y Maestra en Gestión Ambiental
-      image: images/team/AN.jpg
-      image_webp: images/team/AN.jpg
-      categories:
-        - consultants
-      title: Consultora
-      content: Desarrollo Sustentable
-      link: "#"
-      member_profile: |
-        **Más de 5 años de experiencia en el sector público coordinando el desarrollo de instrumentos normativos, de planificación urbana y estructuras institucionales enfocadas en la movilidad urbana sostenible, el espacio público y la seguridad vial. Cuenta con una maestría en Gestión Ambiental por parte de Duke University.** Antecedentes en el desarrollo de ejercicios de experimentación urbana, bajo esquemas de trabajo colaborativo entre los sectores social, académico, público y privado. Experiencia brindando apoyo técnico a gobiernos locales para el desarrollo de proyectos de mejoramiento urbano, con énfasis en movilidad sostenible y perspectiva de género. Su experiencia internacional incluye: Ecuador, Perú, y la evaluación de Planes de Acción Climática de Argentina, Brasil, Chile, Colombia, Honduras, y Jamaica.
     - name: Antares Velázquez
       member_title: Diseñadora de la Comunicación Gráfica
       image: images/team/AV.jpg
@@ -325,28 +325,28 @@ team:
       link: "#"
       member_profile: |
         3 años de experiencia profesional en el campo del derecho ambiental y administrativo. Es Licenciado en Derecho por la Universidad Autónoma Metropolitana. En el sector público, se desempeñó en la Unidad de Asuntos Jurídicos de la Secretaría de Medio Ambiente y Recursos Naturales de México. En el sector privado, trabajó en un despacho de abogados dedicado a asuntos ambientales y administrativos. A lo largo de su carrera profesional en derecho ambiental y administrativo ha participado en la evaluación y diseño de leyes y sus reglamentos, incluyendo lineamientos, normas, estándares, convenios y tratados internacionales.
-    - name: Araceli Hernández
-      member_title: Urbanista
-      image: images/team/CAMe/Araceli.jpg
-      image_webp: images/team/CAMe/Araceli.jpg
+    - name: Norma Lucina Hernández
+      member_title: Urban Planner
+      image: images/team/CAMe/lucina_BN.jpg
+      image_webp: images/team/CAMe/lucina_BN.jpg
       categories:
         - consultants
       title: Consultora
-      content: Desarrollo urbano sustentable
+      content: Política pública
       link: "#"
       member_profile: |
-        **Más de 20 años de experiencia en los sectores académico, privado y público.** Tiene una licenciatura en Diseño de Asentamientos Humanos de la Universidad Autónoma Metropolitana de México y una Maestría en Planeación Urbana de la Universidad Nacional Autónoma de México. También tiene estudios de posgrado en política ambiental y control de la contaminación. En el ámbito académico, Araceli ha impartido cursos a nivel de pregrado en las materias de desarrollo urbano. En el sector privado se desempeñó en empresas de arquitectura y construcción, y en el sector público ha trabajado tanto en los gobiernos locales y nacionales de México, así como en las secretarías de medio ambiente, desarrollo urbano y desarrollo social.
-    - name: Mónica Palomero
-      member_title: Ingeniera ambiental
-      image: images/team/CAMe/Monica.jpg
-      image_webp: images/team/CAMe/Monica.jpg
+        Experiencia en temas relacionados con la interacción sociedad y medio ambiente. Ha formado parte de grupos de trabajo dedicados a la educación ambiental. Es licenciada en ciencias de la Tierra y maestrante en ciencias de la sostenibilidad por la Universidad Nacional Autónoma de México (UNAM). También ha sido profesora en la Facultad de Ciencias de la UNAM impartiendo cursos sobre Ecología Aplicada y Filosofía y Ética de la Ciencias. Es divulgadora de las ciencias, particularmente en temas relacionados con procesos ambientales y sostenibles. Actualmente colabora junto con la Comisión Ambiental de la Megalópolis en temas sobre transporte de bajo carbono y movilidad sustentable.
+    - name: Víctor Sánchez
+      member_title: Environmental engineer
+      image: images/team/CAMe/Victor_BN.jpg
+      image_webp: images/team/CAMe/Victor_BN.jpg
       categories:
         - consultants
-      title: Consultora
-      content: Desarrollo sustentable
+      title: Consultor
+      content: Calidad del aire
       link: "#"
       member_profile: |
-        **Más de 25 años de experiencia en el sector ambiental, en las áreas de calidad del aire, agua, residuos peligrosos, entre otros. Esto incluye el desarrollo programas de supervisión, inspección y vigilancia a nivel nacional en materia patrimonial, ambiental y de seguridad en materia de hidrocarburos.** Las fortalezas principales de su trabajo radican en la comunicación efectiva y eficiente de conceptos y procesos complejos, lo que ha permitido obtener una preparación en las áreas de planeación, programación, evaluación y administración de proyectos. Amplia experiencia en las funciones de supervisión de planes y programas de inspección, vigilancia y verificación en la zona federal marítimo terrestre a nivel nacional, así como en el desarrollo y ejecución de programas y proyectos en los que la coordinación y vinculación interinstitucional se hacen necesarias. Sólida experiencia en el manejo de acciones de seguridad nacional para salvaguardar los Bienes de la Nación, la planeación, coordinación y ejecución de Operativos Especiales en las principales costas del país, con el apoyo e interacción directa de las autoridades federales judiciales, tanto en el seguimiento de denuncias ambientales como personas puestas a disposición en el ministerio público federal. Con muchos años trabajando en México, su experiencia internacional incluye Alemania, Japón y Venezuela. Fue miembro activo del Comité de Playas Limpias de México, coadyuvando en el saneamiento, prevención y corrección de la contaminación de las playas mexicanas a través de diversas acciones, investigaciones y propuestas.
+        Con más de 20 años de experiencia en medio ambiente, especializado en la calidad del aire, manejo de información ambiental, estimación de emisiones y modelación. Amplia experiencia en diversos lenguajes de programación, abarcando todas sus capas, enfoque y usos, con modelación, administración de bases de datos y diseño web. Posee conocimiento y experiencia en el desarrollo de equipos de trabajo, fomentando relaciones significativas entre quienes colaboran. Además, tiene la capacidad de generar estrategias adaptativas a los cambios, demostrando una versatilidad en entornos variados. Su trabajo con datos e información ha requerido establecer flujos de comunicación eficientes con entidades federativas y otras instituciones nacionales e internacionales, principalmente en Estados Unidos y Canadá, generando información para divulgación, capacitación y toma de decisiones.
     - name: Diana Marquez
       member_title: Architect
       image: images/team/CAMe/DianaMarquez.jpg
