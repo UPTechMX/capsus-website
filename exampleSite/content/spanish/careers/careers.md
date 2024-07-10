@@ -27,57 +27,57 @@ jobs:
           info_fullcontent: "Somos CAPSUS, una consultora en sustentabilidad enfocada en impulsar un crecimiento ambientalmente amigable, económicamente eficiente y socialmente justo en las ciudades y países en los que trabajamos. Confiamos en que el desarrollo sustentable de las empresas, ciudades y naciones garantiza una mejor calidad de vida. Por eso trabajamos con los sectores público y privado, a nivel nacional e internacional, en el desarrollo de herramientas e instrumentos para la toma de decisiones informadas que mejoren el desempeño ambiental, económico y social. \n\nSomos un equipo diverso, en el que convergen múltiples disciplinas como arquitectura, ingeniería química, física, energética, diseño de la información, urbanismo y desarrollo de software, por nombrar algunas. Nos enorgullece la naturaleza multidisciplinar del equipo y estamos en <b>búsqueda de personas que lo enriquezcan.</b>"
           info4:
             - info4_title: Vacantes
-              info4_item:
-              - info4_item_fulltitle: Prácticas Profesionales en Diseño Gráfico y Digital
-                info4_item_subtitle: ""
-                info4_item_title2: Buscamos a una persona para integrarse a nuestro equipo.
-                info4_item_content: |
-                  **Modalidad:** Home office (si estás en la CDMX nos encantaría invitarte en algunas ocasiones a la oficina)
+              # info4_item:
+              # - info4_item_fulltitle: Prácticas Profesionales en Diseño Gráfico y Digital
+              #   info4_item_subtitle: ""
+              #   info4_item_title2: Buscamos a una persona para integrarse a nuestro equipo.
+              #   info4_item_content: |
+              #     **Modalidad:** Home office (si estás en la CDMX nos encantaría invitarte en algunas ocasiones a la oficina)
                   
-                  Buscamos a una persona convencida y comprometida con el desarrollo sustentable que se encuentre en el último año o haya terminado una licenciatura afin al Diseño Gráfico, Diseño de la Comunicación Gráfica, Diseño y Comunicación Visual.
+              #     Buscamos a una persona convencida y comprometida con el desarrollo sustentable que se encuentre en el último año o haya terminado una licenciatura afin al Diseño Gráfico, Diseño de la Comunicación Gráfica, Diseño y Comunicación Visual.
 
-                  #### LABORES A REALIZAR
-                  - Apoyo con diseño de información.
-                  - Apoyo con visualización de datos en temas referentes a sustentabilidad.
-                  - Apoyo en el desarrollo de sistemas de diseño para proyectos dentro del área sustentable (manejo de paletas de color, iconografía, composiciones, tipografía, etc.)
-                  - Conocimientos básicos de diseño editorial.
-                  - Ilustración es un plus.
+              #     #### LABORES A REALIZAR
+              #     - Apoyo con diseño de información.
+              #     - Apoyo con visualización de datos en temas referentes a sustentabilidad.
+              #     - Apoyo en el desarrollo de sistemas de diseño para proyectos dentro del área sustentable (manejo de paletas de color, iconografía, composiciones, tipografía, etc.)
+              #     - Conocimientos básicos de diseño editorial.
+              #     - Ilustración es un plus.
                   
-                  #### MANEJO DE PROGRAMAS
-                  - Illustrator
-                  - Photoshop
-                  - Conocimientos en InDesign
-                  - Otra herramienta de diseño es un plus
+              #     #### MANEJO DE PROGRAMAS
+              #     - Illustrator
+              #     - Photoshop
+              #     - Conocimientos en InDesign
+              #     - Otra herramienta de diseño es un plus
                   
-                  #### COMPETENCIAS Y HABILIDADES
-                  - Inglés nivel intermedio-avanzado.
-                  - Trabajo en equipo (trabajo con un equipo multidisciplinario)
-                  - Comunicación eficaz
-                  - Organización
-                  - Saber aprovechar la retroalimentación
-                  - Iniciativa y capacidad de reflexión
-                  - Orientación al detalle y estructura
-                  - Proactividad
-                  - Respeto
+              #     #### COMPETENCIAS Y HABILIDADES
+              #     - Inglés nivel intermedio-avanzado.
+              #     - Trabajo en equipo (trabajo con un equipo multidisciplinario)
+              #     - Comunicación eficaz
+              #     - Organización
+              #     - Saber aprovechar la retroalimentación
+              #     - Iniciativa y capacidad de reflexión
+              #     - Orientación al detalle y estructura
+              #     - Proactividad
+              #     - Respeto
 
-                  #### OFERTA
-                   - Integración a un equipo de trabajo multidisciplinar para trabajar en proyectos nacionales e internacionales
-                   - Trabajo con misión (impulsar el desarrollo sustentable)
-                   - Integración a las plataformas tecnológicas de CAPSUS
-                   - Apoyo económico.
+              #     #### OFERTA
+              #      - Integración a un equipo de trabajo multidisciplinar para trabajar en proyectos nacionales e internacionales
+              #      - Trabajo con misión (impulsar el desarrollo sustentable)
+              #      - Integración a las plataformas tecnológicas de CAPSUS
+              #      - Apoyo económico.
               
 
-                  #### PROCESO
-                  Si cumples con los requisitos, envía un correo electrónico a: <ideas@capsus.mx> con los siguientes documentos:
+              #     #### PROCESO
+              #     Si cumples con los requisitos, envía un correo electrónico a: <ideas@capsus.mx> con los siguientes documentos:
 
-                  1. CV. Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes **no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.**
-                  2. Book / portafolio de proyectos escolares y/o profesionales.
-                  3. Carta de exposición de motivos donde nos cuentes por qué quieres hacer tus prácticas profesionales en CAPSUS y qué te llama de la sustentabilidad.
-                  4. En el Asunto del correo por favor escribe "Prácticas Profesionales en Diseño de Información para la Sustentabilidad".
+              #     1. CV. Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes **no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.**
+              #     2. Book / portafolio de proyectos escolares y/o profesionales.
+              #     3. Carta de exposición de motivos donde nos cuentes por qué quieres hacer tus prácticas profesionales en CAPSUS y qué te llama de la sustentabilidad.
+              #     4. En el Asunto del correo por favor escribe "Prácticas Profesionales en Diseño de Información para la Sustentabilidad".
 
-                  <h4>**Por favor revisa con detalle que hayas completado los pasos 1 al 4 antes de enviar tu solicitud, ya que no daremos seguimiento a solicitudes incompletas. Te notificaremos sobre los siguientes pasos cuando termine el periodo de aplicación.**</h4>
-                info4_id: vac-1
-                info4_item_location: CDMX
+              #     <h4>**Por favor revisa con detalle que hayas completado los pasos 1 al 4 antes de enviar tu solicitud, ya que no daremos seguimiento a solicitudes incompletas. Te notificaremos sobre los siguientes pasos cuando termine el periodo de aplicación.**</h4>
+              #   info4_id: vac-1
+              #   info4_item_location: CDMX
               # - info4_item_fulltitle: Analista ambiental
               #   info4_item_subtitle: "2 vacantes"
               #   info4_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
