@@ -17,6 +17,28 @@
 			{{"<!-- /section title -->" | safeHTML}}
 		</div>
 		<div class="row justify-content-center">
+			<div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
+				<img src="{{ .img_badge1 | relLangURL }}" alt="">
+			</div>
+			<div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
+				<img src="{{ .img_badge2 | relLangURL }}" alt="">
+			</div>
+			<div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
+				<img src="{{ .img_badge3 | relLangURL }}" alt="">
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<div class="col-lg-12">
+				{{"<!-- section title -->" | safeHTML}}
+				<div class="title text-center wow fadeIn" data-wow-duration="1500ms">
+					<h2> <span class="color-2">{{ .title | markdownify }}</span><span class="color">
+						{{ .second_title | markdownify }} </span></h2>
+					<div class="border-meghna" class="border-top: 1px solid gray;"></div>
+				</div>
+			</div>
+			{{"<!-- /section title -->" | safeHTML}}
+		</div>
+		<div class="row justify-content-center">
 			{{ range .button_item }}
 			{{ if eq .enable true }}
 			{{"<!-- About item -->" | safeHTML}}
