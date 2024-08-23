@@ -14,9 +14,9 @@ jobs:
     diversity_document: documents/Gender-diversity-and-inclusion-policy_24.pdf
     button_diversity: Descargar política GDI
     button_policy: Descargar PPD
-    diversity_link: "documents/Gender-diversity-and-inclusion-policy_24.pdf"
+    diversity_button: "documents/Gender-diversity-and-inclusion-policy_24.pdf"
     diversity_info: "Conoce nuestra Política de Género, Diversidad e Inclusión aquí:"
-    policy_link: "documents/ENG_Supplier_Diversity_Policy.pdf"
+    policy_button: "documents/ENG_Supplier_Diversity_Policy.pdf"
     policy_info: "Conoce nuestra Política de Proveeduría Diversa aquí:"
     job_intro_title : TRANSDISCIPLINARY TEAMWORK
     job_intro_content : "We overcome challenges in different contexts thanks to our multidisciplinary team, our experience and deep understanding of our client's needs.\n\nThe strength of CAPSUS is constituted by the great capacity and creativity of the people who make up the team, committed to build a safe, fair, resilient and people-oriented environment."
