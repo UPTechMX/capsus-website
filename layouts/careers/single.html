@@ -36,10 +36,23 @@
                 <p>
                   <span>{{ .diversity_content | markdownify }}</span>
                 </p>
-                <button class="btn btn-transparent mt-4" tabindex="-1">
-                  <a href="{{ .diversity_document | relURL }}" download>
+                <h5 class="color">
+                  {{ .diverity_info | markdownify }}
+                </h5>
+                <button class="btn btn-transparent mt-4">
+                  <a href="{{ .diversity_button | relURL }}" download>
                     <h5 class="my-auto">
-                      {{ .diversity_button_title | markdownify }}
+                      {{ .button_diversity | markdownify }}
+                    </h5>
+                  </a>
+                </button>
+                <h5 class="mt-4 color">
+                  {{ .policy_info | markdownify }}
+                </h5>
+                <button class="btn btn-transparent mt-4">
+                  <a href="{{ .policy_button | relURL }}" download>
+                    <h5 class="my-auto">
+                      {{ .button_policy | markdownify }}
                     </h5>
                   </a>
                 </button>
