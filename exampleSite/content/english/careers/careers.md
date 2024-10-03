@@ -41,7 +41,7 @@ jobs:
           info3:
             - info3_title: "Are you interested? \n\nContact us:"
               info3_content: |
-                Send an email to <ideas@capsus.mx> with your CV, a cover letter in spanish about why you are interested in working at CAPSUS and what motivates you to pursue a professional career in the sustainability area.
+                Send an email to <ideas@capsus.us> with your CV, a cover letter in spanish about why you are interested in working at CAPSUS and what motivates you to pursue a professional career in the sustainability area.
 
                 After analyzing your documentation, we will contact you for an interview where we can clarify the doubts that you and we have.
           info4:
@@ -87,7 +87,7 @@ jobs:
               
 
               #     #### PROCESO
-              #     Si cumples con los requisitos, envía un correo electrónico a: <ideas@capsus.mx> con los siguientes documentos:
+              #     Si cumples con los requisitos, envía un correo electrónico a: <ideas@capsus.us> con los siguientes documentos:
 
               #     1. CV. Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes **no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.**
               #     2. Book / portafolio de proyectos escolares y/o profesionales.
@@ -160,7 +160,7 @@ jobs:
               
 
               #     #### PROCESO
-              #     Si tienes interés en la vacante envía un correo electrónico a: <ideas@capsus.mx> a manera de expresión de interés. Nos gustaría que además de tu CV, en el correo nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos anteriores de los cuales te enorgullezcas.
+              #     Si tienes interés en la vacante envía un correo electrónico a: <ideas@capsus.us> a manera de expresión de interés. Nos gustaría que además de tu CV, en el correo nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos anteriores de los cuales te enorgullezcas.
 
               #     1. Envía tu exposición de motivos, copia de título profesional y CV por correo electrónico.
               #     2. Si tu CV es seleccionado,  te llamamos a entrevista.
@@ -225,7 +225,7 @@ jobs:
               
 
               #     #### PROCESO
-              #     Si tienes interés en la vacante envía un correo electrónico a: <ideas@capsus.mx> a manera de expresión de interés. Nos gustaría que además de tu CV, en el correo nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos anteriores de los cuales te enorgullezcas.
+              #     Si tienes interés en la vacante envía un correo electrónico a: <ideas@capsus.us> a manera de expresión de interés. Nos gustaría que además de tu CV, en el correo nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos anteriores de los cuales te enorgullezcas.
 
               #     1. Envía tu exposición de motivos, copia de título profesional y CV por correo electrónico.
               #     2. Si tu CV es seleccionado,  te llamamos a entrevista.
@@ -290,7 +290,7 @@ jobs:
               
 
               #     #### PROCESO
-              #     Si tienes interés en la vacante envía un correo electrónico a: <ideas@capsus.mx> a manera de expresión de interés. Nos gustaría que además de tu CV, en el correo nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos anteriores de los cuales te enorgullezcas.
+              #     Si tienes interés en la vacante envía un correo electrónico a: <ideas@capsus.us> a manera de expresión de interés. Nos gustaría que además de tu CV, en el correo nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos anteriores de los cuales te enorgullezcas.
 
               #     1. Envía tu exposición de motivos, copia de título profesional y CV por correo electrónico.
               #     2. Si tu CV es seleccionado,  te llamamos a entrevista.
@@ -351,7 +351,7 @@ jobs:
               
 
               #     #### PROCESO
-              #     Si cumples con los requisitos, envía un correo electrónico a: <ideas@capsus.mx> con los siguientes documentos:
+              #     Si cumples con los requisitos, envía un correo electrónico a: <ideas@capsus.us> con los siguientes documentos:
 
               #     1. Una carta de motivos en español donde nos cuentes por qué te interesa trabajar en CAPSUS y qué te motiva a seguir una carrera profesional en el área de la sustentabilidad.
               #     2. Una carta en inglés donde nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullecen. 
@@ -393,7 +393,7 @@ jobs:
 
               
               #     #### PROCESO
-              #     1. Envía los siguientes documentos al correo <ideas@capsus.mx>. Asegúrate que el asunto del correo contenga en el asunto "Vacante Analista ambiental" y tus iniciales (Vacante analista ambiental  - tus iniciales). 
+              #     1. Envía los siguientes documentos al correo <ideas@capsus.us>. Asegúrate que el asunto del correo contenga en el asunto "Vacante Analista ambiental" y tus iniciales (Vacante analista ambiental  - tus iniciales). 
               #        a. **CV en español.** Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.
               #        b. **Carta de exposición de motivos en inglés**
               #        c. **Carta que explique la importancia del desarrollo sustentable en español**
@@ -451,7 +451,7 @@ jobs:
 
                
               #     #### PROCESO
-              #     Si cumples con los requisitos indispensables y tienes interés en formar parte de nuestro equipo, envía los siguientes documentos al correo <ideas@capsus.mx>.
+              #     Si cumples con los requisitos indispensables y tienes interés en formar parte de nuestro equipo, envía los siguientes documentos al correo <ideas@capsus.us>.
 
               #     **Cada documento (en \*.pdf) por separado**, y para nombrarlos por favor excluye tu nombre y **utiliza únicamente tus iniciales como referencia**.
 
@@ -490,7 +490,7 @@ jobs:
               #     **¿Si no soy una persona Mexicana, puedo aplicar?** Para que cuentes con todos los beneficios que ofrecemos, requerimos que tengas un registro fiscal en México. Sin embargo, estamos dispuestos a trabajar con alguien fuera del país a través de alguna de nuestras sucursales, mientras sea legal y administrativamente viable.
 
               #     **¿Si tengo alguna pregunta, a quien puedo consultar?**  
-              #      Cualquier duda que tengas la puedes enviar a <ideas@capsus.mx>. Solo recuerda que en este proceso se evalúa también la capacidad de investigación.
+              #      Cualquier duda que tengas la puedes enviar a <ideas@capsus.us>. Solo recuerda que en este proceso se evalúa también la capacidad de investigación.
               #   info4_id: vac-4
               #   info4_item_location: CDMX
               # - info4_item_fulltitle: Ingeniero para soporte técnico
@@ -560,10 +560,10 @@ jobs:
               #     - Colegas de trabajo inteligentes y capaces
               
               #     #### PROCESO
-              #     Envía al correo electrónico <ideas@capsus.mx> lo siguiente:
+              #     Envía al correo electrónico <ideas@capsus.us> lo siguiente:
 
               #     1. Tu exposición de motivos. Nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullezcan.
-              #     2. Copia de título profesional y CV por correo electrónico a <ideas@capsus.mx>
+              #     2. Copia de título profesional y CV por correo electrónico a <ideas@capsus.us>
               #     3. Si tu CV es seleccionado, te enviaremos una prueba.
               #     4. Si la prueba es satisfactoria, te llamamos a entrevista.
               #   info4_id: vac-5
@@ -933,7 +933,7 @@ jobs:
           info3:
             - info3_title: "Are you interested? \n\nContact us:"
               info3_content: |
-                Send an email to <ideas@capsus.mx> with your CV, a cover letter in spanish about why you are interested in working at CAPSUS and what motivates you to pursue a professional career in the sustainability area, and a letter in English where you can tell us: 
+                Send an email to <ideas@capsus.us> with your CV, a cover letter in spanish about why you are interested in working at CAPSUS and what motivates you to pursue a professional career in the sustainability area, and a letter in English where you can tell us: 
                 - Who are you?
                 - What are your passions in life?
                 - What are your hobbies?
@@ -1008,7 +1008,7 @@ jobs:
                 
 
                 #     #### PROCESO
-                #     Si cumples con los requisitos, envía un correo electrónico a: <ideas@capsus.mx> con los siguientes documentos:
+                #     Si cumples con los requisitos, envía un correo electrónico a: <ideas@capsus.us> con los siguientes documentos:
 
                 #     1. Una carta de motivos en español donde nos cuentes por qué te interesa trabajar en CAPSUS y qué te motiva a seguir una carrera profesional en el área de la sustentabilidad.
                 #     2. Una carta en inglés donde nos gustaría que nos cuentes: ¿Quién eres?, ¿Qué te apasiona?, ¿Qué es lo que más te gusta hacer?, ¿Cuáles son tus objetivos profesionales actuales y futuros?, y alguno(s) de tus logros o proyectos que te enorgullecen. 
