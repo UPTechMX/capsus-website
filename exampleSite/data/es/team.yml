@@ -215,17 +215,6 @@ team:
       link: "#"
       member_profile: |
         Egresado de la carrera de Ingeniería Geofísica de la Universidad Nacional Autónoma de México, con una maestría en modelado numérico del Programa de Posgrado en Ciencias de la Tierra de la UNAM. Sus habilidades incluyen el análisis de datos espaciales, pensamiento analítico y dominio de varios lenguajes de programación. En CAPSUS ha analizado metodologías para el cálculo de emisiones de gases de efecto invernadero, implementado soluciones para reducir estas emisiones a la atmósfera. Además, ha participado en proyectos que requieren el manejo de información espacial para comprender mejor los patrones de densidad urbana, permitiendo identificar ubicaciones adecuadas para el mejoramiento de las viviendas. Su experiencia profesional se extiende a Indonesia, República de Maldivas y México.
-    - name: Samuel Monteagudo
-      member_title: Policy Analyst
-      image: images/team/SamuelM.jpg
-      image_webp: images/team/SamuelM.jpg
-      categories:
-        - consultants
-      title: Consultor
-      content: Prospección y desarrollo sustentable
-      link: "#"
-      member_profile: |
-        Más de 3 años colaborando estrechamente con cooperaciones internacionales en la creación de estrategias de mitigación del cambio climático, eficiencia energética y en la formulación de políticas públicas que priorizan la sostenibilidad ambiental. Ha participado activamente en diversas iniciativas que abarcan desde la promoción de Energías Renovables hasta la implementación de un modelo económico fundamentado en la Economía Circular, además de fomentar la electromovilidad y la adopción de tecnologías de la industria 4.0. Adicionalmente, posee una sólida capacidad para liderar talleres de desarrollo de competencias técnicas y empresariales, con un enfoque especial en PyMEs, basándose en enfoques como la creatividad divergente y la metodología de Design Thinking. Su experiencia internacional incluye México, Estados Unidos y Alemania.
     - name: Tania Ramírez
       member_title: Arquitecta
       image: images/team/TR.jpg
