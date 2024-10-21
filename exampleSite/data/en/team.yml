@@ -226,15 +226,15 @@ team:
         Graduated from the Geophysical Engineering program at the Universidad Nacional Autónoma de México, he holds a master's degree in numerical modeling from the Graduate Program in Earth Sciences at UNAM. His skills include spatial data analysis, analytical thinking, and proficiency in several programming languages. At CAPSUS, he has analyzed methodologies for calculating greenhouse gas emissions and implemented solutions for reducing these emissions into the atmosphere. Furthermore, he has participated in projects that require spatial information management to gain a better understanding of urban density patterns, enabling the identification of suitable locations for housing improvement. His professional experience extends to Indonesia, Republic of Maldives, and Mexico.
     - name: Tania Ramírez
       member_title: Arquitecta
-      image: images/team/TR.jpg
-      image_webp: images/team/TR.jpg
+      image: images/team/TR.png
+      image_webp: images/team/TR.png
       categories:
         - associates
       title: Associate
       content: Environmental Law
       link: "#"
       member_profile: |
-        Law student at the Universidad Abierta y a Distancia de México (UNADM). She started working in the projects' area with the CAPSUS team, analyzing and verifying the legal part of a construction waste project.
+        With over a year of experience in the private sector, she has developed strong skills in analyzing and applying legal regulations at both national and international levels. A Law graduate from the Open and Distance University of Mexico (UNADM), her expertise is particularly focused on environmental law, where she has contributed to multidisciplinary projects that demand an in-depth understanding of regulatory frameworks. Nationally, she has worked on renewable energy initiatives, updates to economic and technical studies, development of web applications for managing social infrastructure projects, and labor regulation analysis. She has also been involved in feasibility studies for construction waste management in Quintana Roo. Her international experience in the Maldives, where she contributed to the development of climate-smart scenarios for affordable housing, gives her a global perspective on environmental regulations and the ability to adapt to diverse cultural and legal contexts.
     - name: Andrea Morales
       member_title: PUBLIC ACCOUNTANT
       image: images/team/CAMe/AndreaMorales.jpg
