@@ -51,7 +51,7 @@ jobs:
                 info4_item_subtitle: ""
                 info4_item_title2: Estamos buscando una persona que se integren a nuestro equipo en la zona poniente de CDMX
                 info4_item_content: |
-                  - Consideraremos para el proceso de selección únicamente los CV que cuenten con los requisitos de esta vacante y que envíen la documentación solicitada -
+                  <h4>Consideraremos para el proceso de selección únicamente los CV que cuenten con los requisitos de esta vacante y que envíen la documentación solicitada.</h4>
                   
                   #### Perfil:
                   Buscamos una persona con título en licenciatura o ingeniería ambiental, química, energía, civil, mecánica, computación, informática o afines y comprometida con el desarrollo sustentable que apoye en dar soporte técnico en materia ambiental.
