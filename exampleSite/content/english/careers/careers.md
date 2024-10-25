@@ -46,57 +46,60 @@ jobs:
                 After analyzing your documentation, we will contact you for an interview where we can clarify the doubts that you and we have.
           info4:
             - info4_title: Careers
-              # info4_item:
-              # - info4_item_fulltitle: Prácticas Profesionales en Diseño Gráfico y Digital
-              #   info4_item_subtitle: ""
-              #   info4_item_title2: Buscamos a una persona para integrarse a nuestro equipo.
-              #   info4_item_content: |
-              #     **Modalidad:** Home office (si estás en la CDMX nos encantaría invitarte en algunas ocasiones a la oficina)
+              info4_item:
+              - info4_item_fulltitle: Ingeniería para apoyo en el seguimiento técnico de proyectos y acciones para prevenir y controlar la contaminación ambiental
+                info4_item_subtitle: ""
+                info4_item_title2: Estamos buscando una persona que se integren a nuestro equipo en la zona poniente de CDMX
+                info4_item_content: |
+                  - Consideraremos para el proceso de selección únicamente los CV que cuenten con los requisitos de esta vacante y que envíen la documentación solicitada -
                   
-              #     Buscamos a una persona convencida y comprometida con el desarrollo sustentable que se encuentre en el último año o haya terminado una licenciatura afin al Diseño Gráfico, Diseño de la Comunicación Gráfica, Diseño y Comunicación Visual.
+                  #### Perfil:
+                  Buscamos una persona con título en licenciatura o ingeniería ambiental, química, energía, civil, mecánica, computación, informática o afines y comprometida con el desarrollo sustentable que apoye en dar soporte técnico en materia ambiental.
 
-              #     #### LABORES A REALIZAR
-              #     - Apoyo con diseño de información.
-              #     - Apoyo con visualización de datos en temas referentes a sustentabilidad.
-              #     - Apoyo en el desarrollo de sistemas de diseño para proyectos dentro del área sustentable (manejo de paletas de color, iconografía, composiciones, tipografía, etc.)
-              #     - Conocimientos básicos de diseño editorial.
-              #     - Ilustración es un plus.
-                  
-              #     #### MANEJO DE PROGRAMAS
-              #     - Illustrator
-              #     - Photoshop
-              #     - Conocimientos en InDesign
-              #     - Otra herramienta de diseño es un plus
-                  
-              #     #### COMPETENCIAS Y HABILIDADES
-              #     - Inglés nivel intermedio-avanzado.
-              #     - Trabajo en equipo (trabajo con un equipo multidisciplinario)
-              #     - Comunicación eficaz
-              #     - Organización
-              #     - Saber aprovechar la retroalimentación
-              #     - Iniciativa y capacidad de reflexión
-              #     - Orientación al detalle y estructura
-              #     - Proactividad
-              #     - Respeto
+                  Debes ser una persona con disponibilidad de horario (jornada laboral de 9:00 a 18:00 horario CDMX y trabajo en línea cuando se requiera).
 
-              #     #### OFERTA
-              #      - Integración a un equipo de trabajo multidisciplinar para trabajar en proyectos nacionales e internacionales
-              #      - Trabajo con misión (impulsar el desarrollo sustentable)
-              #      - Integración a las plataformas tecnológicas de CAPSUS
-              #      - Apoyo económico.
+                  La persona que se una al equipo debe tener tolerancia a la crítica, ser sociable, con iniciativa, reflexiva, orientación al detalle, estructura, aceptación del control, multitareas, proactiva, responsable y comprometida con su labor.
+
+                  #### Experiencia laboral:
+                  - Contar con 5 años de experiencia en el ramo ambiental.
+                  - Excelente ortografía, manejo de Office 100%, redacción 100% comunicación, habilidades de planeación y seguimiento de proyectos Ambientales.
+                  - Excelente administración del tiempo, orientación al resultado, seguimiento de acuerdos, orientación a la colaboración.
+                  
+                  #### Descripción general de actividades:
+                  - Revisión e integración de las bases de datos de monitoreo de la calidad del aire.
+                  - Apoyo en la revisión técnica de TOR, entregables y propuestas de acciones ambientales
+                  - Apoyo en la elaboración de reportes e integración de informes con tablas y gráficos.
+                  - Apoyo al seguimiento de los programas y acciones en materia de calidad del aire y otros temas ambientales.
+                  - Conocimiento de la normatividad ambiental, gestión y análisis de datos de calidad del aire.
+                  - Apoyo en el seguimiento a grupos de trabajo.
+                  - Apoyo logístico en las reuniones de trabajo.
+                  
+                  #### Principales funciones a desarrollar:
+                  - Apoyar a la Dirección en el seguimiento técnico de Programas, proyectos y acciones para prevenir y controlar la contaminación ambiental en la región de la Megalópolis.
+                  - Apoyar en la atención y dar seguimiento a los requerimientos informativos que le sean formulados a la Dirección Prevención y Control de la Contaminación Urbana en Zonas Metropolitanas.
+                  - Apoyar en el seguimiento de grupos de trabajo y en la Campana Pro vehículos Limpios.
+                  - Elaborar las propuestas de informes, reportes de programas, proyectos y/o acciones ambientales, minutas, oficios, así como análisis de calidad del aire que le encomiende la Dirección.
+                  - Manejar sistemas informáticos, bases de datos en Excel y otras.
+                  - Elaborar gráficos y presentaciones en PPT y Prezi.
+                  - Apoyo logístico en reuniones, eventos y proyectos.
+                  - Trabajar en equipo y bajo presión.
+                  - Realizar las demás que le encomiende su Supervisor y/o el Coordinador Ejecutivo en relación al adecuado funcionamiento de la Coordinación Ejecutiva de la CAMe de conformidad a las disposiciones legales y reglamentarias aplicables.
+                  - Apoyar y/o acudir a las comisiones de trabajo que se le encomienden con motivo del ejercicio de las funciones de la Dirección y/o de la Coordinación Ejecutiva de la CAMe a las entidades CAMe y/o cualquier otro destino que se requiera, asimismo, se debe contar con la disponibilidad de pernoctar fuera de su domicilio en caso de que la comisión así lo requiera.
+
+                  #### Oferta:
+                  - Sueldo mensual según aptitudes.
+                  - Prestaciones de ley
               
 
-              #     #### PROCESO
-              #     Si cumples con los requisitos, envía un correo electrónico a: <ideas@capsus.us> con los siguientes documentos:
+                  #### Proceso:
+                  Si cumples con los requisitos, envía un correo electrónico a: <ideas@capsus.mx> con los siguientes documentos:
 
-              #     1. CV. Con base en nuestras políticas de no discriminación, trato equitativo e inclusivo, te pedimos que en el CV que nos envíes **no incluyas tu nombre, fotografía o algún otro dato personal como tu fecha de nacimiento. Por favor, nombra el archivo únicamente con tus iniciales.**
-              #     2. Book / portafolio de proyectos escolares y/o profesionales.
-              #     3. Carta de exposición de motivos donde nos cuentes por qué quieres hacer tus prácticas profesionales en CAPSUS y qué te llama de la sustentabilidad.
-              #     4. En el Asunto del correo por favor escribe "Prácticas Profesionales en Diseño de Información para la Sustentabilidad".
+                  1. **Envía tu CV.**  Con base en nuestras políticas de no discriminación, trato equitativo e inclusión, te pedimos que **envíes tu CV únicamente con tus iniciales, sin fotografía y sin datos personales como por ejemplo fecha de nacimiento.**
+                  2. Envía una carta con tu exposición de motivos.
+                  3. Envía una copia de título(s) profesional(es) por correo electrónico.
+                  4. Si tu CV se apega al perfil buscado, te llamaremos a entrevista.
 
-              #     <h4>**Por favor revisa con detalle que hayas completado los pasos 1 al 4 antes de enviar tu solicitud, ya que no daremos seguimiento a solicitudes incompletas. Te notificaremos sobre los siguientes pasos cuando termine el periodo de aplicación.**</h4>
-              #   info4_id: vac-1
-              #   info4_item_location: CDMX
+                  <h4>Estimamos que este proceso nos tome de 2 a 3 semanas, una vez concluido el proceso informaremos a todas las personas que hayan enviado sus documentos sobre los resultados.</h4>
               # - info4_item_fulltitle: Analista ambiental
               #   info4_item_subtitle: "2 vacantes"
               #   info4_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
