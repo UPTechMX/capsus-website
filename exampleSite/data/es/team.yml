@@ -220,8 +220,8 @@ team:
       image: images/team/TR.png
       image_webp: images/team/TR.png
       categories:
-        - associates
-      title: Asociada
+        - consultants
+      title: Consultora
       content: Derecho Ambiental
       link: "#"
       member_profile: |
@@ -248,17 +248,6 @@ team:
       link: "#"
       member_profile: |
         **Más de 15 años de experiencia como contador público, principalmente en el ramo de la construcción y arrendamiento de bienes.** Egresado de la Universidad Mexicana, cuenta con una especialidad en Habilidades Directivas y una Licenciatura en Contaduría Pública. En las empresas en las que participó anteriormente, contribuyó en el desarrollo e implementación de proyectos que permitieron tener un mayor control de la información.
-    - name: Jorge Santacruz
-      member_title: ""
-      image: images/team/CAMe/JorgeSantacruz.jpg
-      image_webp: images/team/CAMe/JorgeSantacruz.jpg
-      categories:
-        - consultants
-      title: Consultor
-      content: Calidad del Aire
-      link: "#"
-      member_profile: |
-        **Más de 20 años de experiencia en el área de Ingeniería Ambiental Especialista en (Calidad del aire, Contaminación del Agua, Residuos sólidos urbanos y municipales, y Gestión Ambiental), Oceanografía Química, Química Ambiental y Docente en Química en la UNAM.** Las fortalezas principales de su trabajo radican en la resolución de problemas ambientales para la toma de decisiones en una política pública, y sean representativas para el bienestar para la sociedad, la vida silvestre y la industria. Evaluador del Fondo CONACYT-Secretaría de Energía-Hidrocarburos sobre derrames en el Golfo de México, Capítulo del libro, Las Costas Mexicanas: Contaminación, Impacto y Cambio Climático, diseño y apoyo en proyectos internacionales sobre Contaminación Ambiental en México. Su colaboración y experiencia internacional incluye México, Estados Unidos, Japón, Corea y Perú.
     - name: Luis Enrique Juárez
       member_title: Arquitecto
       image: images/team/CAMe/LuisEnriqueJuarez.jpg
@@ -325,25 +314,3 @@ team:
       link: "#"
       member_profile: |
         Diana cuenta con 3 años de experiencia como ingeniera ambiental con especialidad en Biorremediación de agua, implementando normatividad de seguridad e higiene industrial y medio ambiente en empresas privadas, su trabajo en México abarca las ciudades de Querétaro, Monterrey, Puebla, Guanajuato y Ciudad de México. Diana también cuenta con experiencia en el tratamiento de agua, la gestión de agua potable, y el manejo de residuos peligrosos. Su experiencia incluye el trabajo de campo e investigación en materia ambiental.
-    - name: Sara Montiel
-      member_title: Architect
-      image: images/team/CAMe/SaraMontiel.jpg
-      image_webp: images/team/CAMe/SaraMontiel.jpg
-      categories:
-        - consultants
-      title: Consultora
-      content: Calidad del aire e impacto ambiental
-      link: "#"
-      member_profile: |
-        Sara tiene más de 10 años de experiencia en calidad del aire, evaluación de impacto ambiental, reciclaje de residuos, educación ambiental y conservación. Antes de su llegada a CAPSUS, Sara colaboró profesionalmente en la Secretaría de Medio Ambiente y recursos Naturales del Gobierno Federal, en el Gobierno Municipal de Zapopan, Jalisco y en la Universidad Tecnológica de León. Sara también cuenta con experiencia en la iniciativa privada. Su trabajo en México abarca los estados de Jalisco, México, Quintana Roo, Guanajuato, y la Ciudad de México.
-    - name: Lizeth Huerta
-      member_title: Architect
-      image: images/team/CAMe/LizethHuerta.jpg
-      image_webp: images/team/CAMe/LizethHuerta.jpg
-      categories:
-        - consultants
-      title: Consultora
-      content: Calidad del aire
-      link: "#"
-      member_profile: |
-        Lizeth tiene más de 6 años de experiencia en proyectos relacionados con contaminación atmosférica, cambio climático y salud ambiental, ha colaborado en los sectores público, privado y sociedad civil. Su labor ha contribuido a la formulación de políticas para mejorar la calidad del aire en las ciudades y promover la movilidad sostenible y baja en carbono. Ingeniera Ambiental por la Universidad Autónoma Metropolitana, destaca por su sólido conocimiento técnico, capacidad de búsqueda, recopilación y análisis de datos, además de su habilidad de trabajo en equipo y enfoque multidisciplinar. Su experiencia laboral incluye México, Estados Unidos de América, Reino Unido y Costa Rica.
