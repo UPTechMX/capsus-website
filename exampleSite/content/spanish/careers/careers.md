@@ -33,62 +33,62 @@ jobs:
           info_fullcontent: "Somos CAPSUS, una consultora en sustentabilidad enfocada en impulsar un crecimiento ambientalmente amigable, económicamente eficiente y socialmente justo en las ciudades y países en los que trabajamos. Confiamos en que el desarrollo sustentable de las empresas, ciudades y naciones garantiza una mejor calidad de vida. Por eso trabajamos con los sectores público y privado, a nivel nacional e internacional, en el desarrollo de herramientas e instrumentos para la toma de decisiones informadas que mejoren el desempeño ambiental, económico y social. \n\nSomos un equipo diverso, en el que convergen múltiples disciplinas como arquitectura, ingeniería química, física, energética, diseño de la información, urbanismo y desarrollo de software, por nombrar algunas. Nos enorgullece la naturaleza multidisciplinar del equipo y estamos en <b>búsqueda de personas que lo enriquezcan.</b>"
           info4:
             - info4_title: Vacantes
-              info4_item:
-              - info4_item_fulltitle: Ingeniería para apoyo en el seguimiento técnico de proyectos y acciones para prevenir y controlar la contaminación ambiental
-                info4_item_subtitle: ""
-                info4_item_title2: Estamos buscando una persona que se integren a nuestro equipo en la zona poniente de CDMX
-                info4_item_content: |
-                  <h4>Consideraremos para el proceso de selección únicamente los CV que cuenten con los requisitos de esta vacante y que envíen la documentación solicitada.</h4>
+              # info4_item:
+              # - info4_item_fulltitle: Ingeniería para apoyo en el seguimiento técnico de proyectos y acciones para prevenir y controlar la contaminación ambiental
+              #   info4_item_subtitle: ""
+              #   info4_item_title2: Estamos buscando una persona que se integren a nuestro equipo en la zona poniente de CDMX
+              #   info4_item_content: |
+              #     <h4>Consideraremos para el proceso de selección únicamente los CV que cuenten con los requisitos de esta vacante y que envíen la documentación solicitada.</h4>
                   
-                  #### Perfil:
-                  Buscamos una persona con título en licenciatura o ingeniería ambiental, química, energía, civil, mecánica, computación, informática o afines y comprometida con el desarrollo sustentable que apoye en dar soporte técnico en materia ambiental.
+              #     #### Perfil:
+              #     Buscamos una persona con título en licenciatura o ingeniería ambiental, química, energía, civil, mecánica, computación, informática o afines y comprometida con el desarrollo sustentable que apoye en dar soporte técnico en materia ambiental.
 
-                  Debes ser una persona con disponibilidad de horario (jornada laboral de 9:00 a 18:00 horario CDMX y trabajo en línea cuando se requiera).
+              #     Debes ser una persona con disponibilidad de horario (jornada laboral de 9:00 a 18:00 horario CDMX y trabajo en línea cuando se requiera).
 
-                  La persona que se una al equipo debe tener tolerancia a la crítica, ser sociable, con iniciativa, reflexiva, orientación al detalle, estructura, aceptación del control, multitareas, proactiva, responsable y comprometida con su labor.
+              #     La persona que se una al equipo debe tener tolerancia a la crítica, ser sociable, con iniciativa, reflexiva, orientación al detalle, estructura, aceptación del control, multitareas, proactiva, responsable y comprometida con su labor.
 
-                  #### Experiencia laboral:
-                  - Contar con 5 años de experiencia en el ramo ambiental.
-                  - Excelente ortografía, manejo de Office 100%, redacción 100% comunicación, habilidades de planeación y seguimiento de proyectos Ambientales.
-                  - Excelente administración del tiempo, orientación al resultado, seguimiento de acuerdos, orientación a la colaboración.
+              #     #### Experiencia laboral:
+              #     - Contar con 5 años de experiencia en el ramo ambiental.
+              #     - Excelente ortografía, manejo de Office 100%, redacción 100% comunicación, habilidades de planeación y seguimiento de proyectos Ambientales.
+              #     - Excelente administración del tiempo, orientación al resultado, seguimiento de acuerdos, orientación a la colaboración.
                   
-                  #### Descripción general de actividades:
-                  - Revisión e integración de las bases de datos de monitoreo de la calidad del aire.
-                  - Apoyo en la revisión técnica de TOR, entregables y propuestas de acciones ambientales
-                  - Apoyo en la elaboración de reportes e integración de informes con tablas y gráficos.
-                  - Apoyo al seguimiento de los programas y acciones en materia de calidad del aire y otros temas ambientales.
-                  - Conocimiento de la normatividad ambiental, gestión y análisis de datos de calidad del aire.
-                  - Apoyo en el seguimiento a grupos de trabajo.
-                  - Apoyo logístico en las reuniones de trabajo.
+              #     #### Descripción general de actividades:
+              #     - Revisión e integración de las bases de datos de monitoreo de la calidad del aire.
+              #     - Apoyo en la revisión técnica de TOR, entregables y propuestas de acciones ambientales
+              #     - Apoyo en la elaboración de reportes e integración de informes con tablas y gráficos.
+              #     - Apoyo al seguimiento de los programas y acciones en materia de calidad del aire y otros temas ambientales.
+              #     - Conocimiento de la normatividad ambiental, gestión y análisis de datos de calidad del aire.
+              #     - Apoyo en el seguimiento a grupos de trabajo.
+              #     - Apoyo logístico en las reuniones de trabajo.
                   
-                  #### Principales funciones a desarrollar:
-                  - Apoyar a la Dirección en el seguimiento técnico de Programas, proyectos y acciones para prevenir y controlar la contaminación ambiental en la región de la Megalópolis.
-                  - Apoyar en la atención y dar seguimiento a los requerimientos informativos que le sean formulados a la Dirección Prevención y Control de la Contaminación Urbana en Zonas Metropolitanas.
-                  - Apoyar en el seguimiento de grupos de trabajo y en la Campana Pro vehículos Limpios.
-                  - Elaborar las propuestas de informes, reportes de programas, proyectos y/o acciones ambientales, minutas, oficios, así como análisis de calidad del aire que le encomiende la Dirección.
-                  - Manejar sistemas informáticos, bases de datos en Excel y otras.
-                  - Elaborar gráficos y presentaciones en PPT y Prezi.
-                  - Apoyo logístico en reuniones, eventos y proyectos.
-                  - Trabajar en equipo y bajo presión.
-                  - Realizar las demás que le encomiende su Supervisor y/o el Coordinador Ejecutivo en relación al adecuado funcionamiento de la Coordinación Ejecutiva de la CAMe de conformidad a las disposiciones legales y reglamentarias aplicables.
-                  - Apoyar y/o acudir a las comisiones de trabajo que se le encomienden con motivo del ejercicio de las funciones de la Dirección y/o de la Coordinación Ejecutiva de la CAMe a las entidades CAMe y/o cualquier otro destino que se requiera, asimismo, se debe contar con la disponibilidad de pernoctar fuera de su domicilio en caso de que la comisión así lo requiera.
+              #     #### Principales funciones a desarrollar:
+              #     - Apoyar a la Dirección en el seguimiento técnico de Programas, proyectos y acciones para prevenir y controlar la contaminación ambiental en la región de la Megalópolis.
+              #     - Apoyar en la atención y dar seguimiento a los requerimientos informativos que le sean formulados a la Dirección Prevención y Control de la Contaminación Urbana en Zonas Metropolitanas.
+              #     - Apoyar en el seguimiento de grupos de trabajo y en la Campana Pro vehículos Limpios.
+              #     - Elaborar las propuestas de informes, reportes de programas, proyectos y/o acciones ambientales, minutas, oficios, así como análisis de calidad del aire que le encomiende la Dirección.
+              #     - Manejar sistemas informáticos, bases de datos en Excel y otras.
+              #     - Elaborar gráficos y presentaciones en PPT y Prezi.
+              #     - Apoyo logístico en reuniones, eventos y proyectos.
+              #     - Trabajar en equipo y bajo presión.
+              #     - Realizar las demás que le encomiende su Supervisor y/o el Coordinador Ejecutivo en relación al adecuado funcionamiento de la Coordinación Ejecutiva de la CAMe de conformidad a las disposiciones legales y reglamentarias aplicables.
+              #     - Apoyar y/o acudir a las comisiones de trabajo que se le encomienden con motivo del ejercicio de las funciones de la Dirección y/o de la Coordinación Ejecutiva de la CAMe a las entidades CAMe y/o cualquier otro destino que se requiera, asimismo, se debe contar con la disponibilidad de pernoctar fuera de su domicilio en caso de que la comisión así lo requiera.
 
-                  #### Oferta:
-                  - Sueldo mensual según aptitudes.
-                  - Prestaciones de ley
+              #     #### Oferta:
+              #     - Sueldo mensual según aptitudes.
+              #     - Prestaciones de ley
               
 
-                  #### Proceso:
-                  Si cumples con los requisitos, envía un correo electrónico a: <ideas@capsus.mx> con los siguientes documentos:
+              #     #### Proceso:
+              #     Si cumples con los requisitos, envía un correo electrónico a: <ideas@capsus.mx> con los siguientes documentos:
 
-                  1. **Envía tu CV.**  Con base en nuestras políticas de no discriminación, trato equitativo e inclusión, te pedimos que **envíes tu CV únicamente con tus iniciales, sin fotografía y sin datos personales como por ejemplo fecha de nacimiento.**
-                  2. Envía una carta con tu exposición de motivos.
-                  3. Envía una copia de título(s) profesional(es) por correo electrónico.
-                  4. Si tu CV se apega al perfil buscado, te llamaremos a entrevista.
+              #     1. **Envía tu CV.**  Con base en nuestras políticas de no discriminación, trato equitativo e inclusión, te pedimos que **envíes tu CV únicamente con tus iniciales, sin fotografía y sin datos personales como por ejemplo fecha de nacimiento.**
+              #     2. Envía una carta con tu exposición de motivos.
+              #     3. Envía una copia de título(s) profesional(es) por correo electrónico.
+              #     4. Si tu CV se apega al perfil buscado, te llamaremos a entrevista.
 
-                  <h4>Estimamos que este proceso nos tome de 2 a 3 semanas, una vez concluido el proceso informaremos a todas las personas que hayan enviado sus documentos sobre los resultados.</h4>
-                info4_id: vac-1
-                info4_item_location: CDMX
+              #     <h4>Estimamos que este proceso nos tome de 2 a 3 semanas, una vez concluido el proceso informaremos a todas las personas que hayan enviado sus documentos sobre los resultados.</h4>
+              #   info4_id: vac-1
+              #   info4_item_location: CDMX
               # - info4_item_fulltitle: Analista ambiental
               #   info4_item_subtitle: "2 vacantes"
               #   info4_item_title2:  Estamos buscando nuevas personas que se integren a nuestro equipo en CDMX
