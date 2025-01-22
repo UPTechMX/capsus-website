@@ -56,6 +56,16 @@
                     </h5>
                   </a>
                 </button>
+                <h5 class="mt-4 color">
+                  {{ .ethics_info | markdownify }}
+                </h5>
+                <button class="btn btn-transparent mt-4">
+                  <a href="{{ .ethics_button | relURL }}" download>
+                    <h5 class="my-auto">
+                      {{ .button_ethics | markdownify }}
+                    </h5>
+                  </a>
+                </button>
               </div>
               <div class="col-lg-6 my-auto">
 								<img class="img-fluid" onerror="this.onerror=null;this.parentElement.style.backgroundImage='url({{ .diversity_image | absURL }})'" src="{{ .diversity_image_webp | absURL }}" />

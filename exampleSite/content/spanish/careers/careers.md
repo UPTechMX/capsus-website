@@ -13,11 +13,14 @@ jobs:
     diversity_button_title: Descarga Política GDI
     diversity_document: documents/Politica-de-genero-diversidad-e-inclusion_24.pdf
     button_diversity: Descargar política GDI
-    button_policy: Descargar PPD
+    button_policy: Descargar PPCD
+    button_ethics: Descargar Código de Ética
     diversity_button: "documents/Politica-de-genero-diversidad-e-inclusion_24.pdf"
     diversity_info: "Conoce nuestra Política de Género, Diversidad e Inclusión aquí:"
-    policy_button: "documents/ESP_Politica_de_Proveeduria_Diversa.pdf"
-    policy_info: "Conoce nuestra Política de Proveeduría Diversa aquí:"
+    policy_button: "documents/Politica de Proveeduria y Consultoria Diversa.pdf"
+    ethics_button: "documents/Codigo de etica 2025.pdf"
+    policy_info: "Conoce nuestra Política de Proveeduría y Consultoría Diversa:"
+    ethics_info: "Conoce nuestro Código de Ética:"
     job_intro_title : SOMOS UN EQUIPO TRANSDISCIPLINARIO
     job_intro_content : "Superamos desafíos en diferentes contextos gracias a nuestra experiencia y profunda comprensión de las necesidades de los clientes. \n\nLa fortaleza de CAPSUS se constituye a partir de la gran capacidad y creatividad de las personas que forman al equipo, comprometidas con la construcción de espacios seguros, justos, resilientes y enfocados en las personas."
     job_intro_image : images/careers/Mapa-mundo.png
