@@ -14,7 +14,7 @@ jobs:
     diversity_document: documents/Gender-diversity-and-inclusion-policy_24.pdf
     button_diversity: Descargar política GDI
     button_policy: Download DSCP
-    button_ethics: Download Code of Conduct
+    button_ethics: Download Code of Ethics
     diversity_button: "documents/Gender-diversity-and-inclusion-policy_24.pdf"
     diversity_info: "Conoce nuestra Política de Género, Diversidad e Inclusión aquí:"
     policy_button: "documents/Diverse Supplier and Consulting Policy.pdf"
