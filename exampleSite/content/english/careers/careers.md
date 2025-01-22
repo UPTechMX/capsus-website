@@ -18,7 +18,7 @@ jobs:
     diversity_button: "documents/Gender-diversity-and-inclusion-policy_24.pdf"
     diversity_info: "Conoce nuestra Política de Género, Diversidad e Inclusión aquí:"
     policy_button: "documents/Diverse Supplier and Consulting Policy.pdf"
-    ethics_button: "documents/Codigo de etica 2025.pdf.pdf"
+    ethics_button: "documents/Codigo de etica 2025.pdf"
     policy_info: "Get to know our Diverse Supplier and Consulting Policy:"
     ethics_info: "Get to know our Code of Ethics (Spanish version):"
     job_intro_title : TRANSDISCIPLINARY TEAMWORK
