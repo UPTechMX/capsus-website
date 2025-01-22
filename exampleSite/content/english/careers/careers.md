@@ -12,11 +12,11 @@ jobs:
     diversity_content: "We believe that inclusion and social diversity nurture the capacity of innovation and creativity, therefore our team and allies are from diverse races and backgrounds, religions, genders, sexual orientation, gender identity and expression, ages and more aspects that belong to people's identity.\n\nOur Gender, Diversity and Inclusion Policy focuses our actions in 3 pillars to act under the premise of non-violence, gender equality, and respect for sexual diversity to protect the rights, identity and individuality of the LGBTQ+ community, women and minority groups in our workplace."
     diversity_button_title: Download GDI Policy
     diversity_document: documents/Gender-diversity-and-inclusion-policy_24.pdf
-    button_diversity: Descargar política GDI
+    button_diversity: Download GDI Policy
     button_policy: Download DSCP
     button_ethics: Download Code of Ethics
     diversity_button: "documents/Gender-diversity-and-inclusion-policy_24.pdf"
-    diversity_info: "Conoce nuestra Política de Género, Diversidad e Inclusión aquí:"
+    diversity_info: "Get to know our Gender, Diversity and Inclusion Policy:"
     policy_button: "documents/Diverse Supplier and Consulting Policy.pdf"
     ethics_button: "documents/Codigo de etica 2025.pdf"
     policy_info: "Get to know our Diverse Supplier and Consulting Policy:"
