@@ -83,21 +83,21 @@ URL = "services"
 name = "services"
 weight = 3
 
-[[menu.main]]
-URL = "team"
-name = "team"
-weight = 4
+#[[menu.main]]
+#URL = "team"
+#name = "team"
+#weight = 4
 
 [[menu.main]]
 URL = "careers/careers"
 identifier = "careers"
 name = "careers"
-weight = 5
+weight = 4
 
 [[menu.main]]
 URL = "contact"
 name = "contact"
-weight = 6
+weight = 5
 
 [[menu.static]]
 URL = "https://themefisher.com/"
