@@ -40,7 +40,7 @@ privacy_notice:
 
             The contact data of the department that manages personal information and privacy issues, and that is in charge of the ARCO requests is:
             - Administrative department
-            - Address: Boulevard Manuel Ávila Camacho 118, office 1604 Lomas de Chapultepec, Miguel Hidalgo 11000, Mexico City
+            - Address: Prado Sur 274, Lomas de Chapultepec, Miguel Hidalgo, 11000, Ciudad de México
             - Email: <ideas@capsus.us>
             - Phone number: [+52 1 (55) 44 31 29 27](tel:+5215544312927)
         - table_title: "5"

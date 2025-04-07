@@ -10,9 +10,7 @@ contact:
 
   contact_details :
     - icon : fas fa-map-marker-alt # themify icon pack : https://themify.me/themify-icons
-      info : "Boulevard Manuel Ávila Camacho 118, int 2401\n
-      Lomas de Chapultepec, Miguel Hidalgo,\n
-      Ciudad de México, 11000"
+      info : "Prado Sur 274, Lomas de Chapultepec, Miguel Hidalgo, 11000, Ciudad de México"
       
     - icon : fas fa-phone-alt # themify icon pack : https://themify.me/themify-icons
       info : "[+52 1 (55) 44 31 29 27](tel:+5215544312927)"

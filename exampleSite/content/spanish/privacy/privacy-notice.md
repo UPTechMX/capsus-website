@@ -43,7 +43,7 @@ privacy_notice:
 
             Los datos de contacto de la persona o departamento de datos personales, que está a cargo de dar trámite a las solicitudes de derecho ARCO, es:
             - Departamento: Administrativo
-            - Domicilio: Boulevard Manuel Ávila Camacho 118, int 1604 Lomas de Chapultepec, Miguel Hidalgo 11000, CDMX
+            - Domicilio: Prado Sur 274, Lomas de Chapultepec, Miguel Hidalgo, 11000, Ciudad de México
             - Correo electrónico: <ideas@capsus.mx>
             - Teléfono: [+52 1 (55) 44 31 29 27](tel:+5215544312927)
         - table_title: Quinta
