@@ -3,9 +3,8 @@
 {{ if $data.funfacts.funfacts.enable }}
 {{ with $data.funfacts.funfacts }}
 {{"<!-- Start Counter Section -->" | safeHTML}}
-<section id="counter" class="parallax-section bg-1 section" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
-	<!-- this image is for trigger this section fallback background image -->
-	<img style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'" src="{{ .bg_image_webp | absURL }}" />
+{{ $bg := resources.Get .bg_image }}
+<section id="counter" class="parallax-section bg-1 section" style='background-image: url("{{ if $bg }}{{ $bg.RelPermalink }}{{ else }}{{ .bg_image | absURL }}{{ end }}")'>
 	<div class="container">
 		<div class="row justify-content-center">
 			{{ range .counter_item }}

@@ -1,16 +1,11 @@
 {{ $data := index .Site.Data .Site.Language.Lang }} {{ if $data.cta.cta.enable}}
 {{ with $data.cta.cta}} {{"<!-- Start Call To Action -->" | safeHTML}}
+{{ $bg := resources.Get .bg_image }}
 <section
   id="cta"
   class="call-to-action section-sm bg-1"
-  style='background-image: url("{{ .bg_image_webp | absURL }}")'
+  style='background-image: url("{{ if $bg }}{{ $bg.RelPermalink }}{{ else }}{{ .bg_image | absURL }}{{ end }}")'
 >
-  <!-- this image is for trigger this section fallback background image -->
-  <img
-    style="display: none;"
-    onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'"
-    src="{{ .bg_image_webp | absURL }}"
-  />
   <div class="container">
     {{ if .content }}
     <div class="row">

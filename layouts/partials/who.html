@@ -47,7 +47,7 @@
 										</ol>
 									</div>
 								</div>-->
-								<img class="img-fluid" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'" src="{{ .image_webp | absURL }}" />
+								{{ partial "image-responsive.html" (dict "src" .image "alt" .who_title "class" "img-fluid") }}
 						</div>
 						{{ else if eq .who_id "mission" }}
 						<div class="col-lg-6 my-auto">
@@ -59,7 +59,7 @@
 							{{ end }}
 						</div>
 						<div class="col-lg-6 my-auto">
-							<img class="img-fluid" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'" src="{{ .image_webp | absURL }}" />
+							{{ partial "image-responsive.html" (dict "src" .image "alt" .who_title "class" "img-fluid") }}
 						</div>
 						{{ else if eq .who_id "gdi" }}
 						<div class="col-lg-6 my-auto">
@@ -91,7 +91,7 @@
 							</button>
 						</div>
 						<div class="col-lg-6 my-auto">
-							<img class="img-fluid" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'" src="{{ .image_webp | absURL }}" />
+							{{ partial "image-responsive.html" (dict "src" .image "alt" .who_title "class" "img-fluid") }}
 						</div>
 						{{ else }}
 						<div class="col-lg-6 my-auto">
@@ -101,7 +101,7 @@
 							<span>{{ .who_content | markdownify }}</span>
 						</div>
 						<div class="col-lg-6 my-auto">
-							<img class="img-fluid" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'" src="{{ .image_webp | absURL }}" />
+							{{ partial "image-responsive.html" (dict "src" .image "alt" .who_title "class" "img-fluid") }}
 						</div>
 						{{ end }}
 					</div>

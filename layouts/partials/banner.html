@@ -2,12 +2,8 @@
 {{ if $data.banner.banner.enable }}
 {{ with $data.banner.banner }}
 {{"<!-- Welcome Slider-->" | safeHTML}}
-<section class="hero-area" style='background-image: url("{{ .bg_image | absURL }}")'>
-	<!-- this image is for trigger this section fallback background image -->
-	<img style="display: none;"
-		onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'"
-		src="{{ .bg_image | absURL }}" />
-
+{{ $bg := resources.Get .bg_image }}
+<section class="hero-area" style='background-image: url("{{ if $bg }}{{ $bg.RelPermalink }}{{ else }}{{ .bg_image | absURL }}{{ end }}")'>
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-xl-12">
@@ -32,7 +28,7 @@
 									</div>
 									{{ end }}
 									<div class="col-lg-4 my-auto">
-										<img class="img-fluid" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .banner_image | absURL }})'" src="{{ .banner_image_webp | absURL }}" />
+										{{ partial "image-responsive.html" (dict "src" .banner_image "alt" .banner_title "class" "img-fluid") }}
 									</div>
 								</div>
 							</div>

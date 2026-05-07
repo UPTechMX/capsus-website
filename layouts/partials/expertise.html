@@ -22,7 +22,7 @@
 				<a href="{{ .link | relLangURL }}">
 					<div class="block">
 						<div class="icon-box">
-							<img class="img-fluid" data-src="{{ .image_webp | absURL }}" src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .title }}">
+							{{ partial "image-responsive.html" (dict "src" .image "alt" .title "class" "img-fluid") }}
 						</div>
 						{{"<!-- Express About Yourself -->" | safeHTML}}
 						<div class="content text-center">

@@ -1,0 +1,19 @@
+{{/* layouts/_default/_markup/render-image.html */}}
+{{ $src := .Destination }}
+{{ $alt := .Text }}
+
+{{/* Try to find the image in assets */}}
+{{ $image := resources.Get $src }}
+
+{{ if $image }}
+  {{ $small := $image.Resize "480x webp" }}
+  {{ $medium := $image.Resize "800x webp" }}
+  {{ $large := $image.Resize "1200x webp" }}
+  
+  <img src="{{ $medium.RelPermalink }}" 
+       srcset="{{ $small.RelPermalink }} 480w, {{ $medium.RelPermalink }} 800w, {{ $large.RelPermalink }} 1200w" 
+       alt="{{ $alt }}" 
+       loading="lazy" />
+{{ else }}
+  <img src="{{ .Destination | safeURL }}" alt="{{ $alt }}" loading="lazy" />
+{{ end }}

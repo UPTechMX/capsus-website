@@ -5,7 +5,8 @@
 {{ $data := .Params.expertise }}
 {{ with $data }}
 <section id="expertise-section">
-  <div class="bg-img" style='background-image: url("{{ .main_bg_image | absURL }}"'>
+  {{ $bg := resources.Get .main_bg_image }}
+  <div class="bg-img" style='background-image: url("{{ if $bg }}{{ $bg.RelPermalink }}{{ else }}{{ .main_bg_image | absURL }}{{ end }}")'>
     <div class="container">
       <div class="row justify-content-center">
         <h1 class="m-5 p-5 text-center text-justify color-3 big-title">{{ .main_title | markdownify }} <span class="color">{{ .color_title | markdownify }}</span> </h1>
@@ -29,8 +30,7 @@
                     </div>
                   </div>
                   <div class="col-lg-6 my-auto">
-                    <!-- this image is for trigger this section fallback background image -->
-                    <img class="img-fluid" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'" src="{{ .image_webp | absURL }}" />
+                    {{ partial "image-responsive.html" (dict "src" .image "alt" .subtitle "class" "img-fluid") }}
                   </div>
                 </div>
               </div>
@@ -54,7 +54,7 @@
                       <div class="team-member" onmouseover="changeCase($(this));" onmouseout="changeCase($(this));">
                         <div class="member-photo section-bg text-center">
                           {{"<!-- member photo -->" | safeHTML}}
-                          <img class="img-fluid" data-src="{{ .tab_image_webp | absURL }}" src="{{ .tab_image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .tab_image | absURL }}'" alt="{{ .name }}">
+                          {{ partial "image-responsive.html" (dict "src" .tab_image "alt" .name "class" "img-fluid") }}
                         </div>
                 
                         {{"<!-- member name & designation -->" | safeHTML}}
@@ -87,7 +87,7 @@
                           <h2 class="color-2 font-weight-bolder">{{ .name | markdownify }}</h2>
                           <h3 class="color font-weight-bolder">{{ .case_locations | markdownify }}</h3>
                           <h4 class="color-2">{{ .case_years | markdownify }}</h4>
-                          <img class="img-fluid" style="max-width: 60%;" alt="{{ .name }}" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .case_image | absURL }})'" src="{{ .case_image_webp | absURL }}" />
+                          {{ partial "image-responsive.html" (dict "src" .case_image "alt" .name "class" "img-fluid" "style" "max-width: 60%;") }}
                         </div>
                         <div class="justify-content-center text-left px-4 pb-5">
                           <h4 class="color text-uppercase">{{ i18n "clients" }}</h4>
@@ -115,9 +115,8 @@
   </div>
 </section>
 {{"<!-- Start Call To Action -->" | safeHTML}}
-<section id="cta" class="call-to-action section-sm bg-1" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
-	<!-- this image is for trigger this section fallback background image -->
-	<img style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'" src="{{ .bg_image_webp | absURL }}" />
+{{ $bg2 := resources.Get .bg_image }}
+<section id="cta" class="call-to-action section-sm bg-1" style='background-image: url("{{ if $bg2 }}{{ $bg2.RelPermalink }}{{ else }}{{ .bg_image | absURL }}{{ end }}")'>
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 text-center">

@@ -5,7 +5,8 @@
 {{ $data := .Params.jobs }}
 {{ with $data }}
 <section id="jobs-section">
-  <div class="bg-img" style='background-image: url("{{ .main_bg_image | absURL }}"'>
+  {{ $bg := resources.Get .main_bg_image }}
+  <div class="bg-img" style='background-image: url("{{ if $bg }}{{ $bg.RelPermalink }}{{ else }}{{ .main_bg_image | absURL }}{{ end }}")'>
     <div class="container">
       <div class="row justify-content-center">
         <h1 class="m-5 p-5 text-center color-3 big-title">{{ i18n "employment" | markdownify }} <span class="color">{{ i18n "employment2" | markdownify }}</span></h1>
@@ -68,7 +69,7 @@
                 </button>
               </div>
               <div class="col-lg-6 my-auto">
-								<img class="img-fluid" onerror="this.onerror=null;this.parentElement.style.backgroundImage='url({{ .diversity_image | absURL }})'" src="{{ .diversity_image_webp | absURL }}" />
+								{{ partial "image-responsive.html" (dict "src" .diversity_image "alt" "Diversity" "class" "img-fluid") }}
               </div>
             </div>
             <div class="pt-5" style="border-bottom: 2px solid white;height: 1px;position: relative;width: 100%;"></div>
@@ -161,7 +162,7 @@
                     </div>
                     <div class="col-lg-1"></div>
                     <div class="col-lg-5">
-                      <img class="img-fluid" alt="{{ .name }}" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .job_image | absURL }})'" src="{{ .job_image_webp | absURL }}" />
+                      {{ partial "image-responsive.html" (dict "src" .job_image "alt" .name "class" "img-fluid") }}
                     </div>
                     <hr class="col-lg-11 pb-4" style="border-top: 2px solid rgba(128, 128, 128, 0.2);">
                     {{ if isset .Params .info2 }}
@@ -360,9 +361,8 @@
               <section class="bg-one about-2 padding-0" id="who">
                 <div class="container-fluid padding-0">
                   <div class="row">
-                    <div class="col-lg-6" style="background-image: url('{{ .info4_image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat; min-height: 400px;">
-                      <!-- this image is for trigger this section fallback background image -->
-                      <img style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .info4_image | absURL }})'" src="{{ .info4_image_webp | absURL }}" />
+                    {{ $bg2 := resources.Get .info4_image }}
+                    <div class="col-lg-6" style="background-image: url('{{ if $bg2 }}{{ $bg2.RelPermalink }}{{ else }}{{ .info4_image | absURL }}{{ end }}'); background-size: cover; background-position: top center; background-repeat: no-repeat; min-height: 400px;">
                     </div>
                     <div class="col-lg-6">
                       <div class="content-block">

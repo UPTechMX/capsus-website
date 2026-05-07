@@ -7,7 +7,8 @@
 		<nav class="navbar navbar-expand-lg navbar-dark">
 			<a class="navbar-brand p-0" href="{{ .Site.BaseURL | relLangURL }}">
 				{{ if .Site.Params.logo_nav }}
-				<img class="img-fluid" style="height: 42px" src="{{ .Site.Params.logo_nav | absURL }}" alt="{{ .Site.Title }}">
+				{{ $logo_nav := resources.Get .Site.Params.logo_nav }}
+				<img class="img-fluid" style="height: 42px" src="{{ if $logo_nav }}{{ $logo_nav.RelPermalink }}{{ else }}{{ .Site.Params.logo_nav | absURL }}{{ end }}" alt="{{ .Site.Title }}">
 				{{ else }}
 				{{ .Site.Title }}
 				{{ end }}

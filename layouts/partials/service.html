@@ -21,7 +21,7 @@
 			<article class="col-lg-4 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
 				<div class="service-block text-center py-5">
 					<div class="service-icon pt-2 text-center">
-						<img class="img-fluid" data-src="{{ .image_webp | absURL }}" src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
+						{{ partial "image-responsive.html" (dict "src" .image "alt" .name "class" "img-fluid") }}
 					</div>
 					<h3 class="color-3">{{ .name | markdownify }}</h3>
 					<p>{{ .content | markdownify }}</p>

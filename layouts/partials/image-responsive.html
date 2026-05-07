@@ -1,0 +1,31 @@
+{{/* layouts/partials/image-responsive.html */}}
+{{ $src := .src }}
+{{ $alt := .alt | default "CAPSUS image" }}
+{{ $class := .class | default "img-fluid" }}
+
+{{/* Fetch the image from the assets folder */}}
+{{ $image := resources.Get $src }}
+
+{{ if $image }}
+  {{/* Define our target widths and convert format to WebP */}}
+  {{ $small   := $image.Resize "480x webp" }}
+  {{ $medium  := $image.Resize "800x webp" }}
+  {{ $large   := $image.Resize "1200x webp" }}
+
+  {{/* Output the HTML picture/img tag */}}
+  <img 
+    class="{{ $class }}"
+    src="{{ $medium.RelPermalink }}" 
+    srcset="
+      {{ $small.RelPermalink }} 480w, 
+      {{ $medium.RelPermalink }} 800w, 
+      {{ $large.RelPermalink }} 1200w" 
+    sizes="(max-width: 576px) 480px, (max-width: 992px) 800px, 1200px" 
+    alt="{{ $alt }}" 
+    loading="lazy" 
+    width="{{ $image.Width }}" 
+    height="{{ $image.Height }}" />
+{{ else }}
+  {{/* Fallback if the image isn't found in assets */}}
+  <img class="{{ $class }}" src="{{ $src }}" alt="{{ $alt }}" loading="lazy" />
+{{ end }}
