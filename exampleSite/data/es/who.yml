@@ -7,11 +7,11 @@ who:
   button_item:
     - enable: true
       label: Descargar brochure
-      link: "documents/Brochure2023-ESP.pdf"
+      link: "documents/capsus_brochure_es.pdf"
   button_item2:
     - enable: true
       label: Descargar one-pager
-      link: "documents/ESP-One Pager capsus.pdf"
+      link: "documents/capsus_one_pager_es.pdf"
   content : "Asesoramos a entes públicos y privados internacionales, analizamos datos espaciales, generamos indicadores de desempeño y desarrollamos herramientas para facilitar la toma de decisiones informadas que incentiven el desarrollo económico, la inclusión social y la conversación del medio ambiente."
   who_item : 
       # feature item loop
@@ -61,9 +61,9 @@ who:
       image_webp : images/who/diversidad-img-08.png
       button: Descargar política GDI
       button2: Descargar PPD
-      download_link: "documents/Politica-de-genero-diversidad-e-inclusion_24.pdf"
+      download_link: "documents/capsus_inclusion_es.pdf"
       download_info: "Conoce nuestra Política de Género, Diversidad e Inclusión aquí:"
-      download_link2: "documents/ESP_Politica_de_Proveeduria_Diversa.pdf"
+      download_link2: "documents/capsus_supplier_es.pdf"
       download_info2: "Conoce nuestra Política de Proveeduría Diversa aquí:"
       list_item : 
         - list_content : Creemos y trabajamos para la construcción de una sociedad más justa, equitativa y segura. A través de nuestra política de género, diversidad e inclusión, enfocamos nuestras acciones en 3 pilares que promueven la equidad de género, el respeto a la comunidad LGBTQ+ y la prevención de situaciones de acoso, violencia y discriminación en nuestro ambiente empresarial.
