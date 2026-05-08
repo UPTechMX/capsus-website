@@ -7,15 +7,15 @@ who:
   button_item:
     - enable: true
       label: Download brochure
-      link: "documents/Brochure2023-ENG.pdf"
+      link: "documents/capsus_brochure_en.pdf"
   button_item2:
     - enable: true
       label: Download One-pager
-      link: "documents/ENG-One Pager capsus.pdf"
+      link: "documents/capsus_one_pager_en.pdf"
   button_item3:
     - enable: true
       label: Download CV
-      link: "documents/CV-CAPSUS-ENG-2023.pdf"
+      link: "documents/capsus_cv_en.pdf"
   content : "Asesoramos a entes públicos y privados internacionales, analizamos datos espaciales, generamos indicadores de desempeño y desarrollamos herramientas para facilitar la toma de decisiones informadas que incentiven el desarrollo económico, la inclusión social y la conversación del medio ambiente."
   who_item : 
       # feature item loop
@@ -63,9 +63,9 @@ who:
       image_webp : images/who/diversidad-img-08.png
       button: Download GDI policy
       button2: Download SDP
-      download_link: "documents/Gender-diversity-and-inclusion-policy_24.pdf"
+      download_link: "documents/capsus_inclusion_en.pdf"
       download_info: "Learn more about our Gender, Diversity and Inclusion Policy here:"
-      download_link2: "documents/ENG_Supplier_Diversity_Policy.pdf"
+      download_link2: "documents/capsus_supplier_en.pdf"
       download_info2: "Learn more about our Supplier Diversity Policy here:"
       list_item :
         - list_content : We value human development as part of our contribution to build a sustainable, more equitable, and fair society. For that reason, we act under the premise of non-violence, gender equality, and respect for sexual diversity to protect the rights, identity and individuality of the LGBTQ+ community, women and minority groups in our workplace.

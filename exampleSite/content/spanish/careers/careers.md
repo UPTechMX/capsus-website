@@ -11,14 +11,14 @@ jobs:
     diversity_title: ¡Celebramos la diversidad!
     diversity_content: "Creemos que la inclusión y la diversidad social nutren la capacidad de innovación y creatividad, por lo tanto nuestro equipo y aliados son de diversas razas, religiones, géneros, orientación sexual, identidad y expresión de género, edades y más aspectos que conforman la identidad de las personas.\n\nNuestra Política de Género, Diversidad e Inclusión enfoca nuestras acciones en 3 pilares para promover la equidad de género, el respeto a la comunidad LGBTQ+ y la prevención de situaciones de acoso, violencia y discriminación en nuestro ambiente de trabajo."
     diversity_button_title: Descarga Política GDI
-    diversity_document: documents/Politica-de-genero-diversidad-e-inclusion_24.pdf
+    diversity_document: documents/capsus_inclusion_es.pdf
     button_diversity: Descargar política GDI
     button_policy: Descargar PPCD
     button_ethics: Descargar Código de Ética
-    diversity_button: "documents/Politica-de-genero-diversidad-e-inclusion_24.pdf"
+    diversity_button: "documents/capsus_inclusion_es.pdf"
     diversity_info: "Conoce nuestra Política de Género, Diversidad e Inclusión aquí:"
-    policy_button: "documents/Politica de Proveeduria y Consultoria Diversa.pdf"
-    ethics_button: "documents/Codigo de etica 2025.pdf"
+    policy_button: "documents/capsus_supplier_es.pdf"
+    ethics_button: "documents/capsus_ethics_es.pdf"
     policy_info: "Conoce nuestra Política de Proveeduría y Consultoría Diversa:"
     ethics_info: "Conoce nuestro Código de Ética:"
     job_intro_title : SOMOS UN EQUIPO TRANSDISCIPLINARIO
