@@ -19,7 +19,7 @@ contact:
     #  info : "Fax: +880-31-000-000"
       
     - icon : fas fa-envelope # themify icon pack : https://themify.me/themify-icons
-      info : "[ideas@capsus.mx](mailto:ideas@capsus.mx)"
+      info : "[ideas@capsus.us](mailto:ideas@capsus.mx)"
   contact_details_us :
     - icon : fas fa-map-marker-alt # themify icon pack : https://themify.me/themify-icons
       info : "5718 Westheimer Suite 1000\n
