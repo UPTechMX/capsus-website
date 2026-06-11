@@ -183,7 +183,7 @@ enable = true
 preloader = "images/Menu-Logo-Capsus.png"
 
 [[params.social]]
-icon = "fab fa-twitter"
+icon = "ti-twitter-alt"
 link = "https://x.com/capsusmx"
 
 [[params.social]]
