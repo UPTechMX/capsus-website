@@ -173,7 +173,7 @@ link = "plugins/google-map/map.js"
 link = "https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"
 
 [[params.plugins.js]]
-link = "https://kit.fontawesome.com/c3acc1648f.js"
+link = "https://kit.fontawesome.com/a1b22fd9a8.js"
 
 [[params.plugins.js]]
 link = "plugins/materialize/js/materialize.min.js"
